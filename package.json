@@ -1,0 +1,11 @@
+{
+  "name": "eurostock-catalog",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Каталог товаров шоурума EUROSTOCK MOSCOW: Telegram-канал → Mini App",
+  "scripts": {
+    "sync": "node bot/sync.js",
+    "build": "node bot/sync.js --build"
+  },
+  "engines": { "node": ">=20" }
+}
