@@ -1,5 +1,5 @@
 {
- "offset": 789489980,
+ "offset": 789489984,
  "posts": {
   "206": {
    "id": 206,
@@ -3932,7 +3932,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929617355
+   "checkedAt": 1792942298138
   },
   "7384": {
    "id": 7384,
@@ -3957,7 +3957,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929617156
+   "checkedAt": 1792942297929
   },
   "7398": {
    "id": 7398,
@@ -3978,7 +3978,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929616889
+   "checkedAt": 1792942297706
   },
   "7401": {
    "id": 7401,
@@ -4002,7 +4002,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929616691
+   "checkedAt": 1792942297500
   },
   "7404": {
    "id": 7404,
@@ -4026,7 +4026,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929616490
+   "checkedAt": 1792942297310
   },
   "7407": {
    "id": 7407,
@@ -4050,7 +4050,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929616297
+   "checkedAt": 1792942297090
   },
   "7427": {
    "id": 7427,
@@ -4064,7 +4064,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929616096
+   "checkedAt": 1792942296883
   },
   "7433": {
    "id": 7433,
@@ -4088,7 +4088,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929615902
+   "checkedAt": 1792942296729
   },
   "7438": {
    "id": 7438,
@@ -4110,7 +4110,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929615667
+   "checkedAt": 1792942296520
   },
   "7458": {
    "id": 7458,
@@ -4134,7 +4134,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929615324
+   "checkedAt": 1792942296306
   },
   "7465": {
    "id": 7465,
@@ -4148,7 +4148,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929615116
+   "checkedAt": 1792942296059
   },
   "7481": {
    "id": 7481,
@@ -4170,7 +4170,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929614889
+   "checkedAt": 1792942295878
   },
   "7507": {
    "id": 7507,
@@ -4192,7 +4192,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929614688
+   "checkedAt": 1792942295639
   },
   "7542": {
    "id": 7542,
@@ -4214,7 +4214,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929614450
+   "checkedAt": 1792942295440
   },
   "7545": {
    "id": 7545,
@@ -4238,7 +4238,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929614262
+   "checkedAt": 1792942295260
   },
   "7562": {
    "id": 7562,
@@ -4260,7 +4260,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929614062
+   "checkedAt": 1792942295037
   },
   "7565": {
    "id": 7565,
@@ -4285,7 +4285,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929613836
+   "checkedAt": 1792942294859
   },
   "7583": {
    "id": 7583,
@@ -4309,7 +4309,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929613606
+   "checkedAt": 1792942294670
   },
   "7603": {
    "id": 7603,
@@ -4331,7 +4331,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929613405
+   "checkedAt": 1792942294476
   },
   "7620": {
    "id": 7620,
@@ -4355,7 +4355,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929613168
+   "checkedAt": 1792942294272
   },
   "7624": {
    "id": 7624,
@@ -4377,7 +4377,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929612933
+   "checkedAt": 1792942294068
   },
   "7630": {
    "id": 7630,
@@ -4399,7 +4399,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929612709
+   "checkedAt": 1792942293852
   },
   "7634": {
    "id": 7634,
@@ -4417,7 +4417,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929612492
+   "checkedAt": 1792942293613
   },
   "7637": {
    "id": 7637,
@@ -4431,7 +4431,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929612290
+   "checkedAt": 1792942293415
   },
   "7640": {
    "id": 7640,
@@ -4453,7 +4453,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929612124
+   "checkedAt": 1792942293253
   },
   "7646": {
    "id": 7646,
@@ -4475,7 +4475,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929611891
+   "checkedAt": 1792942293030
   },
   "7653": {
    "id": 7653,
@@ -4497,7 +4497,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929611648
+   "checkedAt": 1792942292784
   },
   "7660": {
    "id": 7660,
@@ -4519,7 +4519,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929611414
+   "checkedAt": 1792942292545
   },
   "7665": {
    "id": 7665,
@@ -4541,7 +4541,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929611048
+   "checkedAt": 1792942292325
   },
   "7672": {
    "id": 7672,
@@ -4563,7 +4563,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929610789
+   "checkedAt": 1792942292097
   },
   "7678": {
    "id": 7678,
@@ -4585,7 +4585,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929610561
+   "checkedAt": 1792942291880
   },
   "7688": {
    "id": 7688,
@@ -4607,7 +4607,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929610320
+   "checkedAt": 1792942291689
   },
   "7697": {
    "id": 7697,
@@ -4629,7 +4629,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792929610104
+   "checkedAt": 1792942291491
   },
   "7702": {
    "id": 7702,
@@ -4638,7 +4638,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1792927883686
+   "checkedAt": 1792942291298
   },
   "7704": {
    "id": 7704,
@@ -4660,7 +4660,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792927883512
+   "checkedAt": 1792942291118
   },
   "7707": {
    "id": 7707,
@@ -4682,7 +4682,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792927883256
+   "checkedAt": 1792942290921
   },
   "7750": {
    "id": 7750,
@@ -4704,7 +4704,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792927883064
+   "checkedAt": 1792942290731
   },
   "7755": {
    "id": 7755,
@@ -4722,7 +4722,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792927882870
+   "checkedAt": 1792942290544
   },
   "7758": {
    "id": 7758,
@@ -4736,7 +4736,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792927882610
+   "checkedAt": 1792942290343
   },
   "7761": {
    "id": 7761,
@@ -5833,20 +5833,19 @@
   "8251": {
    "id": 8251,
    "date": "2026-10-14",
-   "text": "Фотоаппарат #SaintLaurent снова ✔️✔️✔️✔️✔️\n\nЧерно-белый фотоаппарат от французского модного дома Saint Laurent и производителя фототехники Lomography\n\nУже заряжен на 37 кадров, а перезаряжать можно любой 35 мм пленкой\n▪️14500₽\n\nВ комплекте пакет бренда 🎁\nКупить — @tatianamoseuro\nMAX - +7 963 994 7535",
+   "text": "Фотоаппарат #SaintLaurent снова ✔️✔️✔️✔️✔️\n\nЧерно-белый фотоаппарат от французского модного дома Saint Laurent и производителя фототехники Lomography\n\nУже заряжен на 37 кадров, а перезаряжать можно любой 35 мм пленкой\n▪️14500₽\nВ комплекте пакет бренда 🎁\n\nПРОДАН❌",
    "struck": [],
    "media": [
     {
      "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgO2reGhDXVX__zIKrvAjy-x5xwnagAAL3JmsbATCASEasUOFQtMPHAQADAgADeQADPQQ",
+     "msg_id": 8251,
      "key": "8251_0"
-    },
-    {
-     "type": "photo",
-     "key": "8251_1"
     }
    ],
-   "source": "web-import",
-   "checkedAt": 1792938665014
+   "group": "14335910927961106",
+   "caption_id": 8251,
+   "checkedAt": 1792942290146
   },
   "8253": {
    "id": 8253,
@@ -6376,6 +6375,22 @@
    ],
    "date": "2026-10-25",
    "caption_id": 8343
+  },
+  "14335910927961106": {
+   "ids": [
+    8251
+   ],
+   "text": "Фотоаппарат #SaintLaurent снова ✔️✔️✔️✔️✔️\n\nЧерно-белый фотоаппарат от французского модного дома Saint Laurent и производителя фототехники Lomography\n\nУже заряжен на 37 кадров, а перезаряжать можно любой 35 мм пленкой\n▪️14500₽\nВ комплекте пакет бренда 🎁\n\nПРОДАН❌",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgO2reGhDXVX__zIKrvAjy-x5xwnagAAL3JmsbATCASEasUOFQtMPHAQADAgADeQADPQQ",
+     "msg_id": 8251
+    }
+   ],
+   "date": "2026-10-14",
+   "caption_id": 8251
   }
  },
  "drafts": {},
