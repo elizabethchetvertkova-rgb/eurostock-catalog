@@ -150,6 +150,33 @@ function setAvailable(id, sizes) {
 const normSize = s => s.toUpperCase().replace(/М/g, 'M').replace(/Х/g, 'X').replace(/С/g, 'S').replace(/Л/g, 'L');
 const parseSizes = str => str.split(/[\s,;/]+/).map(normSize).filter(s => /^(XS|S|M|L|XL|XXL|XXXL|\d{2}(,5)?)$/.test(s));
  
+const draftMarkup = url => ({ inline_keyboard: [[{ text: '🛍 Открыть каталог', url }]] });
+function sendDraft(chatId, draft) {
+  return draft.photo
+    ? api('sendPhoto', { chat_id: chatId, photo: draft.photo, caption: draft.text, reply_markup: draftMarkup(draft.url) })
+    : api('sendMessage', { chat_id: chatId, text: draft.text, reply_markup: draftMarkup(draft.url), disable_web_page_preview: true });
+}
+async function publishDraft(draft, reply) {
+  try {
+    const sent = await sendDraft(CHANNEL, draft);
+    await reply(`Опубликовано в канале (пост #${sent.message_id}). Чтобы пост был всегда сверху — закрепите его: долгое нажатие на пост → Закрепить.`);
+    return true;
+  } catch (e) { await reply(`Не удалось опубликовать: ${e.message}. Проверьте, что у бота есть право «Публикация сообщений» в канале.`); return false; }
+}
+// нажатие кнопок «Опубликовать / Отменить» под предпросмотром
+async function handleCallback(q) {
+  const from = q.from && q.from.id; const chatId = q.message && q.message.chat && q.message.chat.id; const mid = q.message && q.message.message_id;
+  try { await api('answerCallbackQuery', { callback_query_id: q.id }); } catch (e) { /* запрос мог устареть — не страшно */ }
+  if (!ADMIN_IDS.includes(from) || !chatId) return;
+  const m = String(q.data || '').match(/^(pub|drop):(\w+)$/); if (!m) return;
+  const draft = state.drafts && state.drafts[m[2]];
+  const edit = text => api('editMessageText', { chat_id: chatId, message_id: mid, text }).catch(() => api('sendMessage', { chat_id: chatId, text }));
+  if (!draft) { await edit('Этот черновик уже обработан или устарел. Отправьте /post заново.'); return; }
+  if (m[1] === 'drop') { delete state.drafts[m[2]]; changed = true; await edit('❌ Отменено, пост не опубликован.'); return; }
+  const ok = await publishDraft(draft, edit);
+  if (ok) { delete state.drafts[m[2]]; changed = true; }
+}
+ 
 async function handleAdminMessage(msg) {
   const from = msg.from && msg.from.id;
   const reply = text => api('sendMessage', { chat_id: msg.chat.id, text, parse_mode: 'HTML' });
@@ -177,23 +204,23 @@ async function handleAdminMessage(msg) {
   const idm = arg.match(/^(\d+)\s*(.*)$/s); const id = idm ? Number(idm[1]) : null; const rest = idm ? idm[2].trim() : '';
   switch (cmd) {
     case 'start': case 'help':
-      await reply(['Команды каталога:', '/post Текст — опубликовать в канале пост с кнопкой «Открыть каталог» (можно с фото: отправьте фото с подписью /post Текст)', '/url https://… — адрес каталога для кнопки', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или просто перешлите пост из канала с подписью «продано» / «продано M» / «в наличии».'].join('\n'));
+      await reply(['Команды каталога:', '/post Текст — показать предпросмотр поста с кнопкой «Открыть каталог», затем кнопка «Опубликовать» (можно с фото: отправьте фото с подписью /post Текст)', '/postnow Текст — опубликовать сразу, без предпросмотра', '/url https://… — адрес каталога для кнопки', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или просто перешлите пост из канала с подписью «продано» / «продано M» / «в наличии».'].join('\n'));
       break;
     case 'url': {
       if (!/^https:\/\//.test(arg)) return reply('Укажите адрес, начинающийся с https://');
       cur.catalogUrl = arg; changed = true; await reply(`Адрес каталога для кнопок: ${arg}`); break;
     }
-    case 'post': {
+    case 'post': case 'postnow': {
       const url = cur.catalogUrl || defaultCatalogUrl();
       if (!url) return reply('Сначала задайте адрес каталога: /url https://…');
-      const body = arg || 'Все товары в наличии — в нашем каталоге 👇';
-      const markup = { inline_keyboard: [[{ text: '🛍 Открыть каталог', url }]] };
-      try {
-        const sent = msg.photo && msg.photo.length
-          ? await api('sendPhoto', { chat_id: CHANNEL, photo: msg.photo[msg.photo.length - 1].file_id, caption: body, reply_markup: markup })
-          : await api('sendMessage', { chat_id: CHANNEL, text: body, reply_markup: markup, disable_web_page_preview: true });
-        await reply(`Опубликовано в канале (пост #${sent.message_id}). Чтобы пост был всегда сверху — закрепите его в канале: долгое нажатие на пост → Закрепить.`);
-      } catch (e) { await reply(`Не удалось опубликовать: ${e.message}. Проверьте, что у бота есть право «Публикация сообщений» в канале.`); }
+      const draft = { text: arg || 'Все товары в наличии — в нашем каталоге 👇', photo: msg.photo && msg.photo.length ? msg.photo[msg.photo.length - 1].file_id : null, url };
+      if (cmd === 'postnow') { await publishDraft(draft, reply); break; }
+      // предпросмотр: бот присылает пост в точности как он будет выглядеть, и кнопки «Опубликовать / Отменить»
+      state.drafts = state.drafts || {};
+      const draftId = String(Date.now()).slice(-8);
+      state.drafts[draftId] = draft; changed = true;
+      await sendDraft(msg.chat.id, draft);
+      await api('sendMessage', { chat_id: msg.chat.id, text: '☝️ Так будет выглядеть пост в канале. Опубликовать?', reply_markup: { inline_keyboard: [[{ text: '✅ Опубликовать в канал', callback_data: `pub:${draftId}` }, { text: '❌ Отменить', callback_data: `drop:${draftId}` }]] } });
       break;
     }
     case 'sold': if (!id) return reply('Укажите номер поста: /sold 8326 [размеры]'); setSold(id, parseSizes(rest)); await reply(`#${id}: ${rest ? 'проданы размеры ' + parseSizes(rest).join(', ') : 'снят с витрины'}.`); break;
@@ -217,7 +244,7 @@ async function handleAdminMessage(msg) {
 // ---------- основной цикл
 (async () => {
   let updates = [];
-  const pull = offset => api('getUpdates', { offset, timeout: 0, limit: 100, allowed_updates: ['channel_post', 'edited_channel_post', 'message'] });
+  const pull = offset => api('getUpdates', { offset, timeout: 0, limit: 100, allowed_updates: ['channel_post', 'edited_channel_post', 'message', 'callback_query'] });
   if (!BUILD_ONLY) try {
     try {
       updates = await pull(state.offset);
@@ -240,11 +267,27 @@ async function handleAdminMessage(msg) {
       if (u.channel_post && isOurChannel(u.channel_post.chat)) upsertFromMessage(u.channel_post, false);
       else if (u.edited_channel_post && isOurChannel(u.edited_channel_post.chat)) upsertFromMessage(u.edited_channel_post, true);
       else if (u.message && u.message.chat && u.message.chat.type === 'private') await handleAdminMessage(u.message);
+      else if (u.callback_query) await handleCallback(u.callback_query);
     } catch (e) { log.push(`ошибка на update ${u.update_id}: ${e.message}`); }
     state.offset = u.update_id + 1;
   }
  
-  if (!BUILD_ONLY) { await fetchMedia(); await checkDeleted(); }
+  if (!BUILD_ONLY) {
+    await fetchMedia(); await checkDeleted();
+    if (!state.commandsSet) { try { await api('setMyCommands', { commands: [
+      { command: 'post', description: 'Пост в канал с кнопкой «Открыть каталог» (с предпросмотром)' },
+      { command: 'sold', description: 'Продано: /sold 8326 или /sold 8326 M' },
+      { command: 'unsold', description: 'Снова в наличии: /unsold 8326 M' },
+      { command: 'hide', description: 'Скрыть товар: /hide 8326' },
+      { command: 'show', description: 'Вернуть товар: /show 8326' },
+      { command: 'title', description: 'Название: /title 8326 Жакет из замши' },
+      { command: 'men', description: 'В раздел «Мужское»: /men 8326' },
+      { command: 'photo', description: 'Главное фото: /photo 8326 2' },
+      { command: 'status', description: 'Что в каталоге по посту: /status 8326' },
+      { command: 'url', description: 'Адрес каталога для кнопки' },
+      { command: 'help', description: 'Все команды' },
+    ] }); state.commandsSet = true; changed = true; } catch (e) { log.push('setMyCommands: ' + e.message); } }
+  }
  
   // пересборка витрины (всегда — чтобы ручные правки curation.json тоже применялись)
   const posts = Object.values(state.posts).sort((a, b) => a.id - b.id);
