@@ -103,6 +103,29 @@ async function fetchMedia() {
   }
 }
  
+// ---------- удалённые посты
+// Bot API не сообщает об удалении постов, поэтому проверяем сами через публичную веб-версию канала:
+// у удалённого поста страница t.me/<канал>/<id>?embed=1 содержит «Post not found». За один запуск — до 40 постов,
+// сначала давно не проверявшиеся; полный круг по каталогу занимает около часа.
+async function checkDeleted() {
+  const channelName = CHANNEL.replace('@', '');
+  if (!/^[a-z0-9_]+$/i.test(channelName)) return; // канал задан числовым id — публичной страницы нет
+  const hidden = new Set((cur.hidden || []).map(Number));
+  const candidates = Object.values(state.posts).filter(p => /₽/.test(p.text || '')).sort((a, b) => ((a.checkedAt || 0) - (b.checkedAt || 0)) || (b.id - a.id)).slice(0, 40);
+  for (const p of candidates) {
+    try {
+      const r = await fetch(`https://t.me/${channelName}/${p.id}?embed=1&mode=tme`, { headers: { 'user-agent': 'Mozilla/5.0 (catalog-sync)' } });
+      const html = await r.text();
+      if (!r.ok || !/tgme_widget_message/.test(html)) continue; // страница не отдана — не делаем выводов
+      const gone = /tgme_widget_message_error/.test(html) && /Post not found/i.test(html);
+      p.checkedAt = Date.now();
+      if (gone && !p.deleted) { p.deleted = true; hidden.add(p.id); log.push(`пост #${p.id} удалён из канала — снят с витрины`); changed = true; }
+      if (!gone && p.deleted) { p.deleted = false; hidden.delete(p.id); log.push(`пост #${p.id} снова в канале — возвращён`); changed = true; }
+    } catch (e) { /* сеть недоступна — проверим в следующий раз */ }
+  }
+  cur.hidden = [...hidden];
+}
+ 
 // ---------- команды администратора (личные сообщения боту)
 function productOf(id) {
   const p = state.posts[id] || Object.values(state.posts).find(x => (x.media || []).some(m => m.msg_id === id) || x.caption_id === id);
@@ -202,7 +225,7 @@ async function handleAdminMessage(msg) {
     state.offset = u.update_id + 1;
   }
  
-  if (!BUILD_ONLY) await fetchMedia();
+  if (!BUILD_ONLY) { await fetchMedia(); await checkDeleted(); }
  
   // пересборка витрины (всегда — чтобы ручные правки curation.json тоже применялись)
   const posts = Object.values(state.posts).sort((a, b) => a.id - b.id);
@@ -211,4 +234,3 @@ async function handleAdminMessage(msg) {
   save(STATE_FILE, state); save(CURATION_FILE, cur);
   console.log(`updates: ${updates.length}, posts: ${posts.length}, products on site: ${visible.length}${log.length ? '\n' + log.join('\n') : ''}`);
 })();
- 
