@@ -522,14 +522,18 @@ img { max-width: 100%; display: block; }
   
   // Внутри Telegram обычные ссылки (target=_blank) могут не открываться — ведём их через API Mini App:
   // ссылки на t.me (пост в канале, чат с Татьяной) — внутри Telegram, остальные (Яндекс Карты) — во встроенном браузере.
-  // Ссылка t.me → схема tg:// (так ссылку на пост или чат надёжно открывает Telegram на iPhone,
-  // где openTelegramLink из приложения, открытого кнопкой в канале, может молча не сработать)
-  const toTgScheme = url => { try { const u = new URL(url); const [domain, post] = u.pathname.split('/').filter(Boolean); if (!domain) return null; let q = `domain=${domain}`; if (post && /^\d+$/.test(post)) q += `&post=${post}`; u.searchParams.forEach((v, k) => { q += `&${k}=${encodeURIComponent(v)}`; }); return `tg://resolve?${q}`; } catch (e) { return null; } };
+  // Переходы по схеме tg:// встроенный браузер Telegram на iPhone блокирует — поэтому только openTelegramLink.
+  // В новых версиях Telegram openTelegramLink НЕ закрывает Mini App: чат или пост открываются «под» каталогом
+  // и кажется, что ничего не произошло. Поэтому после перехода сворачиваем каталог сами — его всегда можно
+  // открыть снова кнопкой в канале или в меню бота.
   const openTg = url => {
-    const scheme = toTgScheme(url);
-    if (tg && tg.platform === 'ios' && scheme) { location.href = scheme; return; }
-    if (tg && tg.openTelegramLink) { try { tg.openTelegramLink(url); return; } catch (e) {} }
-    if (scheme) { location.href = scheme; return; }
+    if (tg && tg.openTelegramLink) {
+      try {
+        tg.openTelegramLink(url);
+        setTimeout(() => { try { tg.close(); } catch (e) {} }, 350);
+        return;
+      } catch (e) {}
+    }
     window.open(url, '_blank');
   };
   document.addEventListener('click', e => {
