@@ -22,10 +22,22 @@ const defaultCatalogUrl = () => { const r = process.env.GITHUB_REPOSITORY; if (!
 const BUILD_ONLY = process.argv.includes('--build');
 if (!TOKEN && !BUILD_ONLY) { console.error('BOT_TOKEN не задан'); process.exit(1); }
 
-const api = async (method, params = {}) => {
-  const r = await fetch(`https://api.telegram.org/bot${TOKEN}/${method}`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(params) });
-  const j = await r.json();
-  if (!j.ok) throw new Error(`${method}: ${j.description}`);
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const api = async (method, params = {}, attempt = 0) => {
+  let j;
+  try {
+    const r = await fetch(`https://api.telegram.org/bot${TOKEN}/${method}`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(params) });
+    j = await r.json();
+  } catch (e) { // сеть моргнула — пробуем ещё до 3 раз
+    if (attempt < 3) { await sleep(2000 * (attempt + 1)); return api(method, params, attempt + 1); }
+    throw new Error(`${method}: ${e.message}`);
+  }
+  if (!j.ok) {
+    // 409 Conflict: предыдущий запуск ещё держит getUpdates (например, ручной запуск сразу после планового) — подождать и повторить
+    const retryable = j.error_code === 409 && !/webhook is active/i.test(j.description || '') || j.error_code === 429 || j.error_code >= 500;
+    if (retryable && attempt < 4) { const wait = (j.parameters && j.parameters.retry_after ? j.parameters.retry_after * 1000 : 5000 * (attempt + 1)); await sleep(wait); return api(method, params, attempt + 1); }
+    throw new Error(`${method}: ${j.description}`);
+  }
   return j.result;
 };
 const download = async (fileId, dest) => {
@@ -304,7 +316,13 @@ async function handleAdminMessage(msg) {
       const more = await pull(updates[updates.length - 1].update_id + 1);
       if (!more.length) break; updates = updates.concat(more);
     }
-  } catch (e) { console.error(e.message); process.exit(1); }
+  } catch (e) {
+    // Telegram недоступен даже после повторов (сетевой сбой на стороне GitHub) — не роняем запуск,
+    // просто пропускаем приём обновлений: offset не сдвигается, всё заберём в следующий раз
+    console.error(`Telegram недоступен, пропускаем приём обновлений: ${e.message}`);
+    log.push(`Telegram недоступен: ${e.message}`);
+    updates = [];
+  }
 
   for (const u of updates) {
     try {
