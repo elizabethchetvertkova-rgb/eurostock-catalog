@@ -2,12 +2,12 @@
 // Синхронизация канала → каталог.
 // Запускается по расписанию (GitHub Actions) или вручную: node bot/sync.js
 // Переменные окружения: BOT_TOKEN (обязательно), ADMIN_IDS (id через запятую), CHANNEL (@username или id канала)
-
+ 
 const fs = require('fs');
 const path = require('path');
 const { parsePost, struckFromEntities } = require('../lib/parser');
 const { buildProducts, buildSite } = require('../lib/build');
-
+ 
 const ROOT = path.join(__dirname, '..');
 const DOCS = path.join(ROOT, 'docs');
 const STATE_FILE = path.join(ROOT, 'data', 'state.json');
@@ -16,10 +16,10 @@ const TOKEN = process.env.BOT_TOKEN;
 const CHANNEL = (process.env.CHANNEL || '@eurostockmoscowshop').toLowerCase();
 const ADMIN_IDS = (process.env.ADMIN_IDS || '').split(/[,\s]+/).filter(Boolean).map(Number);
 const MAX_VIDEO_BYTES = 20 * 1024 * 1024; // лимит Bot API на скачивание
-
+ 
 const BUILD_ONLY = process.argv.includes('--build');
 if (!TOKEN && !BUILD_ONLY) { console.error('BOT_TOKEN не задан'); process.exit(1); }
-
+ 
 const api = async (method, params = {}) => {
   const r = await fetch(`https://api.telegram.org/bot${TOKEN}/${method}`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(params) });
   const j = await r.json();
@@ -38,13 +38,13 @@ const download = async (fileId, dest) => {
 const load = (f, d) => fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : d;
 const save = (f, v) => fs.writeFileSync(f, JSON.stringify(v, null, 1));
 const isOurChannel = chat => chat && (String(chat.username || '').toLowerCase() === CHANNEL.replace('@', '') || String(chat.id) === CHANNEL);
-
+ 
 // ---------- состояние
 const state = load(STATE_FILE, { offset: 0, posts: {}, groups: {} });
 const cur = load(CURATION_FILE, {});
 const log = [];
 let changed = false;
-
+ 
 function postFromMessage(msg) {
   // channel_post → запись о посте (текст, зачёркнутое, медиа). Альбомы собираются по media_group_id.
   const text = msg.caption || msg.text || '';
@@ -55,7 +55,7 @@ function postFromMessage(msg) {
   if (msg.document && /^image\//.test(msg.document.mime_type || '')) media.push({ type: 'photo', file_id: msg.document.file_id, msg_id: msg.message_id });
   return { text, struck: struckFromEntities(text, entities), media, date: new Date(msg.date * 1000).toISOString().slice(0, 10) };
 }
-
+ 
 function upsertFromMessage(msg, edited) {
   const part = postFromMessage(msg);
   let id = msg.message_id;
@@ -83,7 +83,7 @@ function upsertFromMessage(msg, edited) {
   log.push(`${edited ? 'правка' : 'пост'} #${id}: ${part.text.split('\n')[0].slice(0, 50)}`);
   return id;
 }
-
+ 
 async function fetchMedia() {
   // скачиваем недостающие файлы (оригинальное качество из Telegram)
   for (const p of Object.values(state.posts)) {
@@ -102,7 +102,7 @@ async function fetchMedia() {
     }
   }
 }
-
+ 
 // ---------- команды администратора (личные сообщения боту)
 function productOf(id) {
   const p = state.posts[id] || Object.values(state.posts).find(x => (x.media || []).some(m => m.msg_id === id) || x.caption_id === id);
@@ -124,7 +124,7 @@ function setAvailable(id, sizes) {
 }
 const normSize = s => s.toUpperCase().replace(/М/g, 'M').replace(/Х/g, 'X').replace(/С/g, 'S').replace(/Л/g, 'L');
 const parseSizes = str => str.split(/[\s,;/]+/).map(normSize).filter(s => /^(XS|S|M|L|XL|XXL|XXXL|\d{2}(,5)?)$/.test(s));
-
+ 
 async function handleAdminMessage(msg) {
   const from = msg.from && msg.from.id;
   const reply = text => api('sendMessage', { chat_id: msg.chat.id, text, parse_mode: 'HTML' });
@@ -171,19 +171,28 @@ async function handleAdminMessage(msg) {
     default: await reply('Неизвестная команда. /help');
   }
 }
-
+ 
 // ---------- основной цикл
 (async () => {
   let updates = [];
+  const pull = offset => api('getUpdates', { offset, timeout: 0, limit: 100, allowed_updates: ['channel_post', 'edited_channel_post', 'message'] });
   if (!BUILD_ONLY) try {
-    updates = await api('getUpdates', { offset: state.offset, timeout: 0, limit: 100, allowed_updates: ['channel_post', 'edited_channel_post', 'message'] });
+    try {
+      updates = await pull(state.offset);
+    } catch (e) {
+      if (!/webhook is active/i.test(e.message)) throw e;
+      // на боте включён webhook (остался от другого сервиса) — getUpdates с ним несовместим; снимаем и повторяем
+      await api('deleteWebhook', { drop_pending_updates: false });
+      log.push('снят webhook, который мешал getUpdates');
+      updates = await pull(state.offset);
+    }
     // забираем всё, что накопилось (по 100 за раз)
     while (updates.length === 100) {
-      const more = await api('getUpdates', { offset: updates[updates.length - 1].update_id + 1, timeout: 0, limit: 100, allowed_updates: ['channel_post', 'edited_channel_post', 'message'] });
+      const more = await pull(updates[updates.length - 1].update_id + 1);
       if (!more.length) break; updates = updates.concat(more);
     }
   } catch (e) { console.error(e.message); process.exit(1); }
-
+ 
   for (const u of updates) {
     try {
       if (u.channel_post && isOurChannel(u.channel_post.chat)) upsertFromMessage(u.channel_post, false);
@@ -192,9 +201,9 @@ async function handleAdminMessage(msg) {
     } catch (e) { log.push(`ошибка на update ${u.update_id}: ${e.message}`); }
     state.offset = u.update_id + 1;
   }
-
+ 
   if (!BUILD_ONLY) await fetchMedia();
-
+ 
   // пересборка витрины (всегда — чтобы ручные правки curation.json тоже применялись)
   const posts = Object.values(state.posts).sort((a, b) => a.id - b.id);
   const items = buildProducts(posts, cur, DOCS);
@@ -202,3 +211,4 @@ async function handleAdminMessage(msg) {
   save(STATE_FILE, state); save(CURATION_FILE, cur);
   console.log(`updates: ${updates.length}, posts: ${posts.length}, products on site: ${visible.length}${log.length ? '\n' + log.join('\n') : ''}`);
 })();
+ 
