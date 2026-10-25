@@ -16,6 +16,8 @@ const TOKEN = process.env.BOT_TOKEN;
 const CHANNEL = (process.env.CHANNEL || '@eurostockmoscowshop').toLowerCase();
 const ADMIN_IDS = (process.env.ADMIN_IDS || '').split(/[,\s]+/).filter(Boolean).map(Number);
 const MAX_VIDEO_BYTES = 20 * 1024 * 1024; // лимит Bot API на скачивание
+// адрес каталога для кнопок: curation.catalogUrl (команда /url), иначе адрес GitHub Pages этого репозитория
+const defaultCatalogUrl = () => { const r = process.env.GITHUB_REPOSITORY; if (!r) return null; const [o, n] = r.split('/'); return `https://${o.toLowerCase()}.github.io/${n}/`; };
  
 const BUILD_ONLY = process.argv.includes('--build');
 if (!TOKEN && !BUILD_ONLY) { console.error('BOT_TOKEN не задан'); process.exit(1); }
@@ -175,8 +177,25 @@ async function handleAdminMessage(msg) {
   const idm = arg.match(/^(\d+)\s*(.*)$/s); const id = idm ? Number(idm[1]) : null; const rest = idm ? idm[2].trim() : '';
   switch (cmd) {
     case 'start': case 'help':
-      await reply(['Команды каталога:', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или просто перешлите пост из канала с подписью «продано» / «продано M» / «в наличии».'].join('\n'));
+      await reply(['Команды каталога:', '/post Текст — опубликовать в канале пост с кнопкой «Открыть каталог» (можно с фото: отправьте фото с подписью /post Текст)', '/url https://… — адрес каталога для кнопки', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или просто перешлите пост из канала с подписью «продано» / «продано M» / «в наличии».'].join('\n'));
       break;
+    case 'url': {
+      if (!/^https:\/\//.test(arg)) return reply('Укажите адрес, начинающийся с https://');
+      cur.catalogUrl = arg; changed = true; await reply(`Адрес каталога для кнопок: ${arg}`); break;
+    }
+    case 'post': {
+      const url = cur.catalogUrl || defaultCatalogUrl();
+      if (!url) return reply('Сначала задайте адрес каталога: /url https://…');
+      const body = arg || 'Все товары в наличии — в нашем каталоге 👇';
+      const markup = { inline_keyboard: [[{ text: '🛍 Открыть каталог', url }]] };
+      try {
+        const sent = msg.photo && msg.photo.length
+          ? await api('sendPhoto', { chat_id: CHANNEL, photo: msg.photo[msg.photo.length - 1].file_id, caption: body, reply_markup: markup })
+          : await api('sendMessage', { chat_id: CHANNEL, text: body, reply_markup: markup, disable_web_page_preview: true });
+        await reply(`Опубликовано в канале (пост #${sent.message_id}). Чтобы пост был всегда сверху — закрепите его в канале: долгое нажатие на пост → Закрепить.`);
+      } catch (e) { await reply(`Не удалось опубликовать: ${e.message}. Проверьте, что у бота есть право «Публикация сообщений» в канале.`); }
+      break;
+    }
     case 'sold': if (!id) return reply('Укажите номер поста: /sold 8326 [размеры]'); setSold(id, parseSizes(rest)); await reply(`#${id}: ${rest ? 'проданы размеры ' + parseSizes(rest).join(', ') : 'снят с витрины'}.`); break;
     case 'unsold': case 'show': if (!id) return reply('Укажите номер поста'); setAvailable(id, parseSizes(rest)); await reply(`#${id}: снова в наличии${rest ? ' (' + parseSizes(rest).join(', ') + ')' : ''}.`); break;
     case 'hide': if (!id) return reply('Укажите номер поста'); cur.hidden = [...new Set([...(cur.hidden || []), id])]; changed = true; await reply(`#${id}: скрыт.`); break;
