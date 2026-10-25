@@ -130,9 +130,15 @@ async function checkDeleted() {
 
 // ---------- команды администратора (личные сообщения боту)
 function productOf(id) {
-  const p = state.posts[id] || Object.values(state.posts).find(x => (x.media || []).some(m => m.msg_id === id) || x.caption_id === id);
+  id = Number(id);
+  let p = state.posts[id] || Object.values(state.posts).find(x => (x.media || []).some(m => m.msg_id === id) || x.caption_id === id);
+  if (!p) { // сообщение из альбома исторического поста: номера идут подряд, альбом не длиннее 10 сообщений
+    const cand = Object.values(state.posts).filter(x => x.id < id && id - x.id < 10 && (x.media || []).length >= id - x.id).sort((a, b) => b.id - a.id)[0];
+    if (cand) p = cand;
+  }
   return p || null;
 }
+const handledGroups = new Set();
 function setSold(id, sizes) {
   cur.sold = cur.sold || {};
   if (!sizes || !sizes.length) cur.sold[id] = 'all';
@@ -195,27 +201,42 @@ async function handleAdminMessage(msg) {
   }
   const text = (msg.text || msg.caption || '').trim();
   // пересланный пост из канала: «продано», «продано M», «в наличии», «в наличии M»
+  // Пересланный пост из канала: сам пост приходит со своим исходным текстом (это не подпись админа),
+  // поэтому запоминаем товар и ждём следующим сообщением, что с ним сделать.
   const fwd = msg.forward_origin && msg.forward_origin.type === 'channel' ? msg.forward_origin : null;
   if (fwd && isOurChannel(fwd.chat)) {
-    const id = fwd.message_id; const p = productOf(id);
-    if (!p) { await reply(`Пост #${id} в каталоге не найден.`); return; }
-    const low = text.toLowerCase();
-    if (!text || /продан/.test(low)) { const sizes = parseSizes(text.replace(/продан[оа]?/i, '')); setSold(p.id, sizes); await reply(`#${p.id}: ${sizes.length ? 'размер ' + sizes.join(', ') + ' продан' : 'снят с витрины (продано)'}.`); }
+    const p = productOf(fwd.message_id);
+    if (msg.media_group_id) { if (handledGroups.has(msg.media_group_id)) return; handledGroups.add(msg.media_group_id); }
+    if (!p) { await reply(`Пост #${fwd.message_id} в каталоге не найден (возможно, это не товар или он уже скрыт).`); return; }
+    state.lastForward = { chat: msg.chat.id, id: p.id, at: Date.now() }; changed = true;
+    const it = parsePost(p);
+    await reply(`Пост #${p.id}: ${it ? it.brand + ' — ' + it.title + ', ' + it.price + '₽' : ''}\nЧто сделать? Ответьте одним сообщением:\n• продано — снять с витрины\n• продано M L — проданы размеры\n• в наличии / в наличии M — вернуть\n• мужское — в раздел «Мужское»\n• фото 2 — сделать обложкой второе фото\n• любой другой текст — новое название`);
+    return;
+  }
+  // Ответ на недавно пересланный пост (в течение часа)
+  const lf = state.lastForward;
+  if (lf && lf.chat === msg.chat.id && Date.now() - lf.at < 60 * 60 * 1000 && text && !text.startsWith('/') && !/^(да|нет|опубликовать|публикуй|отмена|отменить)$/i.test(text)) {
+    const p = productOf(lf.id); const low = text.toLowerCase();
+    delete state.lastForward; changed = true;
+    if (!p) { await reply(`Пост #${lf.id} больше не найден.`); return; }
+    if (/продан/.test(low)) { const sizes = parseSizes(text.replace(/продан[оа]?/i, '')); setSold(p.id, sizes); await reply(`#${p.id}: ${sizes.length ? 'размер ' + sizes.join(', ') + ' продан' : 'снят с витрины (продано)'}.`); }
     else if (/налич/.test(low)) { const sizes = parseSizes(text.replace(/в наличии/i, '')); setAvailable(p.id, sizes); await reply(`#${p.id}: ${sizes.length ? 'размер ' + sizes.join(', ') + ' снова в наличии' : 'снова на витрине'}.`); }
     else if (/^муж/.test(low)) { cur.gender = cur.gender || {}; cur.gender[p.id] = 'male'; changed = true; await reply(`#${p.id}: перенесён в «Мужское».`); }
+    else if (/^жен/.test(low)) { cur.gender = cur.gender || {}; delete cur.gender[p.id]; changed = true; await reply(`#${p.id}: в женском каталоге.`); }
     else if (/^фото\s*\d/.test(low)) { cur.mainImage = cur.mainImage || {}; cur.mainImage[p.id] = parseInt(low.replace(/\D/g, ''), 10) - 1; changed = true; await reply(`#${p.id}: главное фото — №${parseInt(low.replace(/\D/g, ''), 10)}.`); }
-    else { cur.title = cur.title || {}; cur.title[p.id] = text; changed = true; await reply(`#${p.id}: название → «${text}».`); }
+    else if (/^(скрыть|убрать)$/.test(low)) { cur.hidden = [...new Set([...(cur.hidden || []), p.id])]; changed = true; await reply(`#${p.id}: скрыт.`); }
+    else { cur.title = cur.title || {}; cur.title[p.id] = text.slice(0, 80); changed = true; await reply(`#${p.id}: название → «${text.slice(0, 80)}».`); }
     return;
   }
   if (/^(да|опубликовать|публикуй)$/i.test(text)) { await publishLatestDraft(msg.chat.id, reply, false); return; }
   if (/^(нет|отмена|отменить)$/i.test(text)) { await publishLatestDraft(msg.chat.id, reply, true); return; }
   const m = text.match(/^\/(\w+)(?:@\w+)?\s*(.*)$/s);
-  if (!m) { await reply('Перешлите пост из канала с подписью «продано», «продано M», «в наличии», «мужское», «фото 2» или новым названием. Команды: /help'); return; }
+  if (!m) { await reply('Перешлите пост из канала, а следующим сообщением — что сделать: «продано», «продано M», «в наличии», «мужское», «фото 2» или новое название. Команды: /help'); return; }
   const [, cmd, argRaw] = m; const arg = argRaw.trim();
   const idm = arg.match(/^(\d+)\s*(.*)$/s); const id = idm ? Number(idm[1]) : null; const rest = idm ? idm[2].trim() : '';
   switch (cmd) {
     case 'start': case 'help':
-      await reply(['Команды каталога:', '/post Текст — показать предпросмотр поста с кнопкой «Открыть каталог», затем кнопка «Опубликовать» (можно с фото: отправьте фото с подписью /post Текст)', '/postnow Текст — опубликовать сразу, без предпросмотра', '/publish или «да» — опубликовать последний предпросмотр, /cancel или «нет» — отменить', '/url https://… — адрес каталога для кнопки', '/button Каталог — текст кнопки под постом', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или просто перешлите пост из канала с подписью «продано» / «продано M» / «в наличии».'].join('\n'));
+      await reply(['Команды каталога:', '/post Текст — показать предпросмотр поста с кнопкой «Открыть каталог», затем кнопка «Опубликовать» (можно с фото: отправьте фото с подписью /post Текст)', '/postnow Текст — опубликовать сразу, без предпросмотра', '/publish или «да» — опубликовать последний предпросмотр, /cancel или «нет» — отменить', '/url https://… — адрес каталога для кнопки', '/button Каталог — текст кнопки под постом', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или перешлите пост из канала, а следующим сообщением напишите: продано / продано M / в наличии / мужское / фото 2 / новое название.'].join('\n'));
       break;
     case 'button': {
       if (!arg) return reply(`Сейчас текст кнопки: «${cur.buttonText || '🛍 Открыть каталог'}». Чтобы изменить: /button Каталог (можно с эмодзи: /button 🛍 Каталог)`);
@@ -244,7 +265,12 @@ async function handleAdminMessage(msg) {
     case 'sold': if (!id) return reply('Укажите номер поста: /sold 8326 [размеры]'); setSold(id, parseSizes(rest)); await reply(`#${id}: ${rest ? 'проданы размеры ' + parseSizes(rest).join(', ') : 'снят с витрины'}.`); break;
     case 'unsold': case 'show': if (!id) return reply('Укажите номер поста'); setAvailable(id, parseSizes(rest)); await reply(`#${id}: снова в наличии${rest ? ' (' + parseSizes(rest).join(', ') + ')' : ''}.`); break;
     case 'hide': if (!id) return reply('Укажите номер поста'); cur.hidden = [...new Set([...(cur.hidden || []), id])]; changed = true; await reply(`#${id}: скрыт.`); break;
-    case 'title': if (!id || !rest) return reply('/title 8326 Новое название'); cur.title = cur.title || {}; cur.title[id] = rest; changed = true; await reply(`#${id}: название → «${rest}».`); break;
+    case 'title': {
+      if (!id) return reply('/title 8326 Новое название (без текста — вернуть название из поста)');
+      cur.title = cur.title || {};
+      if (!rest) { delete cur.title[id]; changed = true; const p = productOf(id); const it = p && parsePost(p); return reply(`#${id}: название из поста${it ? ' — «' + it.title + '»' : ''}.`); }
+      cur.title[id] = rest; changed = true; await reply(`#${id}: название → «${rest}».`); break;
+    }
     case 'men': if (!id) return reply('Укажите номер поста'); cur.gender = cur.gender || {}; cur.gender[id] = 'male'; changed = true; await reply(`#${id}: в «Мужское».`); break;
     case 'women': if (!id) return reply('Укажите номер поста'); cur.gender = cur.gender || {}; delete cur.gender[id]; changed = true; await reply(`#${id}: в женском каталоге.`); break;
     case 'photo': if (!id || !rest) return reply('/photo 8326 2'); cur.mainImage = cur.mainImage || {}; cur.mainImage[id] = parseInt(rest, 10) - 1; changed = true; await reply(`#${id}: главное фото №${rest}.`); break;
