@@ -438,7 +438,7 @@ img { max-width: 100%; display: block; }
       </div>`, true);
     const gal = $('gal'), dots = $('dots');
     if (dots) gal.addEventListener('scroll', () => { const i = Math.round(gal.scrollLeft / gal.clientWidth); [...dots.children].forEach((d, k) => d.classList.toggle('on', k === i)); }, { passive: true });
-    if (tg && tg.openTelegramLink) { $('bookBtn').addEventListener('click', e => { e.preventDefault(); tg.openTelegramLink(tgLink(msg)); }); $('buyBtn').addEventListener('click', e => { e.preventDefault(); tg.openTelegramLink(tgLink(msgBuy)); }); }
+
     try { history.replaceState(null, '', '#p' + p.id); } catch (e) {}
   }
 
@@ -504,9 +504,8 @@ img { max-width: 100%; display: block; }
   }
   document.querySelector('.tabbar').addEventListener('click', e => { const t = e.target.closest('.tab'); if (t) { setView(t.dataset.view); haptic(); } });
   $('view-favs').addEventListener('click', e => { const f = e.target.closest('[data-fav]'); if (f) { toggleFav(+f.dataset.fav); return; } const r = e.target.closest('.favrow'); if (r) openProduct(+r.dataset.id); });
-  $('favSend').addEventListener('click', e => { if (tg && tg.openTelegramLink) { e.preventDefault(); tg.openTelegramLink($('favSend').href); } });
-  $('favBuy').addEventListener('click', e => { if (tg && tg.openTelegramLink) { e.preventDefault(); tg.openTelegramLink($('favBuy').href); } });
-  $('aboutBook').addEventListener('click', e => { if (tg && tg.openTelegramLink) { e.preventDefault(); tg.openTelegramLink($('aboutBook').href); } });
+
+
 
   grid.addEventListener('click', e => {
     const f = e.target.closest('[data-fav]'); if (f) { e.stopPropagation(); toggleFav(+f.dataset.fav); return; }
@@ -520,7 +519,27 @@ img { max-width: 100%; display: block; }
   $('heroClose').addEventListener('click', () => { $('hero').hidden = true; store.set('heroHidden', true); });
   if (store.get('heroHidden', false)) $('hero').hidden = true;
   document.querySelectorAll('[data-goto]').forEach(b => b.addEventListener('click', () => setView(b.dataset.goto)));
-  document.querySelectorAll('a[data-tg]').forEach(a => a.addEventListener('click', e => { if (tg && tg.openTelegramLink) { e.preventDefault(); tg.openTelegramLink(a.href); } }));
+  
+  // Внутри Telegram обычные ссылки (target=_blank) могут не открываться — ведём их через API Mini App:
+  // ссылки на t.me (пост в канале, чат с Татьяной) — внутри Telegram, остальные (Яндекс Карты) — во встроенном браузере.
+  // Ссылка t.me → схема tg:// (так ссылку на пост или чат надёжно открывает Telegram на iPhone,
+  // где openTelegramLink из приложения, открытого кнопкой в канале, может молча не сработать)
+  const toTgScheme = url => { try { const u = new URL(url); const [domain, post] = u.pathname.split('/').filter(Boolean); if (!domain) return null; let q = `domain=${domain}`; if (post && /^\d+$/.test(post)) q += `&post=${post}`; u.searchParams.forEach((v, k) => { q += `&${k}=${encodeURIComponent(v)}`; }); return `tg://resolve?${q}`; } catch (e) { return null; } };
+  const openTg = url => {
+    const scheme = toTgScheme(url);
+    if (tg && tg.platform === 'ios' && scheme) { location.href = scheme; return; }
+    if (tg && tg.openTelegramLink) { try { tg.openTelegramLink(url); return; } catch (e) {} }
+    if (scheme) { location.href = scheme; return; }
+    window.open(url, '_blank');
+  };
+  document.addEventListener('click', e => {
+    if (!tg || e.defaultPrevented) return;
+    const a = e.target.closest('a[href^="http"]'); if (!a) return;
+    e.preventDefault();
+    if (/^https:\/\/t\.me\//.test(a.href)) openTg(a.href);
+    else if (tg.openLink) tg.openLink(a.href, { try_instant_view: false });
+    else window.open(a.href, '_blank');
+  });
   $('sortBtn').addEventListener('click', () => { state.sort = { new: 'asc', asc: 'desc', desc: 'new' }[state.sort]; render(); });
 
   let toastT; function toast(m) { const t = $('toast'); t.textContent = m; t.classList.add('show'); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove('show'), 1600); }
