@@ -74,6 +74,29 @@ function upsertFromMessage(msg, edited) {
   const part = postFromMessage(msg);
   let id = msg.message_id;
   if (msg.media_group_id) {
+    // Старый пост-альбом, загруженный из истории канала: бот его сообщений не видел, поэтому группа ему неизвестна.
+    // Находим такой пост по номеру сообщения (альбом = подряд идущие номера начиная с id поста)
+    // и только обновляем текст, не трогая список фото.
+    if (!state.groups[msg.media_group_id]) {
+      const h = Object.values(state.posts)
+        .filter(x => x.id <= msg.message_id && msg.message_id - x.id < 10 && (x.source === 'web-import' || (x.media || []).length > msg.message_id - x.id) && (!x.group || x.group === msg.media_group_id))
+        .sort((a, b) => b.id - a.id)[0]; // ближайший пост снизу по номеру
+      if (h) state.groups[msg.media_group_id] = { ids: [h.id], historical: h.id, date: h.date };
+    }
+    const g0 = state.groups[msg.media_group_id];
+    if (g0 && g0.historical) {
+      const h = state.posts[g0.historical];
+      if (h) {
+        if (!g0.ids.includes(msg.message_id)) g0.ids.push(msg.message_id);
+        h.group = msg.media_group_id;
+        if (part.text) { h.text = part.text; h.struck = part.struck; h.caption_id = msg.message_id; }
+        // видео из истории не загружалось — если правка пришла по сообщению с видео, добавим его
+        for (const m of part.media) if (m.type === 'video' && !(h.media || []).some(x => x.msg_id === m.msg_id)) { h.media = h.media || []; h.media.push({ ...m, key: `${h.id}_${msg.message_id - h.id}` }); }
+        changed = true;
+        log.push(`${edited ? 'правка' : 'пост'} #${h.id}: ${(part.text || h.text || '').split('\n')[0].slice(0, 50)}`);
+        return h.id;
+      }
+    }
     const g = state.groups[msg.media_group_id] || { ids: [], text: '', struck: [], media: [], date: part.date };
     if (!g.ids.includes(msg.message_id)) g.ids.push(msg.message_id);
     if (part.text) { g.text = part.text; g.struck = part.struck; g.caption_id = msg.message_id; }
