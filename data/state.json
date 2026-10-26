@@ -1,5 +1,5 @@
 {
- "offset": 789489994,
+ "offset": 789490004,
  "posts": {
   "206": {
    "id": 206,
@@ -160,26 +160,21 @@
   "573": {
    "id": 573,
    "date": "2025-04-20",
-   "text": "🤍🤍🤍🤍🤍🤍 🤍🤍🤍🤍\n\n✔️✔️✔️✔️✔️\n\nЖакет приталенный #Zara\nРазмеры: XS, S\n◾️10000₽ вместо 15900₽\n\nЗаписаться на примерку",
+   "text": "🤍🤍🤍🤍🤍🤍 🤍🤍🤍🤍\n\n✔️✔️✔️✔️✔️\n\nЖакет приталенный #Zara \nРазмеры: XS, S\n◾️10000₽ вместо 15900₽\nПРОДАНО❌\n\nЗаписаться на примерку",
    "struck": [
     "15900₽"
    ],
    "media": [
     {
      "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAICPWrfYwRQPcxJYiTSs9-KFwb8GK7qAAJB-jEbPasoSEY91__wONupAQADAgADeQADPQQ",
+     "msg_id": 573,
      "key": "573_0"
-    },
-    {
-     "type": "photo",
-     "key": "573_1"
-    },
-    {
-     "type": "photo",
-     "key": "573_2"
     }
    ],
-   "source": "web-import",
-   "checkedAt": 1793015077912
+   "group": "13961443997483026",
+   "caption_id": 573,
+   "checkedAt": 1793029131459
   },
   "948": {
    "id": 948,
@@ -683,24 +678,18 @@
   "3569": {
    "id": 3569,
    "date": "2026-01-29",
-   "text": "🤍🤍🤍🤍🤍🤍 🤍🤍🤍🤍  ✔️✔️✔️✔️✔️  Жакет приталенный #Zara  Размеры: XS, S ◾️10000₽ вместо 15900₽  Записаться на примерку",
+   "text": "Роскошный жакет #Zara ✔️✔️✔️✔️✔️\n\nЕще и со СКИДКОЙ! 🔥🔥🔥\nВсего два размера - XS, S\n\nПРОДАН ❌",
    "struck": [],
    "media": [
     {
      "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIN8WrfcvTBSwW0QOlciseKbB7CuM5zAAJ4E2sbO03ZS9G-jzSW3VO_AQADAgADeQADPQQ",
+     "msg_id": 3569,
      "key": "3569_0"
-    },
-    {
-     "type": "photo",
-     "key": "3569_1"
-    },
-    {
-     "type": "photo",
-     "key": "3569_2"
     }
    ],
-   "source": "web-import",
-   "checkedAt": 1793012420992
+   "group": "14157741060014690",
+   "caption_id": 3569
   },
   "3601": {
    "id": 3601,
@@ -3883,7 +3872,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002439656
+   "checkedAt": 1793029141558
   },
   "7374": {
    "id": 7374,
@@ -3908,7 +3897,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002439365
+   "checkedAt": 1793029141272
   },
   "7379": {
    "id": 7379,
@@ -3932,7 +3921,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002439121
+   "checkedAt": 1793029141025
   },
   "7384": {
    "id": 7384,
@@ -3957,7 +3946,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002438842
+   "checkedAt": 1793029140673
   },
   "7398": {
    "id": 7398,
@@ -3978,7 +3967,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002438548
+   "checkedAt": 1793029140387
   },
   "7401": {
    "id": 7401,
@@ -4002,7 +3991,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002438325
+   "checkedAt": 1793029140129
   },
   "7404": {
    "id": 7404,
@@ -4026,7 +4015,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002438109
+   "checkedAt": 1793029139871
   },
   "7407": {
    "id": 7407,
@@ -4050,7 +4039,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002437896
+   "checkedAt": 1793029139622
   },
   "7427": {
    "id": 7427,
@@ -4064,7 +4053,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002437683
+   "checkedAt": 1793029139335
   },
   "7433": {
    "id": 7433,
@@ -4088,7 +4077,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002437501
+   "checkedAt": 1793029139105
   },
   "7438": {
    "id": 7438,
@@ -4110,7 +4099,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002437279
+   "checkedAt": 1793029138816
   },
   "7458": {
    "id": 7458,
@@ -4134,7 +4123,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002437013
+   "checkedAt": 1793029138528
   },
   "7465": {
    "id": 7465,
@@ -4148,7 +4137,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002436772
+   "checkedAt": 1793029138258
   },
   "7481": {
    "id": 7481,
@@ -4170,7 +4159,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002436568
+   "checkedAt": 1793029138006
   },
   "7507": {
    "id": 7507,
@@ -4192,7 +4181,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002436188
+   "checkedAt": 1793029137722
   },
   "7542": {
    "id": 7542,
@@ -4214,7 +4203,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002435970
+   "checkedAt": 1793029137425
   },
   "7545": {
    "id": 7545,
@@ -4238,7 +4227,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002435766
+   "checkedAt": 1793029137175
   },
   "7562": {
    "id": 7562,
@@ -4260,7 +4249,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002435551
+   "checkedAt": 1793029136915
   },
   "7565": {
    "id": 7565,
@@ -4285,7 +4274,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002435317
+   "checkedAt": 1793029136661
   },
   "7583": {
    "id": 7583,
@@ -4309,7 +4298,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002435099
+   "checkedAt": 1793029136413
   },
   "7603": {
    "id": 7603,
@@ -4331,7 +4320,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002434827
+   "checkedAt": 1793029136151
   },
   "7620": {
    "id": 7620,
@@ -4355,7 +4344,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002434613
+   "checkedAt": 1793029135879
   },
   "7624": {
    "id": 7624,
@@ -4377,7 +4366,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002434401
+   "checkedAt": 1793029135629
   },
   "7630": {
    "id": 7630,
@@ -4399,7 +4388,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002434176
+   "checkedAt": 1793029135331
   },
   "7634": {
    "id": 7634,
@@ -4417,7 +4406,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002433941
+   "checkedAt": 1793029135067
   },
   "7637": {
    "id": 7637,
@@ -4431,7 +4420,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002433663
+   "checkedAt": 1793029134794
   },
   "7640": {
    "id": 7640,
@@ -4453,7 +4442,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002433466
+   "checkedAt": 1793029134546
   },
   "7646": {
    "id": 7646,
@@ -4475,7 +4464,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002433253
+   "checkedAt": 1793029134284
   },
   "7653": {
    "id": 7653,
@@ -4497,29 +4486,26 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002432920
+   "checkedAt": 1793029134001
   },
   "7660": {
    "id": 7660,
    "date": "2026-08-31",
-   "text": "Кардиган #MassimoDutti\n✔️✔️✔️✔️✔️💔\n\nРазмер: М\nШерсть 80%, альпака 20%\n▪️9500₽\n\nЗаписаться на примерку",
+   "text": "Кардиган #MassimoDutti \n✔️✔️✔️✔️✔️💔\n\nРазмер: М\nШерсть 80%, альпака 20%\n▪️9500₽\n\nПРОДАН ❌\n\nЗаписаться на примерку",
    "struck": [],
    "media": [
     {
-     "type": "photo",
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAId7GrfcntppmnM8IxuTEyFUpN1HXMoAALcngAC3QmpSHaRaaQlJoggPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh3sat9ye2mmaczwjG5MTIVSk3UdcygAAtyeAALdCalIdpFppCUmiCABAAdtAAM9BA",
+     "size": 13837322,
+     "msg_id": 7660,
      "key": "7660_0"
-    },
-    {
-     "type": "photo",
-     "key": "7660_1"
-    },
-    {
-     "type": "photo",
-     "key": "7660_2"
     }
    ],
-   "source": "web-import",
-   "checkedAt": 1793002432559
+   "group": "14305369095718082",
+   "caption_id": 7660,
+   "checkedAt": 1793029131184
   },
   "7665": {
    "id": 7665,
@@ -4541,7 +4527,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002432331
+   "checkedAt": 1793029133695
   },
   "7672": {
    "id": 7672,
@@ -4563,7 +4549,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002431977
+   "checkedAt": 1793029133395
   },
   "7678": {
    "id": 7678,
@@ -4585,7 +4571,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792999433798
+   "checkedAt": 1793029133105
   },
   "7688": {
    "id": 7688,
@@ -4607,7 +4593,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792999433612
+   "checkedAt": 1793029132829
   },
   "7697": {
    "id": 7697,
@@ -4629,7 +4615,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792999433388
+   "checkedAt": 1793029132574
   },
   "7702": {
    "id": 7702,
@@ -4638,7 +4624,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1792999433181
+   "checkedAt": 1793029132296
   },
   "7704": {
    "id": 7704,
@@ -4660,7 +4646,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792999432912
+   "checkedAt": 1793029132049
   },
   "7707": {
    "id": 7707,
@@ -4682,7 +4668,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1792999432716
+   "checkedAt": 1793029131785
   },
   "7750": {
    "id": 7750,
@@ -6215,6 +6201,61 @@
    "text": "",
    "struck": [],
    "media": []
+  },
+  "8352": {
+   "id": 8352,
+   "date": "2026-10-26",
+   "text": "Жакет в невероятном золотистом оттенке #Zara ✔️✔️✔️✔️✔️\n\nПоследний 🔥\n▪️10900₽ вместо \nРазмер: XS\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgoGrfY7g-35PZyDTO1feIqSEtLV7_AAL5HmsbJ5YAAUstWBjtaNF3kAEAAwIAA3kAAz0E",
+     "msg_id": 8352,
+     "key": "8352_0"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgoWrfY7gCGML_phgp1qtKQXs7R2glAAJmrAACJ5YAAUuuB_wYlTTEZT0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiChat9juAIYwv-mGCnWq0pBeztHaCUAAmasAAInlgABS64H_BiVNMRlAQAHbQADPQQ",
+     "size": 6846785,
+     "msg_id": 8353,
+     "key": "8352_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgomrfY7id38Huw5tX3oDcJB9KdQozAAL6HmsbJ5YAAUvUwBSacIuHzwEAAwIAA3kAAz0E",
+     "msg_id": 8354,
+     "key": "8352_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgo2rfY7imZx1EfRjiqHKrYkc1er0IAAL7HmsbJ5YAAUsyWswakge34QEAAwIAA3kAAz0E",
+     "msg_id": 8355,
+     "key": "8352_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgpGrfY7jYEwcBP-3AuAs2G8sWp-czAAL8HmsbJ5YAAUu7PiO3kiT0QgEAAwIAA3kAAz0E",
+     "msg_id": 8356,
+     "key": "8352_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgpWrfY7jX3sXsogT8F00KQRW_DYL4AAL9HmsbJ5YAAUseP8aTZ3c8hgEAAwIAA3kAAz0E",
+     "msg_id": 8357,
+     "key": "8352_5"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgpmrfY7hqhIWSCaxfaf3I2nbMoUoYAAL-HmsbJ5YAAUtFMU2CWlvJpQEAAwIAA3kAAz0E",
+     "msg_id": 8358,
+     "key": "8352_6"
+    }
+   ],
+   "group": "14344199618442778",
+   "caption_id": 8352,
+   "checkedAt": 1793029130919
   }
  },
  "groups": {
@@ -6391,6 +6432,112 @@
    ],
    "date": "2026-10-14",
    "caption_id": 8251
+  },
+  "13961443997483026": {
+   "ids": [
+    573
+   ],
+   "text": "🤍🤍🤍🤍🤍🤍 🤍🤍🤍🤍\n\n✔️✔️✔️✔️✔️\n\nЖакет приталенный #Zara \nРазмеры: XS, S\n◾️10000₽ вместо 15900₽\nПРОДАНО❌\n\nЗаписаться на примерку",
+   "struck": [
+    "15900₽"
+   ],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAICPWrfYwRQPcxJYiTSs9-KFwb8GK7qAAJB-jEbPasoSEY91__wONupAQADAgADeQADPQQ",
+     "msg_id": 573
+    }
+   ],
+   "date": "2025-04-20",
+   "caption_id": 573
+  },
+  "14344199618442778": {
+   "ids": [
+    8352,
+    8353,
+    8354,
+    8355,
+    8356,
+    8357,
+    8358
+   ],
+   "text": "Жакет в невероятном золотистом оттенке #Zara ✔️✔️✔️✔️✔️\n\nПоследний 🔥\n▪️10900₽ вместо \nРазмер: XS\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgoGrfY7g-35PZyDTO1feIqSEtLV7_AAL5HmsbJ5YAAUstWBjtaNF3kAEAAwIAA3kAAz0E",
+     "msg_id": 8352
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgoWrfY7gCGML_phgp1qtKQXs7R2glAAJmrAACJ5YAAUuuB_wYlTTEZT0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiChat9juAIYwv-mGCnWq0pBeztHaCUAAmasAAInlgABS64H_BiVNMRlAQAHbQADPQQ",
+     "size": 6846785,
+     "msg_id": 8353
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgomrfY7id38Huw5tX3oDcJB9KdQozAAL6HmsbJ5YAAUvUwBSacIuHzwEAAwIAA3kAAz0E",
+     "msg_id": 8354
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgo2rfY7imZx1EfRjiqHKrYkc1er0IAAL7HmsbJ5YAAUsyWswakge34QEAAwIAA3kAAz0E",
+     "msg_id": 8355
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgpGrfY7jYEwcBP-3AuAs2G8sWp-czAAL8HmsbJ5YAAUu7PiO3kiT0QgEAAwIAA3kAAz0E",
+     "msg_id": 8356
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgpWrfY7jX3sXsogT8F00KQRW_DYL4AAL9HmsbJ5YAAUseP8aTZ3c8hgEAAwIAA3kAAz0E",
+     "msg_id": 8357
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgpmrfY7hqhIWSCaxfaf3I2nbMoUoYAAL-HmsbJ5YAAUtFMU2CWlvJpQEAAwIAA3kAAz0E",
+     "msg_id": 8358
+    }
+   ],
+   "date": "2026-10-26",
+   "caption_id": 8352
+  },
+  "14305369095718082": {
+   "ids": [
+    7660
+   ],
+   "text": "Кардиган #MassimoDutti \n✔️✔️✔️✔️✔️💔\n\nРазмер: М\nШерсть 80%, альпака 20%\n▪️9500₽\n\nПРОДАН ❌\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAId7GrfcntppmnM8IxuTEyFUpN1HXMoAALcngAC3QmpSHaRaaQlJoggPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh3sat9ye2mmaczwjG5MTIVSk3UdcygAAtyeAALdCalIdpFppCUmiCABAAdtAAM9BA",
+     "size": 13837322,
+     "msg_id": 7660
+    }
+   ],
+   "date": "2026-08-31",
+   "caption_id": 7660
+  },
+  "14157741060014690": {
+   "ids": [
+    3569
+   ],
+   "text": "Роскошный жакет #Zara ✔️✔️✔️✔️✔️\n\nЕще и со СКИДКОЙ! 🔥🔥🔥\nВсего два размера - XS, S\n\nПРОДАН ❌",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIN8WrfcvTBSwW0QOlciseKbB7CuM5zAAJ4E2sbO03ZS9G-jzSW3VO_AQADAgADeQADPQQ",
+     "msg_id": 3569
+    }
+   ],
+   "date": "2026-01-29",
+   "caption_id": 3569
   }
  },
  "drafts": {},
