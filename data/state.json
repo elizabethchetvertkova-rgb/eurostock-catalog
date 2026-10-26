@@ -1,5 +1,5 @@
 {
- "offset": 789490004,
+ "offset": 789490011,
  "posts": {
   "206": {
    "id": 206,
@@ -3007,7 +3007,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005171312
+   "checkedAt": 1793032220712
   },
   "6871": {
    "id": 6871,
@@ -3029,7 +3029,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005171070
+   "checkedAt": 1793032220538
   },
   "6888": {
    "id": 6888,
@@ -3049,7 +3049,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005170829
+   "checkedAt": 1793032220361
   },
   "6912": {
    "id": 6912,
@@ -3071,7 +3071,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005170590
+   "checkedAt": 1793032220190
   },
   "6925": {
    "id": 6925,
@@ -3093,7 +3093,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005170345
+   "checkedAt": 1793032220011
   },
   "6933": {
    "id": 6933,
@@ -3115,7 +3115,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005170032
+   "checkedAt": 1793032219812
   },
   "6938": {
    "id": 6938,
@@ -3137,7 +3137,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005169802
+   "checkedAt": 1793032219643
   },
   "6946": {
    "id": 6946,
@@ -3159,7 +3159,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005169513
+   "checkedAt": 1793032219456
   },
   "6951": {
    "id": 6951,
@@ -3181,7 +3181,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005169293
+   "checkedAt": 1793032219252
   },
   "6959": {
    "id": 6959,
@@ -3203,7 +3203,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005169047
+   "checkedAt": 1793032219072
   },
   "6989": {
    "id": 6989,
@@ -3225,7 +3225,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005168804
+   "checkedAt": 1793032218895
   },
   "6994": {
    "id": 6994,
@@ -3249,7 +3249,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005168567
+   "checkedAt": 1793032218708
   },
   "7010": {
    "id": 7010,
@@ -3271,7 +3271,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005168310
+   "checkedAt": 1793032218537
   },
   "7015": {
    "id": 7015,
@@ -3293,7 +3293,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005168068
+   "checkedAt": 1793032218316
   },
   "7029": {
    "id": 7029,
@@ -3315,7 +3315,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005167805
+   "checkedAt": 1793032218144
   },
   "7033": {
    "id": 7033,
@@ -3339,7 +3339,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005167563
+   "checkedAt": 1793032217956
   },
   "7038": {
    "id": 7038,
@@ -3361,7 +3361,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005167310
+   "checkedAt": 1793032217752
   },
   "7043": {
    "id": 7043,
@@ -3385,7 +3385,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005166945
+   "checkedAt": 1793032217552
   },
   "7053": {
    "id": 7053,
@@ -3409,7 +3409,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005166700
+   "checkedAt": 1793032217333
   },
   "7063": {
    "id": 7063,
@@ -3433,7 +3433,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005166397
+   "checkedAt": 1793032217162
   },
   "7068": {
    "id": 7068,
@@ -3457,7 +3457,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005166160
+   "checkedAt": 1793032216982
   },
   "7072": {
    "id": 7072,
@@ -3481,7 +3481,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005165922
+   "checkedAt": 1793032216797
   },
   "7077": {
    "id": 7077,
@@ -3505,7 +3505,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005165690
+   "checkedAt": 1793032216610
   },
   "7085": {
    "id": 7085,
@@ -3529,7 +3529,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005165434
+   "checkedAt": 1793032216428
   },
   "7095": {
    "id": 7095,
@@ -3551,7 +3551,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005165170
+   "checkedAt": 1793032216239
   },
   "7100": {
    "id": 7100,
@@ -3575,7 +3575,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005164916
+   "checkedAt": 1793032216062
   },
   "7108": {
    "id": 7108,
@@ -3597,7 +3597,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005164634
+   "checkedAt": 1793032215849
   },
   "7126": {
    "id": 7126,
@@ -3619,7 +3619,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005164356
+   "checkedAt": 1793032215668
   },
   "7142": {
    "id": 7142,
@@ -3641,7 +3641,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005164109
+   "checkedAt": 1793032215502
   },
   "7205": {
    "id": 7205,
@@ -3665,7 +3665,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793005163883
+   "checkedAt": 1793032215328
   },
   "7209": {
    "id": 7209,
@@ -3689,7 +3689,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002441477
+   "checkedAt": 1793032215153
   },
   "7236": {
    "id": 7236,
@@ -3711,7 +3711,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002441213
+   "checkedAt": 1793032214937
   },
   "7240": {
    "id": 7240,
@@ -3735,7 +3735,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002440990
+   "checkedAt": 1793032214765
   },
   "7245": {
    "id": 7245,
@@ -3759,7 +3759,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002440762
+   "checkedAt": 1793032214556
   },
   "7267": {
    "id": 7267,
@@ -3783,7 +3783,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002440544
+   "checkedAt": 1793032214378
   },
   "7276": {
    "id": 7276,
@@ -3801,7 +3801,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002440328
+   "checkedAt": 1793032214184
   },
   "7297": {
    "id": 7297,
@@ -3823,7 +3823,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002440128
+   "checkedAt": 1793032214020
   },
   "7302": {
    "id": 7302,
@@ -3847,7 +3847,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793002439894
+   "checkedAt": 1793032213801
   },
   "7307": {
    "id": 7307,
@@ -5734,19 +5734,14 @@
    "media": [
     {
      "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgI2rffBAkPCjmiAOYbu8nynl_ueGjAAK9E2sbVUrRSYXMyGx4FcXXAQADAgADeQADPQQ",
+     "msg_id": 8227,
      "key": "8227_0"
-    },
-    {
-     "type": "photo",
-     "key": "8227_1"
-    },
-    {
-     "type": "photo",
-     "key": "8227_2"
     }
    ],
-   "source": "web-import",
-   "checkedAt": 1793015082217
+   "group": "14335213500016586",
+   "caption_id": 8227,
+   "checkedAt": 1793032213612
   },
   "8234": {
    "id": 8234,
@@ -6205,7 +6200,7 @@
   "8352": {
    "id": 8352,
    "date": "2026-10-26",
-   "text": "Жакет в невероятном золотистом оттенке #Zara ✔️✔️✔️✔️✔️\n\nПоследний 🔥\n▪️10900₽ вместо \nРазмер: XS\n\nЗаписаться на примерку",
+   "text": "Жакет в невероятном золотистом оттенке #Zara ✔️✔️✔️✔️✔️\n\nПоследний 🔥\n▪️10900₽ вместо 13900₽\nРазмер: XS\n\nЗаписаться на примерку",
    "struck": [],
    "media": [
     {
@@ -6255,7 +6250,57 @@
    ],
    "group": "14344199618442778",
    "caption_id": 8352,
-   "checkedAt": 1793029130919
+   "checkedAt": 1793032213410
+  },
+  "8359": {
+   "id": 8359,
+   "date": "2026-10-26",
+   "text": "Обзор товаров ✔️✔️✔️✔️✔️",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgp2rff2ORFnYzIchSinf1rEKJ3nESAAJErgACJ5YAAUtKXvJbDq557T0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCnat9_Y5EWdjMhyFKKd_WsQonecRIAAkSuAAInlgABS0pe8lsOrnntAQAHbQADPQQ",
+     "size": 12764962,
+     "msg_id": 8359,
+     "key": "8359_0"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgqGrff2MNPZWKHZ435Sffbvt-pM97AAJFrgACJ5YAAUtp07XUcjwN8j0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCoat9_Yw09lYodnjflJ99u-36kz3sAAkWuAAInlgABS2nTtdRyPA3yAQAHbQADPQQ",
+     "size": 9109125,
+     "msg_id": 8360,
+     "key": "8359_1"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgqWrff2MfPXRWFizvAAHTyR4McfLVEAACRq4AAieWAAFLumY30P7v4XM9BA",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCpat9_Yx89dFYWLO8AAdPJHgxx8tUQAAJGrgACJ5YAAUu6ZjfQ_u_hcwEAB20AAz0E",
+     "size": 7093897,
+     "msg_id": 8361,
+     "key": "8359_2"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgqmrff2OWBzorvGD5xzJcUh65ApXkAAJHrgACJ5YAAUvX0fDAh7qeuD0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCqat9_Y5YHOiu8YPnHMlxSHrkCleQAAkeuAAInlgABS9fR8MCHup64AQAHbQADPQQ",
+     "size": 7746332,
+     "msg_id": 8362,
+     "key": "8359_3"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgq2rff2O97QcYmN-qQ9KyXhGMb7tlAAJMrgACJ5YAAUsidQlyo_ABYT0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCrat9_Y73tBxiY36pD0rJeEYxvu2UAAkyuAAInlgABSyJ1CXKj8AFhAQAHbQADPQQ",
+     "size": 134944,
+     "msg_id": 8363,
+     "key": "8359_4"
+    }
+   ],
+   "group": "14344256280413458",
+   "caption_id": 8359
   }
  },
  "groups": {
@@ -6461,7 +6506,7 @@
     8357,
     8358
    ],
-   "text": "Жакет в невероятном золотистом оттенке #Zara ✔️✔️✔️✔️✔️\n\nПоследний 🔥\n▪️10900₽ вместо \nРазмер: XS\n\nЗаписаться на примерку",
+   "text": "Жакет в невероятном золотистом оттенке #Zara ✔️✔️✔️✔️✔️\n\nПоследний 🔥\n▪️10900₽ вместо 13900₽\nРазмер: XS\n\nЗаписаться на примерку",
    "struck": [],
    "media": [
     {
@@ -6538,6 +6583,74 @@
    ],
    "date": "2026-01-29",
    "caption_id": 3569
+  },
+  "14335213500016586": {
+   "ids": [
+    8227
+   ],
+   "text": "Замшевый бомбер #MassimoDutti 💔\n✔️✔️✔️✔️✔️\n\nРазмер: XS, S, M\nКозья кожа 100%\n▪️38500₽\n\nЗабронировать",
+   "struck": [
+    "M"
+   ],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgI2rffBAkPCjmiAOYbu8nynl_ueGjAAK9E2sbVUrRSYXMyGx4FcXXAQADAgADeQADPQQ",
+     "msg_id": 8227
+    }
+   ],
+   "date": "2026-10-13",
+   "caption_id": 8227
+  },
+  "14344256280413458": {
+   "ids": [
+    8359,
+    8360,
+    8361,
+    8362,
+    8363
+   ],
+   "text": "Обзор товаров ✔️✔️✔️✔️✔️",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgp2rff2ORFnYzIchSinf1rEKJ3nESAAJErgACJ5YAAUtKXvJbDq557T0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCnat9_Y5EWdjMhyFKKd_WsQonecRIAAkSuAAInlgABS0pe8lsOrnntAQAHbQADPQQ",
+     "size": 12764962,
+     "msg_id": 8359
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgqGrff2MNPZWKHZ435Sffbvt-pM97AAJFrgACJ5YAAUtp07XUcjwN8j0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCoat9_Yw09lYodnjflJ99u-36kz3sAAkWuAAInlgABS2nTtdRyPA3yAQAHbQADPQQ",
+     "size": 9109125,
+     "msg_id": 8360
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgqWrff2MfPXRWFizvAAHTyR4McfLVEAACRq4AAieWAAFLumY30P7v4XM9BA",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCpat9_Yx89dFYWLO8AAdPJHgxx8tUQAAJGrgACJ5YAAUu6ZjfQ_u_hcwEAB20AAz0E",
+     "size": 7093897,
+     "msg_id": 8361
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgqmrff2OWBzorvGD5xzJcUh65ApXkAAJHrgACJ5YAAUvX0fDAh7qeuD0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCqat9_Y5YHOiu8YPnHMlxSHrkCleQAAkeuAAInlgABS9fR8MCHup64AQAHbQADPQQ",
+     "size": 7746332,
+     "msg_id": 8362
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgq2rff2O97QcYmN-qQ9KyXhGMb7tlAAJMrgACJ5YAAUsidQlyo_ABYT0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCrat9_Y73tBxiY36pD0rJeEYxvu2UAAkyuAAInlgABSyJ1CXKj8AFhAQAHbQADPQQ",
+     "size": 134944,
+     "msg_id": 8363
+    }
+   ],
+   "date": "2026-10-26",
+   "caption_id": 8359
   }
  },
  "drafts": {},
