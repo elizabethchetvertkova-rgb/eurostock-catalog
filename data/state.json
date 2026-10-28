@@ -1,5 +1,5 @@
 {
- "offset": 789490023,
+ "offset": 789490097,
  "posts": {
   "206": {
    "id": 206,
@@ -3784,7 +3784,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181743042
+   "checkedAt": 1793201296783
   },
   "7276": {
    "id": 7276,
@@ -3802,7 +3802,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181742810
+   "checkedAt": 1793201296602
   },
   "7297": {
    "id": 7297,
@@ -3824,7 +3824,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181742577
+   "checkedAt": 1793201296416
   },
   "7302": {
    "id": 7302,
@@ -3848,7 +3848,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181742339
+   "checkedAt": 1793201296221
   },
   "7307": {
    "id": 7307,
@@ -3873,7 +3873,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181741505
+   "checkedAt": 1793201295599
   },
   "7374": {
    "id": 7374,
@@ -3898,7 +3898,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181741262
+   "checkedAt": 1793201295383
   },
   "7379": {
    "id": 7379,
@@ -3922,7 +3922,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181740982
+   "checkedAt": 1793201295175
   },
   "7384": {
    "id": 7384,
@@ -3947,7 +3947,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181740729
+   "checkedAt": 1793201294985
   },
   "7398": {
    "id": 7398,
@@ -3968,7 +3968,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181740463
+   "checkedAt": 1793201294775
   },
   "7401": {
    "id": 7401,
@@ -3992,7 +3992,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181740165
+   "checkedAt": 1793201294592
   },
   "7404": {
    "id": 7404,
@@ -4016,7 +4016,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181739940
+   "checkedAt": 1793201294405
   },
   "7407": {
    "id": 7407,
@@ -4040,7 +4040,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181739673
+   "checkedAt": 1793201294222
   },
   "7427": {
    "id": 7427,
@@ -4054,7 +4054,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181739419
+   "checkedAt": 1793201294035
   },
   "7433": {
    "id": 7433,
@@ -4078,7 +4078,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181739221
+   "checkedAt": 1793201293877
   },
   "7438": {
    "id": 7438,
@@ -4100,7 +4100,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181738912
+   "checkedAt": 1793201293672
   },
   "7458": {
    "id": 7458,
@@ -4124,7 +4124,8 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181738666
+   "checkedAt": 1793201293475,
+   "deleted": true
   },
   "7465": {
    "id": 7465,
@@ -4138,7 +4139,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181738399
+   "checkedAt": 1793201293343
   },
   "7481": {
    "id": 7481,
@@ -4160,7 +4161,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181738180
+   "checkedAt": 1793201293179
   },
   "7507": {
    "id": 7507,
@@ -4182,7 +4183,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793181737944
+   "checkedAt": 1793201292932
   },
   "7542": {
    "id": 7542,
@@ -4204,7 +4205,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793178967110
+   "checkedAt": 1793201292719
   },
   "7545": {
    "id": 7545,
@@ -4228,7 +4229,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793178966880
+   "checkedAt": 1793201292523
   },
   "7562": {
    "id": 7562,
@@ -4250,7 +4251,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793178966653
+   "checkedAt": 1793201292324
   },
   "7565": {
    "id": 7565,
@@ -4275,7 +4276,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793178966422
+   "checkedAt": 1793201292137
   },
   "7583": {
    "id": 7583,
@@ -4299,7 +4300,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793178966170
+   "checkedAt": 1793201291928
   },
   "7603": {
    "id": 7603,
@@ -4321,7 +4322,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793178965906
+   "checkedAt": 1793201291699
   },
   "7620": {
    "id": 7620,
@@ -4512,7 +4513,7 @@
   "7665": {
    "id": 7665,
    "date": "2026-08-31",
-   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nКашемир 100%\nРазмер: S\n▪️27500₽\n\nЗаписаться на примерку",
+   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nКашемир 100%\nРазмер: S\n▪️22500₽\n\nЗаписаться на примерку",
    "struck": [],
    "media": [
     {
@@ -4526,10 +4527,20 @@
     {
      "type": "photo",
      "key": "7665_2"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAId8WriCvn5P5xDqVXBFOZ57ry4FWKGAAL-ngAC3QmpSIADpv3zfRAnPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh3xauIK-fk_nEOpVcEU5nnuvLgVYoYAAv6eAALdCalIgAOm_fN9ECcBAAdtAAM9BA",
+     "size": 21699391,
+     "msg_id": 7665,
+     "key": "7665_0"
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793198267585
+   "checkedAt": 1793198267585,
+   "group": "14305377278756522",
+   "caption_id": 7665
   },
   "7672": {
    "id": 7672,
@@ -4556,7 +4567,7 @@
   "7678": {
    "id": 7678,
    "date": "2026-08-31",
-   "text": "Кардиган #MassimoDutti ✔️✔️✔️✔️✔️\n\nШерсть 61%, вискоза 34%, кашемир 5%\nЧерный - S\n▪️11000₽\n\nЗаписаться на примерку",
+   "text": "Кардиган #MassimoDutti ✔️✔️✔️✔️✔️\n\nШерсть 61%, вискоза 34%, кашемир 5%\nЧерный - S\n▪️9900₽\n\nЗаписаться на примерку",
    "struck": [],
    "media": [
     {
@@ -4573,7 +4584,9 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793198267212
+   "checkedAt": 1793198267212,
+   "group": "14305377964402858",
+   "caption_id": 7678
   },
   "7688": {
    "id": 7688,
@@ -5755,7 +5768,7 @@
    ],
    "group": "14335213500016586",
    "caption_id": 8227,
-   "checkedAt": 1793181742075
+   "checkedAt": 1793201296014
   },
   "8234": {
    "id": 8234,
@@ -6264,7 +6277,7 @@
    ],
    "group": "14344199618442778",
    "caption_id": 8352,
-   "checkedAt": 1793181741738
+   "checkedAt": 1793201295788
   },
   "8359": {
    "id": 8359,
@@ -6315,6 +6328,593 @@
    ],
    "group": "14344256280413458",
    "caption_id": 8359
+  },
+  "8365": {
+   "id": 8365,
+   "date": "2026-10-28",
+   "text": "Кофта мужская #MassimoDutti ✔️✔️✔️✔️✔️\n\nШерсть 95%, кашемир 5%\nРазмер: XL\n▪️9900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgrWriCn46tajwPZ32O66aK3GiWL8SAAKuDGsbLcwhSXGp9Z1HZvfIAQADAgADeQADPQQ",
+     "msg_id": 8365,
+     "key": "8365_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgrmriCn6Q1mvBp0wTPsV3KZbAppmxAAKvDGsbLcwhSWUNub23_wWoAQADAgADeQADPQQ",
+     "msg_id": 8366,
+     "key": "8365_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgr2riCn5C45Xw-CZbCRVMkm8GbAUYAAKwDGsbLcwhSX0jb2j6PhmdAQADAgADeQADPQQ",
+     "msg_id": 8367,
+     "key": "8365_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgsGriCn633j_yg9Gpo-UpTBj4pL-sAAKxDGsbLcwhSV-cpOPaqGWxAQADAgADeQADPQQ",
+     "msg_id": 8368,
+     "key": "8365_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgsWriCn7a0m7vborGUqUc5RkC6DSqAAKyDGsbLcwhSfkHFVREz8HqAQADAgADeQADPQQ",
+     "msg_id": 8369,
+     "key": "8365_4"
+    }
+   ],
+   "group": "14345589747631490",
+   "caption_id": 8365,
+   "checkedAt": 1793201291489
+  },
+  "8370": {
+   "id": 8370,
+   "date": "2026-10-28",
+   "text": "⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️\nКардиганы #MassimoDutti ✔️✔️✔️✔️✔️\n\nКоричневый - S\nСостав: шерсть 45%, лиоцел 30%, полиамид 20%, кашемир 5%\n▪️6000₽ вместо 8000₽\n\nДля заказа — @tatianamoseuro\nMAX - +7 963 994 7535",
+   "struck": [
+    "8000₽"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgsmriCpJ5mDOdJZ_ekjqG2MDTpia4AAIwpQACnF-pS6XdwbG7EzCRPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCyauIKknmYM50ln96SOobYwNOmJrgAAjClAAKcX6lLpd3BsbsTMJEBAAdtAAM9BA",
+     "size": 10591034,
+     "msg_id": 8370,
+     "key": "8370_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgs2riCpKvZJS-L94dybSkJCqw0UBrAAI9GGsbnF-pS1QQfefYYhAXAQADAgADeQADPQQ",
+     "msg_id": 8371,
+     "key": "8370_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgtGriCpIQNri3kTDulxI5636R9hZ5AAI-GGsbnF-pSxnB5PRgO37mAQADAgADeQADPQQ",
+     "msg_id": 8372,
+     "key": "8370_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgtWriCpLbUFwzuTwk551yUgVgYnb4AAI_GGsbnF-pSwftQL9txDTnAQADAgADeQADPQQ",
+     "msg_id": 8373,
+     "key": "8370_3"
+    }
+   ],
+   "group": "14345589910241218",
+   "caption_id": 8370,
+   "checkedAt": 1793201291321
+  },
+  "8374": {
+   "id": 8374,
+   "date": "2026-10-28",
+   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nКашемир 100%\nРазмер: S\n\n▪️17900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgtmriCqVEE3APsuV2rNvv8tsWRgzpAALangAC3QmpSBYdDKJgBzKbPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiC2auIKpUQTcA-y5Xas2-_y2xZGDOkAAtqeAALdCalIFh0MomAHMpsBAAdtAAM9BA",
+     "size": 20615108,
+     "msg_id": 8374,
+     "key": "8374_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgt2riCqW-2HafxixDBH8jNpAYajEVAAIXImsb3QmpSBPActVrMhJuAQADAgADeQADPQQ",
+     "msg_id": 8375,
+     "key": "8374_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIguGriCqUMm4YqIA136QNM-kbaZ5MKAAIYImsb3QmpSDu7Dik3ceLeAQADAgADeQADPQQ",
+     "msg_id": 8376,
+     "key": "8374_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIguWriCqU_D1nxg4Tl3CS7OM87Fp1gAAIZImsb3QmpSJQMZBvISscZAQADAgADeQADPQQ",
+     "msg_id": 8377,
+     "key": "8374_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgumriCqWk98lgzH7AHhTETJp4BQ_BAAIaImsb3QmpSMnh93HFsRi7AQADAgADeQADPQQ",
+     "msg_id": 8378,
+     "key": "8374_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgu2riCqUDvWc-MFAlI7fdhRhLw3RRAAIbImsb3QmpSAi2VBsxqtmXAQADAgADeQADPQQ",
+     "msg_id": 8379,
+     "key": "8374_5"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgvGriCqXp3s3kGScxeM1QRv6i0k5sAAIcImsb3QmpSMePMSEtipV8AQADAgADeQADPQQ",
+     "msg_id": 8380,
+     "key": "8374_6"
+    }
+   ],
+   "group": "14345590057282210",
+   "caption_id": 8374,
+   "checkedAt": 1793201291136
+  },
+  "8381": {
+   "id": 8381,
+   "date": "2026-10-28",
+   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nКашемир 100%\nРазмер: S\n▪️22500₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAId8WriCvn5P5xDqVXBFOZ57ry4FWKGAAL-ngAC3QmpSIADpv3zfRAnPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh3xauIK-fk_nEOpVcEU5nnuvLgVYoYAAv6eAALdCalIgAOm_fN9ECcBAAdtAAM9BA",
+     "size": 21699391,
+     "msg_id": 8381,
+     "key": "8381_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgvmriCwABubmwxcFAEtpN0e5_jKXLwwACPiJrG90JqUi-U0HyjYI6cQEAAwIAA3kAAz0E",
+     "msg_id": 8382,
+     "key": "8381_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgv2riCwABcsG-Ke49AAFmArTNxzfRou4AAj8iaxvdCalIuUMWkAjAn04BAAMCAAN5AAM9BA",
+     "msg_id": 8383,
+     "key": "8381_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgwGriCwABgQi0kzSGOHQRGfuMiI4sRAACQCJrG90JqUipnVRYoiAx_wEAAwIAA3kAAz0E",
+     "msg_id": 8384,
+     "key": "8381_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgwWriCwABfvZmnc_OwzTcxDJakDKeZgACQSJrG90JqUgxz7AzybPU3gEAAwIAA3kAAz0E",
+     "msg_id": 8385,
+     "key": "8381_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgwmriCwABZcER96MysLVoLh26csAdegACQiJrG90JqUjo7fNCBEcgTgEAAwIAA3kAAz0E",
+     "msg_id": 8386,
+     "key": "8381_5"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgw2riCwABus5j8vBKYErenLu9lj1t3gACQyJrG90JqUilgUvZKuBq3wEAAwIAA3kAAz0E",
+     "msg_id": 8387,
+     "key": "8381_6"
+    }
+   ],
+   "group": "14345590784437850",
+   "caption_id": 8381,
+   "checkedAt": 1793201290965
+  },
+  "8388": {
+   "id": 8388,
+   "date": "2026-10-28",
+   "text": "Лонгслив #MassimoDutti ✔️✔️✔️✔️✔️\n\nХлопок 93%, кашемир 7%\nРазмер: М\n▪️4300₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgxGriCyxl0HnKNkGY6hcTlRvncYmdAAJEImsb3QmpSDv77vI06xHoAQADAgADeAADPQQ",
+     "msg_id": 8388,
+     "key": "8388_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgxWriCyzGtYQlA7nHnFYIhSY_w_N8AAJFImsb3QmpSIhSK-Q0Zwc0AQADAgADeAADPQQ",
+     "msg_id": 8389,
+     "key": "8388_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgxmriCyxc0ayy3ZGYv64-gL1QM2oAA0YiaxvdCalI2fLduVS4n4IBAAMCAAN4AAM9BA",
+     "msg_id": 8390,
+     "key": "8388_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgx2riCyyacN5JQ65xIro4BY-HitT6AAJHImsb3QmpSLfRDnHJm7B9AQADAgADeQADPQQ",
+     "msg_id": 8391,
+     "key": "8388_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgyGriCywPgyfE5pZFtju7AsF50Z3AAAJIImsb3QmpSMQkkrwY8b_kAQADAgADeQADPQQ",
+     "msg_id": 8392,
+     "key": "8388_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgyWriCyxx6L4-kjKT7wkeGRMAAdCuHwACSSJrG90JqUgMP6OCvbCZNwEAAwIAA3kAAz0E",
+     "msg_id": 8393,
+     "key": "8388_5"
+    }
+   ],
+   "group": "14345591139805538",
+   "caption_id": 8388,
+   "checkedAt": 1793201290795
+  },
+  "8394": {
+   "id": 8394,
+   "date": "2026-10-28",
+   "text": "Кардиган #MassimoDutti ✔️✔️✔️✔️✔️\n\nШерсть 61%, вискоза 34%, кашемир 5%\nЧерный - S\n▪️9900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAId_mriC1TYWk9SWTWsVYPrWChYxjMzAAJNImsb3QmpSAdEOhl5IE1NAQADAgADeQADPQQ",
+     "msg_id": 8394,
+     "key": "8394_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgy2riC1oy0SKIp09uVgRanSQkjFixAAJOImsb3QmpSOe1bZLlJu1UAQADAgADeQADPQQ",
+     "msg_id": 8395,
+     "key": "8394_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgzGriC1rf1QLMLthCnlh9KaPqXI7SAAJPImsb3QmpSM2sqJBuMCohAQADAgADeQADPQQ",
+     "msg_id": 8396,
+     "key": "8394_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgzWriC1qG90izitNEtZeJN2UuQywLAAJQImsb3QmpSCUehCqAdSFIAQADAgADeQADPQQ",
+     "msg_id": 8397,
+     "key": "8394_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgzmriC1p0QRwdcoOlwHJmtWpNBB_jAAJRImsb3QmpSEOppaiqonNNAQADAgADeQADPQQ",
+     "msg_id": 8398,
+     "key": "8394_4"
+    }
+   ],
+   "group": "14345591506152226",
+   "caption_id": 8394,
+   "checkedAt": 1793201290629
+  },
+  "8399": {
+   "id": 8399,
+   "date": "2026-10-28",
+   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nРазмер: S\nСостав: шерсть 95%, кашемир 5%\n▪️10500₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgz2riC3IonoIQt-_MnI3lal6iazqFAAJTrQACKXz4SeBAH_MwrqvzPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDPauILciieghC378ycjeVqXqJrOoUAAlOtAAIpfPhJ4EAf8zCuq_MBAAdtAAM9BA",
+     "size": 24189836,
+     "msg_id": 8399,
+     "key": "8399_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg0GriC3LPe_zcrteR1IHQ8Pb1BV7mAAJnKmsbKXz4SbLq9WoIjSvpAQADAgADeQADPQQ",
+     "msg_id": 8400,
+     "key": "8399_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg0WriC3KKf6OJgd17Zl8Z_vm-Dj_GAAJoKmsbKXz4SeLsWdxg_CcdAQADAgADeQADPQQ",
+     "msg_id": 8401,
+     "key": "8399_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg0mriC3LH6ewTu4veH02b0k9zLcs7AAJpKmsbKXz4Sf04M9ZUubocAQADAgADeQADPQQ",
+     "msg_id": 8402,
+     "key": "8399_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg02riC3LM-2TyldTjI5kHQSCi2aJ7AAJqKmsbKXz4STjwaPytLDhaAQADAgADeQADPQQ",
+     "msg_id": 8403,
+     "key": "8399_4"
+    }
+   ],
+   "group": "14345591697582338",
+   "caption_id": 8399,
+   "checkedAt": 1793201290454
+  },
+  "8404": {
+   "id": 8404,
+   "date": "2026-10-28",
+   "text": "🆕🆕🆕🆕🆕\nКардиган-поло из 100% кашемира #MassimoDutti ✔️✔️✔️✔️✔️\n\nБежевый - М\nСиний - М\n▪️19900₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIg1GriC4XedTNDD9KE0eDyj4yzBTwCAAJdrQACKXz4ST9JTrzNRE17PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDUauILhd51M0MP0oTR4PKPjLMFPAIAAl2tAAIpfPhJP0lOvM1ETXsBAAdtAAM9BA",
+     "size": 23827322,
+     "msg_id": 8404,
+     "key": "8404_0"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIg1WriC4Xe5trT_iIsYeSkTGi4HoqlAAJerQACKXz4SVwtI6U7XlaCPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDVauILhd7m2tP-Iixh5KRMaLgeiqUAAl6tAAIpfPhJXC0jpTteVoIBAAdtAAM9BA",
+     "size": 20180099,
+     "msg_id": 8405,
+     "key": "8404_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg1mriC4UDVlXztLUzHpGpF1FuCM_gAAJtKmsbKXz4ST8-dKy0NnF2AQADAgADeQADPQQ",
+     "msg_id": 8406,
+     "key": "8404_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg12riC4UkKLjS6bfXbyu4spcfS22wAAJuKmsbKXz4SWTkZddjbrZ3AQADAgADeQADPQQ",
+     "msg_id": 8407,
+     "key": "8404_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg2GriC4Xqss-DkiV2JP7BI5usbp6AAAJvKmsbKXz4SRn-CWu-HfotAQADAgADeQADPQQ",
+     "msg_id": 8408,
+     "key": "8404_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg2WriC4Ww6_KxWPbUvk19YaxCu3EJAAJwKmsbKXz4SQZt_ZFn7CVMAQADAgADeQADPQQ",
+     "msg_id": 8409,
+     "key": "8404_5"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg2mriC4Xed48sp0k7-GzP5IN2VGw9AAJxKmsbKXz4SVgWyw_6cVDQAQADAgADeQADPQQ",
+     "msg_id": 8410,
+     "key": "8404_6"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg22riC4WdVvy0tRtPx7qtrfG-yduEAAJyKmsbKXz4SdbWA1i-scMxAQADAgADeQADPQQ",
+     "msg_id": 8411,
+     "key": "8404_7"
+    }
+   ],
+   "group": "14345591849241426",
+   "caption_id": 8404,
+   "checkedAt": 1793201290289
+  },
+  "8412": {
+   "id": 8412,
+   "date": "2026-10-28",
+   "text": "🆕🆕🆕🆕🆕\nКардиган #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 45%, лиоцел 30%, полиамид 20%, кашемир 5%\nРазмер: XS\n▪️7000₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg3GriC5sTWpk_gDk9FifcWgAB4tD8oQACcyprGyl8-Enameoap22MFgEAAwIAA3kAAz0E",
+     "msg_id": 8412,
+     "key": "8412_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg3WriC5s1kZubzXurJAGJmC3rT54zAAJ0KmsbKXz4SSTEA5rVu8bdAQADAgADeQADPQQ",
+     "msg_id": 8413,
+     "key": "8412_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg3mriC5vR6XQsIhukSWX0zixSDHssAAJ1KmsbKXz4SRV8j_Dvlrr6AQADAgADeQADPQQ",
+     "msg_id": 8414,
+     "key": "8412_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg32riC5uvsD79W34IK-1MxfN7RrcAA3YqaxspfPhJCnF934dAyaUBAAMCAAN5AAM9BA",
+     "msg_id": 8415,
+     "key": "8412_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg4GriC5vSMlRYt24LeAWqUSTx-CG8AAJ3KmsbKXz4SZ9vXX3pB4TNAQADAgADeQADPQQ",
+     "msg_id": 8416,
+     "key": "8412_4"
+    }
+   ],
+   "group": "14345592024436954",
+   "caption_id": 8412,
+   "checkedAt": 1793201290120
+  },
+  "8417": {
+   "id": 8417,
+   "date": "2026-10-28",
+   "text": "🆕🆕🆕🆕🆕\nКардиган с капюшоном #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 95%, кашемир 5%\nРазмер: S, M\n▪️10500₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [
+    "M"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIfbmrY0IRjfAFof6UZeQfi2Icss77eAAL_ngACwsb5SX5kCn9_e38UPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh9uatjQhGN8AWh_pRl5B-LYhyyzvt4AAv-eAALCxvlJfmQKf397fxQBAAdtAAM9BA",
+     "size": 20390038,
+     "msg_id": 8417,
+     "key": "8417_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg4mriC7DcZvvB6NDthELNrPXHseK7AAJ5KmsbKXz4ScVPNRGE_-6nAQADAgADeQADPQQ",
+     "msg_id": 8418,
+     "key": "8417_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg42riC7Cc9Z3cnwv1HXjmeQ5rBvhNAAJ6KmsbKXz4STGyXlAqrFhxAQADAgADeQADPQQ",
+     "msg_id": 8419,
+     "key": "8417_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg5GriC7DGUM55lNyi2MtGr8R6I2wOAAJ7KmsbKXz4SZ7do-hSzyDsAQADAgADeQADPQQ",
+     "msg_id": 8420,
+     "key": "8417_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg5WriC7Ag6BIzCVQ1FGH_-4BrFXupAAJ8KmsbKXz4SXhABcqrpyhhAQADAgADeQADPQQ",
+     "msg_id": 8421,
+     "key": "8417_4"
+    }
+   ],
+   "group": "14345592193190034",
+   "caption_id": 8417,
+   "checkedAt": 1793201289941
+  },
+  "8422": {
+   "id": 8422,
+   "date": "2026-10-28",
+   "text": "🆕🆕🆕🆕🆕\nКардиган-поло из 100% кашемира #MassimoDutti ✔️✔️✔️✔️✔️\n\nРазмер: М\n▪️19900₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIg5mriC79R9wABfDpCPp1fyp7wcWLYIAACE6oAAjEKAUrxGiHxNDjcVT0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDmauILv1H3AAF8OkI-nV_KnvBxYtggAAITqgACMQoBSvEaIfE0ONxVAQAHbQADPQQ",
+     "size": 8481856,
+     "msg_id": 8422,
+     "key": "8422_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg52riC78BUNIuknEZKN5s0Tkn_ftLAAK2IWsbMQoBSt_et0nD-ZrHAQADAgADeQADPQQ",
+     "msg_id": 8423,
+     "key": "8422_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg6GriC7_yP04bcIhYGOL22tYOqDM_AAK3IWsbMQoBSiSICNEYWSZeAQADAgADeQADPQQ",
+     "msg_id": 8424,
+     "key": "8422_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg6WriC79HehsNrkRasMy_fF7wJOVHAAK4IWsbMQoBShb9vsbkGvQuAQADAgADeQADPQQ",
+     "msg_id": 8425,
+     "key": "8422_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg6mriC78slApZ5fffTqFvp3IAAY_wbQACuSFrGzEKAUppLnppJH67KAEAAwIAA3kAAz0E",
+     "msg_id": 8426,
+     "key": "8422_4"
+    }
+   ],
+   "group": "14345592318806802",
+   "caption_id": 8422,
+   "checkedAt": 1793201289778
+  },
+  "8427": {
+   "id": 8427,
+   "date": "2026-10-28",
+   "text": "Шапка #COS ✔️✔️✔️✔️✔️\n\nШерсть 70%, кашемир 30%\n▪️9800₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg62riC9FsA5cz1FKflhor9ApUmgH8AAKzC2sbnCYBSZdfMi_6tJz_AQADAgADeQADPQQ",
+     "msg_id": 8427,
+     "key": "8427_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg7GriC9ErDuMghTOwQ1UNPkmrmikyAAK0C2sbnCYBScZv3awp-8IhAQADAgADeQADPQQ",
+     "msg_id": 8428,
+     "key": "8427_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg7WriC9GW_IUznHSGJ55SMAboBoL_AAK1C2sbnCYBSdrkJQLfnvc9AQADAgADeQADPQQ",
+     "msg_id": 8429,
+     "key": "8427_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg7mriC9GT2MtjIEukPTqLkaQgDBMnAAK2C2sbnCYBST9anmsn0h4AAQEAAwIAA3kAAz0E",
+     "msg_id": 8430,
+     "key": "8427_3"
+    }
+   ],
+   "group": "14345592461679610",
+   "caption_id": 8427,
+   "checkedAt": 1793201289592
+  },
+  "8431": {
+   "id": 8431,
+   "date": "2026-10-28",
+   "text": "🆕🆕🆕🆕🆕\nДжерси #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 46%, лиоцел 29%, полиамид 21%, кашемир 4%\nРазмер: S, M\n▪️9900₽\n\nЗаписаться на примерку",
+   "struck": [
+    "S"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIfpmraZZUfNS_Ri0kPgqCqLPdSZZCaAAJ7qgACMQoBSkDQfW33qn1OPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh-matpllR81L9GLSQ-CoKos91JlkJoAAnuqAAIxCgFKQNB9bfeqfU4BAAdtAAM9BA",
+     "size": 7985705,
+     "msg_id": 8431,
+     "key": "8431_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgh2raZbxc6r8qu-H1B0oXxaUo-emVAAIwImsbMQoBStSS4f63uirhAQADAgADeQADPQQ",
+     "msg_id": 8432,
+     "key": "8431_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgiGraZbwNlF13p4vHSM_RYuXOn8f9AAIxImsbMQoBSuswxvvRl2sjAQADAgADeQADPQQ",
+     "msg_id": 8433,
+     "key": "8431_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgiWraZbxfOB1EJrdC3rAr1GEdT-zcAAIyImsbMQoBSu8mUGgXO16KAQADAgADeQADPQQ",
+     "msg_id": 8434,
+     "key": "8431_3"
+    }
+   ],
+   "group": "14345592562962162",
+   "caption_id": 8431,
+   "checkedAt": 1793201289431
   }
  },
  "groups": {
@@ -6692,6 +7292,594 @@
    ],
    "historical": 7927,
    "date": "2026-09-20"
+  },
+  "14345589747631490": {
+   "ids": [
+    8365,
+    8366,
+    8367,
+    8368,
+    8369
+   ],
+   "text": "Кофта мужская #MassimoDutti ✔️✔️✔️✔️✔️\n\nШерсть 95%, кашемир 5%\nРазмер: XL\n▪️9900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgrWriCn46tajwPZ32O66aK3GiWL8SAAKuDGsbLcwhSXGp9Z1HZvfIAQADAgADeQADPQQ",
+     "msg_id": 8365
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgrmriCn6Q1mvBp0wTPsV3KZbAppmxAAKvDGsbLcwhSWUNub23_wWoAQADAgADeQADPQQ",
+     "msg_id": 8366
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgr2riCn5C45Xw-CZbCRVMkm8GbAUYAAKwDGsbLcwhSX0jb2j6PhmdAQADAgADeQADPQQ",
+     "msg_id": 8367
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgsGriCn633j_yg9Gpo-UpTBj4pL-sAAKxDGsbLcwhSV-cpOPaqGWxAQADAgADeQADPQQ",
+     "msg_id": 8368
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgsWriCn7a0m7vborGUqUc5RkC6DSqAAKyDGsbLcwhSfkHFVREz8HqAQADAgADeQADPQQ",
+     "msg_id": 8369
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8365
+  },
+  "14345589910241218": {
+   "ids": [
+    8370,
+    8371,
+    8372,
+    8373
+   ],
+   "text": "⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️\nКардиганы #MassimoDutti ✔️✔️✔️✔️✔️\n\nКоричневый - S\nСостав: шерсть 45%, лиоцел 30%, полиамид 20%, кашемир 5%\n▪️6000₽ вместо 8000₽\n\nДля заказа — @tatianamoseuro\nMAX - +7 963 994 7535",
+   "struck": [
+    "8000₽"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgsmriCpJ5mDOdJZ_ekjqG2MDTpia4AAIwpQACnF-pS6XdwbG7EzCRPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiCyauIKknmYM50ln96SOobYwNOmJrgAAjClAAKcX6lLpd3BsbsTMJEBAAdtAAM9BA",
+     "size": 10591034,
+     "msg_id": 8370
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgs2riCpKvZJS-L94dybSkJCqw0UBrAAI9GGsbnF-pS1QQfefYYhAXAQADAgADeQADPQQ",
+     "msg_id": 8371
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgtGriCpIQNri3kTDulxI5636R9hZ5AAI-GGsbnF-pSxnB5PRgO37mAQADAgADeQADPQQ",
+     "msg_id": 8372
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgtWriCpLbUFwzuTwk551yUgVgYnb4AAI_GGsbnF-pSwftQL9txDTnAQADAgADeQADPQQ",
+     "msg_id": 8373
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8370
+  },
+  "14345590057282210": {
+   "ids": [
+    8374,
+    8375,
+    8376,
+    8377,
+    8378,
+    8379,
+    8380
+   ],
+   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nКашемир 100%\nРазмер: S\n\n▪️17900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgtmriCqVEE3APsuV2rNvv8tsWRgzpAALangAC3QmpSBYdDKJgBzKbPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiC2auIKpUQTcA-y5Xas2-_y2xZGDOkAAtqeAALdCalIFh0MomAHMpsBAAdtAAM9BA",
+     "size": 20615108,
+     "msg_id": 8374
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgt2riCqW-2HafxixDBH8jNpAYajEVAAIXImsb3QmpSBPActVrMhJuAQADAgADeQADPQQ",
+     "msg_id": 8375
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIguGriCqUMm4YqIA136QNM-kbaZ5MKAAIYImsb3QmpSDu7Dik3ceLeAQADAgADeQADPQQ",
+     "msg_id": 8376
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIguWriCqU_D1nxg4Tl3CS7OM87Fp1gAAIZImsb3QmpSJQMZBvISscZAQADAgADeQADPQQ",
+     "msg_id": 8377
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgumriCqWk98lgzH7AHhTETJp4BQ_BAAIaImsb3QmpSMnh93HFsRi7AQADAgADeQADPQQ",
+     "msg_id": 8378
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgu2riCqUDvWc-MFAlI7fdhRhLw3RRAAIbImsb3QmpSAi2VBsxqtmXAQADAgADeQADPQQ",
+     "msg_id": 8379
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgvGriCqXp3s3kGScxeM1QRv6i0k5sAAIcImsb3QmpSMePMSEtipV8AQADAgADeQADPQQ",
+     "msg_id": 8380
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8374
+  },
+  "14305377278756522": {
+   "ids": [
+    7665
+   ],
+   "historical": 7665,
+   "date": "2026-08-31"
+  },
+  "14345590784437850": {
+   "ids": [
+    8381,
+    8382,
+    8383,
+    8384,
+    8385,
+    8386,
+    8387
+   ],
+   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nКашемир 100%\nРазмер: S\n▪️22500₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAId8WriCvn5P5xDqVXBFOZ57ry4FWKGAAL-ngAC3QmpSIADpv3zfRAnPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh3xauIK-fk_nEOpVcEU5nnuvLgVYoYAAv6eAALdCalIgAOm_fN9ECcBAAdtAAM9BA",
+     "size": 21699391,
+     "msg_id": 8381
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgvmriCwABubmwxcFAEtpN0e5_jKXLwwACPiJrG90JqUi-U0HyjYI6cQEAAwIAA3kAAz0E",
+     "msg_id": 8382
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgv2riCwABcsG-Ke49AAFmArTNxzfRou4AAj8iaxvdCalIuUMWkAjAn04BAAMCAAN5AAM9BA",
+     "msg_id": 8383
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgwGriCwABgQi0kzSGOHQRGfuMiI4sRAACQCJrG90JqUipnVRYoiAx_wEAAwIAA3kAAz0E",
+     "msg_id": 8384
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgwWriCwABfvZmnc_OwzTcxDJakDKeZgACQSJrG90JqUgxz7AzybPU3gEAAwIAA3kAAz0E",
+     "msg_id": 8385
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgwmriCwABZcER96MysLVoLh26csAdegACQiJrG90JqUjo7fNCBEcgTgEAAwIAA3kAAz0E",
+     "msg_id": 8386
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgw2riCwABus5j8vBKYErenLu9lj1t3gACQyJrG90JqUilgUvZKuBq3wEAAwIAA3kAAz0E",
+     "msg_id": 8387
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8381
+  },
+  "14345591139805538": {
+   "ids": [
+    8388,
+    8389,
+    8390,
+    8391,
+    8392,
+    8393
+   ],
+   "text": "Лонгслив #MassimoDutti ✔️✔️✔️✔️✔️\n\nХлопок 93%, кашемир 7%\nРазмер: М\n▪️4300₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgxGriCyxl0HnKNkGY6hcTlRvncYmdAAJEImsb3QmpSDv77vI06xHoAQADAgADeAADPQQ",
+     "msg_id": 8388
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgxWriCyzGtYQlA7nHnFYIhSY_w_N8AAJFImsb3QmpSIhSK-Q0Zwc0AQADAgADeAADPQQ",
+     "msg_id": 8389
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgxmriCyxc0ayy3ZGYv64-gL1QM2oAA0YiaxvdCalI2fLduVS4n4IBAAMCAAN4AAM9BA",
+     "msg_id": 8390
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgx2riCyyacN5JQ65xIro4BY-HitT6AAJHImsb3QmpSLfRDnHJm7B9AQADAgADeQADPQQ",
+     "msg_id": 8391
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgyGriCywPgyfE5pZFtju7AsF50Z3AAAJIImsb3QmpSMQkkrwY8b_kAQADAgADeQADPQQ",
+     "msg_id": 8392
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgyWriCyxx6L4-kjKT7wkeGRMAAdCuHwACSSJrG90JqUgMP6OCvbCZNwEAAwIAA3kAAz0E",
+     "msg_id": 8393
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8388
+  },
+  "14305377964402858": {
+   "ids": [
+    7678
+   ],
+   "historical": 7678,
+   "date": "2026-08-31"
+  },
+  "14345591506152226": {
+   "ids": [
+    8394,
+    8395,
+    8396,
+    8397,
+    8398
+   ],
+   "text": "Кардиган #MassimoDutti ✔️✔️✔️✔️✔️\n\nШерсть 61%, вискоза 34%, кашемир 5%\nЧерный - S\n▪️9900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAId_mriC1TYWk9SWTWsVYPrWChYxjMzAAJNImsb3QmpSAdEOhl5IE1NAQADAgADeQADPQQ",
+     "msg_id": 8394
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgy2riC1oy0SKIp09uVgRanSQkjFixAAJOImsb3QmpSOe1bZLlJu1UAQADAgADeQADPQQ",
+     "msg_id": 8395
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgzGriC1rf1QLMLthCnlh9KaPqXI7SAAJPImsb3QmpSM2sqJBuMCohAQADAgADeQADPQQ",
+     "msg_id": 8396
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgzWriC1qG90izitNEtZeJN2UuQywLAAJQImsb3QmpSCUehCqAdSFIAQADAgADeQADPQQ",
+     "msg_id": 8397
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgzmriC1p0QRwdcoOlwHJmtWpNBB_jAAJRImsb3QmpSEOppaiqonNNAQADAgADeQADPQQ",
+     "msg_id": 8398
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8394
+  },
+  "14345591697582338": {
+   "ids": [
+    8399,
+    8400,
+    8401,
+    8402,
+    8403
+   ],
+   "text": "Свитер #MassimoDutti ✔️✔️✔️✔️✔️\n\nРазмер: S\nСостав: шерсть 95%, кашемир 5%\n▪️10500₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgz2riC3IonoIQt-_MnI3lal6iazqFAAJTrQACKXz4SeBAH_MwrqvzPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDPauILciieghC378ycjeVqXqJrOoUAAlOtAAIpfPhJ4EAf8zCuq_MBAAdtAAM9BA",
+     "size": 24189836,
+     "msg_id": 8399
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg0GriC3LPe_zcrteR1IHQ8Pb1BV7mAAJnKmsbKXz4SbLq9WoIjSvpAQADAgADeQADPQQ",
+     "msg_id": 8400
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg0WriC3KKf6OJgd17Zl8Z_vm-Dj_GAAJoKmsbKXz4SeLsWdxg_CcdAQADAgADeQADPQQ",
+     "msg_id": 8401
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg0mriC3LH6ewTu4veH02b0k9zLcs7AAJpKmsbKXz4Sf04M9ZUubocAQADAgADeQADPQQ",
+     "msg_id": 8402
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg02riC3LM-2TyldTjI5kHQSCi2aJ7AAJqKmsbKXz4STjwaPytLDhaAQADAgADeQADPQQ",
+     "msg_id": 8403
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8399
+  },
+  "14345591849241426": {
+   "ids": [
+    8404,
+    8405,
+    8406,
+    8407,
+    8408,
+    8409,
+    8410,
+    8411
+   ],
+   "text": "🆕🆕🆕🆕🆕\nКардиган-поло из 100% кашемира #MassimoDutti ✔️✔️✔️✔️✔️\n\nБежевый - М\nСиний - М\n▪️19900₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIg1GriC4XedTNDD9KE0eDyj4yzBTwCAAJdrQACKXz4ST9JTrzNRE17PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDUauILhd51M0MP0oTR4PKPjLMFPAIAAl2tAAIpfPhJP0lOvM1ETXsBAAdtAAM9BA",
+     "size": 23827322,
+     "msg_id": 8404
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIg1WriC4Xe5trT_iIsYeSkTGi4HoqlAAJerQACKXz4SVwtI6U7XlaCPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDVauILhd7m2tP-Iixh5KRMaLgeiqUAAl6tAAIpfPhJXC0jpTteVoIBAAdtAAM9BA",
+     "size": 20180099,
+     "msg_id": 8405
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg1mriC4UDVlXztLUzHpGpF1FuCM_gAAJtKmsbKXz4ST8-dKy0NnF2AQADAgADeQADPQQ",
+     "msg_id": 8406
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg12riC4UkKLjS6bfXbyu4spcfS22wAAJuKmsbKXz4SWTkZddjbrZ3AQADAgADeQADPQQ",
+     "msg_id": 8407
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg2GriC4Xqss-DkiV2JP7BI5usbp6AAAJvKmsbKXz4SRn-CWu-HfotAQADAgADeQADPQQ",
+     "msg_id": 8408
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg2WriC4Ww6_KxWPbUvk19YaxCu3EJAAJwKmsbKXz4SQZt_ZFn7CVMAQADAgADeQADPQQ",
+     "msg_id": 8409
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg2mriC4Xed48sp0k7-GzP5IN2VGw9AAJxKmsbKXz4SVgWyw_6cVDQAQADAgADeQADPQQ",
+     "msg_id": 8410
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg22riC4WdVvy0tRtPx7qtrfG-yduEAAJyKmsbKXz4SdbWA1i-scMxAQADAgADeQADPQQ",
+     "msg_id": 8411
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8404
+  },
+  "14345592024436954": {
+   "ids": [
+    8412,
+    8413,
+    8414,
+    8415,
+    8416
+   ],
+   "text": "🆕🆕🆕🆕🆕\nКардиган #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 45%, лиоцел 30%, полиамид 20%, кашемир 5%\nРазмер: XS\n▪️7000₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg3GriC5sTWpk_gDk9FifcWgAB4tD8oQACcyprGyl8-Enameoap22MFgEAAwIAA3kAAz0E",
+     "msg_id": 8412
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg3WriC5s1kZubzXurJAGJmC3rT54zAAJ0KmsbKXz4SSTEA5rVu8bdAQADAgADeQADPQQ",
+     "msg_id": 8413
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg3mriC5vR6XQsIhukSWX0zixSDHssAAJ1KmsbKXz4SRV8j_Dvlrr6AQADAgADeQADPQQ",
+     "msg_id": 8414
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg32riC5uvsD79W34IK-1MxfN7RrcAA3YqaxspfPhJCnF934dAyaUBAAMCAAN5AAM9BA",
+     "msg_id": 8415
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg4GriC5vSMlRYt24LeAWqUSTx-CG8AAJ3KmsbKXz4SZ9vXX3pB4TNAQADAgADeQADPQQ",
+     "msg_id": 8416
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8412
+  },
+  "14345592193190034": {
+   "ids": [
+    8417,
+    8418,
+    8419,
+    8420,
+    8421
+   ],
+   "text": "🆕🆕🆕🆕🆕\nКардиган с капюшоном #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 95%, кашемир 5%\nРазмер: S, M\n▪️10500₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [
+    "M"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIfbmrY0IRjfAFof6UZeQfi2Icss77eAAL_ngACwsb5SX5kCn9_e38UPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh9uatjQhGN8AWh_pRl5B-LYhyyzvt4AAv-eAALCxvlJfmQKf397fxQBAAdtAAM9BA",
+     "size": 20390038,
+     "msg_id": 8417
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg4mriC7DcZvvB6NDthELNrPXHseK7AAJ5KmsbKXz4ScVPNRGE_-6nAQADAgADeQADPQQ",
+     "msg_id": 8418
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg42riC7Cc9Z3cnwv1HXjmeQ5rBvhNAAJ6KmsbKXz4STGyXlAqrFhxAQADAgADeQADPQQ",
+     "msg_id": 8419
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg5GriC7DGUM55lNyi2MtGr8R6I2wOAAJ7KmsbKXz4SZ7do-hSzyDsAQADAgADeQADPQQ",
+     "msg_id": 8420
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg5WriC7Ag6BIzCVQ1FGH_-4BrFXupAAJ8KmsbKXz4SXhABcqrpyhhAQADAgADeQADPQQ",
+     "msg_id": 8421
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8417
+  },
+  "14345592318806802": {
+   "ids": [
+    8422,
+    8423,
+    8424,
+    8425,
+    8426
+   ],
+   "text": "🆕🆕🆕🆕🆕\nКардиган-поло из 100% кашемира #MassimoDutti ✔️✔️✔️✔️✔️\n\nРазмер: М\n▪️19900₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIg5mriC79R9wABfDpCPp1fyp7wcWLYIAACE6oAAjEKAUrxGiHxNDjcVT0E",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiDmauILv1H3AAF8OkI-nV_KnvBxYtggAAITqgACMQoBSvEaIfE0ONxVAQAHbQADPQQ",
+     "size": 8481856,
+     "msg_id": 8422
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg52riC78BUNIuknEZKN5s0Tkn_ftLAAK2IWsbMQoBSt_et0nD-ZrHAQADAgADeQADPQQ",
+     "msg_id": 8423
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg6GriC7_yP04bcIhYGOL22tYOqDM_AAK3IWsbMQoBSiSICNEYWSZeAQADAgADeQADPQQ",
+     "msg_id": 8424
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg6WriC79HehsNrkRasMy_fF7wJOVHAAK4IWsbMQoBShb9vsbkGvQuAQADAgADeQADPQQ",
+     "msg_id": 8425
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg6mriC78slApZ5fffTqFvp3IAAY_wbQACuSFrGzEKAUppLnppJH67KAEAAwIAA3kAAz0E",
+     "msg_id": 8426
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8422
+  },
+  "14345592461679610": {
+   "ids": [
+    8427,
+    8428,
+    8429,
+    8430
+   ],
+   "text": "Шапка #COS ✔️✔️✔️✔️✔️\n\nШерсть 70%, кашемир 30%\n▪️9800₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg62riC9FsA5cz1FKflhor9ApUmgH8AAKzC2sbnCYBSZdfMi_6tJz_AQADAgADeQADPQQ",
+     "msg_id": 8427
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg7GriC9ErDuMghTOwQ1UNPkmrmikyAAK0C2sbnCYBScZv3awp-8IhAQADAgADeQADPQQ",
+     "msg_id": 8428
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg7WriC9GW_IUznHSGJ55SMAboBoL_AAK1C2sbnCYBSdrkJQLfnvc9AQADAgADeQADPQQ",
+     "msg_id": 8429
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg7mriC9GT2MtjIEukPTqLkaQgDBMnAAK2C2sbnCYBST9anmsn0h4AAQEAAwIAA3kAAz0E",
+     "msg_id": 8430
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8427
+  },
+  "14345592562962162": {
+   "ids": [
+    8431,
+    8432,
+    8433,
+    8434
+   ],
+   "text": "🆕🆕🆕🆕🆕\nДжерси #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 46%, лиоцел 29%, полиамид 21%, кашемир 4%\nРазмер: S, M\n▪️9900₽\n\nЗаписаться на примерку",
+   "struck": [
+    "S"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIfpmraZZUfNS_Ri0kPgqCqLPdSZZCaAAJ7qgACMQoBSkDQfW33qn1OPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh-matpllR81L9GLSQ-CoKos91JlkJoAAnuqAAIxCgFKQNB9bfeqfU4BAAdtAAM9BA",
+     "size": 7985705,
+     "msg_id": 8431
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgh2raZbxc6r8qu-H1B0oXxaUo-emVAAIwImsbMQoBStSS4f63uirhAQADAgADeQADPQQ",
+     "msg_id": 8432
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgiGraZbwNlF13p4vHSM_RYuXOn8f9AAIxImsbMQoBSuswxvvRl2sjAQADAgADeQADPQQ",
+     "msg_id": 8433
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgiWraZbxfOB1EJrdC3rAr1GEdT-zcAAIyImsbMQoBSu8mUGgXO16KAQADAgADeQADPQQ",
+     "msg_id": 8434
+    }
+   ],
+   "date": "2026-10-28",
+   "caption_id": 8431
   }
  },
  "drafts": {},
