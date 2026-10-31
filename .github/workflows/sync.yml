@@ -24,6 +24,7 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           ADMIN_IDS: ${{ secrets.ADMIN_IDS }}
+          DIGEST_BOT_TOKEN: ${{ secrets.DIGEST_BOT_TOKEN }}   # отдельный бот для дайджеста (необязательно)
           CHANNEL: ${{ vars.CHANNEL || '@eurostockmoscowshop' }}
         run: node bot/sync.js
       - name: Опубликовать изменения
