@@ -358,5 +358,10 @@
   "3195": "all",
   "8251": "all"
  },
- "digest": {}
+ "digest": {
+  "channel": "@eurostockmoscow",
+  "enabled": true,
+  "lastDate": "2026-10-31",
+  "coveredUntil": "2026-10-30T21:00:00.000Z"
+ }
 }
