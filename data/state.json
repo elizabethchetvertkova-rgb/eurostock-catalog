@@ -1,5 +1,5 @@
 {
- "offset": 789490157,
+ "offset": 789490168,
  "posts": {
   "206": {
    "id": 206,
@@ -2988,7 +2988,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551191430
+   "checkedAt": 1793566224995
   },
   "6823": {
    "id": 6823,
@@ -3010,7 +3010,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551191275
+   "checkedAt": 1793566224800
   },
   "6871": {
    "id": 6871,
@@ -3032,7 +3032,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551191077
+   "checkedAt": 1793566224611
   },
   "6888": {
    "id": 6888,
@@ -3052,7 +3052,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551190913
+   "checkedAt": 1793566224423
   },
   "6912": {
    "id": 6912,
@@ -3074,7 +3074,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551190701
+   "checkedAt": 1793566224249
   },
   "6925": {
    "id": 6925,
@@ -3096,7 +3096,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551190502
+   "checkedAt": 1793566224058
   },
   "6933": {
    "id": 6933,
@@ -3118,7 +3118,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551190306
+   "checkedAt": 1793566223842
   },
   "6938": {
    "id": 6938,
@@ -3140,7 +3140,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551188644
+   "checkedAt": 1793566223439
   },
   "6946": {
    "id": 6946,
@@ -3162,7 +3162,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551188468
+   "checkedAt": 1793566223235
   },
   "6951": {
    "id": 6951,
@@ -3184,7 +3184,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551188278
+   "checkedAt": 1793566223048
   },
   "6959": {
    "id": 6959,
@@ -3206,7 +3206,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551188085
+   "checkedAt": 1793566222868
   },
   "6989": {
    "id": 6989,
@@ -3228,7 +3228,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551187905
+   "checkedAt": 1793566222674
   },
   "6994": {
    "id": 6994,
@@ -3252,7 +3252,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551187674
+   "checkedAt": 1793566222482
   },
   "7010": {
    "id": 7010,
@@ -3274,7 +3274,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551187498
+   "checkedAt": 1793566222290
   },
   "7015": {
    "id": 7015,
@@ -3296,7 +3296,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551185985
+   "checkedAt": 1793566222097
   },
   "7029": {
    "id": 7029,
@@ -3318,7 +3318,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551185815
+   "checkedAt": 1793566221891
   },
   "7033": {
    "id": 7033,
@@ -3342,7 +3342,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551185644
+   "checkedAt": 1793566221697
   },
   "7038": {
    "id": 7038,
@@ -3364,7 +3364,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793551185457
+   "checkedAt": 1793566221500
   },
   "7043": {
    "id": 7043,
@@ -3388,7 +3388,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549168360
+   "checkedAt": 1793566221310
   },
   "7053": {
    "id": 7053,
@@ -3412,7 +3412,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549168078
+   "checkedAt": 1793566221108
   },
   "7063": {
    "id": 7063,
@@ -3436,7 +3436,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549167771
+   "checkedAt": 1793566220910
   },
   "7068": {
    "id": 7068,
@@ -3460,7 +3460,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549167461
+   "checkedAt": 1793566220724
   },
   "7072": {
    "id": 7072,
@@ -3484,7 +3484,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549167185
+   "checkedAt": 1793566220513
   },
   "7077": {
    "id": 7077,
@@ -3508,7 +3508,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549166911
+   "checkedAt": 1793566220320
   },
   "7085": {
    "id": 7085,
@@ -3532,7 +3532,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549166644
+   "checkedAt": 1793566220102
   },
   "7095": {
    "id": 7095,
@@ -3554,7 +3554,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549166377
+   "checkedAt": 1793566219893
   },
   "7100": {
    "id": 7100,
@@ -3578,7 +3578,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549166064
+   "checkedAt": 1793566219696
   },
   "7108": {
    "id": 7108,
@@ -3600,7 +3600,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549165780
+   "checkedAt": 1793566219462
   },
   "7126": {
    "id": 7126,
@@ -3622,7 +3622,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549165518
+   "checkedAt": 1793566219272
   },
   "7142": {
    "id": 7142,
@@ -3644,7 +3644,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549165267
+   "checkedAt": 1793566219096
   },
   "7205": {
    "id": 7205,
@@ -3668,7 +3668,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549165022
+   "checkedAt": 1793566218905
   },
   "7209": {
    "id": 7209,
@@ -3692,7 +3692,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549164761
+   "checkedAt": 1793566218723
   },
   "7236": {
    "id": 7236,
@@ -3714,7 +3714,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549164469
+   "checkedAt": 1793566218528
   },
   "7240": {
    "id": 7240,
@@ -3738,7 +3738,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549164213
+   "checkedAt": 1793566218331
   },
   "7245": {
    "id": 7245,
@@ -3762,7 +3762,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549163925
+   "checkedAt": 1793566218131
   },
   "7267": {
    "id": 7267,
@@ -3786,7 +3786,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549163663
+   "checkedAt": 1793566217923
   },
   "7276": {
    "id": 7276,
@@ -3804,7 +3804,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793549163392
+   "checkedAt": 1793566217715
   },
   "7297": {
    "id": 7297,
@@ -6596,7 +6596,7 @@
    ],
    "group": "14345591139805538",
    "caption_id": 8388,
-   "checkedAt": 1793551190135
+   "checkedAt": 1793566223605
   },
   "8394": {
    "id": 8394,
@@ -6948,6 +6948,94 @@
    "group": "14345592562962162",
    "caption_id": 8431,
    "checkedAt": 1793551192460
+  },
+  "8435": {
+   "id": 8435,
+   "date": "2026-11-01",
+   "text": "Пуховик 🛍️ Premium \nснова ✔️✔️✔️✔️✔️\n\nНаполнение: пух, перо \nРазмер: S\n▪️27900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg82rno6lE0tgzUosxGHFBqLsAAXJlqAACIR1rG3meQUuZ7b-qIaN8LQEAAwIAA3kAAz0E",
+     "msg_id": 8435,
+     "key": "8435_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg9Grno6mtlumW7fqb660l27VtNB7bAAIiHWsbeZ5BS4n3eCLhCIo7AQADAgADeQADPQQ",
+     "msg_id": 8436,
+     "key": "8435_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg9Wrno6mfJwtdsaiMErFUg4dlY9XGAAIjHWsbeZ5BS92lsnlKEmTGAQADAgADeQADPQQ",
+     "msg_id": 8437,
+     "key": "8435_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg9mrno6mCy6RPKGZzQ_myU1Ta10mFAAIkHWsbeZ5BSy_7PaTrNz0PAQADAgADeQADPQQ",
+     "msg_id": 8438,
+     "key": "8435_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg92rno6niVeVWyqsOyK8_v-YgFfZDAAIlHWsbeZ5BS60YPYiHYQYOAQADAgADeQADPQQ",
+     "msg_id": 8439,
+     "key": "8435_4"
+    }
+   ],
+   "group": "14348524872763522",
+   "caption_id": 8435,
+   "checkedAt": 1793566217536
+  },
+  "8440": {
+   "id": 8440,
+   "date": "2026-11-01",
+   "text": "Пуховик 🛍️ Premium \n✔️✔️✔️✔️✔️\n\nНаполнение: пух, перо \nРазмер: XS\n▪️27900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-GrnpAKtC0QJanfHSFfuKN0ZsuNaAAInHWsbeZ5BS5efe-feRGfOAQADAgADeQADPQQ",
+     "msg_id": 8440,
+     "key": "8440_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-WrnpALb6itfES1DIr3EoBST_hO4AAIoHWsbeZ5BSxhW_ZJqFdjVAQADAgADeQADPQQ",
+     "msg_id": 8441,
+     "key": "8440_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-mrnpAKNlkt4omDNsj4KGr0gZY7oAAIpHWsbeZ5BS-2uWxdctJLKAQADAgADeQADPQQ",
+     "msg_id": 8442,
+     "key": "8440_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-2rnpAI097g5qTSQHM7jIpZ1EtfsAAIqHWsbeZ5BS0n-lPOK691tAQADAgADeQADPQQ",
+     "msg_id": 8443,
+     "key": "8440_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg_GrnpAJGHqQNEcEyEiZbZRybFKwIAAIrHWsbeZ5BS2hXWlyo8hMEAQADAgADeQADPQQ",
+     "msg_id": 8444,
+     "key": "8440_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg_WrnpALUkRw2qhY1IMlfkn-JtlmCAAIsHWsbeZ5BSzclAUIPVadGAQADAgADeQADPQQ",
+     "msg_id": 8445,
+     "key": "8440_5"
+    }
+   ],
+   "group": "14348525582577218",
+   "caption_id": 8440,
+   "checkedAt": 1793566217350
   }
  },
  "groups": {
@@ -7922,6 +8010,92 @@
    ],
    "historical": 8291,
    "date": "2026-10-14"
+  },
+  "14348524872763522": {
+   "ids": [
+    8435,
+    8436,
+    8437,
+    8438,
+    8439
+   ],
+   "text": "Пуховик 🛍️ Premium \nснова ✔️✔️✔️✔️✔️\n\nНаполнение: пух, перо \nРазмер: S\n▪️27900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg82rno6lE0tgzUosxGHFBqLsAAXJlqAACIR1rG3meQUuZ7b-qIaN8LQEAAwIAA3kAAz0E",
+     "msg_id": 8435
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg9Grno6mtlumW7fqb660l27VtNB7bAAIiHWsbeZ5BS4n3eCLhCIo7AQADAgADeQADPQQ",
+     "msg_id": 8436
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg9Wrno6mfJwtdsaiMErFUg4dlY9XGAAIjHWsbeZ5BS92lsnlKEmTGAQADAgADeQADPQQ",
+     "msg_id": 8437
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg9mrno6mCy6RPKGZzQ_myU1Ta10mFAAIkHWsbeZ5BSy_7PaTrNz0PAQADAgADeQADPQQ",
+     "msg_id": 8438
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg92rno6niVeVWyqsOyK8_v-YgFfZDAAIlHWsbeZ5BS60YPYiHYQYOAQADAgADeQADPQQ",
+     "msg_id": 8439
+    }
+   ],
+   "date": "2026-11-01",
+   "caption_id": 8435
+  },
+  "14348525582577218": {
+   "ids": [
+    8440,
+    8441,
+    8442,
+    8443,
+    8444,
+    8445
+   ],
+   "text": "Пуховик 🛍️ Premium \n✔️✔️✔️✔️✔️\n\nНаполнение: пух, перо \nРазмер: XS\n▪️27900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-GrnpAKtC0QJanfHSFfuKN0ZsuNaAAInHWsbeZ5BS5efe-feRGfOAQADAgADeQADPQQ",
+     "msg_id": 8440
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-WrnpALb6itfES1DIr3EoBST_hO4AAIoHWsbeZ5BSxhW_ZJqFdjVAQADAgADeQADPQQ",
+     "msg_id": 8441
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-mrnpAKNlkt4omDNsj4KGr0gZY7oAAIpHWsbeZ5BS-2uWxdctJLKAQADAgADeQADPQQ",
+     "msg_id": 8442
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg-2rnpAI097g5qTSQHM7jIpZ1EtfsAAIqHWsbeZ5BS0n-lPOK691tAQADAgADeQADPQQ",
+     "msg_id": 8443
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg_GrnpAJGHqQNEcEyEiZbZRybFKwIAAIrHWsbeZ5BS2hXWlyo8hMEAQADAgADeQADPQQ",
+     "msg_id": 8444
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIg_WrnpALUkRw2qhY1IMlfkn-JtlmCAAIsHWsbeZ5BSzclAUIPVadGAQADAgADeQADPQQ",
+     "msg_id": 8445
+    }
+   ],
+   "date": "2026-11-01",
+   "caption_id": 8440
   }
  },
  "drafts": {},
@@ -7930,7 +8104,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383313741,
+ "digestOffset": 383313752,
  "feed": {
   "items": {
    "67692": {
@@ -8613,6 +8787,83 @@
     ],
     "hashtagBrand": true,
     "textId": 67872
+   },
+   "67879": {
+    "id": 67879,
+    "url": "https://t.me/eurostockmoscow/67879",
+    "date": 1793564770,
+    "text": "🇪🇸 Набор настоящего вкуса Испании!\n\nСобрали набор испанских деликатесов — всё самое вкусное для уютных вечеров, красивой сервировки или в подарок близким.\n\n🏷Целых 4 кг испанских вкусностей всего за 9 990₽ 🤍\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCSdq56BiKl2vIyCKwmFbPkVHO-RYzAACbBxrG0k2QEso19rJ7ZGAPQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCShq56Bi2zUIgGxhuR6tvzSzAAHApbYAAm0caxtJNkBLNoeYjxFe7DMBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBCSlq56BiOPGd0ljGPuEimhv3w3cJsQACRKkAAkk2QEsVe81EnuPlOD0E"
+    ],
+    "hashtagBrand": false,
+    "textId": 67879
+   },
+   "67882": {
+    "id": 67882,
+    "url": "https://t.me/eurostockmoscow/67882",
+    "date": 1793565111,
+    "text": "Также вы можете заказать испанское масло отдельно 🇪🇸\n\nОливковое масло, 1л 🫒\n▪️1750₽\nДоставка в РФ включена в стоимость \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCSpq56G3cAOBXuyzbkxpSC-x-EBDqgACbxxrG0k2QEsj5gSfVG2yxQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCStq56G3zrN5IfcwXRfeL0OLbof1zAACcBxrG0k2QEuFHTBVQMllWwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCSxq56G3i6L62t1Kdyep9pkDodsqIwACcRxrG0k2QEtQ6tUctoCUCgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 67882
+   },
+   "67885": {
+    "id": 67885,
+    "url": "https://t.me/eurostockmoscow/67885",
+    "date": 1793565162,
+    "text": "Также вы можете заказать испанское масло отдельно 🇪🇸\n\nОливковое масло, 1л 🫒\n▪️2200₽\nДоставка в РФ включена в стоимость \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCS1q56HqzO9I2dWb6QLN_eC-FMCffQACchxrG0k2QEtEv2zOeedWaQEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 67885
+   },
+   "67886": {
+    "id": 67886,
+    "url": "https://t.me/eurostockmoscow/67886",
+    "date": 1793565190,
+    "text": "Также вы можете заказать испанское масло отдельно 🇪🇸\n\nОливковое масло, 1л 🫒\n▪️1750₽\nДоставка в РФ включена в стоимость \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCS5q56IGkJWpdEx97vTM7wlLkJmaRgACcxxrG0k2QEvxQN6zyoS8wAEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 67886
+   },
+   "67887": {
+    "id": 67887,
+    "url": "https://t.me/eurostockmoscow/67887",
+    "date": 1793565234,
+    "text": "Также вы можете заказать испанское масло отдельно 🇪🇸\n\nОливковое масло, 0,25л 🫒\n▪️750₽\nДоставка в РФ включена в стоимость \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCS9q56Iye6Hht5Z56fjs-f87P_j2hwACdBxrG0k2QEutEI9-iB6iegEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 67887
+   },
+   "67888": {
+    "id": 67888,
+    "url": "https://t.me/eurostockmoscow/67888",
+    "date": 1793565252,
+    "text": "Также вы можете заказать испанское масло отдельно 🇪🇸\n\nОливковое масло, 1л 🫒\n▪️1500₽\nДоставка в РФ включена в стоимость \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCTBq56JEsDWmic-UsnCj6PdGgVW3ZgACdRxrG0k2QEsQeyUO9bhHJgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 67888
    }
   },
   "groups": {
@@ -8657,7 +8908,9 @@
    "14348294745338730": 67854,
    "14348294745338738": 67860,
    "14348294745338746": 67866,
-   "14348294745338754": 67872
+   "14348294745338754": 67872,
+   "14348518161754378": 67879,
+   "14348520894121730": 67882
   }
  }
 }
