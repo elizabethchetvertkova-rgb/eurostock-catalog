@@ -174,7 +174,7 @@
    ],
    "group": "13961443997483026",
    "caption_id": 573,
-   "checkedAt": 1793601984954,
+   "checkedAt": 1793630953224,
    "deleted": true
   },
   "948": {
@@ -4281,7 +4281,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606804841
+   "checkedAt": 1793630959544
   },
   "7583": {
    "id": 7583,
@@ -4305,7 +4305,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606804631
+   "checkedAt": 1793630959310
   },
   "7603": {
    "id": 7603,
@@ -4327,7 +4327,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606804410
+   "checkedAt": 1793630959008
   },
   "7620": {
    "id": 7620,
@@ -4351,7 +4351,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606802348
+   "checkedAt": 1793630956721
   },
   "7624": {
    "id": 7624,
@@ -4373,7 +4373,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606802148
+   "checkedAt": 1793630956403
   },
   "7630": {
    "id": 7630,
@@ -4395,7 +4395,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606801884
+   "checkedAt": 1793630956178
   },
   "7634": {
    "id": 7634,
@@ -4413,7 +4413,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606801680
+   "checkedAt": 1793630955920
   },
   "7637": {
    "id": 7637,
@@ -4427,7 +4427,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606801461
+   "checkedAt": 1793630955664
   },
   "7640": {
    "id": 7640,
@@ -4449,7 +4449,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606801288
+   "checkedAt": 1793630955468
   },
   "7646": {
    "id": 7646,
@@ -4471,7 +4471,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601986417
+   "checkedAt": 1793630955231
   },
   "7653": {
    "id": 7653,
@@ -4493,7 +4493,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601986226,
+   "checkedAt": 1793630954979,
    "deleted": true
   },
   "7660": {
@@ -4513,7 +4513,7 @@
    ],
    "group": "14305369095718082",
    "caption_id": 7660,
-   "checkedAt": 1793601984850,
+   "checkedAt": 1793630953061,
    "deleted": true
   },
   "7665": {
@@ -4544,7 +4544,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601986114,
+   "checkedAt": 1793630954808,
    "group": "14305377278756522",
    "caption_id": 7665,
    "deleted": true
@@ -4569,7 +4569,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601986005,
+   "checkedAt": 1793630954627,
    "deleted": true
   },
   "7678": {
@@ -4592,7 +4592,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601985879,
+   "checkedAt": 1793630954455,
    "group": "14305377964402858",
    "caption_id": 7678,
    "deleted": true
@@ -4617,7 +4617,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601985776,
+   "checkedAt": 1793630954293,
    "deleted": true
   },
   "7697": {
@@ -4640,7 +4640,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601985673
+   "checkedAt": 1793630954124
   },
   "7702": {
    "id": 7702,
@@ -4649,7 +4649,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1793601985504
+   "checkedAt": 1793630953902
   },
   "7704": {
    "id": 7704,
@@ -4671,7 +4671,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601985357
+   "checkedAt": 1793630953676
   },
   "7707": {
    "id": 7707,
@@ -4693,7 +4693,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601985140
+   "checkedAt": 1793630953448
   },
   "7750": {
    "id": 7750,
@@ -4715,7 +4715,8 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601984750
+   "checkedAt": 1793630952900,
+   "deleted": true
   },
   "7755": {
    "id": 7755,
@@ -4733,7 +4734,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601984572,
+   "checkedAt": 1793630952736,
    "deleted": true
   },
   "7758": {
@@ -4748,7 +4749,8 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601984471
+   "checkedAt": 1793630952572,
+   "deleted": true
   },
   "7761": {
    "id": 7761,
@@ -4766,7 +4768,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601984209
+   "checkedAt": 1793630952235
   },
   "7764": {
    "id": 7764,
@@ -4788,7 +4790,8 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601984007
+   "checkedAt": 1793630951995,
+   "deleted": true
   },
   "7768": {
    "id": 7768,
@@ -4810,7 +4813,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601983830
+   "checkedAt": 1793630951834
   },
   "7777": {
    "id": 7777,
@@ -4832,7 +4835,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601983561
+   "checkedAt": 1793630951571
   },
   "7819": {
    "id": 7819,
@@ -4850,7 +4853,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601983371
+   "checkedAt": 1793630951328
   },
   "7827": {
    "id": 7827,
@@ -5874,7 +5877,7 @@
    ],
    "group": "14335910927961106",
    "caption_id": 8251,
-   "checkedAt": 1793601984313,
+   "checkedAt": 1793630952408,
    "deleted": true
   },
   "8253": {
@@ -6403,7 +6406,7 @@
    ],
    "group": "14345589747631490",
    "caption_id": 8365,
-   "checkedAt": 1793606804139
+   "checkedAt": 1793630958771
   },
   "8370": {
    "id": 8370,
@@ -6442,7 +6445,7 @@
    ],
    "group": "14345589910241218",
    "caption_id": 8370,
-   "checkedAt": 1793606803944,
+   "checkedAt": 1793630958562,
    "deleted": true
   },
   "8374": {
@@ -6498,7 +6501,7 @@
    ],
    "group": "14345590057282210",
    "caption_id": 8374,
-   "checkedAt": 1793606803811
+   "checkedAt": 1793630958398
   },
   "8381": {
    "id": 8381,
@@ -6553,7 +6556,7 @@
    ],
    "group": "14345590784437850",
    "caption_id": 8381,
-   "checkedAt": 1793606803603
+   "checkedAt": 1793630958179
   },
   "8388": {
    "id": 8388,
@@ -6641,7 +6644,7 @@
    ],
    "group": "14345591506152226",
    "caption_id": 8394,
-   "checkedAt": 1793606803412
+   "checkedAt": 1793630957947
   },
   "8399": {
    "id": 8399,
@@ -6684,7 +6687,7 @@
    ],
    "group": "14345591697582338",
    "caption_id": 8399,
-   "checkedAt": 1793606803240,
+   "checkedAt": 1793630957736,
    "deleted": true
   },
   "8404": {
@@ -6748,7 +6751,7 @@
    ],
    "group": "14345591849241426",
    "caption_id": 8404,
-   "checkedAt": 1793606803105
+   "checkedAt": 1793630957573
   },
   "8412": {
    "id": 8412,
@@ -6789,7 +6792,7 @@
    ],
    "group": "14345592024436954",
    "caption_id": 8412,
-   "checkedAt": 1793606802915
+   "checkedAt": 1793630957336
   },
   "8417": {
    "id": 8417,
@@ -6834,7 +6837,7 @@
    ],
    "group": "14345592193190034",
    "caption_id": 8417,
-   "checkedAt": 1793606802739
+   "checkedAt": 1793630957138
   },
   "8422": {
    "id": 8422,
@@ -6912,7 +6915,7 @@
    ],
    "group": "14345592461679610",
    "caption_id": 8427,
-   "checkedAt": 1793606802556
+   "checkedAt": 1793630956929
   },
   "8431": {
    "id": 8431,
@@ -8212,7 +8215,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383313904,
+ "digestOffset": 383313910,
  "feed": {
   "items": {
    "67624": {
@@ -9384,6 +9387,24 @@
     ],
     "hashtagBrand": true,
     "textId": 68033
+   },
+   "68039": {
+    "id": 68039,
+    "url": "https://t.me/eurostockmoscow/68039",
+    "date": 1793630187,
+    "text": "Твой повседневный стиль с #Adidas 🌟\n\n▪️ 11200₽\n\nЗаказать: \n🔔 @zaikakv",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCchq6J_r1HW7sxMtC8WHUayPjFx9XQACKyJrGx7aSEvKDzf_Zoz_gAEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCclq6J_rnv3o0D_BjYRGlR5tLfyLeQACzCJrGyXtSEvHcrgbWdW3AwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCcpq6J_rAAHJ-OBGLAcatpkoc6V3b3AAAs0iaxsl7UhLzR3BOhqFVBIBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBCctq6J_re0OfZ2KLCsf9Q9fn52pD9QACziJrGyXtSEtUTflwpgKy1AEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCcxq6J_razIEjmVW8--c5X5HkaQ52gACzyJrGyXtSEsWEFZ0Ne4VbwEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBCcdq6J_roQh9w9y1a_oSC35JRghaaQACoLIAAiXtSEuBRkvEpGdOET0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 68039
    }
   },
   "groups": {
@@ -9453,7 +9474,8 @@
    "14347553159234354": 67624,
    "14349013563920346": 68023,
    "14349013934947818": 68029,
-   "14349014019266138": 68033
+   "14349014019266138": 68033,
+   "14349041500345186": 68039
   }
  }
 }
