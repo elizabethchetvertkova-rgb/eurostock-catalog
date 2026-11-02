@@ -1,5 +1,5 @@
 {
- "offset": 789490222,
+ "offset": 789490233,
  "posts": {
   "206": {
    "id": 206,
@@ -1996,7 +1996,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617228650
+   "checkedAt": 1793641175316
   },
   "5814": {
    "id": 5814,
@@ -2018,7 +2018,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617228453
+   "checkedAt": 1793641175139
   },
   "5822": {
    "id": 5822,
@@ -2040,7 +2040,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617228278
+   "checkedAt": 1793641174952
   },
   "5840": {
    "id": 5840,
@@ -2062,7 +2062,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617228114
+   "checkedAt": 1793641174768
   },
   "5868": {
    "id": 5868,
@@ -2086,7 +2086,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617227928
+   "checkedAt": 1793641174567
   },
   "5873": {
    "id": 5873,
@@ -2104,7 +2104,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617227587
+   "checkedAt": 1793641174200
   },
   "5883": {
    "id": 5883,
@@ -2126,7 +2126,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617227419
+   "checkedAt": 1793641174029
   },
   "5897": {
    "id": 5897,
@@ -2148,7 +2148,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617227241
+   "checkedAt": 1793641173817
   },
   "5926": {
    "id": 5926,
@@ -2170,7 +2170,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617227069
+   "checkedAt": 1793641173608
   },
   "6069": {
    "id": 6069,
@@ -2192,7 +2192,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617226891
+   "checkedAt": 1793641173423
   },
   "6090": {
    "id": 6090,
@@ -2214,7 +2214,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617226222
+   "checkedAt": 1793641173204
   },
   "6097": {
    "id": 6097,
@@ -2236,7 +2236,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793617225996
+   "checkedAt": 1793641172988
   },
   "6115": {
    "id": 6115,
@@ -2256,7 +2256,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613894883
+   "checkedAt": 1793641172767
   },
   "6129": {
    "id": 6129,
@@ -2280,7 +2280,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613894689
+   "checkedAt": 1793641172317
   },
   "6133": {
    "id": 6133,
@@ -2304,7 +2304,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613894486
+   "checkedAt": 1793641172132
   },
   "6137": {
    "id": 6137,
@@ -2328,7 +2328,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613894290
+   "checkedAt": 1793641171931
   },
   "6189": {
    "id": 6189,
@@ -2352,7 +2352,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613894114
+   "checkedAt": 1793641171758
   },
   "6205": {
    "id": 6205,
@@ -2374,7 +2374,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613893939
+   "checkedAt": 1793641171575
   },
   "6231": {
    "id": 6231,
@@ -2396,7 +2396,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613893760
+   "checkedAt": 1793641171387
   },
   "6239": {
    "id": 6239,
@@ -2418,7 +2418,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613893555
+   "checkedAt": 1793641171190
   },
   "6249": {
    "id": 6249,
@@ -2432,7 +2432,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613893347
+   "checkedAt": 1793641170959
   },
   "6278": {
    "id": 6278,
@@ -2454,7 +2454,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613893207
+   "checkedAt": 1793641170797
   },
   "6292": {
    "id": 6292,
@@ -2468,7 +2468,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613892994
+   "checkedAt": 1793641170587
   },
   "6295": {
    "id": 6295,
@@ -2482,7 +2482,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613892779
+   "checkedAt": 1793641170386
   },
   "6296": {
    "id": 6296,
@@ -2504,7 +2504,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613892628
+   "checkedAt": 1793641170224
   },
   "6323": {
    "id": 6323,
@@ -2526,7 +2526,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613892445
+   "checkedAt": 1793641170034
   },
   "6347": {
    "id": 6347,
@@ -2548,7 +2548,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613892232
+   "checkedAt": 1793641169845
   },
   "6365": {
    "id": 6365,
@@ -2559,7 +2559,7 @@
    ],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1793613892007
+   "checkedAt": 1793641169634
   },
   "6411": {
    "id": 6411,
@@ -2573,7 +2573,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613891878
+   "checkedAt": 1793641169487
   },
   "6490": {
    "id": 6490,
@@ -2595,7 +2595,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613891750
+   "checkedAt": 1793641169337
   },
   "6498": {
    "id": 6498,
@@ -2617,7 +2617,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613891512
+   "checkedAt": 1793641169152
   },
   "6577": {
    "id": 6577,
@@ -2639,7 +2639,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613891344
+   "checkedAt": 1793641168933
   },
   "6594": {
    "id": 6594,
@@ -2661,7 +2661,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613891138
+   "checkedAt": 1793641168751
   },
   "6607": {
    "id": 6607,
@@ -2683,7 +2683,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613890945
+   "checkedAt": 1793641168551
   },
   "6612": {
    "id": 6612,
@@ -2705,7 +2705,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613890778
+   "checkedAt": 1793641168363
   },
   "6623": {
    "id": 6623,
@@ -2727,7 +2727,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613890565
+   "checkedAt": 1793641168166
   },
   "6638": {
    "id": 6638,
@@ -2749,7 +2749,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613890403
+   "checkedAt": 1793641167963
   },
   "6670": {
    "id": 6670,
@@ -2771,7 +2771,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793613890212
+   "checkedAt": 1793641167767
   },
   "6679": {
    "id": 6679,
@@ -2782,7 +2782,7 @@
    ],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1793613889933
+   "checkedAt": 1793641167581
   },
   "6693": {
    "id": 6693,
@@ -6234,7 +6234,7 @@
    ],
    "group": "14343340458161058",
    "caption_id": 8336,
-   "checkedAt": 1793617227744
+   "checkedAt": 1793641174375
   },
   "8343": {
    "id": 8343,
@@ -8729,7 +8729,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383313914,
+ "digestOffset": 383313918,
  "feed": {
   "items": {
    "67624": {
@@ -9934,6 +9934,20 @@
     ],
     "hashtagBrand": false,
     "textId": 68045
+   },
+   "68048": {
+    "id": 68048,
+    "url": "https://t.me/eurostockmoscow/68048",
+    "date": 1793639427,
+    "text": "Вау! \nJACQUEMUS -25% 🔥🔥🔥\n\n▪️19900₽ вместо 26500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCdBq6MQD2yxJH9VDgeyd8pqb2D65OQACwiNrGyXtSEsnxvojAAFUYQwBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBCdFq6MQDj-l-ZC10LZxTLwp_bXSapgACwyNrGyXtSEs_KwHlWgcVPQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCdJq6MQDQYAwwvBJYi2BKIl2maVqhQACxCNrGyXtSEvX0Lawb5067AEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 68048
    }
   },
   "groups": {
@@ -10005,7 +10019,8 @@
    "14349013934947818": 68029,
    "14349014019266138": 68033,
    "14349041500345186": 68039,
-   "14349074848752698": 68045
+   "14349074848752698": 68045,
+   "14349115416310306": 68048
   }
  }
 }
