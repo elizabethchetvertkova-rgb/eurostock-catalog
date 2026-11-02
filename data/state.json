@@ -1,5 +1,5 @@
 {
- "offset": 789490182,
+ "offset": 789490196,
  "posts": {
   "206": {
    "id": 206,
@@ -3556,7 +3556,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610288361
+   "checkedAt": 1793634080280
   },
   "7100": {
    "id": 7100,
@@ -3580,7 +3580,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610288173
+   "checkedAt": 1793634080017
   },
   "7108": {
    "id": 7108,
@@ -3602,7 +3602,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610287957
+   "checkedAt": 1793634079746
   },
   "7126": {
    "id": 7126,
@@ -3624,7 +3624,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610287763
+   "checkedAt": 1793634079455
   },
   "7142": {
    "id": 7142,
@@ -3646,7 +3646,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610287557
+   "checkedAt": 1793634079205
   },
   "7205": {
    "id": 7205,
@@ -3670,7 +3670,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610287378
+   "checkedAt": 1793634078972
   },
   "7209": {
    "id": 7209,
@@ -3694,7 +3694,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610287205
+   "checkedAt": 1793634078740
   },
   "7236": {
    "id": 7236,
@@ -3716,7 +3716,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610287006
+   "checkedAt": 1793634078453
   },
   "7240": {
    "id": 7240,
@@ -3740,7 +3740,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610286821
+   "checkedAt": 1793634078147
   },
   "7245": {
    "id": 7245,
@@ -3764,7 +3764,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610286641
+   "checkedAt": 1793634077815
   },
   "7267": {
    "id": 7267,
@@ -3788,7 +3788,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610286434
+   "checkedAt": 1793634077572
   },
   "7276": {
    "id": 7276,
@@ -3806,7 +3806,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610286265
+   "checkedAt": 1793634077323
   },
   "7297": {
    "id": 7297,
@@ -3828,7 +3828,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610285952
+   "checkedAt": 1793634076862
   },
   "7302": {
    "id": 7302,
@@ -3852,7 +3852,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793610285780
+   "checkedAt": 1793634076590
   },
   "7307": {
    "id": 7307,
@@ -3877,7 +3877,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606809104
+   "checkedAt": 1793634075836
   },
   "7374": {
    "id": 7374,
@@ -3902,7 +3902,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606808884
+   "checkedAt": 1793634075576
   },
   "7379": {
    "id": 7379,
@@ -3926,7 +3926,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606808671
+   "checkedAt": 1793634075353
   },
   "7384": {
    "id": 7384,
@@ -3951,7 +3951,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606808459
+   "checkedAt": 1793634075104
   },
   "7398": {
    "id": 7398,
@@ -3972,7 +3972,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606808133
+   "checkedAt": 1793634074815
   },
   "7401": {
    "id": 7401,
@@ -3996,7 +3996,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606807913
+   "checkedAt": 1793634074513
   },
   "7404": {
    "id": 7404,
@@ -4020,7 +4020,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606807550
+   "checkedAt": 1793634074283
   },
   "7407": {
    "id": 7407,
@@ -4044,7 +4044,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606807356
+   "checkedAt": 1793634074065
   },
   "7427": {
    "id": 7427,
@@ -4058,7 +4058,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606807147,
+   "checkedAt": 1793634073827,
    "deleted": true
   },
   "7433": {
@@ -4083,7 +4083,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606806814
+   "checkedAt": 1793634073438
   },
   "7438": {
    "id": 7438,
@@ -4105,7 +4105,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606806608
+   "checkedAt": 1793634073182
   },
   "7458": {
    "id": 7458,
@@ -4129,7 +4129,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606806371,
+   "checkedAt": 1793634072902,
    "deleted": true
   },
   "7465": {
@@ -4144,7 +4144,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606806234
+   "checkedAt": 1793634072738
   },
   "7481": {
    "id": 7481,
@@ -4166,7 +4166,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606806063
+   "checkedAt": 1793634072537
   },
   "7507": {
    "id": 7507,
@@ -4188,7 +4188,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606805828
+   "checkedAt": 1793634072196
   },
   "7542": {
    "id": 7542,
@@ -4210,7 +4210,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606805618
+   "checkedAt": 1793634071966
   },
   "7545": {
    "id": 7545,
@@ -4234,7 +4234,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606805233
+   "checkedAt": 1793634071521
   },
   "7562": {
    "id": 7562,
@@ -4256,7 +4256,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793606805044
+   "checkedAt": 1793634071298
   },
   "7565": {
    "id": 7565,
@@ -5791,7 +5791,7 @@
    ],
    "group": "14335213500016586",
    "caption_id": 8227,
-   "checkedAt": 1793610285598
+   "checkedAt": 1793634076269
   },
   "8234": {
    "id": 8234,
@@ -5949,7 +5949,7 @@
   "8273": {
    "id": 8273,
    "date": "2026-10-14",
-   "text": "Готовимся к зиме! ❄️\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, S\n▪️26900₽\n\nЗаписаться на примерку",
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, S, L\n▪️26900₽\n\nЗаписаться на примерку",
    "struck": [
     "S"
    ],
@@ -5965,7 +5965,8 @@
    ],
    "group": "14335979516635290",
    "caption_id": 8273,
-   "checkedAt": 1793623520058
+   "checkedAt": 1793634071054,
+   "deleted": true
   },
   "8281": {
    "id": 8281,
@@ -6314,7 +6315,7 @@
    ],
    "group": "14344199618442778",
    "caption_id": 8352,
-   "checkedAt": 1793606809246,
+   "checkedAt": 1793634076004,
    "deleted": true
   },
   "8359": {
@@ -6880,7 +6881,7 @@
    ],
    "group": "14345592318806802",
    "caption_id": 8422,
-   "checkedAt": 1793606807014
+   "checkedAt": 1793634073664
   },
   "8427": {
    "id": 8427,
@@ -6995,7 +6996,7 @@
    ],
    "group": "14348524872763522",
    "caption_id": 8435,
-   "checkedAt": 1793610286109
+   "checkedAt": 1793634077066
   },
   "8440": {
    "id": 8440,
@@ -7042,7 +7043,7 @@
    ],
    "group": "14348525582577218",
    "caption_id": 8440,
-   "checkedAt": 1793606805404
+   "checkedAt": 1793634071727
   },
   "8446": {
    "id": 8446,
@@ -7095,6 +7096,114 @@
    ],
    "group": "14348872497266722",
    "caption_id": 8446
+  },
+  "8454": {
+   "id": 8454,
+   "date": "2026-11-02",
+   "text": "Готовимся к зиме! 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: S\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhBmroriB9GCu6pwPBxxiF0PxT78vVAALsHmsbZalJS9BjT0SOB6yRAQADAgADeQADPQQ",
+     "msg_id": 8454,
+     "key": "8454_0"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhB2roriAxFWHG6RL4xuWg-p0kbeYAA22tAAJlqUlLUmxe-ULk5Lo9BA",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEHauiuIDEVYcbpEvjG5aD6nSRt5gADba0AAmWpSUtSbF75QuTkugEAB20AAz0E",
+     "size": 4236460,
+     "msg_id": 8455,
+     "key": "8454_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhCGroriAAAXzPVcVHnqzYAZ6Lkaa9awAC7R5rG2WpSUuxwDPTFKzFoAEAAwIAA3kAAz0E",
+     "msg_id": 8456,
+     "key": "8454_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhCWroriAXtKrXBfVuwdiz2s6PAAGOVQAC7h5rG2WpSUuYOYi2mSmFCgEAAwIAA3kAAz0E",
+     "msg_id": 8457,
+     "key": "8454_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhCmroriD9ir5wt6mvhvhLPYQ8DkVVAALvHmsbZalJS1pfFGhYA4IqAQADAgADeQADPQQ",
+     "msg_id": 8458,
+     "key": "8454_4"
+    }
+   ],
+   "group": "14349070596074066",
+   "caption_id": 8454,
+   "checkedAt": 1793634070893
+  },
+  "8459": {
+   "id": 8459,
+   "date": "2026-11-02",
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, S, L\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [
+    "S"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgUWrornern07PFqzifNnoFwXOUMOzAAIjrwACPRSBSsC5_AZ1BGiRPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiBRauiud6ufTs8WrOJ82egXBc5Qw7MAAiOvAAI9FIFKwLn8BnUEaJEBAAdtAAM9BA",
+     "size": 4552107,
+     "msg_id": 8459,
+     "key": "8459_0"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhDGrorospJuSxkW9bsPEJ8Bipby_PAAIkrwACPRSBSrrjQVFGOVIQPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEMauiuiykm5LGRb1uw8QnwGKlvL88AAiSvAAI9FIFKuuNBUUY5UhABAAdtAAM9BA",
+     "size": 6114612,
+     "msg_id": 8460,
+     "key": "8459_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhDWrorovbxcpefB8rdWuUXaFqvPfnAAKlImsbPRSBSqiCC_RNcsGQAQADAgADeQADPQQ",
+     "msg_id": 8461,
+     "key": "8459_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhDmrorotZm7Qh57x8fej1uKadgnymAAKnImsbPRSBSmv3kdwZP-8zAQADAgADeQADPQQ",
+     "msg_id": 8462,
+     "key": "8459_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhD2rorovUhgWDazyA_0Oje7odOoduAAKoImsbPRSBSvnaX-2izTMGAQADAgADeQADPQQ",
+     "msg_id": 8463,
+     "key": "8459_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhEGrorosXi55QCPClmR3letFPkHr3AAKpImsbPRSBSiY3SeDsPP_uAQADAgADeQADPQQ",
+     "msg_id": 8464,
+     "key": "8459_5"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhEWrorovWAAGc4vezvfcgQ9a1YJl85QACqiJrGz0UgUpMyI7aoCAsEwEAAwIAA3kAAz0E",
+     "msg_id": 8465,
+     "key": "8459_6"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhEmroroveoL_AOS1DAAHykTCPcdomfAACqyJrGz0UgUqLgWK7PikYmwEAAwIAA3kAAz0E",
+     "msg_id": 8466,
+     "key": "8459_7"
+    }
+   ],
+   "group": "14349071454385466",
+   "caption_id": 8459,
+   "checkedAt": 1793634070640
   }
  },
  "groups": {
@@ -7452,7 +7561,7 @@
    "ids": [
     8273
    ],
-   "text": "Готовимся к зиме! ❄️\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, S\n▪️26900₽\n\nЗаписаться на примерку",
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, S, L\n▪️26900₽\n\nЗаписаться на примерку",
    "struck": [
     "S"
    ],
@@ -8207,6 +8316,112 @@
    ],
    "date": "2026-11-02",
    "caption_id": 8446
+  },
+  "14349070596074066": {
+   "ids": [
+    8454,
+    8455,
+    8456,
+    8457,
+    8458
+   ],
+   "text": "Готовимся к зиме! 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: S\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhBmroriB9GCu6pwPBxxiF0PxT78vVAALsHmsbZalJS9BjT0SOB6yRAQADAgADeQADPQQ",
+     "msg_id": 8454
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhB2roriAxFWHG6RL4xuWg-p0kbeYAA22tAAJlqUlLUmxe-ULk5Lo9BA",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEHauiuIDEVYcbpEvjG5aD6nSRt5gADba0AAmWpSUtSbF75QuTkugEAB20AAz0E",
+     "size": 4236460,
+     "msg_id": 8455
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhCGroriAAAXzPVcVHnqzYAZ6Lkaa9awAC7R5rG2WpSUuxwDPTFKzFoAEAAwIAA3kAAz0E",
+     "msg_id": 8456
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhCWroriAXtKrXBfVuwdiz2s6PAAGOVQAC7h5rG2WpSUuYOYi2mSmFCgEAAwIAA3kAAz0E",
+     "msg_id": 8457
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhCmroriD9ir5wt6mvhvhLPYQ8DkVVAALvHmsbZalJS1pfFGhYA4IqAQADAgADeQADPQQ",
+     "msg_id": 8458
+    }
+   ],
+   "date": "2026-11-02",
+   "caption_id": 8454
+  },
+  "14349071454385466": {
+   "ids": [
+    8459,
+    8460,
+    8461,
+    8462,
+    8463,
+    8464,
+    8465,
+    8466
+   ],
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, S, L\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [
+    "S"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIgUWrornern07PFqzifNnoFwXOUMOzAAIjrwACPRSBSsC5_AZ1BGiRPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiBRauiud6ufTs8WrOJ82egXBc5Qw7MAAiOvAAI9FIFKwLn8BnUEaJEBAAdtAAM9BA",
+     "size": 4552107,
+     "msg_id": 8459
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhDGrorospJuSxkW9bsPEJ8Bipby_PAAIkrwACPRSBSrrjQVFGOVIQPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEMauiuiykm5LGRb1uw8QnwGKlvL88AAiSvAAI9FIFKuuNBUUY5UhABAAdtAAM9BA",
+     "size": 6114612,
+     "msg_id": 8460
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhDWrorovbxcpefB8rdWuUXaFqvPfnAAKlImsbPRSBSqiCC_RNcsGQAQADAgADeQADPQQ",
+     "msg_id": 8461
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhDmrorotZm7Qh57x8fej1uKadgnymAAKnImsbPRSBSmv3kdwZP-8zAQADAgADeQADPQQ",
+     "msg_id": 8462
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhD2rorovUhgWDazyA_0Oje7odOoduAAKoImsbPRSBSvnaX-2izTMGAQADAgADeQADPQQ",
+     "msg_id": 8463
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhEGrorosXi55QCPClmR3letFPkHr3AAKpImsbPRSBSiY3SeDsPP_uAQADAgADeQADPQQ",
+     "msg_id": 8464
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhEWrorovWAAGc4vezvfcgQ9a1YJl85QACqiJrGz0UgUpMyI7aoCAsEwEAAwIAA3kAAz0E",
+     "msg_id": 8465
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhEmroroveoL_AOS1DAAHykTCPcdomfAACqyJrGz0UgUqLgWK7PikYmwEAAwIAA3kAAz0E",
+     "msg_id": 8466
+    }
+   ],
+   "date": "2026-11-02",
+   "caption_id": 8459
   }
  },
  "drafts": {},
@@ -8215,7 +8430,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383313910,
+ "digestOffset": 383313911,
  "feed": {
   "items": {
    "67624": {
