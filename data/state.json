@@ -4872,7 +4872,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601983203
+   "checkedAt": 1793627614625
   },
   "7843": {
    "id": 7843,
@@ -4890,7 +4890,8 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601983025
+   "checkedAt": 1793627614433,
+   "deleted": true
   },
   "7848": {
    "id": 7848,
@@ -4908,7 +4909,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601982843
+   "checkedAt": 1793627614326
   },
   "7865": {
    "id": 7865,
@@ -4930,7 +4931,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601982627
+   "checkedAt": 1793627614141
   },
   "7877": {
    "id": 7877,
@@ -4952,7 +4953,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601982464
+   "checkedAt": 1793627613930
   },
   "7882": {
    "id": 7882,
@@ -4961,7 +4962,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1793601982169
+   "checkedAt": 1793627613748
   },
   "7889": {
    "id": 7889,
@@ -4983,7 +4984,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601981968
+   "checkedAt": 1793627613546
   },
   "7906": {
    "id": 7906,
@@ -5001,7 +5002,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601981788
+   "checkedAt": 1793627613343
   },
   "7908": {
    "id": 7908,
@@ -5023,7 +5024,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601981634
+   "checkedAt": 1793627613178
   },
   "7917": {
    "id": 7917,
@@ -5045,7 +5046,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601981454
+   "checkedAt": 1793627612989
   },
   "7923": {
    "id": 7923,
@@ -5059,7 +5060,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601981249
+   "checkedAt": 1793627612816
   },
   "7927": {
    "id": 7927,
@@ -5091,7 +5092,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601981106,
+   "checkedAt": 1793627612672,
    "group": "14319333142614634",
    "caption_id": 7927
   },
@@ -5115,7 +5116,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601980891
+   "checkedAt": 1793627612480
   },
   "7941": {
    "id": 7941,
@@ -5137,7 +5138,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601980706
+   "checkedAt": 1793627612306
   },
   "7946": {
    "id": 7946,
@@ -5159,7 +5160,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601980536
+   "checkedAt": 1793627612057
   },
   "7992": {
    "id": 7992,
@@ -5173,7 +5174,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601980342
+   "checkedAt": 1793627611880
   },
   "8019": {
    "id": 8019,
@@ -5191,7 +5192,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601980052
+   "checkedAt": 1793627611570
   },
   "8023": {
    "id": 8023,
@@ -5213,7 +5214,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793601979866
+   "checkedAt": 1793627611363
   },
   "8028": {
    "id": 8028,
@@ -5235,7 +5236,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598178662,
+   "checkedAt": 1793627611138,
    "deleted": true
   },
   "8033": {
@@ -5245,7 +5246,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1793598178537,
+   "checkedAt": 1793627611032,
    "deleted": true
   },
   "8041": {
@@ -5268,7 +5269,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598178403,
+   "checkedAt": 1793627610925,
    "deleted": true
   },
   "8046": {
@@ -5293,7 +5294,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598178273,
+   "checkedAt": 1793627610818,
    "deleted": true
   },
   "8051": {
@@ -5308,7 +5309,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598178147
+   "checkedAt": 1793627610713
   },
   "8052": {
    "id": 8052,
@@ -5332,7 +5333,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598177962
+   "checkedAt": 1793627610561
   },
   "8067": {
    "id": 8067,
@@ -5354,7 +5355,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598177691
+   "checkedAt": 1793627610366
   },
   "8092": {
    "id": 8092,
@@ -5376,7 +5377,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598177470
+   "checkedAt": 1793627610023
   },
   "8097": {
    "id": 8097,
@@ -5398,7 +5399,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598177259,
+   "checkedAt": 1793627609825,
    "deleted": true
   },
   "8118": {
@@ -5421,7 +5422,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598177130
+   "checkedAt": 1793627609719
   },
   "8126": {
    "id": 8126,
@@ -5443,7 +5444,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598176911,
+   "checkedAt": 1793627609491,
    "deleted": true
   },
   "8134": {
@@ -5466,7 +5467,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598176776
+   "checkedAt": 1793627609387
   },
   "8141": {
    "id": 8141,
@@ -5488,7 +5489,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598176538
+   "checkedAt": 1793627609193
   },
   "8147": {
    "id": 8147,
@@ -5512,7 +5513,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598176347
+   "checkedAt": 1793627609010
   },
   "8154": {
    "id": 8154,
@@ -5534,7 +5535,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598176127
+   "checkedAt": 1793627608820
   },
   "8157": {
    "id": 8157,
@@ -5556,7 +5557,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598175927
+   "checkedAt": 1793627608644
   },
   "8165": {
    "id": 8165,
@@ -5580,7 +5581,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598175639
+   "checkedAt": 1793627608470
   },
   "8174": {
    "id": 8174,
@@ -5602,7 +5603,8 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598175415
+   "checkedAt": 1793627608256,
+   "deleted": true
   },
   "8179": {
    "id": 8179,
@@ -5624,7 +5626,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598175201
+   "checkedAt": 1793627608149
   },
   "8183": {
    "id": 8183,
@@ -5641,7 +5643,7 @@
    ],
    "group": "14332626508165538",
    "caption_id": 8183,
-   "checkedAt": 1793598174992,
+   "checkedAt": 1793627607963,
    "deleted": true
   },
   "8199": {
@@ -5664,7 +5666,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793598174853,
+   "checkedAt": 1793627607853,
    "deleted": true
   },
   "8204": {
@@ -6247,7 +6249,7 @@
    ],
    "group": "14343341944830754",
    "caption_id": 8343,
-   "checkedAt": 1793601980195
+   "checkedAt": 1793627611716
   },
   "8351": {
    "id": 8351,
@@ -8210,9 +8212,21 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383313886,
+ "digestOffset": 383313904,
  "feed": {
   "items": {
+   "67624": {
+    "id": 67624,
+    "url": "https://t.me/eurostockmoscow/67624",
+    "date": 1793444144,
+    "text": "Примеряем для клиента #Sandro",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBCChq5ckwVqLM8718gBHjO9AKk0v3HAACQagAAkk2MEtlap-ewEf-yT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 67624
+   },
    "67692": {
     "id": 67692,
     "url": "https://t.me/eurostockmoscow/67692",
@@ -9318,6 +9332,58 @@
     "videos": [],
     "hashtagBrand": true,
     "textId": 68019
+   },
+   "68023": {
+    "id": 68023,
+    "url": "https://t.me/eurostockmoscow/68023",
+    "date": 1793626695,
+    "text": "Самые нашумевшие брюки #Uniqlo всё еще доступны к заказу!🔥\nМодель унисекс! 5 расцветок!\n\nРазмеры от XXS до XXL\n\nТри длины: short (от 150 до 160 см), regular (от 160 до 170 см), tall (от 170 см)\nСостав: 38% хлопка, 48% полиэстера, 14% вискоза\n▪️6500₽ \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCbpq6JJH1ShAd1vlmPkNmrP7XOTDgQAC5h1rG520wEpqf2lWeMm9yQEAAwIAA3gAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCbtq6JJHBaUVkaFUWFkxDijw-QWStgAC5x1rG520wEq7EtL_jviO5wEAAwIAA3gAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCbxq6JJHTZO3wUKpXujJKwbGUGyG0AAC6B1rG520wEoYmvzP0M9EFgEAAwIAA3gAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBCbdq6JJHyVFO63dGYtWIWFjSg3RGLwACHbAAAp20wEoRsOhk-n2Rpj0E",
+     "BAACAgIAAyEFAASRzT39AAEBCbhq6JJHQ7NCV831u-eBVefG1c9pYAACHrAAAp20wEowzQ4ST0CqST0E",
+     "BAACAgIAAyEFAASRzT39AAEBCblq6JJHubsvLjm0Zvsvffywi9B8JwACFrAAAp20wErsHwtUq4XHTT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 68023
+   },
+   "68029": {
+    "id": 68029,
+    "url": "https://t.me/eurostockmoscow/68029",
+    "date": 1793626741,
+    "text": "Продолжаем получать ваши заказы на брюки Barrel от #Uniqlo♥️\n\nСамая популярная модель в этом сезоне! 🔥\nА вы уже заказали себе такие?",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCb5q6JJ2IXT7PlAGecZvkmztsZloqwACUiJrGyXtSEvGq-ndLmFHRgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCb9q6JJ2zgPnhw9EUflbTgyoy77yggACEBtrGxGxOUu40T_tiDwuegEAAwIAA3gAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCcBq6JJ2FBNNafuIlbZQ30qz0BTVYgACUyJrGyXtSEsE_6EUv4FZIgEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBCb1q6JJ2SabVi_ZVTgKsm-cjjvWGXgAC4LEAAiXtSEtQmhWKevodRj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 68029
+   },
+   "68033": {
+    "id": 68033,
+    "url": "https://t.me/eurostockmoscow/68033",
+    "date": 1793626752,
+    "text": "Самые нашумевшие брюки #Uniqlo всё еще доступны к заказу!🔥\nМодель унисекс! 5 расцветок!\n\nРазмеры от XXS до XXL\n\nТри длины: short (от 150 до 160 см), regular (от 160 до 170 см), tall (от 170 см)\nСостав: 38% хлопка, 48% полиэстера, 14% вискоза\n▪️6500₽ \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCbpq6JJH1ShAd1vlmPkNmrP7XOTDgQAC5h1rG520wEpqf2lWeMm9yQEAAwIAA3gAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCbtq6JJHBaUVkaFUWFkxDijw-QWStgAC5x1rG520wEq7EtL_jviO5wEAAwIAA3gAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCbxq6JJHTZO3wUKpXujJKwbGUGyG0AAC6B1rG520wEoYmvzP0M9EFgEAAwIAA3gAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBCbdq6JJHyVFO63dGYtWIWFjSg3RGLwACHbAAAp20wEoRsOhk-n2Rpj0E",
+     "BAACAgIAAyEFAASRzT39AAEBCbhq6JJHQ7NCV831u-eBVefG1c9pYAACHrAAAp20wEowzQ4ST0CqST0E",
+     "BAACAgIAAyEFAASRzT39AAEBCblq6JJHubsvLjm0Zvsvffywi9B8JwACFrAAAp20wErsHwtUq4XHTT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 68033
    }
   },
   "groups": {
@@ -9383,7 +9449,11 @@
    "14348945171371882": 67989,
    "14348945171371890": 67999,
    "14348945171371898": 68009,
-   "14348945171371906": 68019
+   "14348945171371906": 68019,
+   "14347553159234354": 67624,
+   "14349013563920346": 68023,
+   "14349013934947818": 68029,
+   "14349014019266138": 68033
   }
  }
 }
