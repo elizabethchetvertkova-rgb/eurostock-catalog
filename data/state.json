@@ -1,5 +1,5 @@
 {
- "offset": 789490233,
+ "offset": 789490242,
  "posts": {
   "206": {
    "id": 206,
@@ -197,7 +197,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623522210
+   "checkedAt": 1793647810105
   },
   "957": {
    "id": 957,
@@ -221,7 +221,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623521969
+   "checkedAt": 1793647809886
   },
   "1079": {
    "id": 1079,
@@ -246,7 +246,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623521762
+   "checkedAt": 1793647809640
   },
   "1193": {
    "id": 1193,
@@ -270,7 +270,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623521558
+   "checkedAt": 1793647809434
   },
   "1279": {
    "id": 1279,
@@ -294,7 +294,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623521352
+   "checkedAt": 1793647809218
   },
   "1343": {
    "id": 1343,
@@ -319,7 +319,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623521160
+   "checkedAt": 1793647809011
   },
   "1529": {
    "id": 1529,
@@ -344,7 +344,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623520908
+   "checkedAt": 1793647808793
   },
   "1805": {
    "id": 1805,
@@ -366,7 +366,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623520705
+   "checkedAt": 1793647808584
   },
   "1827": {
    "id": 1827,
@@ -388,7 +388,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623520497
+   "checkedAt": 1793647808380
   },
   "1831": {
    "id": 1831,
@@ -410,7 +410,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623520281
+   "checkedAt": 1793647808192
   },
   "2583": {
    "id": 2583,
@@ -434,7 +434,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623519836
+   "checkedAt": 1793647807979
   },
   "2590": {
    "id": 2590,
@@ -456,7 +456,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623519633,
+   "checkedAt": 1793647807739,
    "deleted": true
   },
   "2684": {
@@ -479,7 +479,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793623519506
+   "checkedAt": 1793647807606
   },
   "2687": {
    "id": 2687,
@@ -501,7 +501,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620512483
+   "checkedAt": 1793647807421
   },
   "2694": {
    "id": 2694,
@@ -523,7 +523,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620512320
+   "checkedAt": 1793647807216
   },
   "2923": {
    "id": 2923,
@@ -545,7 +545,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620512141,
+   "checkedAt": 1793647807029,
    "deleted": true
   },
   "2950": {
@@ -566,7 +566,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620512035
+   "checkedAt": 1793647806896
   },
   "2976": {
    "id": 2976,
@@ -588,7 +588,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620511865
+   "checkedAt": 1793647806707
   },
   "3195": {
    "id": 3195,
@@ -606,7 +606,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620511584
+   "checkedAt": 1793647806493
   },
   "3215": {
    "id": 3215,
@@ -630,7 +630,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620511400
+   "checkedAt": 1793647806305
   },
   "3362": {
    "id": 3362,
@@ -652,7 +652,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620511223
+   "checkedAt": 1793647806094
   },
   "3416": {
    "id": 3416,
@@ -676,7 +676,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620511004,
+   "checkedAt": 1793647805880,
    "deleted": true
   },
   "3569": {
@@ -715,7 +715,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620510897
+   "checkedAt": 1793647805744
   },
   "3620": {
    "id": 3620,
@@ -737,7 +737,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620510732
+   "checkedAt": 1793647805549
   },
   "3750": {
    "id": 3750,
@@ -759,7 +759,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620510510
+   "checkedAt": 1793647805349
   },
   "3775": {
    "id": 3775,
@@ -781,7 +781,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620510285
+   "checkedAt": 1793647805126
   },
   "3785": {
    "id": 3785,
@@ -806,7 +806,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620510071
+   "checkedAt": 1793647804889
   },
   "3797": {
    "id": 3797,
@@ -828,7 +828,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620509884
+   "checkedAt": 1793647804686
   },
   "3819": {
    "id": 3819,
@@ -852,7 +852,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620509638,
+   "checkedAt": 1793647804466,
    "deleted": true
   },
   "4063": {
@@ -885,9 +885,10 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620509533,
+   "checkedAt": 1793647804334,
    "group": "14184536292568618",
-   "caption_id": 4063
+   "caption_id": 4063,
+   "deleted": true
   },
   "4067": {
    "id": 4067,
@@ -917,9 +918,10 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620509365,
+   "checkedAt": 1793647804198,
    "group": "14184540779096258",
-   "caption_id": 4067
+   "caption_id": 4067,
+   "deleted": true
   },
   "4072": {
    "id": 4072,
@@ -943,7 +945,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620509180
+   "checkedAt": 1793647804065
   },
   "4080": {
    "id": 4080,
@@ -965,7 +967,8 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620508942
+   "checkedAt": 1793647803837,
+   "deleted": true
   },
   "4245": {
    "id": 4245,
@@ -989,7 +992,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620508756
+   "checkedAt": 1793647803702
   },
   "4471": {
    "id": 4471,
@@ -1013,7 +1016,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620508569
+   "checkedAt": 1793647803494
   },
   "4506": {
    "id": 4506,
@@ -1035,7 +1038,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620508362
+   "checkedAt": 1793647803277
   },
   "4529": {
    "id": 4529,
@@ -1057,7 +1060,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620508185
+   "checkedAt": 1793647803082
   },
   "4541": {
    "id": 4541,
@@ -1079,7 +1082,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620508008
+   "checkedAt": 1793647802881
   },
   "4945": {
    "id": 4945,
@@ -1103,7 +1106,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620507834
+   "checkedAt": 1793647802685
   },
   "4962": {
    "id": 4962,
@@ -1125,7 +1128,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793620507603
+   "checkedAt": 1793647802467
   },
   "4967": {
    "id": 4967,
@@ -8729,7 +8732,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383313949,
+ "digestOffset": 383313960,
  "feed": {
   "items": {
    "67624": {
@@ -10022,6 +10025,39 @@
     "videos": [],
     "hashtagBrand": true,
     "textId": 68070
+   },
+   "68080": {
+    "id": 68080,
+    "url": "https://t.me/eurostockmoscow/68080",
+    "date": 1793645009,
+    "text": "Пальто #COS - невероятно стильная модель 🌟\n\nСостав: 83% шерсти, 17% полиамида\n▪️32500₽\nРазмеров очень мало, но мы еще можем выловить нужный🙏🏻\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCfJq6NnRu0ixHmEEiOeIHuRl2UlmBQACgyRrGyXtSEuu3qhOvJr88wEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCfNq6NnRWYERlxQDSgzS5nnakoCWFgAChCRrGyXtSEvjrGuvt45bHwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCfRq6NnRXiio9QvK_Ytpn6vBjh-dtwAChSRrGyXtSEutNFlVs2CuPwEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBCfBq6NnROSbOHUubH66hcRqWUZDO7AACurUAAiXtSEvnwMkQt66Oaz0E",
+     "BAACAgIAAyEFAASRzT39AAEBCfFq6NnRIf2zRlNoChuxGvjmWATS-QACvLUAAiXtSEuEtO_HcbN-_T0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 68080
+   },
+   "68085": {
+    "id": 68085,
+    "url": "https://t.me/eurostockmoscow/68085",
+    "date": 1793645016,
+    "text": "Какое же оно стильное 🤩❤️😍",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCfVq6NnYR5DwHKZN-E5BE7QfBvmkMwAChiRrGyXtSEsTE-Hlbv7P-gEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCfZq6NnYwSgPBRuf5aPE-gzZuiTtqgAChyRrGyXtSEuGzhTI7gpsWAEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCfdq6NnYv43Pm7LLUFSzexk-mrwdRgACiCRrGyXtSEt1HkkS6tXRdgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCfhq6NnYDWBG2yrbROdLG7kT9jtbygACiSRrGyXtSEvPbpxFU_hSdgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCflq6NnY891YT0x-S75BLEMe8kpNGgACiiRrGyXtSEuDkxOykaNBUgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 68085
    }
   },
   "groups": {
@@ -10098,7 +10134,9 @@
    "14349121963745690": 68051,
    "14349125531885874": 68058,
    "14349126530227666": 68065,
-   "14349129247984266": 68070
+   "14349129247984266": 68070,
+   "14349160076636026": 68080,
+   "14349160129422626": 68085
   }
  }
 }
