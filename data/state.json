@@ -1,5 +1,5 @@
 {
- "offset": 789490256,
+ "offset": 789490270,
  "posts": {
   "206": {
    "id": 206,
@@ -246,7 +246,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694772215
+   "checkedAt": 1793717873932
   },
   "1193": {
    "id": 1193,
@@ -270,7 +270,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694772018
+   "checkedAt": 1793717873748
   },
   "1279": {
    "id": 1279,
@@ -294,7 +294,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694771813
+   "checkedAt": 1793717873559
   },
   "1343": {
    "id": 1343,
@@ -319,7 +319,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694771621
+   "checkedAt": 1793717873373
   },
   "1529": {
    "id": 1529,
@@ -344,7 +344,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694771412
+   "checkedAt": 1793717873180
   },
   "1805": {
    "id": 1805,
@@ -366,7 +366,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694771217
+   "checkedAt": 1793717873005
   },
   "1827": {
    "id": 1827,
@@ -388,7 +388,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694771019
+   "checkedAt": 1793717872807
   },
   "1831": {
    "id": 1831,
@@ -410,7 +410,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694770826
+   "checkedAt": 1793717872633
   },
   "2583": {
    "id": 2583,
@@ -434,7 +434,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694770639
+   "checkedAt": 1793717872464
   },
   "2590": {
    "id": 2590,
@@ -456,7 +456,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793694770424,
+   "checkedAt": 1793717872266,
    "deleted": true
   },
   "2684": {
@@ -479,7 +479,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691389620
+   "checkedAt": 1793717872147
   },
   "2687": {
    "id": 2687,
@@ -501,7 +501,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691389476
+   "checkedAt": 1793717871970
   },
   "2694": {
    "id": 2694,
@@ -523,7 +523,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691389325
+   "checkedAt": 1793717871800
   },
   "2923": {
    "id": 2923,
@@ -545,7 +545,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691389170,
+   "checkedAt": 1793717871640,
    "deleted": true
   },
   "2950": {
@@ -566,7 +566,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691389070
+   "checkedAt": 1793717871523
   },
   "2976": {
    "id": 2976,
@@ -588,7 +588,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691388917
+   "checkedAt": 1793717871356
   },
   "3195": {
    "id": 3195,
@@ -606,7 +606,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691388747
+   "checkedAt": 1793717871142
   },
   "3215": {
    "id": 3215,
@@ -630,7 +630,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691388605
+   "checkedAt": 1793717870973
   },
   "3362": {
    "id": 3362,
@@ -652,7 +652,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691388448
+   "checkedAt": 1793717870788
   },
   "3416": {
    "id": 3416,
@@ -676,7 +676,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691388282,
+   "checkedAt": 1793717870612,
    "deleted": true
   },
   "3569": {
@@ -715,7 +715,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691388184
+   "checkedAt": 1793717870497
   },
   "3620": {
    "id": 3620,
@@ -737,7 +737,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691388014
+   "checkedAt": 1793717870320
   },
   "3750": {
    "id": 3750,
@@ -759,7 +759,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691387828
+   "checkedAt": 1793717870134
   },
   "3775": {
    "id": 3775,
@@ -781,7 +781,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691387665
+   "checkedAt": 1793717869947
   },
   "3785": {
    "id": 3785,
@@ -806,7 +806,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691387489
+   "checkedAt": 1793717869760
   },
   "3797": {
    "id": 3797,
@@ -828,7 +828,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691387332
+   "checkedAt": 1793717869587
   },
   "3819": {
    "id": 3819,
@@ -852,7 +852,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691387159,
+   "checkedAt": 1793717869385,
    "deleted": true
   },
   "4063": {
@@ -885,7 +885,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691387057,
+   "checkedAt": 1793717869270,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -918,7 +918,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691386943,
+   "checkedAt": 1793717869155,
    "group": "14184540779096258",
    "caption_id": 4067,
    "deleted": true
@@ -945,7 +945,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691386842
+   "checkedAt": 1793717869036
   },
   "4080": {
    "id": 4080,
@@ -967,7 +967,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691386661,
+   "checkedAt": 1793717868829,
    "deleted": true
   },
   "4245": {
@@ -992,7 +992,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691386560
+   "checkedAt": 1793717868713
   },
   "4471": {
    "id": 4471,
@@ -1016,7 +1016,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691386389
+   "checkedAt": 1793717868526
   },
   "4506": {
    "id": 4506,
@@ -1038,7 +1038,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691386209
+   "checkedAt": 1793717868341
   },
   "4529": {
    "id": 4529,
@@ -1060,7 +1060,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691386028
+   "checkedAt": 1793717868159
   },
   "4541": {
    "id": 4541,
@@ -1082,7 +1082,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691385870
+   "checkedAt": 1793717867976
   },
   "4945": {
    "id": 4945,
@@ -1106,7 +1106,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691385701
+   "checkedAt": 1793717867792
   },
   "4962": {
    "id": 4962,
@@ -1128,7 +1128,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793691385522
+   "checkedAt": 1793717867596
   },
   "4967": {
    "id": 4967,
@@ -7446,6 +7446,108 @@
    "group": "14349666748941314",
    "caption_id": 8489,
    "checkedAt": 1793710756942
+  },
+  "8491": {
+   "id": 8491,
+   "date": "2026-11-03",
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: M\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhK2rp8GACRm2mQ7MG0rY_iImarsK3AAJgIWsbCXdRS5673UIqd_AxAQADAgADeQADPQQ",
+     "msg_id": 8491,
+     "key": "8491_0"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhLGrp8GAc829lQrXIDEwld9coTXgVAAKPsAACCXdRS-Fjq_uvsSXFPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEsaunwYBzzb2VCtcgMTCV31yhNeBUAAo-wAAIJd1FL4WOr-6-xJcUBAAdtAAM9BA",
+     "size": 4550578,
+     "msg_id": 8492,
+     "key": "8491_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhLWrp8GABKXC9AWtf8-04aY0cISpDAAJhIWsbCXdRSzth2FVjtOr1AQADAgADeQADPQQ",
+     "msg_id": 8493,
+     "key": "8491_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhLmrp8GB7-2KfSwb1h0Jby0y4-_h5AAJiIWsbCXdRS8wEHina63vWAQADAgADeQADPQQ",
+     "msg_id": 8494,
+     "key": "8491_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhL2rp8GAU6hjWecy1fEmZELPGgme4AAJjIWsbCXdRSxqH1_pAh1_OAQADAgADeQADPQQ",
+     "msg_id": 8495,
+     "key": "8491_4"
+    }
+   ],
+   "group": "14349730564501954",
+   "caption_id": 8491,
+   "checkedAt": 1793717867414
+  },
+  "8496": {
+   "id": 8496,
+   "date": "2026-11-03",
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, M\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [
+    "M"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhHGrosArtqdrivCsvjVJ_kxgDQfS6AAKFrQACZalJS_Fx6CMlRH4NPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEcauiwCu2p2uK8Ky-NUn-TGANB9LoAAoWtAAJlqUlL8XHoIyVEfg0BAAdtAAM9BA",
+     "size": 4017857,
+     "msg_id": 8496,
+     "key": "8496_0"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhHmrosArg-8YGXrwHiuqlBz0vpKqnAAKGrQACZalJS9gX9sXQyMIrPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEeauiwCuD7xgZevAeK6qUHPS-kqqcAAoatAAJlqUlL2Bf2xdDIwisBAAdtAAM9BA",
+     "size": 2172815,
+     "msg_id": 8497,
+     "key": "8496_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhHWrosAopa9uolMqxbrR-O720uO-nAALzHmsbZalJS9Nj9Q1y0fNfAQADAgADeQADPQQ",
+     "msg_id": 8498,
+     "key": "8496_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhIGrosAqO1UycO-2N3bY4frZ3vg4EAAL1HmsbZalJS-iebEIl13oAAQEAAwIAA3kAAz0E",
+     "msg_id": 8499,
+     "key": "8496_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhH2rosApp4KPh6tS6kCuvxPWL9-1NAAL0HmsbZalJS5mQavKOdG88AQADAgADeQADPQQ",
+     "msg_id": 8500,
+     "key": "8496_4"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhIWrosAoTzOEvstYwXBZYWRglIzHYAAL2HmsbZalJSzCm-JQdpeolAQADAgADeQADPQQ",
+     "msg_id": 8501,
+     "key": "8496_5"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhNmrp8KlcpV7nMe10v8ErDd91GkahAAJpIWsbCXdRS2mKv7gewBXxAQADAgADeQADPQQ",
+     "msg_id": 8502,
+     "key": "8496_6"
+    }
+   ],
+   "group": "14349731147694226",
+   "caption_id": 8496,
+   "checkedAt": 1793717867256
   }
  },
  "groups": {
@@ -8885,15 +8987,121 @@
    ],
    "date": "2026-11-03",
    "caption_id": 8489
+  },
+  "14349730564501954": {
+   "ids": [
+    8491,
+    8492,
+    8493,
+    8494,
+    8495
+   ],
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: M\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhK2rp8GACRm2mQ7MG0rY_iImarsK3AAJgIWsbCXdRS5673UIqd_AxAQADAgADeQADPQQ",
+     "msg_id": 8491
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhLGrp8GAc829lQrXIDEwld9coTXgVAAKPsAACCXdRS-Fjq_uvsSXFPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEsaunwYBzzb2VCtcgMTCV31yhNeBUAAo-wAAIJd1FL4WOr-6-xJcUBAAdtAAM9BA",
+     "size": 4550578,
+     "msg_id": 8492
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhLWrp8GABKXC9AWtf8-04aY0cISpDAAJhIWsbCXdRSzth2FVjtOr1AQADAgADeQADPQQ",
+     "msg_id": 8493
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhLmrp8GB7-2KfSwb1h0Jby0y4-_h5AAJiIWsbCXdRS8wEHina63vWAQADAgADeQADPQQ",
+     "msg_id": 8494
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhL2rp8GAU6hjWecy1fEmZELPGgme4AAJjIWsbCXdRSxqH1_pAh1_OAQADAgADeQADPQQ",
+     "msg_id": 8495
+    }
+   ],
+   "date": "2026-11-03",
+   "caption_id": 8491
+  },
+  "14349731147694226": {
+   "ids": [
+    8496,
+    8497,
+    8498,
+    8499,
+    8500,
+    8501,
+    8502
+   ],
+   "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, M\n▪️26900₽\n\nЗаписаться на примерку",
+   "struck": [
+    "M"
+   ],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhHGrosArtqdrivCsvjVJ_kxgDQfS6AAKFrQACZalJS_Fx6CMlRH4NPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEcauiwCu2p2uK8Ky-NUn-TGANB9LoAAoWtAAJlqUlL8XHoIyVEfg0BAAdtAAM9BA",
+     "size": 4017857,
+     "msg_id": 8496
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhHmrosArg-8YGXrwHiuqlBz0vpKqnAAKGrQACZalJS9gX9sXQyMIrPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiEeauiwCuD7xgZevAeK6qUHPS-kqqcAAoatAAJlqUlL2Bf2xdDIwisBAAdtAAM9BA",
+     "size": 2172815,
+     "msg_id": 8497
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhHWrosAopa9uolMqxbrR-O720uO-nAALzHmsbZalJS9Nj9Q1y0fNfAQADAgADeQADPQQ",
+     "msg_id": 8498
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhIGrosAqO1UycO-2N3bY4frZ3vg4EAAL1HmsbZalJS-iebEIl13oAAQEAAwIAA3kAAz0E",
+     "msg_id": 8499
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhH2rosApp4KPh6tS6kCuvxPWL9-1NAAL0HmsbZalJS5mQavKOdG88AQADAgADeQADPQQ",
+     "msg_id": 8500
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhIWrosAoTzOEvstYwXBZYWRglIzHYAAL2HmsbZalJSzCm-JQdpeolAQADAgADeQADPQQ",
+     "msg_id": 8501
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhNmrp8KlcpV7nMe10v8ErDd91GkahAAJpIWsbCXdRS2mKv7gewBXxAQADAgADeQADPQQ",
+     "msg_id": 8502
+    }
+   ],
+   "date": "2026-11-03",
+   "caption_id": 8496
   }
  },
- "drafts": {},
+ "drafts": {
+  "17860900": {
+   "text": "Все товары в наличии — в каталоге",
+   "photo": null,
+   "url": "https://t.me/eurostockshop_bot?startapp"
+  }
+ },
  "commandsSet": 5,
  "soldHandled": {
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383314218,
+ "digestOffset": 383314219,
  "feed": {
   "items": {
    "67624": {
@@ -10890,7 +11098,7 @@
     "id": 68327,
     "url": "https://t.me/eurostockmoscow/68327",
     "date": 1793713749,
-    "text": "Новая модель Burker — rose 🌹 \nИдеальный баланс строгости и нежного оттенка ❤️\nЧасы, которые хочется носить каждый день!\n\nОформить заказ - https://www.burkerwatches.com/ru\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "text": "Новая модель Burker — rose 🌹 \nИдеальный баланс строгости и нежного оттенка ❤️\nЧасы, которые хочется носить каждый день!\n\nСмотреть на сайте - https://www.burkerwatches.com/ru\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
     "photos": [
      "AgACAgIAAyEFAASRzT39AAEBCudq6eZVc7K8NxtYUzNJ6t6-yDj9EwACwh5rGxvlUUvTxL3_Z7oQqgEAAwIAA3cAAz0E",
      "AgACAgIAAyEFAASRzT39AAEBCuhq6eZVtHts5DcqOu_N39o7dvh7qwACwx5rGxvlUUvuKedmseNivgEAAwIAA3cAAz0E",
