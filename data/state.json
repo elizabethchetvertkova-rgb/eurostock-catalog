@@ -1,5 +1,5 @@
 {
- "offset": 789490245,
+ "offset": 789490246,
  "posts": {
   "206": {
    "id": 206,
@@ -3581,7 +3581,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680100072
+   "checkedAt": 1793704737233
   },
   "7100": {
    "id": 7100,
@@ -3605,7 +3605,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680099907
+   "checkedAt": 1793704736971
   },
   "7108": {
    "id": 7108,
@@ -3627,7 +3627,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680099729
+   "checkedAt": 1793704736696
   },
   "7126": {
    "id": 7126,
@@ -3649,7 +3649,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680099574
+   "checkedAt": 1793704736449
   },
   "7142": {
    "id": 7142,
@@ -3671,7 +3671,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680099421
+   "checkedAt": 1793704735993
   },
   "7205": {
    "id": 7205,
@@ -3695,7 +3695,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680099273
+   "checkedAt": 1793704735765
   },
   "7209": {
    "id": 7209,
@@ -3719,7 +3719,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680099114
+   "checkedAt": 1793704735525
   },
   "7236": {
    "id": 7236,
@@ -3741,7 +3741,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680098936
+   "checkedAt": 1793704735263
   },
   "7240": {
    "id": 7240,
@@ -3765,7 +3765,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680098779
+   "checkedAt": 1793704735003
   },
   "7245": {
    "id": 7245,
@@ -3789,7 +3789,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680098599
+   "checkedAt": 1793704734742
   },
   "7267": {
    "id": 7267,
@@ -3813,7 +3813,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680098434
+   "checkedAt": 1793704734489
   },
   "7276": {
    "id": 7276,
@@ -3831,7 +3831,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793680098268
+   "checkedAt": 1793704734250
   },
   "7297": {
    "id": 7297,
@@ -3853,7 +3853,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676819536
+   "checkedAt": 1793704733786
   },
   "7302": {
    "id": 7302,
@@ -3877,7 +3877,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676819328
+   "checkedAt": 1793704733541
   },
   "7307": {
    "id": 7307,
@@ -3902,7 +3902,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676818735
+   "checkedAt": 1793704732845
   },
   "7374": {
    "id": 7374,
@@ -3927,7 +3927,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676818513
+   "checkedAt": 1793704732597
   },
   "7379": {
    "id": 7379,
@@ -3951,7 +3951,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676818301
+   "checkedAt": 1793704732345
   },
   "7384": {
    "id": 7384,
@@ -3976,7 +3976,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676818088
+   "checkedAt": 1793704732075
   },
   "7398": {
    "id": 7398,
@@ -3997,7 +3997,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676817856
+   "checkedAt": 1793704731807
   },
   "7401": {
    "id": 7401,
@@ -4021,7 +4021,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676817647
+   "checkedAt": 1793704731548
   },
   "7404": {
    "id": 7404,
@@ -4045,7 +4045,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676817438
+   "checkedAt": 1793704731312
   },
   "7407": {
    "id": 7407,
@@ -4069,7 +4069,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676817229
+   "checkedAt": 1793704731084
   },
   "7427": {
    "id": 7427,
@@ -4083,7 +4083,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676817026,
+   "checkedAt": 1793704730829,
    "deleted": true
   },
   "7433": {
@@ -4108,7 +4108,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676816663
+   "checkedAt": 1793704730418
   },
   "7438": {
    "id": 7438,
@@ -4130,7 +4130,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676816447
+   "checkedAt": 1793704730177
   },
   "7458": {
    "id": 7458,
@@ -4154,7 +4154,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676816221,
+   "checkedAt": 1793704729900,
    "deleted": true
   },
   "7465": {
@@ -4169,7 +4169,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676816072
+   "checkedAt": 1793704729721
   },
   "7481": {
    "id": 7481,
@@ -4191,7 +4191,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676815886
+   "checkedAt": 1793704729489
   },
   "7507": {
    "id": 7507,
@@ -4213,7 +4213,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676815665
+   "checkedAt": 1793704729201
   },
   "7542": {
    "id": 7542,
@@ -4235,7 +4235,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676815447
+   "checkedAt": 1793704728951
   },
   "7545": {
    "id": 7545,
@@ -4259,7 +4259,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676815068
+   "checkedAt": 1793704728468
   },
   "7562": {
    "id": 7562,
@@ -4281,7 +4281,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793676814862
+   "checkedAt": 1793704728233
   },
   "7565": {
    "id": 7565,
@@ -5388,7 +5388,7 @@
   "8092": {
    "id": 8092,
    "date": "2026-10-02",
-   "text": "🆕🆕🆕🆕🆕\nПоло #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 100%\nРазмер: М\n▪️9900₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "text": "🆕🆕🆕🆕🆕\nПоло #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 100%\nРазмер: L\n▪️9900₽\n\nЗаписаться на примерку - @tatianamoseuro",
    "struck": [],
    "media": [
     {
@@ -5402,10 +5402,20 @@
     {
      "type": "photo",
      "key": "8092_2"
+    },
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIfnGrpunYucv7bV6xxs4dmNj3Y3buNAAINqgACMQoBSrXX--T20t1GPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAh-caum6di5y_ttXrHGzh2Y2Pdjdu40AAg2qAAIxCgFKtdf75PbS3UYBAAdtAAM9BA",
+     "size": 8063447,
+     "msg_id": 8092,
+     "key": "8092_0"
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793698029449
+   "checkedAt": 1793698029449,
+   "group": "14327749700613602",
+   "caption_id": 8092
   },
   "8097": {
    "id": 8097,
@@ -5816,7 +5826,7 @@
    ],
    "group": "14335213500016586",
    "caption_id": 8227,
-   "checkedAt": 1793676819122
+   "checkedAt": 1793704733299
   },
   "8234": {
    "id": 8234,
@@ -5990,7 +6000,7 @@
    ],
    "group": "14335979516635290",
    "caption_id": 8273,
-   "checkedAt": 1793676814658,
+   "checkedAt": 1793704727984,
    "deleted": true
   },
   "8281": {
@@ -6341,7 +6351,7 @@
    ],
    "group": "14344199618442778",
    "caption_id": 8352,
-   "checkedAt": 1793676818881,
+   "checkedAt": 1793704733023,
    "deleted": true
   },
   "8359": {
@@ -6907,7 +6917,7 @@
    ],
    "group": "14345592318806802",
    "caption_id": 8422,
-   "checkedAt": 1793676816873
+   "checkedAt": 1793704730649
   },
   "8427": {
    "id": 8427,
@@ -7022,7 +7032,7 @@
    ],
    "group": "14348524872763522",
    "caption_id": 8435,
-   "checkedAt": 1793676819722
+   "checkedAt": 1793704734010
   },
   "8440": {
    "id": 8440,
@@ -7069,7 +7079,7 @@
    ],
    "group": "14348525582577218",
    "caption_id": 8440,
-   "checkedAt": 1793676815252
+   "checkedAt": 1793704728709
   },
   "8446": {
    "id": 8446,
@@ -7311,7 +7321,7 @@
    ],
    "group": "14349073333515394",
    "caption_id": 8472,
-   "checkedAt": 1793680100338
+   "checkedAt": 1793704737621
   },
   "8476": {
    "id": 8476,
@@ -7362,7 +7372,8 @@
    ],
    "group": "14349074514847466",
    "caption_id": 8476,
-   "checkedAt": 1793680100209
+   "checkedAt": 1793704737410,
+   "deleted": true
   }
  },
  "groups": {
@@ -8725,6 +8736,13 @@
    ],
    "date": "2026-11-02",
    "caption_id": 8476
+  },
+  "14327749700613602": {
+   "ids": [
+    8092
+   ],
+   "historical": 8092,
+   "date": "2026-10-02"
   }
  },
  "drafts": {},
