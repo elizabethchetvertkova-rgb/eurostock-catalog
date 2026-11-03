@@ -479,7 +479,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667898827
+   "checkedAt": 1793691389620
   },
   "2687": {
    "id": 2687,
@@ -501,7 +501,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667898644
+   "checkedAt": 1793691389476
   },
   "2694": {
    "id": 2694,
@@ -523,7 +523,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667898469
+   "checkedAt": 1793691389325
   },
   "2923": {
    "id": 2923,
@@ -545,7 +545,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667898303,
+   "checkedAt": 1793691389170,
    "deleted": true
   },
   "2950": {
@@ -566,7 +566,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667898190
+   "checkedAt": 1793691389070
   },
   "2976": {
    "id": 2976,
@@ -588,7 +588,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667898013
+   "checkedAt": 1793691388917
   },
   "3195": {
    "id": 3195,
@@ -606,7 +606,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667897797
+   "checkedAt": 1793691388747
   },
   "3215": {
    "id": 3215,
@@ -630,7 +630,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667897624
+   "checkedAt": 1793691388605
   },
   "3362": {
    "id": 3362,
@@ -652,7 +652,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667897429
+   "checkedAt": 1793691388448
   },
   "3416": {
    "id": 3416,
@@ -676,7 +676,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667897219,
+   "checkedAt": 1793691388282,
    "deleted": true
   },
   "3569": {
@@ -715,7 +715,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667897100
+   "checkedAt": 1793691388184
   },
   "3620": {
    "id": 3620,
@@ -737,7 +737,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667896903
+   "checkedAt": 1793691388014
   },
   "3750": {
    "id": 3750,
@@ -759,7 +759,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667896714
+   "checkedAt": 1793691387828
   },
   "3775": {
    "id": 3775,
@@ -781,7 +781,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793667896510
+   "checkedAt": 1793691387665
   },
   "3785": {
    "id": 3785,
@@ -806,7 +806,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664613048
+   "checkedAt": 1793691387489
   },
   "3797": {
    "id": 3797,
@@ -828,7 +828,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664612806
+   "checkedAt": 1793691387332
   },
   "3819": {
    "id": 3819,
@@ -852,7 +852,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664612551,
+   "checkedAt": 1793691387159,
    "deleted": true
   },
   "4063": {
@@ -885,7 +885,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664612384,
+   "checkedAt": 1793691387057,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -918,7 +918,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664612217,
+   "checkedAt": 1793691386943,
    "group": "14184540779096258",
    "caption_id": 4067,
    "deleted": true
@@ -945,7 +945,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664612052
+   "checkedAt": 1793691386842
   },
   "4080": {
    "id": 4080,
@@ -967,7 +967,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664611798,
+   "checkedAt": 1793691386661,
    "deleted": true
   },
   "4245": {
@@ -992,7 +992,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664611631
+   "checkedAt": 1793691386560
   },
   "4471": {
    "id": 4471,
@@ -1016,7 +1016,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664611388
+   "checkedAt": 1793691386389
   },
   "4506": {
    "id": 4506,
@@ -1038,7 +1038,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664611136
+   "checkedAt": 1793691386209
   },
   "4529": {
    "id": 4529,
@@ -1060,7 +1060,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664610834
+   "checkedAt": 1793691386028
   },
   "4541": {
    "id": 4541,
@@ -1082,7 +1082,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664610602
+   "checkedAt": 1793691385870
   },
   "4945": {
    "id": 4945,
@@ -1106,7 +1106,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664610374
+   "checkedAt": 1793691385701
   },
   "4962": {
    "id": 4962,
@@ -1128,7 +1128,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664610115
+   "checkedAt": 1793691385522
   },
   "4967": {
    "id": 4967,
@@ -1150,7 +1150,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664609854
+   "checkedAt": 1793691385367
   },
   "4985": {
    "id": 4985,
@@ -1171,7 +1171,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664609598
+   "checkedAt": 1793691385183
   },
   "4987": {
    "id": 4987,
@@ -1195,7 +1195,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664609391
+   "checkedAt": 1793691385039
   },
   "5037": {
    "id": 5037,
@@ -1217,7 +1217,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664609131
+   "checkedAt": 1793691384855
   },
   "5061": {
    "id": 5061,
@@ -1239,7 +1239,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664608868
+   "checkedAt": 1793691384585
   },
   "5107": {
    "id": 5107,
@@ -1253,7 +1253,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664608629
+   "checkedAt": 1793691384415
   },
   "5127": {
    "id": 5127,
@@ -1275,7 +1275,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664608414
+   "checkedAt": 1793691384264
   },
   "5166": {
    "id": 5166,
@@ -1299,7 +1299,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664608165
+   "checkedAt": 1793691384091
   },
   "5257": {
    "id": 5257,
@@ -1317,7 +1317,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664607909
+   "checkedAt": 1793691383895
   },
   "5286": {
    "id": 5286,
@@ -1339,7 +1339,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664607693
+   "checkedAt": 1793691383738
   },
   "5292": {
    "id": 5292,
@@ -1361,7 +1361,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664607452
+   "checkedAt": 1793691383571
   },
   "5311": {
    "id": 5311,
@@ -1383,7 +1383,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793664607172
+   "checkedAt": 1793691383386
   },
   "5326": {
    "id": 5326,
@@ -8733,7 +8733,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383313966,
+ "digestOffset": 383313973,
  "feed": {
   "items": {
    "67624": {
@@ -10061,6 +10061,24 @@
     "videos": [],
     "hashtagBrand": false,
     "textId": 68085
+   },
+   "68090": {
+    "id": 68090,
+    "url": "https://t.me/eurostockmoscow/68090",
+    "date": 1793689228,
+    "text": "Образы с пуховиками Massimo Dutti для нас подготовила стилист Марина 🤍\n\nОба пуховика в наличии в Москве!\n\nЕсли хотите не просто выбрать пуховик, а собрать полноценную капсулу и продумать сочетания на каждый день — можете обратиться к Марине за помощью в создании образов.\n\nА все понравившиеся вещи мы с удовольствием привезём для вас! 🛍️\n\nПолучается идеальный тандем: Марина помогает со стилем, а EUROSTOCK MOSCOW — с покупками.",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBCfpq6YaM7BLmQ5yXMoepRBS-JWnxuQACxx9rG2WpQUv5iIpI5Wt-rQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCftq6YaMeCYsulY14_hCrUJWiAEsAQACyB9rG2WpQUtqIsvuc3afBwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCfxq6YaMERuwJjuCsHLx0bwEMfs6HQACyR9rG2WpQUv_rsYYAAEqkuMBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBCf1q6YaMMAotbAaWRk6XCEZD-fE7IQACyh9rG2WpQUuOhdlffLYeogEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCf5q6YaM6xkk2Bl7-loPA9ucSZ7GRwACyx9rG2WpQUuQMJK7h6FO1QEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCf9q6YaMW6bF5-HMR_4GerQc6GZp2AACzB9rG2WpQUsqjNb5VDfmdwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBCgABaumGjFv4B6A3xOvwcT1Ziq6o9BYAAs0faxtlqUFLGJqJabNozWsBAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 68090
    }
   },
   "groups": {
@@ -10139,7 +10157,8 @@
    "14349126530227666": 68065,
    "14349129247984266": 68070,
    "14349160076636026": 68080,
-   "14349160129422626": 68085
+   "14349160129422626": 68085,
+   "14349513825792522": 68090
   }
  }
 }
