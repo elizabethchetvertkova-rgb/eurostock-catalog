@@ -382,8 +382,8 @@
  "digest": {
   "channel": "@eurostockmoscow",
   "enabled": true,
-  "lastDate": "2026-11-03",
-  "coveredUntil": "2026-11-02T21:00:00.000Z",
-  "lastAt": "2026-11-03T19:57:59.748Z"
+  "lastDate": "2026-11-04",
+  "coveredUntil": "2026-11-03T21:00:00.000Z",
+  "lastAt": "2026-11-04T06:45:12.022Z"
  }
 }
