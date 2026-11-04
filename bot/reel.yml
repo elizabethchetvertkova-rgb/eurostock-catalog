@@ -1,0 +1,44 @@
+name: Рилс недели
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"        # воскресенье, 09:00 по Москве (06:00 UTC); GitHub может задержать на несколько минут
+  workflow_dispatch:           # и по команде боту /reel preview | /reel now (или кнопкой Run workflow)
+    inputs:
+      mode:
+        description: "preview — прислать администратору, publish — опубликовать в канал"
+        default: preview
+        type: choice
+        options: [preview, publish, auto]
+      chat:
+        description: "кому отвечать (id чата), можно оставить пустым"
+        default: ""
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: reel
+  cancel-in-progress: false
+
+jobs:
+  reel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Поставить шрифты и браузер для отрисовки
+        run: |
+          npm i --no-save --silent playwright @fontsource/playfair-display @fontsource/golos-text
+          npx playwright install --with-deps chromium
+      - name: Собрать ролик и отправить
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ADMIN_IDS: ${{ secrets.ADMIN_IDS }}
+          CHANNEL: ${{ vars.CHANNEL || '@eurostockmoscowshop' }}
+          REEL_MODE: ${{ github.event.inputs.mode || 'auto' }}
+          REEL_CHAT: ${{ github.event.inputs.chat }}
+        run: node bot/reel.js
