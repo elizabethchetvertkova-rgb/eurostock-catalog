@@ -436,7 +436,7 @@ async function handleAdminMessage(msg) {
   const idm = arg.match(/^(\d+)\s*(.*)$/s); const id = idm ? Number(idm[1]) : null; const rest = idm ? idm[2].trim() : '';
   switch (cmd) {
     case 'start': case 'help':
-      await reply(['Команды каталога:', '/post Текст — показать предпросмотр поста с кнопкой «Открыть каталог», затем кнопка «Опубликовать» (можно с фото: отправьте фото с подписью /post Текст)', '/postnow Текст — опубликовать сразу, без предпросмотра', '/publish или «да» — опубликовать последний предпросмотр, /cancel или «нет» — отменить', '/url https://… — адрес каталога для кнопки', '/button Каталог — текст кнопки под постом', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/delete 8326 — удалить пост из канала (и снять с витрины)', '/autodelete on|off — удалять проданные посты из канала автоматически', '/metrika 12345678 — подключить счётчик Яндекс Метрики (статистика нажатий)', '/journal АДРЕС — журнал заявок в Google-таблице', '/digest — ежедневный дайджест брендов для канала байер-сервиса (если задан отдельный бот — команда отправляется ему)', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или перешлите пост из канала, а следующим сообщением напишите: продано / продано M / в наличии / мужское / фото 2 / удалить / новое название.'].join('\n'));
+      await reply(['Команды каталога:', '/post Текст — показать предпросмотр поста с кнопкой «Открыть каталог», затем кнопка «Опубликовать» (можно с фото: отправьте фото с подписью /post Текст)', '/postnow Текст — опубликовать сразу, без предпросмотра', '/publish или «да» — опубликовать последний предпросмотр, /cancel или «нет» — отменить', '/url https://… — адрес каталога для кнопки', '/button Каталог — текст кнопки под постом', '/sold 8326 — продано полностью', '/sold 8326 M L — проданы размеры', '/unsold 8326 M — размер снова в наличии', '/hide 8326 и /show 8326 — скрыть/показать', '/delete 8326 — удалить пост из канала (и снять с витрины)', '/autodelete on|off — удалять проданные посты из канала автоматически', '/metrika 12345678 — подключить счётчик Яндекс Метрики (статистика нажатий)', '/journal АДРЕС — журнал заявок в Google-таблице', '/reel — рилс «Новинки недели»: preview / now / on / off', '/digest — ежедневный дайджест брендов для канала байер-сервиса (если задан отдельный бот — команда отправляется ему)', '/title 8326 Новое название', '/men 8326 — в «Мужское»', '/photo 8326 2 — главное фото №2', '/status 8326 — что сейчас в каталоге', '', 'Или перешлите пост из канала, а следующим сообщением напишите: продано / продано M / в наличии / мужское / фото 2 / удалить / новое название.'].join('\n'));
       break;
     case 'button': {
       if (!arg) return reply(`Сейчас текст кнопки: «${cur.buttonText || '🛍 Открыть каталог'}». Чтобы изменить: /button Каталог (можно с эмодзи: /button 🛍 Каталог)`);
@@ -467,6 +467,28 @@ async function handleAdminMessage(msg) {
     case 'digest': {
       if (SEPARATE_DIGEST_BOT) { let name = ''; try { name = '@' + (await digestBotUsername()); } catch (e) {} return reply(`Дайджестом занимается отдельный бот${name ? ' ' + name : ''} — напишите эту команду ему.`); }
       return digestCommand(arg, reply, msg.chat.id);
+    }
+    case 'reel': {
+      cur.reel = cur.reel || {};
+      const [sub, ...restArr] = arg.split(/\s+/); const val = restArr.join(' ').trim();
+      const dispatch = async mode => {
+        const repo = process.env.GITHUB_REPOSITORY, tok = process.env.GITHUB_TOKEN;
+        if (!repo || !tok) throw new Error('нет доступа к GitHub Actions — проверьте, что в sync.yml передан GITHUB_TOKEN');
+        const r = await fetch(`https://api.github.com/repos/${repo}/actions/workflows/reel.yml/dispatches`, { method: 'POST', headers: { authorization: `Bearer ${tok}`, accept: 'application/vnd.github+json', 'content-type': 'application/json', 'user-agent': 'eurostock-bot' }, body: JSON.stringify({ ref: process.env.GITHUB_REF_NAME || 'main', inputs: { mode, chat: String(msg.chat.id) } }) });
+        if (r.status !== 204) throw new Error(`GitHub ответил ${r.status}: ${(await r.text()).slice(0, 160)}`);
+      };
+      if (!sub) return reply(`Рилс «Новинки недели»: ${cur.reel.enabled === false ? 'выключен' : 'включён'} — каждое воскресенье в 09:00 МСК в ${CHANNEL} + файл вам в личку.\nЗаголовок обложки: ${cur.reel.title || 'Новинки недели'}\n\n/reel preview — собрать и прислать мне (3–5 минут)\n/reel now — собрать и опубликовать сейчас\n/reel on | off — включить/выключить воскресный выпуск\n/reel title Текст — заголовок обложки\n/reel caption Текст — подпись к посту в канале\n/reel seconds 2 — сколько секунд на вещь (1.5–4)`);
+      if (/^(on|вкл)$/i.test(sub)) { cur.reel.enabled = true; changed = true; return reply('Воскресный рилс включён.'); }
+      if (/^(off|выкл)$/i.test(sub)) { cur.reel.enabled = false; changed = true; return reply('Воскресный рилс выключен. /reel preview и /reel now работают по-прежнему.'); }
+      if (/^title$/i.test(sub)) { cur.reel.title = val || null; changed = true; return reply(`Заголовок обложки: ${val || 'Новинки недели (по умолчанию)'}`); }
+      if (/^caption$/i.test(sub)) { cur.reel.caption = val || null; changed = true; return reply(val ? 'Подпись к посту: ' + val : 'Подпись по умолчанию.'); }
+      if (/^seconds?$/i.test(sub)) { const n = parseFloat(val.replace(',', '.')); if (!(n >= 1.5 && n <= 4)) return reply('От 1.5 до 4 секунд: /reel seconds 2'); cur.reel.seconds = n; changed = true; return reply(`На каждую вещь — ${n} сек.`); }
+      if (/^(preview|now|publish)$/i.test(sub)) {
+        try { await dispatch(/^preview$/i.test(sub) ? 'preview' : 'publish'); }
+        catch (e) { return reply('⚠️ Не удалось запустить сборку: ' + e.message); }
+        return reply(/^preview$/i.test(sub) ? 'Собираю ролик — это 3–5 минут, пришлю сюда.' : `Собираю ролик и публикую в ${CHANNEL} — 3–5 минут, копию пришлю сюда.`);
+      }
+      return reply('Не понял. /reel — список подкоманд.');
     }
     case 'journal': {
       if (!arg) return reply(cur.journalUrl ? `Журнал заявок подключён: ${cur.journalUrl}\nСменить: /journal АДРЕС, отключить: /journal off` : 'Журнал не подключён. Создайте Google-таблицу со скриптом (инструкция у вас есть) и пришлите адрес веб-приложения: /journal https://script.google.com/macros/s/…/exec');
@@ -622,7 +644,7 @@ async function pollDigestBot() {
     await fetchMedia(); await checkDeleted();
     await pollDigestBot();
     await maybePostDigest();
-    if (state.commandsSet !== 5) { try { await api('setMyCommands', { commands: [
+    if (state.commandsSet !== 6) { try { await api('setMyCommands', { commands: [
       { command: 'post', description: 'Пост в канал с кнопкой «Открыть каталог» (с предпросмотром)' },
       { command: 'sold', description: 'Продано: /sold 8326 или /sold 8326 M' },
       { command: 'unsold', description: 'Снова в наличии: /unsold 8326 M' },
@@ -632,6 +654,7 @@ async function pollDigestBot() {
       { command: 'autodelete', description: 'Удалять проданное из канала автоматически: on / off' },
       { command: 'metrika', description: 'Счётчик Яндекс Метрики: /metrika 12345678' },
       { command: 'journal', description: 'Журнал заявок в Google-таблице: /journal АДРЕС' },
+      { command: 'reel', description: 'Рилс «Новинки недели»: /reel preview, /reel now' },
       { command: 'digest', description: 'Ежедневный дайджест: /digest preview, now, on/off, time' },
       { command: 'title', description: 'Название: /title 8326 Жакет из замши' },
       { command: 'men', description: 'В раздел «Мужское»: /men 8326' },
@@ -640,7 +663,7 @@ async function pollDigestBot() {
       { command: 'url', description: 'Адрес каталога для кнопки' },
       { command: 'button', description: 'Текст кнопки под постом: /button Каталог' },
       { command: 'help', description: 'Все команды' },
-    ] }); state.commandsSet = 5; changed = true; } catch (e) { log.push('setMyCommands: ' + e.message); } }
+    ] }); state.commandsSet = 6; changed = true; } catch (e) { log.push('setMyCommands: ' + e.message); } }
   }
 
   // пересборка витрины (всегда — чтобы ручные правки curation.json тоже применялись)
