@@ -295,7 +295,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971805750
+   "checkedAt": 1793981325200
   },
   "1343": {
    "id": 1343,
@@ -320,7 +320,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971805504
+   "checkedAt": 1793981325012
   },
   "1529": {
    "id": 1529,
@@ -345,7 +345,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971805241
+   "checkedAt": 1793981324818
   },
   "1805": {
    "id": 1805,
@@ -367,7 +367,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971804988
+   "checkedAt": 1793981324642
   },
   "1827": {
    "id": 1827,
@@ -389,7 +389,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971804730
+   "checkedAt": 1793981324441
   },
   "1831": {
    "id": 1831,
@@ -411,7 +411,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971804488
+   "checkedAt": 1793981324254
   },
   "2583": {
    "id": 2583,
@@ -435,7 +435,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971804246
+   "checkedAt": 1793981324075
   },
   "2590": {
    "id": 2590,
@@ -457,7 +457,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971803962,
+   "checkedAt": 1793981323861,
    "deleted": true
   },
   "2684": {
@@ -480,7 +480,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793971803780
+   "checkedAt": 1793981323738
   },
   "2687": {
    "id": 2687,
@@ -502,7 +502,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968085462
+   "checkedAt": 1793981323565
   },
   "2694": {
    "id": 2694,
@@ -524,7 +524,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968085279
+   "checkedAt": 1793981323388
   },
   "2923": {
    "id": 2923,
@@ -546,7 +546,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968085098,
+   "checkedAt": 1793981323215,
    "deleted": true
   },
   "2950": {
@@ -567,7 +567,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968084968
+   "checkedAt": 1793981323092
   },
   "2976": {
    "id": 2976,
@@ -589,7 +589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968084778,
+   "checkedAt": 1793981322905,
    "deleted": true
   },
   "3195": {
@@ -608,7 +608,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968084647
+   "checkedAt": 1793981322780
   },
   "3215": {
    "id": 3215,
@@ -632,7 +632,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968084463
+   "checkedAt": 1793981322610
   },
   "3362": {
    "id": 3362,
@@ -654,7 +654,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968084273
+   "checkedAt": 1793981322414
   },
   "3416": {
    "id": 3416,
@@ -678,7 +678,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968084081,
+   "checkedAt": 1793981322216,
    "deleted": true
   },
   "3569": {
@@ -717,7 +717,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968083948
+   "checkedAt": 1793981322093
   },
   "3620": {
    "id": 3620,
@@ -739,7 +739,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968083763
+   "checkedAt": 1793981321904
   },
   "3750": {
    "id": 3750,
@@ -761,7 +761,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968083568
+   "checkedAt": 1793981321714
   },
   "3775": {
    "id": 3775,
@@ -783,7 +783,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968083369
+   "checkedAt": 1793981321521
   },
   "3785": {
    "id": 3785,
@@ -808,7 +808,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968083160,
+   "checkedAt": 1793981321325,
    "deleted": true
   },
   "3797": {
@@ -831,7 +831,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968083028
+   "checkedAt": 1793981321199
   },
   "3819": {
    "id": 3819,
@@ -855,7 +855,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968082814,
+   "checkedAt": 1793981320995,
    "deleted": true
   },
   "4063": {
@@ -888,7 +888,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968082683,
+   "checkedAt": 1793981320870,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -921,7 +921,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968082553,
+   "checkedAt": 1793981320747,
    "group": "14184540779096258",
    "caption_id": 4067,
    "deleted": true
@@ -948,7 +948,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968082420
+   "checkedAt": 1793981320624
   },
   "4080": {
    "id": 4080,
@@ -970,7 +970,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968082190,
+   "checkedAt": 1793981320391,
    "deleted": true
   },
   "4245": {
@@ -995,7 +995,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968082057
+   "checkedAt": 1793981320266
   },
   "4471": {
    "id": 4471,
@@ -1019,7 +1019,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968081854
+   "checkedAt": 1793981320078
   },
   "4506": {
    "id": 4506,
@@ -1041,7 +1041,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968081643
+   "checkedAt": 1793981319874
   },
   "4529": {
    "id": 4529,
@@ -1063,7 +1063,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968081446
+   "checkedAt": 1793981319674
   },
   "4541": {
    "id": 4541,
@@ -1085,7 +1085,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968081254
+   "checkedAt": 1793981319495
   },
   "4945": {
    "id": 4945,
@@ -1109,7 +1109,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968081048
+   "checkedAt": 1793981319304
   },
   "4962": {
    "id": 4962,
@@ -1131,7 +1131,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968080851
+   "checkedAt": 1793981319104
   },
   "4967": {
    "id": 4967,
@@ -1153,7 +1153,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968080520
+   "checkedAt": 1793981318777
   },
   "4985": {
    "id": 4985,
@@ -1174,7 +1174,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968080303
+   "checkedAt": 1793981318569
   },
   "4987": {
    "id": 4987,
@@ -1198,7 +1198,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793968080129
+   "checkedAt": 1793981318400
   },
   "5037": {
    "id": 5037,
@@ -7547,7 +7547,7 @@
    ],
    "group": "14349730564501954",
    "caption_id": 8491,
-   "checkedAt": 1793968080653,
+   "checkedAt": 1793981318900,
    "deleted": true
   },
   "8496": {
@@ -9497,7 +9497,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383315203,
+ "digestOffset": 383315263,
  "feed": {
   "items": {
    "67064": {
@@ -15513,6 +15513,288 @@
     ],
     "hashtagBrand": true,
     "textId": 69300
+   },
+   "69306": {
+    "id": 69306,
+    "url": "https://t.me/eurostockmoscow/69306",
+    "date": 1793981083,
+    "text": "💗 Стартовала закрытая распродажа\nBurker — скидки до 80% на всё, включая новинки! ✨\nЗамечали, как это бывает: во время скидок все тянут с заказом, а потом — модели уже нет в наличий или акция закончилась. Чтобы не оказаться в такой ситуации, лучше оформлять заказ в первую волну ✅\nЭти часики — частый выбор на подарок: радуют близких и выглядят отлично 💌\n\nСмотреть на сайте: https://www.burkerwatches.com/es",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDrpq7fqb-PFZ7YB73U78DBM5oxRw7AACAh9rG-rLcUtmKgpdsjZdWgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69306
+   },
+   "69307": {
+    "id": 69307,
+    "url": "https://t.me/eurostockmoscow/69307",
+    "date": 1793981185,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Victoria 8000₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDrxq7fsAAUUBy8VHYD0V8U5K455EUCIAAkAfaxvqy3FL8382RlqukLUBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBDrtq7fsAAY41sNLWw483V22kXerf2ZUAAhSkAALqy3FLG3pGs_im3zg9BA"
+    ],
+    "hashtagBrand": false,
+    "textId": 69307
+   },
+   "69309": {
+    "id": 69309,
+    "url": "https://t.me/eurostockmoscow/69309",
+    "date": 1793981185,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Victoria Olive 8000₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDr1q7fsAATbPn1FxZGGvUEuGYhLuQuwAAkQfaxvqy3FLDPgjuNgyWdIBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDr5q7fsAAcQ5kDNI_QJcOkBiU8-AlhwAAkUfaxvqy3FLtCzDd05j_UkBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDr9q7fsAAXP0Bo4GHah8eSRvoWHTQ_gAAkYfaxvqy3FLC_dcPMB2WC0BAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDsBq7fsAAo0UWtcd1VazVDufU0OiawACRx9rG-rLcUvDi4oJtG4lGQEAAwIAA3gAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBDsFq7fsAARal0S81PSmWszY3dwlvLN8AAkgfaxvqy3FLNQOsFCf_iM4BAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69309
+   },
+   "69314": {
+    "id": 69314,
+    "url": "https://t.me/eurostockmoscow/69314",
+    "date": 1793981185,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️ Victoria Silver \nBurgundy 9600₽\n▪️Victoria Gold\n Burgundy 8800₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDsJq7fsAARUTUvaoEWpicZj_AbaOptUAAksfaxvqy3FLo-QcO3PfEd0BAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDsNq7fsAAfJTlWE8ZJutcEhrvokIVzIAAkwfaxvqy3FLnGebGsCk-ooBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDsRq7fsAAVrYuZOgjbz0JGVYEL9XOWUAAk0faxvqy3FLtqrqw55Cp4IBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDsVq7fsAAaw8VSaBpAvoo72MkWdY1mMAAk4faxvqy3FLNEyPSOIQtlQBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDsZq7fsAARd_h8en8ResvOmorGbNC_IAAk8faxvqy3FLejUq_uJta8sBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDsdq7fsAAVRlogbgS5YciKhxHoxdRT8AAlAfaxvqy3FLgq-pgEeni64BAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69314
+   },
+   "69320": {
+    "id": 69320,
+    "url": "https://t.me/eurostockmoscow/69320",
+    "date": 1793981186,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Diana 8800₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDshq7fsAARLlcCWvIzbhpvnvNWBDQnAAAmIfaxvqy3FLEaHtA0GvqmABAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDslq7fsAAQowhxDdlMk4HmPRWx52ZvIAAmMfaxvqy3FLOcVNne9jHxoBAAMCAAN4AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBDspq7fsAAauuV_GWl9cPqlf_2jjh_LEAAj6kAALqy3FL0vKIacwLhBg9BA"
+    ],
+    "hashtagBrand": false,
+    "textId": 69320
+   },
+   "69323": {
+    "id": 69323,
+    "url": "https://t.me/eurostockmoscow/69323",
+    "date": 1793981186,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Diana 7000₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDstq7fsAAT5X8CDHOFwbgti8uu39KxMAAmsfaxvqy3FL4drHv6Ko-QIBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDsxq7fsAASBEim7ZDqDqgSMJBZn_sgMAAmwfaxvqy3FL6PotqNdrKpgBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDslq7fsAAQowhxDdlMk4HmPRWx52ZvIAAmMfaxvqy3FLOcVNne9jHxoBAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69323
+   },
+   "69326": {
+    "id": 69326,
+    "url": "https://t.me/eurostockmoscow/69326",
+    "date": 1793981186,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Diana 11950₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBDs5q7fsAAVLj7k04TVuQnXbY67jI3zQAAkekAALqy3FLY9JY69Yhv0U9BA"
+    ],
+    "hashtagBrand": false,
+    "textId": 69326
+   },
+   "69327": {
+    "id": 69327,
+    "url": "https://t.me/eurostockmoscow/69327",
+    "date": 1793981186,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Diana Chic 11200₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDs9q7fsAAeM61Wyq69R8UapR4-Imp2MAAnYfaxvqy3FL9egamPshqgIBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDtBq7fsAASB6IHPywYzZXvIh_oxL_qgAAncfaxvqy3FL4LXrdze4G5MBAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69327
+   },
+   "69329": {
+    "id": 69329,
+    "url": "https://t.me/eurostockmoscow/69329",
+    "date": 1793981186,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Diana 8800₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDtJq7fsAAWP5If2HhdVju0IKXcXDkRgAAnkfaxvqy3FL1TQ7gFmR1uQBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDtNq7fsAAQb2WdBSg91Ds85mm7ifZDkAAnofaxvqy3FLR3rLf8rzPAYBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDtRq7fsAAapQs-3OeQoAAWOysT9v1M8uAAJ7H2sb6stxS1VxVFXU6bfVAQADAgADeQADPQQ",
+     "AgACAgIAAyEFAASRzT39AAEBDtVq7fsAARAYjinFBLgyjwRdNmbAfTsAAnwfaxvqy3FL7nyrHYYVMeMBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBDtFq7fsAAZr_GeEINV1XwoUwE47MQZcAAlmkAALqy3FLFk792NL-h1A9BA"
+    ],
+    "hashtagBrand": false,
+    "textId": 69329
+   },
+   "69334": {
+    "id": 69334,
+    "url": "https://t.me/eurostockmoscow/69334",
+    "date": 1793981186,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Diana 10500₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDtZq7fsAAaheulCejkqf3lbPtbEJgnkAAoIfaxvqy3FLelU4AWZ9owcBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDtdq7fsAAa0unhW8qkaNvb_fx5ENqLQAAoMfaxvqy3FLjbCaVi4zojsBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDthq7fsAAVDmNxrcp0mWusQ4arf25xkAAoQfaxvqy3FLBsUQjixpkdgBAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69334
+   },
+   "69337": {
+    "id": 69337,
+    "url": "https://t.me/eurostockmoscow/69337",
+    "date": 1793981187,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Victoria 7000₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDtlq7fsAAeBzOspoQcWYwLxMe4GKKfQAAjYfaxvqy3FLd2eI5FUd4D0BAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDtpq7fsAAfBIix1b2Q4sYoT8IVh02VUAAoYfaxvqy3FLVfmF_YkflVUBAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69337
+   },
+   "69339": {
+    "id": 69339,
+    "url": "https://t.me/eurostockmoscow/69339",
+    "date": 1793981187,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Olivia 7000₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBDttq7fsAAfv5EVqtT-4O9YUSBasKszEAAmakAALqy3FLK_hHTVsHUGw9BA"
+    ],
+    "hashtagBrand": false,
+    "textId": 69339
+   },
+   "69340": {
+    "id": 69340,
+    "url": "https://t.me/eurostockmoscow/69340",
+    "date": 1793981187,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Olivia 5300₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDtxq7fsAATgAAXH7X1BimoTRXpOxdz9jAAKIH2sb6stxS5VBkYJjBretAQADAgADeQADPQQ",
+     "AgACAgIAAyEFAASRzT39AAEBDt1q7fsAAXJXtv-NPAACNhrBAdcJcDkAAokfaxvqy3FL7fMzzrD5XREBAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69340
+   },
+   "69342": {
+    "id": 69342,
+    "url": "https://t.me/eurostockmoscow/69342",
+    "date": 1793981187,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Olivia 9600₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDt5q7fsAAS5kvEb4c8xbXSEI1JEAAcZaAAKLH2sb6stxSw1r6BGtIaDMAQADAgADeAADPQQ",
+     "AgACAgIAAyEFAASRzT39AAEBDt9q7fsAAfhw8o71grk2QnhbHHrzHYQAAowfaxvqy3FLcGK32Zzb8g8BAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDuBq7fsAAbYY-sTFmb0CiItcp5SrGq4AAo0faxvqy3FLXHNoVyS123YBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDuFq7fsAAZbBelYbCLyjx_zGm1DjXdQAAo4faxvqy3FLjSEwRL72XVcBAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69342
+   },
+   "69346": {
+    "id": 69346,
+    "url": "https://t.me/eurostockmoscow/69346",
+    "date": 1793981187,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Olivia 8800₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDuJq7fsAAW5kKoQMR-k0vOCfTOf7pIkAApYfaxvqy3FLqoylgBn4TsgBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDuNq7fsAAaWAE94EWFiRTI5VeAq23LMAApcfaxvqy3FLdQO8Ai0tIA0BAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDuRq7fsAAWGVugyEjf6CZ5uRGJjqYSwAApgfaxvqy3FLb1j57-ANefoBAAMCAAN4AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDuVq7fsAAUbVpm_RCuZu7jS62fwk0BcAApkfaxvqy3FL4eymGIYrEy0BAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69346
+   },
+   "69350": {
+    "id": 69350,
+    "url": "https://t.me/eurostockmoscow/69350",
+    "date": 1793981187,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Ruby Petite 3500₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDudq7fsAAbEjVLpUwcfSd9eL5vH9I6sAAp0faxvqy3FLSS7Xh511cxgBAAMCAAN4AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBDuZq7fsAAX6Bqgnf4_2gAUvKHNcoRp4AAnCkAALqy3FLHPNnx0TcRWc9BA"
+    ],
+    "hashtagBrand": false,
+    "textId": 69350
+   },
+   "69352": {
+    "id": 69352,
+    "url": "https://t.me/eurostockmoscow/69352",
+    "date": 1793981188,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Ruby Petite Burgundy 3500₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDuhq7fsAATz-rAABsBpSMq5lzLY4oU2sAAKeH2sb6stxS5TWY9FDo75pAQADAgADeAADPQQ",
+     "AgACAgIAAyEFAASRzT39AAEBDulq7fsAAR6ttuzKIXRmr7_g2TZI-CYAAp8faxvqy3FLMIB702Ry-FoBAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69352
+   },
+   "69354": {
+    "id": 69354,
+    "url": "https://t.me/eurostockmoscow/69354",
+    "date": 1793981188,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Macy 8800₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDupq7fsAAcEbSVHSCDSBX1WTCCV_wUgAAqkfaxvqy3FLseqIUPAwj1UBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDutq7fsAAWO1bKMqfeA4nDUuCFtGcAIAAqofaxvqy3FLitqGvD8dZWYBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDuxq7fsAAf_PN8viKWeP-ZDT4A3TQegAAqsfaxvqy3FL99aF1x9oRXUBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDu1q7fsAAfdRew8QPgLlYYaGI45nNPYAAqwfaxvqy3FLFlRhIOmTtx0BAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDu9q7fsAAXmAHTPYd0QmE06cf0EL64kAAq0faxvqy3FLk3jrbkdO5AQBAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69354
+   },
+   "69360": {
+    "id": 69360,
+    "url": "https://t.me/eurostockmoscow/69360",
+    "date": 1793981188,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Macy 9600₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDvBq7fsAAUCT3zH7IG2gKl812VzsqCoAAsQfaxvqy3FLwBdwM0MkCnQBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDvFq7fsAAWZaILXuze5UFb55qMpgfDwAAsUfaxvqy3FLjw1UF99P05QBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDvJq7fsAAaqTkMhUeU4DxfOYGuL9h8UAAsYfaxvqy3FLVGSTYl8TXn0BAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69360
+   },
+   "69363": {
+    "id": 69363,
+    "url": "https://t.me/eurostockmoscow/69363",
+    "date": 1793981188,
+    "text": "🤩 Закрытая распродажа Burker \n\n▪️Модель Macy 9600₽\nИдея подарка \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBDvNq7fsAAYHr9RWbE240LSstFdMVJg4AAscfaxvqy3FLf3wBswasVwUBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBDvRq7fsAAcwylJdfxt9ZxrOaWM1XVtEAAsgfaxvqy3FLnwMgU4FvkSABAAMCAAN4AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false,
+    "textId": 69363
    }
   },
   "groups": {
@@ -15859,7 +16141,24 @@
    "14351764749471186": 69282,
    "14351764749471194": 69288,
    "14351764749471202": 69294,
-   "14351764749471210": 69300
+   "14351764749471210": 69300,
+   "14351849480904570": 69307,
+   "14351849480904578": 69309,
+   "14351849480904586": 69314,
+   "14351849480904594": 69320,
+   "14351849480904602": 69323,
+   "14351849480904618": 69327,
+   "14351849480904626": 69329,
+   "14351849480904634": 69334,
+   "14351849480904642": 69337,
+   "14351849480904658": 69340,
+   "14351849480904666": 69342,
+   "14351849480904674": 69346,
+   "14351849480904682": 69350,
+   "14351849480904690": 69352,
+   "14351849480904698": 69354,
+   "14351849480904706": 69360,
+   "14351849480904714": 69363
   }
  }
 }
