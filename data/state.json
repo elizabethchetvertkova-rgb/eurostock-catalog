@@ -1,5 +1,5 @@
 {
- "offset": 789490301,
+ "offset": 789490304,
  "posts": {
   "206": {
    "id": 206,
@@ -4831,7 +4831,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961438580,
+   "checkedAt": 1793972388320,
    "deleted": true
   },
   "7768": {
@@ -4854,7 +4854,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961438481
+   "checkedAt": 1793972388187
   },
   "7777": {
    "id": 7777,
@@ -4876,7 +4876,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961438307
+   "checkedAt": 1793972387984
   },
   "7819": {
    "id": 7819,
@@ -4894,7 +4894,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961438128,
+   "checkedAt": 1793972387782,
    "deleted": true
   },
   "7827": {
@@ -4917,7 +4917,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961438026
+   "checkedAt": 1793972387647
   },
   "7843": {
    "id": 7843,
@@ -4935,7 +4935,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961437854,
+   "checkedAt": 1793972387437,
    "deleted": true
   },
   "7848": {
@@ -4954,7 +4954,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961437753
+   "checkedAt": 1793972387305
   },
   "7865": {
    "id": 7865,
@@ -4976,7 +4976,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961437593,
+   "checkedAt": 1793972387104,
    "deleted": true
   },
   "7877": {
@@ -4999,7 +4999,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793961437491
+   "checkedAt": 1793972386969
   },
   "7882": {
    "id": 7882,
@@ -5008,7 +5008,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1793958300969
+   "checkedAt": 1793972386760
   },
   "7889": {
    "id": 7889,
@@ -5030,7 +5030,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958300753
+   "checkedAt": 1793972386547
   },
   "7906": {
    "id": 7906,
@@ -5048,7 +5048,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958300549
+   "checkedAt": 1793972386343
   },
   "7908": {
    "id": 7908,
@@ -5070,7 +5070,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958300371
+   "checkedAt": 1793972386163
   },
   "7917": {
    "id": 7917,
@@ -5092,7 +5092,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958300170
+   "checkedAt": 1793972385971
   },
   "7923": {
    "id": 7923,
@@ -5142,7 +5142,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958299971,
+   "checkedAt": 1793972385768,
    "group": "14319333142614634",
    "caption_id": 7927,
    "deleted": true
@@ -5167,7 +5167,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958299843
+   "checkedAt": 1793972385638
   },
   "7941": {
    "id": 7941,
@@ -5189,7 +5189,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958299657
+   "checkedAt": 1793972385433
   },
   "7946": {
    "id": 7946,
@@ -5211,7 +5211,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958299471
+   "checkedAt": 1793972385239
   },
   "7992": {
    "id": 7992,
@@ -5225,7 +5225,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958299280
+   "checkedAt": 1793972385032
   },
   "8019": {
    "id": 8019,
@@ -5243,7 +5243,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958298977
+   "checkedAt": 1793972384714
   },
   "8023": {
    "id": 8023,
@@ -5265,7 +5265,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958298788
+   "checkedAt": 1793972384514
   },
   "8028": {
    "id": 8028,
@@ -5287,7 +5287,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958298587,
+   "checkedAt": 1793972384311,
    "deleted": true
   },
   "8033": {
@@ -5297,7 +5297,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1793958298461,
+   "checkedAt": 1793972384178,
    "deleted": true
   },
   "8041": {
@@ -5320,7 +5320,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958298334,
+   "checkedAt": 1793972384046,
    "deleted": true
   },
   "8046": {
@@ -5345,7 +5345,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958298207,
+   "checkedAt": 1793972383912,
    "deleted": true
   },
   "8051": {
@@ -5360,7 +5360,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958298080
+   "checkedAt": 1793972383779
   },
   "8052": {
    "id": 8052,
@@ -5384,7 +5384,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958297909,
+   "checkedAt": 1793972383612,
    "deleted": true
   },
   "8067": {
@@ -5407,7 +5407,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958297781
+   "checkedAt": 1793972383464
   },
   "8092": {
    "id": 8092,
@@ -5437,7 +5437,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958297579,
+   "checkedAt": 1793972383250,
    "group": "14327749700613602",
    "caption_id": 8092
   },
@@ -5461,7 +5461,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958297371,
+   "checkedAt": 1793972383050,
    "deleted": true
   },
   "8111": {
@@ -5500,7 +5500,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958297243
+   "checkedAt": 1793972382917
   },
   "8126": {
    "id": 8126,
@@ -5522,7 +5522,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958297028,
+   "checkedAt": 1793972382687,
    "deleted": true
   },
   "8134": {
@@ -5545,7 +5545,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958296902
+   "checkedAt": 1793972382553
   },
   "8141": {
    "id": 8141,
@@ -5567,7 +5567,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958296686
+   "checkedAt": 1793972382338
   },
   "8147": {
    "id": 8147,
@@ -5591,7 +5591,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958296489
+   "checkedAt": 1793972382120
   },
   "8154": {
    "id": 8154,
@@ -5613,7 +5613,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958296277
+   "checkedAt": 1793972381908
   },
   "8157": {
    "id": 8157,
@@ -5635,7 +5635,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958296085
+   "checkedAt": 1793972381700
   },
   "8165": {
    "id": 8165,
@@ -5659,7 +5659,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958295902
+   "checkedAt": 1793972381514
   },
   "8174": {
    "id": 8174,
@@ -5681,7 +5681,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1793958295680,
+   "checkedAt": 1793972381278,
    "deleted": true
   },
   "8179": {
@@ -6342,7 +6342,7 @@
    ],
    "group": "14343341944830754",
    "caption_id": 8343,
-   "checkedAt": 1793958299103,
+   "checkedAt": 1793972384847,
    "deleted": true
   },
   "8351": {
@@ -7726,6 +7726,34 @@
    "group": "14351266348587418",
    "caption_id": 8514,
    "checkedAt": 1793961819012
+  },
+  "8521": {
+   "id": 8521,
+   "date": "2026-11-06",
+   "text": "Футболки #MassimoDutti ✔️✔️✔️✔️✔️\n\nДевочки, у кого размер М? \nСкорее забирайте! \nВсе по 1 шт🔥\n\n▪️Чёрная с V-вырезом\n▪️Коричневая с металлической фурнитурой \n▪️Чёрная футболка",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgfGrtz-4Hc-Juiwiudm_dck5x0Up9AAK8I2sbOzmwSk9WFrMMKYvDAQADAgADeQADPQQ",
+     "msg_id": 8521,
+     "key": "8521_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhSmrt1nUDYWRhq2tZW8d_eFrZSy8jAAK-I2sbOzmwSuXk1Rovq2GAAQADAgADeQADPQQ",
+     "msg_id": 8522,
+     "key": "8521_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhS2rt1nU4CAofSp_27TwGp5JqwdXjAAK_I2sbOzmwSpxlUuyPHETqAQADAgADeQADPQQ",
+     "msg_id": 8523,
+     "key": "8521_2"
+    }
+   ],
+   "group": "14351774636200514",
+   "caption_id": 8521
   }
  },
  "groups": {
@@ -9429,6 +9457,34 @@
    ],
    "historical": 7379,
    "date": "2026-08-03"
+  },
+  "14351774636200514": {
+   "ids": [
+    8521,
+    8522,
+    8523
+   ],
+   "text": "Футболки #MassimoDutti ✔️✔️✔️✔️✔️\n\nДевочки, у кого размер М? \nСкорее забирайте! \nВсе по 1 шт🔥\n\n▪️Чёрная с V-вырезом\n▪️Коричневая с металлической фурнитурой \n▪️Чёрная футболка",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIgfGrtz-4Hc-Juiwiudm_dck5x0Up9AAK8I2sbOzmwSk9WFrMMKYvDAQADAgADeQADPQQ",
+     "msg_id": 8521
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhSmrt1nUDYWRhq2tZW8d_eFrZSy8jAAK-I2sbOzmwSuXk1Rovq2GAAQADAgADeQADPQQ",
+     "msg_id": 8522
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhS2rt1nU4CAofSp_27TwGp5JqwdXjAAK_I2sbOzmwSpxlUuyPHETqAQADAgADeQADPQQ",
+     "msg_id": 8523
+    }
+   ],
+   "date": "2026-11-06",
+   "caption_id": 8521
   }
  },
  "drafts": {},
