@@ -148,7 +148,17 @@ async function renderOverlays(items) {
 // ---------- сцены ffmpeg
 const ENC = ['-c:v', 'libx264', '-crf', '18', '-preset', 'veryfast', '-pix_fmt', 'yuv420p', '-r', '30'];
 const FADE = '0x66011F';
-function ff(args) { execFileSync('ffmpeg', ['-v', 'error', '-y', ...args], { stdio: 'inherit' }); }
+// ffmpeg: из переменной FFMPEG, из npm-пакета ffmpeg-static (ставится в workflow) или системный
+function ffmpegBin() {
+  if (process.env.FFMPEG) return process.env.FFMPEG;
+  for (const dir of [ROOT, WORK, __dirname]) { try { const p = require(require.resolve('ffmpeg-static', { paths: [dir] })); if (p && fs.existsSync(p)) return p; } catch (e) {} }
+  return 'ffmpeg';
+}
+const FFMPEG = ffmpegBin();
+function ff(args) {
+  try { execFileSync(FFMPEG, ['-v', 'error', '-y', ...args], { stdio: 'inherit' }); }
+  catch (e) { if (e.code === 'ENOENT') throw new Error('ffmpeg не найден: в reel.yml должен быть шаг установки (npm i ffmpeg-static или apt-get install ffmpeg)'); throw e; }
+}
 function renderScenes(items, ov) {
   const sc = path.join(WORK, 'scenes'); fs.mkdirSync(sc, { recursive: true });
   const per = Number(reelCfg.seconds || 2.3); const frames = Math.round(per * 30);
