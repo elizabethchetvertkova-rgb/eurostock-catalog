@@ -175,7 +175,7 @@
    ],
    "group": "13961443997483026",
    "caption_id": 573,
-   "checkedAt": 1794332243772,
+   "checkedAt": 1794343636189,
    "deleted": true
   },
   "948": {
@@ -4557,7 +4557,7 @@
    ],
    "group": "14305369095718082",
    "caption_id": 7660,
-   "checkedAt": 1794332243647,
+   "checkedAt": 1794343636031,
    "deleted": true
   },
   "7665": {
@@ -4636,7 +4636,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794332244747,
+   "checkedAt": 1794343637348,
    "group": "14305377964402858",
    "caption_id": 7678,
    "deleted": true
@@ -4661,7 +4661,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794332244623,
+   "checkedAt": 1794343637193,
    "deleted": true
   },
   "7697": {
@@ -4684,7 +4684,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794332244498
+   "checkedAt": 1794343637038
   },
   "7702": {
    "id": 7702,
@@ -4693,7 +4693,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1794332244309
+   "checkedAt": 1794343636809
   },
   "7704": {
    "id": 7704,
@@ -4715,7 +4715,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794332244137
+   "checkedAt": 1794343636601
   },
   "7707": {
    "id": 7707,
@@ -4737,7 +4737,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794332243950
+   "checkedAt": 1794343636392
   },
   "7750": {
    "id": 7750,
@@ -4759,7 +4759,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331703795,
+   "checkedAt": 1794343635875,
    "deleted": true
   },
   "7755": {
@@ -4778,7 +4778,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331703636,
+   "checkedAt": 1794343635715,
    "deleted": true
   },
   "7758": {
@@ -4793,7 +4793,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331703475,
+   "checkedAt": 1794343635555,
    "deleted": true
   },
   "7761": {
@@ -4812,7 +4812,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331703159,
+   "checkedAt": 1794343635241,
    "deleted": true
   },
   "7764": {
@@ -4835,7 +4835,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331702756,
+   "checkedAt": 1794343634859,
    "deleted": true
   },
   "7768": {
@@ -4858,7 +4858,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331702597
+   "checkedAt": 1794343634703
   },
   "7777": {
    "id": 7777,
@@ -4880,7 +4880,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331702348
+   "checkedAt": 1794343634470
   },
   "7819": {
    "id": 7819,
@@ -4898,7 +4898,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331702105,
+   "checkedAt": 1794343634236,
    "deleted": true
   },
   "7827": {
@@ -4921,7 +4921,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331701946
+   "checkedAt": 1794343634079
   },
   "7843": {
    "id": 7843,
@@ -4939,7 +4939,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331701699,
+   "checkedAt": 1794343633848,
    "deleted": true
   },
   "7848": {
@@ -4958,7 +4958,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331701537
+   "checkedAt": 1794343633692
   },
   "7865": {
    "id": 7865,
@@ -4980,7 +4980,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331701319,
+   "checkedAt": 1794343633473,
    "deleted": true
   },
   "7877": {
@@ -5003,7 +5003,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331701161
+   "checkedAt": 1794343633315
   },
   "7882": {
    "id": 7882,
@@ -5012,7 +5012,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1794331700914
+   "checkedAt": 1794343633079
   },
   "7889": {
    "id": 7889,
@@ -5034,7 +5034,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331700678
+   "checkedAt": 1794343632824
   },
   "7906": {
    "id": 7906,
@@ -5052,7 +5052,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331700439
+   "checkedAt": 1794343632586
   },
   "7908": {
    "id": 7908,
@@ -5074,7 +5074,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331700228
+   "checkedAt": 1794343632378
   },
   "7917": {
    "id": 7917,
@@ -5096,7 +5096,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331699961
+   "checkedAt": 1794343632159
   },
   "7923": {
    "id": 7923,
@@ -5146,7 +5146,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331699725,
+   "checkedAt": 1794343631913,
    "group": "14319333142614634",
    "caption_id": 7927,
    "deleted": true
@@ -5171,7 +5171,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331699562
+   "checkedAt": 1794343631757
   },
   "7941": {
    "id": 7941,
@@ -5193,7 +5193,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331699329
+   "checkedAt": 1794343631528
   },
   "7946": {
    "id": 7946,
@@ -5215,7 +5215,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331699103
+   "checkedAt": 1794343631306
   },
   "7992": {
    "id": 7992,
@@ -5229,7 +5229,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331698870
+   "checkedAt": 1794343631064
   },
   "8019": {
    "id": 8019,
@@ -5247,7 +5247,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331698500
+   "checkedAt": 1794343630698
   },
   "8023": {
    "id": 8023,
@@ -5269,7 +5269,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331698256
+   "checkedAt": 1794343630472
   },
   "8028": {
    "id": 8028,
@@ -5291,7 +5291,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331698012,
+   "checkedAt": 1794343630251,
    "deleted": true
   },
   "8033": {
@@ -5301,7 +5301,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1794331697852,
+   "checkedAt": 1794343630095,
    "deleted": true
   },
   "8041": {
@@ -5324,7 +5324,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331697694,
+   "checkedAt": 1794343629920,
    "deleted": true
   },
   "8046": {
@@ -5349,7 +5349,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794331697534,
+   "checkedAt": 1794343629760,
    "deleted": true
   },
   "8051": {
@@ -5956,7 +5956,7 @@
    ],
    "group": "14335910927961106",
    "caption_id": 8251,
-   "checkedAt": 1794331703318,
+   "checkedAt": 1794343635397,
    "deleted": true
   },
   "8253": {
@@ -6347,7 +6347,7 @@
    ],
    "group": "14343341944830754",
    "caption_id": 8343,
-   "checkedAt": 1794331698659,
+   "checkedAt": 1794343630856,
    "deleted": true
   },
   "8351": {
@@ -7383,7 +7383,7 @@
    ],
    "group": "14349073333515394",
    "caption_id": 8472,
-   "checkedAt": 1794331702998
+   "checkedAt": 1794343635082
   },
   "8476": {
    "id": 8476,
@@ -9592,7 +9592,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383316322,
+ "digestOffset": 383316324,
  "feed": {
   "items": {
    "67064": {
@@ -19640,6 +19640,19 @@
     "videos": [],
     "hashtagBrand": true,
     "textId": 70415
+   },
+   "70419": {
+    "id": 70419,
+    "url": "https://t.me/eurostockmoscow/70419",
+    "date": 1794343302,
+    "text": "Уже завтра едем в аутлет #MassimoDutti и #Oysho 🌟🌟\n\nЗдесь мы бываем не часто🫠\nВещи, настолько быстро разлетаются, что нужно - брать и бежать! 🔥\nСледите за обзором🙏🏻\n\nТолько мгновенный выкуп!\nДля заказа писать - @tatianamoseuro\nMAX - +7 963 994 7535",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBExNq84GG17IScdL1q9xTeoNrYK1RAgACTSJrG5UZoEtoIPrYP5OcSgEAAwIAA3gAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBExRq84GGAtUQTsuyde7W2rMfsETQMQACTiJrG5UZoEstc8WcBWlMVgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 70419
    }
   },
   "groups": {
@@ -20218,7 +20231,8 @@
    "14354649664822986": 70403,
    "14354649664822994": 70407,
    "14354649664823002": 70411,
-   "14354649664823010": 70415
+   "14354649664823010": 70415,
+   "14354746423634762": 70419
   }
  }
 }
