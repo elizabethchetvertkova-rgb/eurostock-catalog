@@ -1,5 +1,5 @@
 {
- "offset": 789490342,
+ "offset": 789490347,
  "posts": {
   "206": {
    "id": 206,
@@ -435,7 +435,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794486998448
+   "checkedAt": 1794504994835
   },
   "2590": {
    "id": 2590,
@@ -457,7 +457,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794486998264,
+   "checkedAt": 1794504994601,
    "deleted": true
   },
   "2684": {
@@ -480,7 +480,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794486998160
+   "checkedAt": 1794504994456
   },
   "2687": {
    "id": 2687,
@@ -502,7 +502,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794486998000
+   "checkedAt": 1794504994251
   },
   "2694": {
    "id": 2694,
@@ -524,7 +524,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483582113
+   "checkedAt": 1794504994047
   },
   "2923": {
    "id": 2923,
@@ -546,7 +546,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483581946,
+   "checkedAt": 1794504993850,
    "deleted": true
   },
   "2950": {
@@ -567,7 +567,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483581839
+   "checkedAt": 1794504993704
   },
   "2976": {
    "id": 2976,
@@ -589,7 +589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483581683,
+   "checkedAt": 1794504993498,
    "deleted": true
   },
   "3195": {
@@ -608,7 +608,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483581583
+   "checkedAt": 1794504993352
   },
   "3215": {
    "id": 3215,
@@ -632,7 +632,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483581417
+   "checkedAt": 1794504993138
   },
   "3362": {
    "id": 3362,
@@ -654,7 +654,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483581256,
+   "checkedAt": 1794504992915,
    "group": "14146575934181546",
    "caption_id": 3362
   },
@@ -680,7 +680,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483581092,
+   "checkedAt": 1794504992700,
    "deleted": true
   },
   "3569": {
@@ -719,7 +719,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483580991
+   "checkedAt": 1794504992555
   },
   "3620": {
    "id": 3620,
@@ -741,7 +741,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483580834
+   "checkedAt": 1794504992340
   },
   "3750": {
    "id": 3750,
@@ -763,7 +763,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483580670
+   "checkedAt": 1794504992120
   },
   "3775": {
    "id": 3775,
@@ -785,7 +785,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483580503
+   "checkedAt": 1794504991903
   },
   "3785": {
    "id": 3785,
@@ -810,7 +810,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483580322,
+   "checkedAt": 1794504991680,
    "deleted": true
   },
   "3797": {
@@ -833,7 +833,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483580221
+   "checkedAt": 1794504991530
   },
   "3819": {
    "id": 3819,
@@ -857,7 +857,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483580042,
+   "checkedAt": 1794504991296,
    "deleted": true
   },
   "4063": {
@@ -890,7 +890,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483579942,
+   "checkedAt": 1794504991151,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -923,7 +923,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483579842,
+   "checkedAt": 1794504991002,
    "group": "14184540779096258",
    "caption_id": 4067,
    "deleted": true
@@ -950,7 +950,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483579740
+   "checkedAt": 1794504990855
   },
   "4080": {
    "id": 4080,
@@ -972,7 +972,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483579560,
+   "checkedAt": 1794504990620,
    "deleted": true
   },
   "4245": {
@@ -997,7 +997,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483579460
+   "checkedAt": 1794504990463
   },
   "4471": {
    "id": 4471,
@@ -1021,7 +1021,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483579301
+   "checkedAt": 1794504990248
   },
   "4506": {
    "id": 4506,
@@ -1043,7 +1043,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483579126
+   "checkedAt": 1794504990016
   },
   "4529": {
    "id": 4529,
@@ -1065,7 +1065,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483578953
+   "checkedAt": 1794504989783
   },
   "4541": {
    "id": 4541,
@@ -1087,7 +1087,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483578790
+   "checkedAt": 1794504989576
   },
   "4945": {
    "id": 4945,
@@ -1111,7 +1111,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483578496
+   "checkedAt": 1794504989181
   },
   "4962": {
    "id": 4962,
@@ -1133,7 +1133,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483578323
+   "checkedAt": 1794504988948
   },
   "4967": {
    "id": 4967,
@@ -1155,7 +1155,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483578054
+   "checkedAt": 1794504988576
   },
   "4985": {
    "id": 4985,
@@ -1176,7 +1176,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483577875
+   "checkedAt": 1794504988340
   },
   "4987": {
    "id": 4987,
@@ -1200,7 +1200,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483577736
+   "checkedAt": 1794504988143
   },
   "5037": {
    "id": 5037,
@@ -1222,7 +1222,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483577559
+   "checkedAt": 1794504987895
   },
   "5061": {
    "id": 5061,
@@ -1244,7 +1244,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483577376
+   "checkedAt": 1794504987651
   },
   "5107": {
    "id": 5107,
@@ -1258,7 +1258,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483577205
+   "checkedAt": 1794504987427
   },
   "5127": {
    "id": 5127,
@@ -1280,7 +1280,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794483577053
+   "checkedAt": 1794504987228
   },
   "5166": {
    "id": 5166,
@@ -7552,7 +7552,7 @@
    ],
    "group": "14349730564501954",
    "caption_id": 8491,
-   "checkedAt": 1794483578155,
+   "checkedAt": 1794504988724,
    "deleted": true
   },
   "8496": {
@@ -7805,7 +7805,7 @@
    ],
    "group": "14354719371258666",
    "caption_id": 8524,
-   "checkedAt": 1794483578634
+   "checkedAt": 1794504989372
   },
   "8529": {
    "id": 8529,
@@ -7969,6 +7969,47 @@
    ],
    "group": "14355321191386506",
    "caption_id": 8542
+  },
+  "8547": {
+   "id": 8547,
+   "date": "2026-11-12",
+   "text": "Набор шапка и шарф #Barbour ✔️✔️✔️✔️✔️\n\nИдеальный подарок 🎁 \nИдет сразу в подарочной коробке бренда!\n▪️9500₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhY2r1-GfQR6qswPw5mbX7tgSumpwLAAIEIWsbd72wS1PCF_WXeKQnAQADAgADeQADPQQ",
+     "msg_id": 8547,
+     "key": "8547_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZGr1-Gcle2PSFVpBNd3RlQGanZPZAAIIIWsb69mwSwmcJdP7bCR9AQADAgADeQADPQQ",
+     "msg_id": 8548,
+     "key": "8547_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZWr1-GdmMelvi338_GN4jqyJeaw2AAIGIWsbd72wS_j4MzbATwj5AQADAgADeQADPQQ",
+     "msg_id": 8549,
+     "key": "8547_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZmr1-GdJuJo9f0fxP0pDrBZhcIKtAAIFIWsbd72wS2ACRSUyWW8aAQADAgADeQADPQQ",
+     "msg_id": 8550,
+     "key": "8547_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZ2r1-GcxUJE8Jg9T5yQ8GKK69gIjAAIIIWsbd72wSze_z_040AeTAQADAgADeQADPQQ",
+     "msg_id": 8551,
+     "key": "8547_4"
+    }
+   ],
+   "group": "14356038458285378",
+   "caption_id": 8547,
+   "checkedAt": 1794504986996
   }
  },
  "groups": {
@@ -9891,6 +9932,46 @@
    ],
    "date": "2026-11-11",
    "caption_id": 8542
+  },
+  "14356038458285378": {
+   "ids": [
+    8547,
+    8548,
+    8549,
+    8550,
+    8551
+   ],
+   "text": "Набор шапка и шарф #Barbour ✔️✔️✔️✔️✔️\n\nИдеальный подарок 🎁 \nИдет сразу в подарочной коробке бренда!\n▪️9500₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhY2r1-GfQR6qswPw5mbX7tgSumpwLAAIEIWsbd72wS1PCF_WXeKQnAQADAgADeQADPQQ",
+     "msg_id": 8547
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZGr1-Gcle2PSFVpBNd3RlQGanZPZAAIIIWsb69mwSwmcJdP7bCR9AQADAgADeQADPQQ",
+     "msg_id": 8548
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZWr1-GdmMelvi338_GN4jqyJeaw2AAIGIWsbd72wS_j4MzbATwj5AQADAgADeQADPQQ",
+     "msg_id": 8549
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZmr1-GdJuJo9f0fxP0pDrBZhcIKtAAIFIWsbd72wS2ACRSUyWW8aAQADAgADeQADPQQ",
+     "msg_id": 8550
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhZ2r1-GcxUJE8Jg9T5yQ8GKK69gIjAAIIIWsbd72wSze_z_040AeTAQADAgADeQADPQQ",
+     "msg_id": 8551
+    }
+   ],
+   "date": "2026-11-12",
+   "caption_id": 8547
   }
  },
  "drafts": {},
