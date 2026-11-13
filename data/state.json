@@ -1,5 +1,5 @@
 {
- "offset": 789490367,
+ "offset": 789490368,
  "posts": {
   "206": {
    "id": 206,
@@ -21,7 +21,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589956216,
+   "checkedAt": 1794601887019,
    "deleted": true
   },
   "221": {
@@ -46,7 +46,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589956101
+   "checkedAt": 1794601886860
   },
   "224": {
    "id": 224,
@@ -70,7 +70,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589955934
+   "checkedAt": 1794601886652
   },
   "233": {
    "id": 233,
@@ -94,7 +94,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589955773
+   "checkedAt": 1794601886444
   },
   "302": {
    "id": 302,
@@ -116,7 +116,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589955598
+   "checkedAt": 1794601886228
   },
   "324": {
    "id": 324,
@@ -138,7 +138,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589955410
+   "checkedAt": 1794601885985
   },
   "446": {
    "id": 446,
@@ -156,7 +156,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589955245
+   "checkedAt": 1794601885758
   },
   "573": {
    "id": 573,
@@ -198,7 +198,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589955076
+   "checkedAt": 1794601885523
   },
   "957": {
    "id": 957,
@@ -222,7 +222,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589954890
+   "checkedAt": 1794601885302
   },
   "1079": {
    "id": 1079,
@@ -247,7 +247,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589954683
+   "checkedAt": 1794601885046
   },
   "1193": {
    "id": 1193,
@@ -271,7 +271,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589954505
+   "checkedAt": 1794601884817
   },
   "1279": {
    "id": 1279,
@@ -295,7 +295,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589954320
+   "checkedAt": 1794601884566
   },
   "1343": {
    "id": 1343,
@@ -320,7 +320,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589954135
+   "checkedAt": 1794601884336
   },
   "1529": {
    "id": 1529,
@@ -345,7 +345,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589953942
+   "checkedAt": 1794601884090
   },
   "1805": {
    "id": 1805,
@@ -367,7 +367,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589953763
+   "checkedAt": 1794601883851
   },
   "1827": {
    "id": 1827,
@@ -389,7 +389,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589953583
+   "checkedAt": 1794601883610
   },
   "1831": {
    "id": 1831,
@@ -411,7 +411,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589953407
+   "checkedAt": 1794601883386
   },
   "2583": {
    "id": 2583,
@@ -435,7 +435,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589953232
+   "checkedAt": 1794601883168
   },
   "2590": {
    "id": 2590,
@@ -457,7 +457,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589953035,
+   "checkedAt": 1794601882918,
    "deleted": true
   },
   "2684": {
@@ -480,7 +480,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589952921
+   "checkedAt": 1794601882755
   },
   "2687": {
    "id": 2687,
@@ -502,7 +502,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589952736
+   "checkedAt": 1794601882545
   },
   "2694": {
    "id": 2694,
@@ -524,7 +524,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589952559
+   "checkedAt": 1794601882309
   },
   "2923": {
    "id": 2923,
@@ -546,7 +546,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589952388,
+   "checkedAt": 1794601882083,
    "deleted": true
   },
   "2950": {
@@ -567,7 +567,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589952269
+   "checkedAt": 1794601881917
   },
   "2976": {
    "id": 2976,
@@ -589,7 +589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589952107,
+   "checkedAt": 1794601881695,
    "deleted": true
   },
   "3195": {
@@ -608,7 +608,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589951989
+   "checkedAt": 1794601881529
   },
   "3215": {
    "id": 3215,
@@ -632,7 +632,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589951769
+   "checkedAt": 1794601881313
   },
   "3362": {
    "id": 3362,
@@ -654,7 +654,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589951581,
+   "checkedAt": 1794601881090,
    "group": "14146575934181546",
    "caption_id": 3362
   },
@@ -680,7 +680,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589951396,
+   "checkedAt": 1794601880836,
    "deleted": true
   },
   "3569": {
@@ -719,7 +719,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589951281
+   "checkedAt": 1794601880674
   },
   "3620": {
    "id": 3620,
@@ -741,7 +741,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589951088
+   "checkedAt": 1794601880442
   },
   "3750": {
    "id": 3750,
@@ -763,7 +763,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589950907
+   "checkedAt": 1794601880201
   },
   "3775": {
    "id": 3775,
@@ -785,7 +785,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589950718
+   "checkedAt": 1794601879968
   },
   "3785": {
    "id": 3785,
@@ -810,7 +810,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589950525,
+   "checkedAt": 1794601879727,
    "deleted": true
   },
   "3797": {
@@ -833,7 +833,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589950411
+   "checkedAt": 1794601879563
   },
   "3819": {
    "id": 3819,
@@ -857,7 +857,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589950215,
+   "checkedAt": 1794601879292,
    "deleted": true
   },
   "4063": {
@@ -890,7 +890,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589950100,
+   "checkedAt": 1794601879131,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -6176,7 +6176,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589956442,
+   "checkedAt": 1794601887345,
    "deleted": true
   },
   "8326": {
@@ -6201,7 +6201,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794589956329,
+   "checkedAt": 1794601887183,
    "deleted": true
   },
   "8330": {
@@ -8016,7 +8016,7 @@
   "8552": {
    "id": 8552,
    "date": "2026-11-13",
-   "text": "Клатч #Zara ✔️✔️✔️✔️✔️\n\n▪️6500₽\n\nКупить - @tatianamoseuro",
+   "text": "Клатч бургунди #Zara ✔️✔️✔️✔️✔️\n\n▪️6500₽\n\nКупить - @tatianamoseuro",
    "struck": [],
    "media": [
     {
@@ -8054,7 +8054,7 @@
    ],
    "group": "14356633996034658",
    "caption_id": 8552,
-   "checkedAt": 1794592812175
+   "checkedAt": 1794601878968
   },
   "8557": {
    "id": 8557,
@@ -10113,7 +10113,7 @@
     8555,
     8556
    ],
-   "text": "Клатч #Zara ✔️✔️✔️✔️✔️\n\n▪️6500₽\n\nКупить - @tatianamoseuro",
+   "text": "Клатч бургунди #Zara ✔️✔️✔️✔️✔️\n\n▪️6500₽\n\nКупить - @tatianamoseuro",
    "struck": [],
    "media": [
     {
