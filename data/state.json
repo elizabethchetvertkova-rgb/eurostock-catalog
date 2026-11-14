@@ -1,5 +1,5 @@
 {
- "offset": 789490376,
+ "offset": 789490377,
  "posts": {
   "206": {
    "id": 206,
@@ -972,7 +972,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647607651,
+   "checkedAt": 1794657166154,
    "deleted": true
   },
   "4245": {
@@ -997,7 +997,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647607547
+   "checkedAt": 1794657166054
   },
   "4471": {
    "id": 4471,
@@ -1021,7 +1021,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647607375
+   "checkedAt": 1794657165890
   },
   "4506": {
    "id": 4506,
@@ -1043,7 +1043,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647607203
+   "checkedAt": 1794657165704
   },
   "4529": {
    "id": 4529,
@@ -1065,7 +1065,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647607028
+   "checkedAt": 1794657165536
   },
   "4541": {
    "id": 4541,
@@ -1087,7 +1087,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647606864
+   "checkedAt": 1794657165369
   },
   "4945": {
    "id": 4945,
@@ -1111,7 +1111,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647606528
+   "checkedAt": 1794657165049
   },
   "4962": {
    "id": 4962,
@@ -1133,7 +1133,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647606342
+   "checkedAt": 1794657164868
   },
   "4967": {
    "id": 4967,
@@ -1155,7 +1155,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647606057
+   "checkedAt": 1794657164606
   },
   "4985": {
    "id": 4985,
@@ -1176,7 +1176,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647605873
+   "checkedAt": 1794657164413
   },
   "4987": {
    "id": 4987,
@@ -1200,7 +1200,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647605726
+   "checkedAt": 1794657164270
   },
   "5037": {
    "id": 5037,
@@ -1222,7 +1222,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647605538
+   "checkedAt": 1794657164080
   },
   "5061": {
    "id": 5061,
@@ -1244,7 +1244,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647605343
+   "checkedAt": 1794657163885
   },
   "5107": {
    "id": 5107,
@@ -1258,7 +1258,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647605159
+   "checkedAt": 1794657163714
   },
   "5127": {
    "id": 5127,
@@ -1280,7 +1280,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647605000
+   "checkedAt": 1794657163563
   },
   "5166": {
    "id": 5166,
@@ -1304,7 +1304,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647604667
+   "checkedAt": 1794657163243
   },
   "5257": {
    "id": 5257,
@@ -1322,7 +1322,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647604483
+   "checkedAt": 1794657163050
   },
   "5286": {
    "id": 5286,
@@ -1344,7 +1344,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647604324
+   "checkedAt": 1794657162900
   },
   "5292": {
    "id": 5292,
@@ -1366,7 +1366,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647604149
+   "checkedAt": 1794657162735
   },
   "5311": {
    "id": 5311,
@@ -1388,7 +1388,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647603798
+   "checkedAt": 1794657162410
   },
   "5326": {
    "id": 5326,
@@ -1410,7 +1410,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647603626
+   "checkedAt": 1794657162250
   },
   "5334": {
    "id": 5334,
@@ -1432,7 +1432,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647603438
+   "checkedAt": 1794657162072
   },
   "5386": {
    "id": 5386,
@@ -1456,7 +1456,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647603277
+   "checkedAt": 1794657161900
   },
   "5394": {
    "id": 5394,
@@ -1478,7 +1478,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647603085
+   "checkedAt": 1794657161713
   },
   "5403": {
    "id": 5403,
@@ -1502,7 +1502,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647602919
+   "checkedAt": 1794657161556
   },
   "5415": {
    "id": 5415,
@@ -1524,7 +1524,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647602730
+   "checkedAt": 1794657161378
   },
   "5440": {
    "id": 5440,
@@ -1546,7 +1546,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647602508
+   "checkedAt": 1794657161221
   },
   "5445": {
    "id": 5445,
@@ -1568,7 +1568,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647602330
+   "checkedAt": 1794657161048
   },
   "5453": {
    "id": 5453,
@@ -1590,7 +1590,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647602128
+   "checkedAt": 1794657160858
   },
   "5458": {
    "id": 5458,
@@ -1612,7 +1612,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647601934
+   "checkedAt": 1794657160684
   },
   "5463": {
    "id": 5463,
@@ -1634,7 +1634,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647601747
+   "checkedAt": 1794657160522
   },
   "5480": {
    "id": 5480,
@@ -1656,7 +1656,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647601571
+   "checkedAt": 1794657160350
   },
   "5486": {
    "id": 5486,
@@ -1678,7 +1678,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647601376
+   "checkedAt": 1794657160182
   },
   "5493": {
    "id": 5493,
@@ -1700,7 +1700,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794647601197
+   "checkedAt": 1794657159997
   },
   "5498": {
    "id": 5498,
@@ -1714,7 +1714,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794645517003
+   "checkedAt": 1794657159828
   },
   "5508": {
    "id": 5508,
@@ -7553,14 +7553,16 @@
    ],
    "group": "14349730564501954",
    "caption_id": 8491,
-   "checkedAt": 1794647606165,
+   "checkedAt": 1794657164709,
    "deleted": true
   },
   "8496": {
    "id": 8496,
    "date": "2026-11-03",
    "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, M\n▪️26900₽\n\nЗаписаться на примерку",
-   "struck": [],
+   "struck": [
+    "M"
+   ],
    "media": [
     {
      "type": "video",
@@ -7611,7 +7613,7 @@
    ],
    "group": "14349731147694226",
    "caption_id": 8496,
-   "checkedAt": 1794652546405
+   "checkedAt": 1794657159695
   },
   "8504": {
    "id": 8504,
@@ -7654,7 +7656,7 @@
    ],
    "group": "14350206899939554",
    "caption_id": 8504,
-   "checkedAt": 1794647603953
+   "checkedAt": 1794657162542
   },
   "8509": {
    "id": 8509,
@@ -7806,7 +7808,7 @@
    ],
    "group": "14354719371258666",
    "caption_id": 8524,
-   "checkedAt": 1794647606697
+   "checkedAt": 1794657165197
   },
   "8529": {
    "id": 8529,
@@ -8011,7 +8013,7 @@
    ],
    "group": "14356038458285378",
    "caption_id": 8547,
-   "checkedAt": 1794647604823
+   "checkedAt": 1794657163381
   },
   "8552": {
    "id": 8552,
@@ -9665,7 +9667,9 @@
     8502
    ],
    "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо \nРазмер: XS, M\n▪️26900₽\n\nЗаписаться на примерку",
-   "struck": [],
+   "struck": [
+    "M"
+   ],
    "media": [
     {
      "type": "video",
@@ -10295,21 +10299,9 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383317110,
+ "digestOffset": 383317164,
  "feed": {
   "items": {
-   "67624": {
-    "id": 67624,
-    "url": "https://t.me/eurostockmoscow/67624",
-    "date": 1793444144,
-    "text": "Примеряем для клиента #Sandro",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBCChq5ckwVqLM8718gBHjO9AKk0v3HAACQagAAkk2MEtlap-ewEf-yT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 67624
-   },
    "67692": {
     "id": 67692,
     "url": "https://t.me/eurostockmoscow/67692",
@@ -23751,6 +23743,319 @@
     "videos": [],
     "hashtagBrand": true,
     "textId": 71212
+   },
+   "71213": {
+    "id": 71213,
+    "url": "https://t.me/eurostockmoscow/71213",
+    "date": 1794655604,
+    "text": "Аутлет #MassimoDutti \n\n▪️6500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFi5q-EV0i8lHDsYwyw_IZ4m-aCjlBAACbh5rG-LKwEuPkvL5nwoReAEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFi1q-EV0wKsbTPt_qTPmUgu8s2jRxQAC47EAAuLKwEtWig9i_FkuAAE9BA"
+    ],
+    "hashtagBrand": true,
+    "textId": 71213
+   },
+   "71215": {
+    "id": 71215,
+    "url": "https://t.me/eurostockmoscow/71215",
+    "date": 1794655656,
+    "text": "Аутлет #MassimoDutti \n\n▪️17000₽ xs,s,m\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFi9q-EWow0B98t2k93o-RkNDLmTz9QACbx5rG-LKwEtdoNwDpAKySgEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFjBq-EWoxslxqEQ0c8B_zAyzPbos-wAC5LEAAuLKwEuL1O-wDxoBpD0E",
+     "BAACAgIAAyEFAASRzT39AAEBFjFq-EWo3pO-OMbLDBOUEJP3iDMhnQAC5bEAAuLKwEtOZM7oRQ2y_D0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71215
+   },
+   "71218": {
+    "id": 71218,
+    "url": "https://t.me/eurostockmoscow/71218",
+    "date": 1794655690,
+    "text": "Аутлет #MassimoDutti \n\n▪️5100₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFjNq-EXK-JXVG2LKvQJ49Dw6Y_Km1AACcR5rG-LKwEvwVn5Ql0YdewEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFjRq-EXKggVcy_64QT7_Ux-KDvRSFwACch5rG-LKwEsM-2GICRv2XgEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFjJq-EXKrviDvsNJx9QX7ISJXNnOvgAC57EAAuLKwEu5BVcy-ZftXj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71218
+   },
+   "71221": {
+    "id": 71221,
+    "url": "https://t.me/eurostockmoscow/71221",
+    "date": 1794655712,
+    "text": "Аутлет #MassimoDutti \n\n▪️6500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFjVq-EXgFRijID51oVVbj99d1dsqOQAC6bEAAuLKwEvR02sysm95zj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71221
+   },
+   "71222": {
+    "id": 71222,
+    "url": "https://t.me/eurostockmoscow/71222",
+    "date": 1794655751,
+    "text": "Аутлет #MassimoDutti \n\n▪️5500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFjdq-EYHywjh7gWQVJOh-IAoPMYDHgACcx5rG-LKwEvUuDGZvuDb5gEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFjZq-EYHyrMb-tqEbG5Jgn-mtGKs4gAC7LEAAuLKwEt45wJtZU6umT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71222
+   },
+   "71224": {
+    "id": 71224,
+    "url": "https://t.me/eurostockmoscow/71224",
+    "date": 1794655777,
+    "text": "Аутлет #MassimoDutti \n\n▪️6500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFjlq-EYhDslOZOuuEXTn9DihpR-fhAACdB5rG-LKwEu3tCsAAWnw4rUBAAMCAAN3AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFjhq-EYhEbwM9HIBtRYhQnpYuZ6jOAAC77EAAuLKwEuOvT7HmwHCZz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71224
+   },
+   "71226": {
+    "id": 71226,
+    "url": "https://t.me/eurostockmoscow/71226",
+    "date": 1794655938,
+    "text": "Аутлет #MassimoDutti \n\n▪️лонг 4000₽\n▪️джинсы 6100₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFjtq-EbCzmrMyCNd2XGbm7jczJjVFgACdh5rG-LKwEuv8yp8G6J-XAEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFjpq-EbCahDSmoDHj_N4NmYooX68gAAC-LEAAuLKwEtLRkPEEg3lxD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71226
+   },
+   "71228": {
+    "id": 71228,
+    "url": "https://t.me/eurostockmoscow/71228",
+    "date": 1794656290,
+    "text": "Аутлет #MassimoDutti \n\n▪️17500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFj1q-EgixnBjN7xnLnLg4iMpHUxPfwACgx5rG-LKwEtv2QtLoC0p-QEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFj5q-EgiTdpxffYAAWNuJ_mB9UspnFoAAoQeaxviysBL_8nuy94ZhdwBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFjxq-EgitSEw4-7DqdE_iIg-W4Uz9wACBrIAAuLKwEvq1ySYRbp_wT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71228
+   },
+   "71231": {
+    "id": 71231,
+    "url": "https://t.me/eurostockmoscow/71231",
+    "date": 1794656414,
+    "text": "Аутлет #MassimoDutti \n\n▪️11500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFkBq-EiePrhVBsQJtwaCQNsHu5l-4AAClx5rG-LKwEuGfzqUDGOetgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFkFq-EieoXqLx4QO49ZYWvTOt-zd8AACrh5rG-LKwEuSnNza-yNVYgEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFj9q-Eie8E0AAeHqN-MagWZ32EfFvGwAAhGyAALiysBLo2hl2Hnng6c9BA"
+    ],
+    "hashtagBrand": true,
+    "textId": 71231
+   },
+   "71234": {
+    "id": 71234,
+    "url": "https://t.me/eurostockmoscow/71234",
+    "date": 1794656452,
+    "text": "",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFkJq-EjEPcR_YBgqEAABX73d7fbOJEUAAsEeaxviysBL7CIFyTWiIUoBAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": false
+   },
+   "71235": {
+    "id": 71235,
+    "url": "https://t.me/eurostockmoscow/71235",
+    "date": 1794656487,
+    "text": "Аутлет #MassimoDutti \n\n▪️9500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFkRq-Ejn8MJ4hy5JpxwmT0M2fR0PcwACwx5rG-LKwEuRoOFacRwtJAEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFkVq-Ejn1nB6FrxzeOxG5wABA4w-4cIAApIeaxviysBL8dAy_PYfsHkBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFkNq-Ejn9IZUpoLnMAsZJB64Bbt1PwACFLIAAuLKwEs7LYpUJl67Aj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71235
+   },
+   "71238": {
+    "id": 71238,
+    "url": "https://t.me/eurostockmoscow/71238",
+    "date": 1794656567,
+    "text": "Аутлет #MassimoDutti \n\n▪️22000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFkdq-Ek3tPSQwonwM991B1ghUGTNMQACxR5rG-LKwEvHat1s2-N-NQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFkhq-Ek3q7y3V5jctAa7Zr0XW4BI4wAC2h5rG-LKwEu3LWEYzV-H8gEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFkZq-Ek3fEEOxoULpfWCZ4-1LoEjVgACHLIAAuLKwEsQXeOs8WxfZj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71238
+   },
+   "71241": {
+    "id": 71241,
+    "url": "https://t.me/eurostockmoscow/71241",
+    "date": 1794656596,
+    "text": "Аутлет #MassimoDutti \n\n▪️15300₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFkpq-ElUKCQbKEN03aTIMNz6AeofJAAC2x5rG-LKwEvbO_z_EL9nXgEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFklq-ElUtHzqZuR6IzBgzD_3tP10nwACHrIAAuLKwEu6Qv6SUNUldT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71241
+   },
+   "71243": {
+    "id": 71243,
+    "url": "https://t.me/eurostockmoscow/71243",
+    "date": 1794656647,
+    "text": "Аутлет #MassimoDutti \n\n▪️19900₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFkxq-EmHJqb3s3Y5QWIEN0fMTT3AHgAC3B5rG-LKwEtr_A1EyQG1OwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFk1q-EmHmSfvMOHGgO-lXjvvy7lOkgAC3h5rG-LKwEuJPSUicfFNYAEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFktq-EmHkR9ddpAC5yY6vzR7iT1w6AACIrIAAuLKwEvd1n7GrMaLAT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71243
+   },
+   "71246": {
+    "id": 71246,
+    "url": "https://t.me/eurostockmoscow/71246",
+    "date": 1794656692,
+    "text": "Аутлет #MassimoDutti \n\n▪️8500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFlFq-Em0wPn6GDxsWAHNWI7wxIVPZwAC3x5rG-LKwEsW37P0KkhhRwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFlNq-Em0mgYqhBH4AQGHxRe8AAHXPM8AAuEeaxviysBLbFUkxByETPsBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFk5q-Em0FUWpVn655sG8Nont94oeZgACJbIAAuLKwEvbeEH2qkxGRT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71246
+   },
+   "71247": {
+    "id": 71247,
+    "url": "https://t.me/eurostockmoscow/71247",
+    "date": 1794656692,
+    "text": "Аутлет #MassimoDutti \n\n▪️23000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFlBq-Em0u8HB9DojzAnxD3ut7FsiOQAC4B5rG-LKwEu12enB4W15ewEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFkJq-EjEPcR_YBgqEAABX73d7fbOJEUAAsEeaxviysBL7CIFyTWiIUoBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFk9q-Em02-t4mzvwdLSaAcj1VvL4kAACErIAAuLKwEv78STn4BE9pT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71247
+   },
+   "71252": {
+    "id": 71252,
+    "url": "https://t.me/eurostockmoscow/71252",
+    "date": 1794656762,
+    "text": "Аутлет #MassimoDutti \n\n▪️15300₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFlVq-En6zM350UKqcmZttVJhwpa2qwAC9h5rG-LKwEvBwcHhVH1NNgEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFlRq-En67jyq9Ujh-HZNFN1uppEPHAACKrIAAuLKwEufJbP1oX2FrT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71252
+   },
+   "71254": {
+    "id": 71254,
+    "url": "https://t.me/eurostockmoscow/71254",
+    "date": 1794656803,
+    "text": "Аутлет #MassimoDutti \n\n▪️21000₽ натуральная замша \n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFldq-Eoj8lmlLuRQI4c2SLsUEld6IwAC9x5rG-LKwEuVXBm66iLPagEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFlhq-EojOHME4m0B0byUFWK71rSJ8wAC-B5rG-LKwEuqbq3HiB_SagEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFlZq-EojlrKrd4jjl_LuIQP7pdGMUwACLrIAAuLKwEuFXuIEDh1-Uj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71254
+   },
+   "71257": {
+    "id": 71257,
+    "url": "https://t.me/eurostockmoscow/71257",
+    "date": 1794656839,
+    "text": "Аутлет #MassimoDutti \n\n▪️8500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFllq-EpHc45xsHKwm393nijLcueSjAACMLIAAuLKwEsPzqKq1JwjPz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71257
+   },
+   "71258": {
+    "id": 71258,
+    "url": "https://t.me/eurostockmoscow/71258",
+    "date": 1794656895,
+    "text": "Аутлет #MassimoDutti \n\n▪️16500₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFltq-Ep_61Rvdysy8xol69mVMIE7IAAC-R5rG-LKwEu5bUlRJSeVXQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBFlxq-Ep_qR9-LNzQG0ClHae84-FK1wAC-h5rG-LKwEtkUaPIk3VaqAEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFlpq-Ep_VklCLxFcQH2gAUqjtZ_dGgACM7IAAuLKwEtyocCcej1QBD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71258
+   },
+   "71261": {
+    "id": 71261,
+    "url": "https://t.me/eurostockmoscow/71261",
+    "date": 1794657060,
+    "text": "Аутлет #MassimoDutti \n\n▪️19900₽ замша\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFl9q-EskhOGzYpm8Zry-WXcY2YP9bQAC_h5rG-LKwEv3mlNuXo4fxwEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFl1q-EskNRic59eseDa1gMZs-1tGYAACOrIAAuLKwEtlxsKGJkdfOj0E",
+     "BAACAgIAAyEFAASRzT39AAEBFl5q-Esk4QvLYM4jDA0rPW4MKnrlQgACPLIAAuLKwEuqzqwnaGdOOz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71261
+   },
+   "71264": {
+    "id": 71264,
+    "url": "https://t.me/eurostockmoscow/71264",
+    "date": 1794657098,
+    "text": "Аутлет #MassimoDutti Мужчины\n\n▪️6500₽ шерсть \n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBFmFq-EtKJY9NF150ePgsBl0IlPXhkgAC_x5rG-LKwEsyGNFcof-NMwEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBFmBq-EtKHkzE7nMxlSADtIzK8BL4CQACPrIAAuLKwEsQDVoNFLks_D0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 71264
    }
   },
   "groups": {
@@ -23817,7 +24122,6 @@
    "14348945171371890": 67999,
    "14348945171371898": 68009,
    "14348945171371906": 68019,
-   "14347553159234354": 67624,
    "14349013563920346": 68023,
    "14349013934947818": 68029,
    "14349014019266138": 68033,
@@ -24501,7 +24805,26 @@
    "14357173156453546": 71200,
    "14357173156453554": 71203,
    "14357173156453562": 71206,
-   "14357173156453570": 71209
+   "14357173156453570": 71209,
+   "14357244838524818": 71213,
+   "14357245253316554": 71215,
+   "14357245520351330": 71218,
+   "14357246010198378": 71222,
+   "14357246222585858": 71224,
+   "14357247504338482": 71226,
+   "14357250324996170": 71228,
+   "14357251315493762": 71231,
+   "14357251896434570": 71235,
+   "14357252537622322": 71238,
+   "14357252769251490": 71241,
+   "14357253179594442": 71243,
+   "14357253541388170": 71246,
+   "14357253541405938": 71247,
+   "14357254103374466": 71252,
+   "14357254429379362": 71254,
+   "14357255163752290": 71258,
+   "14357256482229042": 71261,
+   "14357256789426370": 71264
   }
  }
 }
