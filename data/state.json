@@ -1,5 +1,5 @@
 {
- "offset": 789490377,
+ "offset": 789490388,
  "posts": {
   "206": {
    "id": 206,
@@ -5364,7 +5364,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650336277
+   "checkedAt": 1794659446602
   },
   "8052": {
    "id": 8052,
@@ -5388,7 +5388,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650336058,
+   "checkedAt": 1794659446445,
    "deleted": true
   },
   "8067": {
@@ -5411,7 +5411,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650335885
+   "checkedAt": 1794659446321
   },
   "8092": {
    "id": 8092,
@@ -5441,9 +5441,10 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650335633,
+   "checkedAt": 1794659446129,
    "group": "14327749700613602",
-   "caption_id": 8092
+   "caption_id": 8092,
+   "deleted": true
   },
   "8097": {
    "id": 8097,
@@ -5465,7 +5466,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650335369,
+   "checkedAt": 1794659446000,
    "deleted": true
   },
   "8111": {
@@ -5504,7 +5505,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650335194
+   "checkedAt": 1794659445874
   },
   "8126": {
    "id": 8126,
@@ -5526,7 +5527,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650334914,
+   "checkedAt": 1794659445665,
    "deleted": true
   },
   "8134": {
@@ -5549,7 +5550,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650334742
+   "checkedAt": 1794659445541
   },
   "8141": {
    "id": 8141,
@@ -5571,7 +5572,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650334473
+   "checkedAt": 1794659445340
   },
   "8147": {
    "id": 8147,
@@ -5595,7 +5596,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650334223
+   "checkedAt": 1794659445144
   },
   "8154": {
    "id": 8154,
@@ -5617,7 +5618,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650333965
+   "checkedAt": 1794659444933
   },
   "8157": {
    "id": 8157,
@@ -5639,7 +5640,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650333718
+   "checkedAt": 1794659444743
   },
   "8165": {
    "id": 8165,
@@ -5663,7 +5664,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650333485
+   "checkedAt": 1794659444566
   },
   "8174": {
    "id": 8174,
@@ -5685,7 +5686,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650333190,
+   "checkedAt": 1794659444343,
    "deleted": true
   },
   "8179": {
@@ -5708,7 +5709,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650333018
+   "checkedAt": 1794659444219
   },
   "8183": {
    "id": 8183,
@@ -5725,7 +5726,7 @@
    ],
    "group": "14332626508165538",
    "caption_id": 8183,
-   "checkedAt": 1794650332779,
+   "checkedAt": 1794659444038,
    "deleted": true
   },
   "8199": {
@@ -5748,7 +5749,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650332606,
+   "checkedAt": 1794659443913,
    "deleted": true
   },
   "8204": {
@@ -5767,7 +5768,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650332433
+   "checkedAt": 1794659443790
   },
   "8208": {
    "id": 8208,
@@ -5789,7 +5790,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650332195
+   "checkedAt": 1794659443486
   },
   "8212": {
    "id": 8212,
@@ -5811,7 +5812,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650331959
+   "checkedAt": 1794659443299
   },
   "8217": {
    "id": 8217,
@@ -5833,7 +5834,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650331712
+   "checkedAt": 1794659443109
   },
   "8222": {
    "id": 8222,
@@ -5851,7 +5852,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650331462
+   "checkedAt": 1794659442910
   },
   "8227": {
    "id": 8227,
@@ -5892,7 +5893,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650331209
+   "checkedAt": 1794659442715
   },
   "8241": {
    "id": 8241,
@@ -5914,7 +5915,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650330955
+   "checkedAt": 1794659442504
   },
   "8246": {
    "id": 8246,
@@ -5938,7 +5939,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650330715,
+   "checkedAt": 1794659442284,
    "deleted": true
   },
   "8251": {
@@ -5979,7 +5980,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650330539
+   "checkedAt": 1794659442161
   },
   "8258": {
    "id": 8258,
@@ -6001,7 +6002,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650330281
+   "checkedAt": 1794659441968
   },
   "8263": {
    "id": 8263,
@@ -6023,7 +6024,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650330045
+   "checkedAt": 1794659441789
   },
   "8273": {
    "id": 8273,
@@ -6067,7 +6068,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650329801,
+   "checkedAt": 1794659441624,
    "deleted": true
   },
   "8291": {
@@ -6101,7 +6102,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650329626,
+   "checkedAt": 1794659441497,
    "group": "14336001467150162",
    "caption_id": 8291
   },
@@ -6112,7 +6113,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1794650329361
+   "checkedAt": 1794659441329
   },
   "8308": {
    "id": 8308,
@@ -6155,7 +6156,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794650329141,
+   "checkedAt": 1794659441171,
    "group": "14340755013744842",
    "caption_id": 8320,
    "deleted": true
@@ -6176,7 +6177,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794648352226,
+   "checkedAt": 1794659440887,
    "deleted": true
   },
   "8326": {
@@ -6201,7 +6202,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1794648352069,
+   "checkedAt": 1794659440763,
    "deleted": true
   },
   "8330": {
@@ -7883,7 +7884,7 @@
    ],
    "group": "14355274373833234",
    "caption_id": 8532,
-   "checkedAt": 1794650336622,
+   "checkedAt": 1794659446853,
    "deleted": true
   },
   "8537": {
@@ -7915,7 +7916,7 @@
    ],
    "group": "14355278857389578",
    "caption_id": 8537,
-   "checkedAt": 1794650336450,
+   "checkedAt": 1794659446727,
    "deleted": true
   },
   "8541": {
@@ -8114,7 +8115,7 @@
    ],
    "group": "14356636677588330",
    "caption_id": 8560,
-   "checkedAt": 1794650328967
+   "checkedAt": 1794659441044
   },
   "8563": {
    "id": 8563,
@@ -8173,6 +8174,107 @@
    "group": "14357236955760986",
    "caption_id": 8566,
    "checkedAt": 1794654870714
+  },
+  "8569": {
+   "id": 8569,
+   "date": "2026-11-14",
+   "text": "Брюки #Uniqlo ✔️✔️✔️✔️✔️\n\nРазмер: XXL\n▪️6500₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIheWr4TwqREO__tn26FnwRvCIRbRnDAAIUHmsbR97BS9Bd5eU-gdPUAQADAgADeAADPQQ",
+     "msg_id": 8569,
+     "key": "8569_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhemr4Twpca9iavjcd-Sz5ls8vAAEw-wACFR5rG0fewUvXnNwkgJmAJgEAAwIAA3gAAz0E",
+     "msg_id": 8570,
+     "key": "8569_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhe2r4TwpBf76Z7ESyTaeWjm8N9KQbAAIWHmsbR97BSyvP5gTRgIPcAQADAgADeAADPQQ",
+     "msg_id": 8571,
+     "key": "8569_2"
+    }
+   ],
+   "group": "14357264465881194",
+   "caption_id": 8569,
+   "checkedAt": 1794659440638
+  },
+  "8572": {
+   "id": 8572,
+   "date": "2026-11-14",
+   "text": "Брюки #Uniqlo ✔️✔️✔️✔️✔️\n\nРазмер: XL\n▪️4900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhfGr4UGWSWcnHsNJgEXXNPyslnCHEAAIcHmsbR97BSw_BEYfJUMYcAQADAgADeAADPQQ",
+     "msg_id": 8572,
+     "key": "8572_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhfWr4UGWA4f04BJ6Jv6FLp2iAk-J3AAIdHmsbR97BS6lSKYodIcKHAQADAgADeAADPQQ",
+     "msg_id": 8573,
+     "key": "8572_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhfmr4UGUNUG35pUv8HgQrWXr_Nw17AAIeHmsbR97BSz_kHYh4q-PZAQADAgADeAADPQQ",
+     "msg_id": 8574,
+     "key": "8572_2"
+    }
+   ],
+   "group": "14357267243140738",
+   "caption_id": 8572,
+   "checkedAt": 1794659440482
+  },
+  "8575": {
+   "id": 8575,
+   "date": "2026-11-14",
+   "text": "Кардиган с капюшоном #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 95%, кашемир 5%\nРазмер: L\n▪️10500₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhf2r4UZm80ipHnzyqhAS9iXHABsOcAAKHpgACR97BSym07N-LHnRDPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiF_avhRmbzSKkefPKqEBL2JccAGw5wAAoemAAJH3sFLKbTs34sedEMBAAdtAAM9BA",
+     "size": 20324559,
+     "msg_id": 8575,
+     "key": "8575_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhgGr4UZkilVyX4DxG_Zwv99jrK-ycAAIkHmsbR97BS700j4MGox-ZAQADAgADeQADPQQ",
+     "msg_id": 8576,
+     "key": "8575_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhgWr4UZlWQyJWs78KaeJ5yPVs8SPaAAIlHmsbR97BS5PrLNzhFGCfAQADAgADeQADPQQ",
+     "msg_id": 8577,
+     "key": "8575_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhgmr4UZlVk_RThdFcE736UCi1GxD0AAImHmsbR97BS1wyOn5M7e4dAQADAgADeQADPQQ",
+     "msg_id": 8578,
+     "key": "8575_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhg2r4UZmL5tGPipSd22IOL_cL8fn_AAInHmsbR97BS0WPXG0Tn2dUAQADAgADeQADPQQ",
+     "msg_id": 8579,
+     "key": "8575_4"
+    }
+   ],
+   "group": "14357269709215674",
+   "caption_id": 8575,
+   "checkedAt": 1794659440322
   }
  },
  "groups": {
@@ -10291,6 +10393,104 @@
    ],
    "date": "2026-11-14",
    "caption_id": 8566
+  },
+  "14357264465881194": {
+   "ids": [
+    8569,
+    8570,
+    8571
+   ],
+   "text": "Брюки #Uniqlo ✔️✔️✔️✔️✔️\n\nРазмер: XXL\n▪️6500₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIheWr4TwqREO__tn26FnwRvCIRbRnDAAIUHmsbR97BS9Bd5eU-gdPUAQADAgADeAADPQQ",
+     "msg_id": 8569
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhemr4Twpca9iavjcd-Sz5ls8vAAEw-wACFR5rG0fewUvXnNwkgJmAJgEAAwIAA3gAAz0E",
+     "msg_id": 8570
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhe2r4TwpBf76Z7ESyTaeWjm8N9KQbAAIWHmsbR97BSyvP5gTRgIPcAQADAgADeAADPQQ",
+     "msg_id": 8571
+    }
+   ],
+   "date": "2026-11-14",
+   "caption_id": 8569
+  },
+  "14357267243140738": {
+   "ids": [
+    8572,
+    8573,
+    8574
+   ],
+   "text": "Брюки #Uniqlo ✔️✔️✔️✔️✔️\n\nРазмер: XL\n▪️4900₽\n\nЗаписаться на примерку",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhfGr4UGWSWcnHsNJgEXXNPyslnCHEAAIcHmsbR97BSw_BEYfJUMYcAQADAgADeAADPQQ",
+     "msg_id": 8572
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhfWr4UGWA4f04BJ6Jv6FLp2iAk-J3AAIdHmsbR97BS6lSKYodIcKHAQADAgADeAADPQQ",
+     "msg_id": 8573
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhfmr4UGUNUG35pUv8HgQrWXr_Nw17AAIeHmsbR97BSz_kHYh4q-PZAQADAgADeAADPQQ",
+     "msg_id": 8574
+    }
+   ],
+   "date": "2026-11-14",
+   "caption_id": 8572
+  },
+  "14357269709215674": {
+   "ids": [
+    8575,
+    8576,
+    8577,
+    8578,
+    8579
+   ],
+   "text": "Кардиган с капюшоном #MassimoDutti ✔️✔️✔️✔️✔️\n\nСостав: шерсть 95%, кашемир 5%\nРазмер: L\n▪️10500₽\n\nЗаписаться на примерку - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIhf2r4UZm80ipHnzyqhAS9iXHABsOcAAKHpgACR97BSym07N-LHnRDPQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiF_avhRmbzSKkefPKqEBL2JccAGw5wAAoemAAJH3sFLKbTs34sedEMBAAdtAAM9BA",
+     "size": 20324559,
+     "msg_id": 8575
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhgGr4UZkilVyX4DxG_Zwv99jrK-ycAAIkHmsbR97BS700j4MGox-ZAQADAgADeQADPQQ",
+     "msg_id": 8576
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhgWr4UZlWQyJWs78KaeJ5yPVs8SPaAAIlHmsbR97BS5PrLNzhFGCfAQADAgADeQADPQQ",
+     "msg_id": 8577
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhgmr4UZlVk_RThdFcE736UCi1GxD0AAImHmsbR97BS1wyOn5M7e4dAQADAgADeQADPQQ",
+     "msg_id": 8578
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhg2r4UZmL5tGPipSd22IOL_cL8fn_AAInHmsbR97BS0WPXG0Tn2dUAQADAgADeQADPQQ",
+     "msg_id": 8579
+    }
+   ],
+   "date": "2026-11-14",
+   "caption_id": 8575
   }
  },
  "drafts": {},
