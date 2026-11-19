@@ -175,7 +175,7 @@
    ],
    "group": "13961443997483026",
    "caption_id": 573,
-   "checkedAt": 1795066573235,
+   "checkedAt": 1795081901241,
    "deleted": true
   },
   "948": {
@@ -4396,7 +4396,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066575885
+   "checkedAt": 1795081904676
   },
   "7624": {
    "id": 7624,
@@ -4418,7 +4418,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066575688
+   "checkedAt": 1795081904436
   },
   "7630": {
    "id": 7630,
@@ -4440,7 +4440,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066575506
+   "checkedAt": 1795081904189
   },
   "7634": {
    "id": 7634,
@@ -4458,7 +4458,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066575309
+   "checkedAt": 1795081903930
   },
   "7637": {
    "id": 7637,
@@ -4472,7 +4472,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066575113
+   "checkedAt": 1795081903708
   },
   "7640": {
    "id": 7640,
@@ -4494,7 +4494,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066574960
+   "checkedAt": 1795081903508
   },
   "7646": {
    "id": 7646,
@@ -4516,7 +4516,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066574781
+   "checkedAt": 1795081903252
   },
   "7653": {
    "id": 7653,
@@ -4538,7 +4538,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066574587,
+   "checkedAt": 1795081902971,
    "deleted": true
   },
   "7660": {
@@ -4558,7 +4558,7 @@
    ],
    "group": "14305369095718082",
    "caption_id": 7660,
-   "checkedAt": 1795066573112,
+   "checkedAt": 1795081901075,
    "deleted": true
   },
   "7665": {
@@ -4589,7 +4589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066574465,
+   "checkedAt": 1795081902809,
    "group": "14305377278756522",
    "caption_id": 7665,
    "deleted": true
@@ -4614,7 +4614,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066574339,
+   "checkedAt": 1795081902650,
    "deleted": true
   },
   "7678": {
@@ -4637,7 +4637,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066574213,
+   "checkedAt": 1795081902491,
    "group": "14305377964402858",
    "caption_id": 7678,
    "deleted": true
@@ -4662,7 +4662,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066574093,
+   "checkedAt": 1795081902329,
    "deleted": true
   },
   "7697": {
@@ -4685,7 +4685,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066573972
+   "checkedAt": 1795081902164
   },
   "7702": {
    "id": 7702,
@@ -4694,7 +4694,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1795066573752
+   "checkedAt": 1795081901908
   },
   "7704": {
    "id": 7704,
@@ -4716,7 +4716,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066573593
+   "checkedAt": 1795081901692
   },
   "7707": {
    "id": 7707,
@@ -4738,7 +4738,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066573423
+   "checkedAt": 1795081901469
   },
   "7750": {
    "id": 7750,
@@ -4760,7 +4760,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066572991,
+   "checkedAt": 1795081900912,
    "deleted": true
   },
   "7755": {
@@ -4779,7 +4779,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066572866,
+   "checkedAt": 1795081900754,
    "deleted": true
   },
   "7758": {
@@ -4794,7 +4794,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066572743,
+   "checkedAt": 1795081900593,
    "deleted": true
   },
   "7761": {
@@ -4813,7 +4813,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066572501,
+   "checkedAt": 1795081900271,
    "deleted": true
   },
   "7764": {
@@ -4836,7 +4836,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066572172,
+   "checkedAt": 1795081899880,
    "deleted": true
   },
   "7768": {
@@ -4859,7 +4859,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066572049
+   "checkedAt": 1795081899721
   },
   "7777": {
    "id": 7777,
@@ -4881,7 +4881,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066156320
+   "checkedAt": 1795081899453
   },
   "7819": {
    "id": 7819,
@@ -4899,7 +4899,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066156116,
+   "checkedAt": 1795081899191,
    "deleted": true
   },
   "7827": {
@@ -4922,7 +4922,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066155985
+   "checkedAt": 1795081899031
   },
   "7843": {
    "id": 7843,
@@ -4940,7 +4940,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066155769,
+   "checkedAt": 1795081898766,
    "deleted": true
   },
   "7848": {
@@ -4959,7 +4959,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066155636
+   "checkedAt": 1795081898604
   },
   "7865": {
    "id": 7865,
@@ -4981,7 +4981,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066155436,
+   "checkedAt": 1795081898367,
    "deleted": true
   },
   "7877": {
@@ -5004,7 +5004,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066155306
+   "checkedAt": 1795081898206
   },
   "7882": {
    "id": 7882,
@@ -5013,7 +5013,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1795066155110
+   "checkedAt": 1795081897969
   },
   "7889": {
    "id": 7889,
@@ -5035,7 +5035,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066154904
+   "checkedAt": 1795081897711
   },
   "7906": {
    "id": 7906,
@@ -5053,7 +5053,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066154698
+   "checkedAt": 1795081897450
   },
   "7908": {
    "id": 7908,
@@ -5075,7 +5075,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066154529
+   "checkedAt": 1795081897236
   },
   "7917": {
    "id": 7917,
@@ -5097,7 +5097,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066154338
+   "checkedAt": 1795081897004
   },
   "7923": {
    "id": 7923,
@@ -5147,7 +5147,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066154136,
+   "checkedAt": 1795081896766,
    "group": "14319333142614634",
    "caption_id": 7927,
    "deleted": true
@@ -5958,7 +5958,7 @@
    ],
    "group": "14335910927961106",
    "caption_id": 8251,
-   "checkedAt": 1795066572622,
+   "checkedAt": 1795081900432,
    "deleted": true
   },
   "8253": {
@@ -7389,7 +7389,7 @@
    ],
    "group": "14349073333515394",
    "caption_id": 8472,
-   "checkedAt": 1795066572376
+   "checkedAt": 1795081900108
   },
   "8476": {
    "id": 8476,
@@ -8657,7 +8657,7 @@
    ],
    "group": "14360302775744722",
    "caption_id": 8623,
-   "checkedAt": 1795066576036
+   "checkedAt": 1795081904866
   }
  },
  "groups": {
@@ -11240,7 +11240,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383318290,
+ "digestOffset": 383318312,
  "feed": {
   "items": {
    "68628": {
@@ -26316,6 +26316,144 @@
     ],
     "hashtagBrand": true,
     "textId": 72389
+   },
+   "72391": {
+    "id": 72391,
+    "url": "https://t.me/eurostockmoscow/72391",
+    "date": 1795081604,
+    "text": "Аутлет #Maxmara\n\n▪️49000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGshq_sWECZTB0RXvYd3h6Mig9lu4OAACJh9rG8huuUsUPbekXrFPWwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGslq_sWEVfdnr3qM9PzgN1oVlA4QLQACJx9rG8huuUvRkLKVDtLFrwEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGsdq_sWEEy5PGh9WkdHX_6Zzd1dXVQACJLAAAshuuUvg7ZZfQC8OUD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72391
+   },
+   "72394": {
+    "id": 72394,
+    "url": "https://t.me/eurostockmoscow/72394",
+    "date": 1795081604,
+    "text": "Аутлет #Maxmara\n\n▪️58000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGspq_sWEag1gdNQJV5E0y4bIlDHSuAACLLAAAshuuUsC8vjufprWWz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72394
+   },
+   "72395": {
+    "id": 72395,
+    "url": "https://t.me/eurostockmoscow/72395",
+    "date": 1795081604,
+    "text": "Аутлет #Maxmara\n\n▪️39000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGstq_sWEE8jMVc77ZSYhNmE5vdbeOQACL7AAAshuuUuNnDVPAy-O1D0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72395
+   },
+   "72396": {
+    "id": 72396,
+    "url": "https://t.me/eurostockmoscow/72396",
+    "date": 1795081604,
+    "text": "Аутлет #Maxmara\n\n▪️52000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGs1q_sWEr_u7BwkSnOwDwU2J0auQOQACNB9rG8huuUt8oUf06Cw8YQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGs5q_sWENLvUhFZR3QlRNqYr2kD4NgACNR9rG8huuUsBG6YW5YWtVQEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGsxq_sWE8GfGzhiX13XM_Sw3viajTwACNrAAAshuuUvG0uVOD73b0j0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72396
+   },
+   "72399": {
+    "id": 72399,
+    "url": "https://t.me/eurostockmoscow/72399",
+    "date": 1795081604,
+    "text": "Аутлет #Maxmara\n\n▪️43000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGtBq_sWElPUO4qz5LzouyQn9czFWOQACOB9rG8huuUt4h4U-OBXnYgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGtFq_sWEhMmC3gjisx3eSUBbVf_B0AACOR9rG8huuUuFAfNA5Lv21gEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGs9q_sWE5_Br3v8BlLcr31_KIJxW3wACOrAAAshuuUtyWSXynl1ORj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72399
+   },
+   "72402": {
+    "id": 72402,
+    "url": "https://t.me/eurostockmoscow/72402",
+    "date": 1795081673,
+    "text": "Аутлет #Maxmara\n\n▪️49000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGshq_sWECZTB0RXvYd3h6Mig9lu4OAACJh9rG8huuUsUPbekXrFPWwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGslq_sWEVfdnr3qM9PzgN1oVlA4QLQACJx9rG8huuUvRkLKVDtLFrwEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGsdq_sWEEy5PGh9WkdHX_6Zzd1dXVQACJLAAAshuuUvg7ZZfQC8OUD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72402
+   },
+   "72405": {
+    "id": 72405,
+    "url": "https://t.me/eurostockmoscow/72405",
+    "date": 1795081673,
+    "text": "Аутлет #Maxmara\n\n▪️58000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGspq_sWEag1gdNQJV5E0y4bIlDHSuAACLLAAAshuuUsC8vjufprWWz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72405
+   },
+   "72406": {
+    "id": 72406,
+    "url": "https://t.me/eurostockmoscow/72406",
+    "date": 1795081673,
+    "text": "Аутлет #Maxmara\n\n▪️39000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGstq_sWEE8jMVc77ZSYhNmE5vdbeOQACL7AAAshuuUuNnDVPAy-O1D0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72406
+   },
+   "72407": {
+    "id": 72407,
+    "url": "https://t.me/eurostockmoscow/72407",
+    "date": 1795081673,
+    "text": "Аутлет #Maxmara\n\n▪️52000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGs1q_sWEr_u7BwkSnOwDwU2J0auQOQACNB9rG8huuUt8oUf06Cw8YQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGs5q_sWENLvUhFZR3QlRNqYr2kD4NgACNR9rG8huuUsBG6YW5YWtVQEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGsxq_sWE8GfGzhiX13XM_Sw3viajTwACNrAAAshuuUvG0uVOD73b0j0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72407
+   },
+   "72410": {
+    "id": 72410,
+    "url": "https://t.me/eurostockmoscow/72410",
+    "date": 1795081673,
+    "text": "Аутлет #Maxmara\n\n▪️43000₽\n\nЗаказать ➡️\n@tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGtBq_sWElPUO4qz5LzouyQn9czFWOQACOB9rG8huuUt4h4U-OBXnYgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGtFq_sWEhMmC3gjisx3eSUBbVf_B0AACOR9rG8huuUuFAfNA5Lv21gEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGs9q_sWE5_Br3v8BlLcr31_KIJxW3wACOrAAAshuuUtyWSXynl1ORj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72410
    }
   },
   "groups": {
@@ -27147,7 +27285,13 @@
    "14360649353735522": 72380,
    "14360649940551354": 72382,
    "14360650422073762": 72384,
-   "14360651300079026": 72389
+   "14360651300079026": 72389,
+   "14360652835749234": 72391,
+   "14360652835749258": 72396,
+   "14360652835749266": 72399,
+   "14360653384498906": 72402,
+   "14360653384498930": 72407,
+   "14360653384498938": 72410
   }
  }
 }
