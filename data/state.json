@@ -1,5 +1,5 @@
 {
- "offset": 789490459,
+ "offset": 789490466,
  "posts": {
   "206": {
    "id": 206,
@@ -3909,7 +3909,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069649459
+   "checkedAt": 1795084855242
   },
   "7374": {
    "id": 7374,
@@ -3934,7 +3934,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069649290
+   "checkedAt": 1795084855087
   },
   "7379": {
    "id": 7379,
@@ -3958,7 +3958,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069649120,
+   "checkedAt": 1795084854928,
    "group": "14286002750348218",
    "caption_id": 7379
   },
@@ -3985,7 +3985,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069648954
+   "checkedAt": 1795084854792
   },
   "7398": {
    "id": 7398,
@@ -4006,7 +4006,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069648762
+   "checkedAt": 1795084854607
   },
   "7401": {
    "id": 7401,
@@ -4030,7 +4030,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069648607
+   "checkedAt": 1795084854463
   },
   "7404": {
    "id": 7404,
@@ -4054,7 +4054,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069648309
+   "checkedAt": 1795084854183
   },
   "7407": {
    "id": 7407,
@@ -4078,7 +4078,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069648151
+   "checkedAt": 1795084854035
   },
   "7427": {
    "id": 7427,
@@ -4092,7 +4092,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069647992,
+   "checkedAt": 1795084853889,
    "deleted": true
   },
   "7433": {
@@ -4117,7 +4117,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069647709
+   "checkedAt": 1795084853614
   },
   "7438": {
    "id": 7438,
@@ -4147,7 +4147,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069647539,
+   "checkedAt": 1795084853432,
    "group": "14288787618823618",
    "caption_id": 7438
   },
@@ -4173,7 +4173,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069647366,
+   "checkedAt": 1795084853267,
    "deleted": true
   },
   "7465": {
@@ -4188,7 +4188,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069647118
+   "checkedAt": 1795084853035
   },
   "7481": {
    "id": 7481,
@@ -4210,7 +4210,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069646980
+   "checkedAt": 1795084852908
   },
   "7507": {
    "id": 7507,
@@ -4232,7 +4232,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069646813
+   "checkedAt": 1795084852751
   },
   "7542": {
    "id": 7542,
@@ -4254,7 +4254,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069646646
+   "checkedAt": 1795084852597
   },
   "7545": {
    "id": 7545,
@@ -4278,7 +4278,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069646301
+   "checkedAt": 1795084852282
   },
   "7562": {
    "id": 7562,
@@ -4300,7 +4300,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795069646142
+   "checkedAt": 1795084852139
   },
   "7565": {
    "id": 7565,
@@ -4325,7 +4325,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066578331,
+   "checkedAt": 1795084851646,
    "deleted": true
   },
   "7583": {
@@ -4350,7 +4350,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066578211
+   "checkedAt": 1795084851553
   },
   "7603": {
    "id": 7603,
@@ -4372,7 +4372,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795066578020
+   "checkedAt": 1795084851391
   },
   "7620": {
    "id": 7620,
@@ -6046,7 +6046,7 @@
    ],
    "group": "14335979516635290",
    "caption_id": 8273,
-   "checkedAt": 1795069645575,
+   "checkedAt": 1795084851740,
    "deleted": true
   },
   "8281": {
@@ -6253,7 +6253,7 @@
    ],
    "group": "14343338987733618",
    "caption_id": 8330,
-   "checkedAt": 1795069645983
+   "checkedAt": 1795084851997
   },
   "8336": {
    "id": 8336,
@@ -6506,7 +6506,7 @@
    ],
    "group": "14345589747631490",
    "caption_id": 8365,
-   "checkedAt": 1795066577827
+   "checkedAt": 1795084851218
   },
   "8370": {
    "id": 8370,
@@ -6545,7 +6545,7 @@
    ],
    "group": "14345589910241218",
    "caption_id": 8370,
-   "checkedAt": 1795066577636,
+   "checkedAt": 1795084851057,
    "deleted": true
   },
   "8374": {
@@ -6601,7 +6601,7 @@
    ],
    "group": "14345590057282210",
    "caption_id": 8374,
-   "checkedAt": 1795066577514
+   "checkedAt": 1795084850958
   },
   "8381": {
    "id": 8381,
@@ -6656,7 +6656,7 @@
    ],
    "group": "14345590784437850",
    "caption_id": 8381,
-   "checkedAt": 1795066577120
+   "checkedAt": 1795084850616
   },
   "8388": {
    "id": 8388,
@@ -6745,7 +6745,7 @@
    ],
    "group": "14345591506152226",
    "caption_id": 8394,
-   "checkedAt": 1795066576905
+   "checkedAt": 1795084850442
   },
   "8399": {
    "id": 8399,
@@ -6788,7 +6788,7 @@
    ],
    "group": "14345591697582338",
    "caption_id": 8399,
-   "checkedAt": 1795066576709,
+   "checkedAt": 1795084850283,
    "deleted": true
   },
   "8404": {
@@ -6852,7 +6852,7 @@
    ],
    "group": "14345591849241426",
    "caption_id": 8404,
-   "checkedAt": 1795066576586
+   "checkedAt": 1795084850188
   },
   "8412": {
    "id": 8412,
@@ -6893,7 +6893,7 @@
    ],
    "group": "14345592024436954",
    "caption_id": 8412,
-   "checkedAt": 1795066576373
+   "checkedAt": 1795084850008
   },
   "8417": {
    "id": 8417,
@@ -6938,7 +6938,7 @@
    ],
    "group": "14345592193190034",
    "caption_id": 8417,
-   "checkedAt": 1795066576164,
+   "checkedAt": 1795084849851,
    "deleted": true
   },
   "8422": {
@@ -6982,7 +6982,7 @@
    ],
    "group": "14345592318806802",
    "caption_id": 8422,
-   "checkedAt": 1795069647885
+   "checkedAt": 1795084853795
   },
   "8427": {
    "id": 8427,
@@ -7145,7 +7145,7 @@
    ],
    "group": "14348525582577218",
    "caption_id": 8440,
-   "checkedAt": 1795069646489
+   "checkedAt": 1795084852450
   },
   "8446": {
    "id": 8446,
@@ -7702,7 +7702,7 @@
    ],
    "group": "14351264320128538",
    "caption_id": 8509,
-   "checkedAt": 1795069645687,
+   "checkedAt": 1795084851833,
    "deleted": true
   },
   "8514": {
@@ -7813,7 +7813,7 @@
    ],
    "group": "14354719371258666",
    "caption_id": 8524,
-   "checkedAt": 1795066577294
+   "checkedAt": 1795084850769
   },
   "8529": {
    "id": 8529,
@@ -8148,7 +8148,7 @@
    ],
    "group": "14356645456003698",
    "caption_id": 8563,
-   "checkedAt": 1795069648450
+   "checkedAt": 1795084854319
   },
   "8566": {
    "id": 8566,
@@ -8580,7 +8580,7 @@
    ],
    "group": "14359411040283034",
    "caption_id": 8612,
-   "checkedAt": 1795069647260
+   "checkedAt": 1795084853173
   },
   "8616": {
    "id": 8616,
@@ -8658,6 +8658,64 @@
    "group": "14360302775744722",
    "caption_id": 8623,
    "checkedAt": 1795081904866
+  },
+  "8626": {
+   "id": 8626,
+   "date": "2026-11-19",
+   "text": "Набор шапка и шарф #RalphLauren ✔️✔️✔️✔️✔️\n\nСостав: 100% хлопок \n▪️18900₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhsmr-zQ6fqwQf8jsHsxY3Q4LZxnSPAAJUHWsb8U74S24BXwZjn5oXAQADAgADeQADPQQ",
+     "msg_id": 8626,
+     "key": "8626_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhs2r-zQ6OK1wBcnxZXU9Kq9c_i65-AAKdJ2sbW7TwS6QVGegqME7nAQADAgADeAADPQQ",
+     "msg_id": 8627,
+     "key": "8626_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhtGr-zQ5xu2K7eJrLjQ1FTyse4Y-nAAJVHWsb8U74S-qz9asjWLBaAQADAgADeQADPQQ",
+     "msg_id": 8628,
+     "key": "8626_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhtWr-zQ5eOZog3g1kDJKwTyMpc9C9AAJWHWsb8U74SwmOze2v0bXiAQADAgADeAADPQQ",
+     "msg_id": 8629,
+     "key": "8626_3"
+    }
+   ],
+   "group": "14360668279891018",
+   "caption_id": 8626,
+   "checkedAt": 1795084849757
+  },
+  "8630": {
+   "id": 8630,
+   "date": "2026-11-19",
+   "text": "Шапка #RalphLauren ✔️✔️✔️✔️✔️\n\nСостав: 50% шерсть, 30% альпака, 20% лён \n▪️8900₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhtmr-ziy-B8qyuTEBip-WftlhwdRIAAJyHWsb8U74S9SWRwExIFvVAQADAgADeQADPQQ",
+     "msg_id": 8630,
+     "key": "8630_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIht2r-zixtAct-5D23kMikB26mxMLSAAJzHWsb8U74S7HW2c9LjvAcAQADAgADeQADPQQ",
+     "msg_id": 8631,
+     "key": "8630_1"
+    }
+   ],
+   "group": "14360670562052226",
+   "caption_id": 8630,
+   "checkedAt": 1795084849630
   }
  },
  "groups": {
@@ -11232,6 +11290,62 @@
    ],
    "date": "2026-11-18",
    "caption_id": 8623
+  },
+  "14360668279891018": {
+   "ids": [
+    8626,
+    8627,
+    8628,
+    8629
+   ],
+   "text": "Набор шапка и шарф #RalphLauren ✔️✔️✔️✔️✔️\n\nСостав: 100% хлопок \n▪️18900₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhsmr-zQ6fqwQf8jsHsxY3Q4LZxnSPAAJUHWsb8U74S24BXwZjn5oXAQADAgADeQADPQQ",
+     "msg_id": 8626
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhs2r-zQ6OK1wBcnxZXU9Kq9c_i65-AAKdJ2sbW7TwS6QVGegqME7nAQADAgADeAADPQQ",
+     "msg_id": 8627
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhtGr-zQ5xu2K7eJrLjQ1FTyse4Y-nAAJVHWsb8U74S-qz9asjWLBaAQADAgADeQADPQQ",
+     "msg_id": 8628
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhtWr-zQ5eOZog3g1kDJKwTyMpc9C9AAJWHWsb8U74SwmOze2v0bXiAQADAgADeAADPQQ",
+     "msg_id": 8629
+    }
+   ],
+   "date": "2026-11-19",
+   "caption_id": 8626
+  },
+  "14360670562052226": {
+   "ids": [
+    8630,
+    8631
+   ],
+   "text": "Шапка #RalphLauren ✔️✔️✔️✔️✔️\n\nСостав: 50% шерсть, 30% альпака, 20% лён \n▪️8900₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhtmr-ziy-B8qyuTEBip-WftlhwdRIAAJyHWsb8U74S9SWRwExIFvVAQADAgADeQADPQQ",
+     "msg_id": 8630
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIht2r-zixtAct-5D23kMikB26mxMLSAAJzHWsb8U74S7HW2c9LjvAcAQADAgADeQADPQQ",
+     "msg_id": 8631
+    }
+   ],
+   "date": "2026-11-19",
+   "caption_id": 8630
   }
  },
  "drafts": {},
@@ -11240,1105 +11354,9 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383318312,
+ "digestOffset": 383318371,
  "feed": {
   "items": {
-   "68628": {
-    "id": 68628,
-    "url": "https://t.me/eurostockmoscow/68628",
-    "date": 1793872840,
-    "text": "Новая коллекция Gucci со скидкой 30%? ✅\nДа, но только для вас и только до 9 ноября!\nТакое случается лишь 2 раза в год 🔥\nУспевайте заказать люксовую позицию с невероятной скидкой❤️\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDBRq7FPIwHV_Rxy0dgI5vSroxC2j1AAC5xxrG-rLYUsYc7InlTfomwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBVq7FPI48WC603QE0_uJKwix4FtVwAC6BxrG-rLYUucIBRT0UM15gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBZq7FPI_8VMvKSiNqJZfpf0rQUOCwAC6RxrG-rLYUs1sHyAIYbG7wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBdq7FPIiCsM-jJOlisisK8ptbi0twAC6hxrG-rLYUtG-nPmVTSCVAEAAwIAA3gAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBhq7FPIuj9e6uciK1W2nEgOtiHgoAAC6xxrG-rLYUvoYZ4O5qmIuwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBlq7FPI4xjBHz4M0PcLIRejdYuqwQAC7BxrG-rLYUuw0Abhu7mgxAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBpq7FPI8p4FcQIz5vaDihNWzXPc8QAC7RxrG-rLYUskB4S_GLZvGQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBtq7FPIUi4SlliABSEnKFlDcgk8wQAC7hxrG-rLYUvp4LAqIXztHQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDBxq7FPIPFpW4dQnTPT-QSm5pS292QAC7xxrG-rLYUtz13F1TRDrigEAAwIAA3gAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDB1q7FPIB2Kzf8qx4eF0GIp6tDUj-wAC8BxrG-rLYUvHkfWxnKQ9hAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": false,
-    "textId": 68628
-   },
-   "68638": {
-    "id": 68638,
-    "url": "https://t.me/eurostockmoscow/68638",
-    "date": 1793872878,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 149000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDB5q7FP2kissdeEQINHBpGevZRTkBQACYx1rG-rLYUtLX_SW3EuyWgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDB9q7FP2wxi0RDDupgGIvMstcoGVkwACZB1rG-rLYUt4K1cVykeDGAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDCBq7FP2O4OUOPJ5tsNzDx4NH-aOSgACZR1rG-rLYUvIVevWt9CL_gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDCFq7FP2ngABkps8rUo9_VbEk3B6X4YAAmcdaxvqy2FLi-G0X0F9pWoBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDCJq7FP2WlWACMYwTT3sdIbnvz9W6gACaB1rG-rLYUu_RpLGUdZ9fQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68638
-   },
-   "68643": {
-    "id": 68643,
-    "url": "https://t.me/eurostockmoscow/68643",
-    "date": 1793872879,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 42000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDCNq7FP2Lp_x5v88tUsJ24coLMHDkgACdB1rG-rLYUvMcHr6YKHGtgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDCRq7FP2MLdN1-8LOe2ayannTkkzWgACdR1rG-rLYUs-FTfjxjyraAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDCVq7FP2uTFMPy4Zq2FMHFL3uoSW9AACdh1rG-rLYUvRsr6hb0X6wAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68643
-   },
-   "68646": {
-    "id": 68646,
-    "url": "https://t.me/eurostockmoscow/68646",
-    "date": 1793872879,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 63000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDCdq7FP2BooMEImFW72cesaYi8bchAACeh1rG-rLYUvb_rKcoQGduQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDChq7FP2Pko2CtmsWXZKxEHnReF5iQACex1rG-rLYUtjUWbkXBiBfwEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDClq7FP22aBfPOqbnQORVMsV3slulgACfB1rG-rLYUu4IHNflHrW6wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDCpq7FP2dKMm5SokRrW655gLkaJeDgACfR1rG-rLYUsju4KHAAFtJA4BAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDCtq7FP2l2aOwktpfRG3Ex9450lBuAACfh1rG-rLYUsKEB_aSsRQzwEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDCxq7FP2gqparxuCb8swaLK7rZyeQQACfx1rG-rLYUsSH8XXM-G70AEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDCZq7FP29lWz-oFPPFsBME56YmTUOwACXLQAAurLYUtfiEuTkFKfSz0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68646
-   },
-   "68653": {
-    "id": 68653,
-    "url": "https://t.me/eurostockmoscow/68653",
-    "date": 1793872879,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 63000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDC1q7FP2si69pktjHcgrF9szWz-ePAACgR1rG-rLYUuzMvCivsRuDgEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDC5q7FP2zvkS_mkxYDh11zRbWesl1wACgh1rG-rLYUsxd6902C9VYQEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDC9q7FP2i2XPnsi5b31PjiydkFTvIAACgx1rG-rLYUu2Ph_p4aZWVAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDBq7FP20L5Puci0lgn85sJzAsveegAChB1rG-rLYUuCChbl-Pl_hwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDJq7FP2Xb8UVla_yHvWARQJiNXZLwAChR1rG-rLYUug-x_cV-_HcQEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDDFq7FP2hW7EhpKRUtA_GW-OGdvwxgACXbQAAurLYUuqYvIm4rwqqj0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68653
-   },
-   "68659": {
-    "id": 68659,
-    "url": "https://t.me/eurostockmoscow/68659",
-    "date": 1793872880,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 78000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDDNq7FP2Bj0iuqrRbhdvgPJ0BQqFdAAChh1rG-rLYUvPD-WCzoFD1wEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDRq7FP2uvbJM1U6wW-RWALhDfJ_NwAChx1rG-rLYUvt8HpXUh-OMAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDVq7FP2H1X4zfKmLE7l7kNCb4gUSgACiB1rG-rLYUvJpjO9k2mdaAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDZq7FP2SfdF8zu91ga1LeKQ2ZcucAACiR1rG-rLYUsSqxeXK-wFxwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDdq7FP2TT7hj6YfpfzsdsjYHPIPNQACih1rG-rLYUucHKO4k0UuoAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDhq7FP2EcqcqbKI2nA8yPbUw2B03wACix1rG-rLYUuzg8USZ4jx3QEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDlq7FP28Tbv-kvZJSZ_2QH1-y5dggACjB1rG-rLYUuhCKJ7ukyh-wEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68659
-   },
-   "68666": {
-    "id": 68666,
-    "url": "https://t.me/eurostockmoscow/68666",
-    "date": 1793872880,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 80000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDDtq7FP2BFV8_YdZbv1tzcPDmQKgBQACjR1rG-rLYUufkCq6ntlNXQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDDxq7FP2fuwM5ltN6F7bYrJsdW9hYAACjh1rG-rLYUsRaUttVtEz6gEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDD1q7FP23Tsirthf7usgDfRnpL75vwACjx1rG-rLYUugAlXtdQJQMQEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDD5q7FP2HmJciVxbmW3rWxZEcKE0lQACkB1rG-rLYUsEH-YD7aPrCAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDD9q7FP2sYP1lQH1N_XL02OOhg9xBgACkR1rG-rLYUvtPdny4t9sNAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDEFq7FP2YcLqMall7JRiaa179ixyOwACkh1rG-rLYUuy_wjXSKhjZAEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDDpq7FP2B1wkl0nxIr6qsdSLTUSoQwACYrQAAurLYUsLN8JaQTeS0z0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68666
-   },
-   "68674": {
-    "id": 68674,
-    "url": "https://t.me/eurostockmoscow/68674",
-    "date": 1793872881,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 88000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDEJq7FP2fmYNA3xBlsvA9EitNBCvHgAClB1rG-rLYUtwhTXeHaJI6AEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDENq7FP2A6RHjmmSdXl5-Xq9RsVO_gAClR1rG-rLYUuQ6UFH5Apl2QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDERq7FP2ITsruAPT36qGQEX_SH2ZggAClh1rG-rLYUuelRG5ulVDNwEAAwIAA3gAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDEVq7FP20e6i5zRoOEySpKq9z9j7qAAClx1rG-rLYUsSrSF7g-2_cAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDEZq7FP22W4P8hXxffpE9xqkWW4-5AACmB1rG-rLYUtc9XaV1PXztQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDEdq7FP2KXH7sQuMd8BxBXDAhy5n4QACmR1rG-rLYUtaVV4Nw7whNwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDEhq7FP2B6IpysXyJVUz0DKuJpWPkgACmh1rG-rLYUvPvEDORjMTXwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68674
-   },
-   "68681": {
-    "id": 68681,
-    "url": "https://t.me/eurostockmoscow/68681",
-    "date": 1793872881,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 77000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDElq7FP2imG53PvnQtX8JDD1TTTIkAACnB1rG-rLYUsezKLfHJp2VgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDEpq7FP2PyA9imjIz8sYF6-7NphdPwACnR1rG-rLYUveflmK0qlK5AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDEtq7FP2hkmRY6oBwULw6PJKKV-TaQACnh1rG-rLYUtx3znnQ6c9cQEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDExq7FP2TuK6dEKOTpxBIjC74VxnVwACnx1rG-rLYUsot3coy69YqgEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDE1q7FP2oamdgMNUeOtn8Fn70j693wACoB1rG-rLYUtfkhJk3DRzGwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDE5q7FP2dG5DMZ4V8dD41SM0UPpV0AACoR1rG-rLYUsBV-vHAXoyvQEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDE9q7FP2ufM7NTab02STaHOI_3BvRAACoh1rG-rLYUtntBem9ukAATEBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDFBq7FP2VskJwlckkpHYvKyjixpg_AACox1rG-rLYUt_ype06J1zsQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68681
-   },
-   "68689": {
-    "id": 68689,
-    "url": "https://t.me/eurostockmoscow/68689",
-    "date": 1793872882,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 66000₽\nМужская коллекция от 39 размера!\n\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDFFq7FP2TvdQZ6eL38EIpcobV-2TUAACph1rG-rLYUtYAti9d2Nb8AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFJq7FP22m4DOLVGs4cJTomIcU4WQQACpx1rG-rLYUvLBUgX_v9uWwEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFNq7FP2vrOOTgyNXqWSOISZca2TWwACqB1rG-rLYUu0jqol2utcbgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFRq7FP2dbfM4czL4u1ys7LSF8OdvAACqR1rG-rLYUuwsB19FU9FhQEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFVq7FP2hMxRxoAL49srh9ur9kV-kgACqh1rG-rLYUslgA9GI1FBZwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFZq7FP2WNw1VZ0vdAp9igLPgE19IAACqx1rG-rLYUslQeNpRoE57wEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68689
-   },
-   "68695": {
-    "id": 68695,
-    "url": "https://t.me/eurostockmoscow/68695",
-    "date": 1793872884,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 23900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDFdq7FP2um26ltyIN_SrUdV6WdsLtAACrB1rG-rLYUuMf6rM-EM3NQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFhq7FP26Qj_RJzfHz24-DAcgyT1vQACrR1rG-rLYUvX7PPHyMRGLAEAAwIAA3gAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFlq7FP2ZWLMt4xyW7Mc2K9WfHP1ogACrh1rG-rLYUvdEjqgN_Df4AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFpq7FP22YBQ-t1OsD_gYpTkDXltswACrx1rG-rLYUsSghDD2v_OZAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68695
-   },
-   "68699": {
-    "id": 68699,
-    "url": "https://t.me/eurostockmoscow/68699",
-    "date": 1793872885,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 39500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDFtq7FP2A9o0G_4I6FbjduztAUGpJgACsB1rG-rLYUtoaqIWdTdqxQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDFxq7FP2VKyj8sF-O7NrfnjbtIHJdAACsh1rG-rLYUtTA50LcaSG3gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDF1q7FP2AvE3QfWZMoR5NjhWg9SvSwACsx1rG-rLYUt3a_2DLS9FJwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDF5q7FP2n-1JkMf3HRrNvvUDyqmWAAO0HWsb6sthSwou0DB4VPE9AQADAgADeQADPQQ"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68699
-   },
-   "68703": {
-    "id": 68703,
-    "url": "https://t.me/eurostockmoscow/68703",
-    "date": 1793872885,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 88600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDF9q7FP2wtIprCTRMd_fUsXqKaCzBgACzB1rG-rLYUstUyLk_kzhJgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGBq7FP29xYSojTUxgjGQyA6YrbXnwACzR1rG-rLYUtaen-XodIjHgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGFq7FP2GRde_XVfZAhkDwMCSfjfXAACzh1rG-rLYUsZPZ-QVxibigEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGJq7FP2yITVdofadSpqRn7YEyTDBAACzx1rG-rLYUvyC4vCgBGd5AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGNq7FP2eTjl9Q56aIkZKf2SqHgL5AAC0B1rG-rLYUsQ3RDI8HBl3QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGRq7FP2OlxuOtwIXi9ndjWhVgXPDQAC0R1rG-rLYUvlDH-mvyA-CQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68703
-   },
-   "68709": {
-    "id": 68709,
-    "url": "https://t.me/eurostockmoscow/68709",
-    "date": 1793872908,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 116700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDGVq7FQMJEFm7lRe26u8TeM1MC7vbAAC0h1rG-rLYUtH6jCljO_IzQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGZq7FQMFAUwLw5rZxIb9xuq2OXzrwAC0x1rG-rLYUtJ_Oe9DcWt2wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGdq7FQMsXLxICQWE3gAAUzwo-hIZusAAtQdaxvqy2FLgAIzCSrtvbEBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDGhq7FQM7BekjoucT9Kj9xni3uZzUwAC1R1rG-rLYUsJGYez6pmgpQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGlq7FQMCf9HyePuKeSuDX6XdPVHaQAC1h1rG-rLYUt99Xq3ew_QhwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68709
-   },
-   "68714": {
-    "id": 68714,
-    "url": "https://t.me/eurostockmoscow/68714",
-    "date": 1793872908,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 192500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDGpq7FQMYPq0r3YJtqfhAliruUs5IAAC2B1rG-rLYUtj8MbkmuA3KwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGtq7FQMJ7jdECN8eglOZeKv-iUeIAAC2R1rG-rLYUsGr_AIzS0EcgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDGxq7FQMXrs6sy6qQpv-t_m9m5YjtgAC2x1rG-rLYUuewJA6a-u2KQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDG1q7FQMsDozgWuKTa9LIEN_MmRBGwAC3B1rG-rLYUs5iAbe29Fr1AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDG5q7FQMOcBQSOcXecm8CkU-Bl7SUgAC3R1rG-rLYUs3lgaV9gi-ewEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68714
-   },
-   "68719": {
-    "id": 68719,
-    "url": "https://t.me/eurostockmoscow/68719",
-    "date": 1793872908,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 112700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDG9q7FQMDITGTHNCNIFjjfgFJm4ojQAC3x1rG-rLYUtC8srWxHZ6QwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHBq7FQMSC4_gSj6qzxFd_Fnt-PCUQAC4B1rG-rLYUuGxLzVw2zhTAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHFq7FQMEsvY91xKrFaw7n-txmF4uQAC4R1rG-rLYUuExwSpEeis0wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHJq7FQM3p94bKTtrQE3Q6-l-oBUswAC4h1rG-rLYUupWL8mc5AqYAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHNq7FQMNWbcXLfs0-HrcZK6gal_GgAC4x1rG-rLYUuzyDwNsy4ahgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68719
-   },
-   "68724": {
-    "id": 68724,
-    "url": "https://t.me/eurostockmoscow/68724",
-    "date": 1793872909,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 27400₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDHRq7FQMCZv3NykB43fIwfRvzTvbugAC5B1rG-rLYUs8y6Aw2n99zAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHVq7FQM6zAhx-aFqrW3_IgV0tPSrQAC5R1rG-rLYUuc64XUtn2l_gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHZq7FQMEn-SfDtFLBrYqJWkhQSpLgAC5h1rG-rLYUugKevyQTvtsgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHdq7FQM7umv_3tUuUv5L_Uk0hsPLAAC5x1rG-rLYUt-emGNo1rbrwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68724
-   },
-   "68728": {
-    "id": 68728,
-    "url": "https://t.me/eurostockmoscow/68728",
-    "date": 1793872909,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 44300₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDHhq7FQMQrP0cEu_9vvogaUyc2rM2AAC8R1rG-rLYUsoUUBXNkICYQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHlq7FQMtVDE18G-AjY849VWFkSLkQAC8h1rG-rLYUvqL4P1MFtyrAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHpq7FQM9BXSPC-pzeWQ081pnkZLMgAC8x1rG-rLYUs6wps3FBJwfAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDHtq7FQMKj5PmSideuKi4kukG7UGTQAC9B1rG-rLYUt8z4AXbMLdlwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68728
-   },
-   "68732": {
-    "id": 68732,
-    "url": "https://t.me/eurostockmoscow/68732",
-    "date": 1793872909,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 192500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDHxq7FQMh1JJm3qrC4Dz3VqxCZYuHAAC9R1rG-rLYUuYhPPWU3rligEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDH1q7FQM1zMpwYTv5EhAYzPHUYtZZwAC9h1rG-rLYUs7yFyjgGCWewEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDH5q7FQMuriG5OXckRVeThjeZg_wwQAC9x1rG-rLYUuB3hFTHOpoLAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDH9q7FQMyqx0cDDdY_rYY5AZaWKpJQAC-B1rG-rLYUuDkZJXvwOiuAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIBq7FQMvV0r2diDw9rj-bEZ_bc0QgAC-R1rG-rLYUua0iqqbDn0-gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIFq7FQM7iZpHnLQjbT86kQD0A1_fwAC-h1rG-rLYUtMwuQFaFfShwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIJq7FQMQGSiBUgo3g64sCU_GizoqwAC-x1rG-rLYUtyiWkUjOWsJgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68732
-   },
-   "68739": {
-    "id": 68739,
-    "url": "https://t.me/eurostockmoscow/68739",
-    "date": 1793872910,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 104700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDINq7FQMQQ2QQGQsGb2b1mLZ2Xmz6wAC_B1rG-rLYUvCF0rFF358GwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIRq7FQMXtN8oiu3DYE_UES32rlLxwAC_R1rG-rLYUuIgZRkIj_tZQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIVq7FQM3yIMGRQbMHx9qzpOa52oTQAC_h1rG-rLYUu87aM-_g6GLgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIZq7FQMaYLI8a4wGC8FSRsKSIr7UAAC_x1rG-rLYUvnNnHYHWCWZQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIdq7FQMZIJ36gS6GIXqf_CepmzeSAADHmsb6sthS2iLGWlSL71GAQADAgADeQADPQQ"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68739
-   },
-   "68744": {
-    "id": 68744,
-    "url": "https://t.me/eurostockmoscow/68744",
-    "date": 1793872910,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 39500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDIhq7FQMl2mU1KoEvhhQo3YhHmMEZQACAR5rG-rLYUsTN5zZIE5mOwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68744
-   },
-   "68745": {
-    "id": 68745,
-    "url": "https://t.me/eurostockmoscow/68745",
-    "date": 1793872910,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 29500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDIlq7FQMRNCUZh2VK-6qg5SzqAqXgAACAh5rG-rLYUsdonYWtY0iogEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIpq7FQMHbdX9AEBOc3y0GSQ-6L_5wACAx5rG-rLYUuEG5JYnD7xOQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDItq7FQMWpKzCfknRp4B21cWSGOWLgACBB5rG-rLYUvVKt54YM14zAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDIhq7FQMl2mU1KoEvhhQo3YhHmMEZQACAR5rG-rLYUsTN5zZIE5mOwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68745
-   },
-   "68749": {
-    "id": 68749,
-    "url": "https://t.me/eurostockmoscow/68749",
-    "date": 1793872910,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 44300₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDI1q7FQMOv3obpWoF9pa1OfGOY8XVQACBR5rG-rLYUswtlUBJ4yJdwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDI5q7FQM6Ah36qBv9-zoac0QA6nc6gACBh5rG-rLYUvie7V02NhFKAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDI9q7FQMFtfEcUf-Yt09SKPqEsoY2gACBx5rG-rLYUsAATo-qiVbAVYBAAMCAAN5AAM9BA"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68749
-   },
-   "68752": {
-    "id": 68752,
-    "url": "https://t.me/eurostockmoscow/68752",
-    "date": 1793872910,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 120800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDJBq7FQMQqYgXK5ASt3m-SwugGq0wQACCh5rG-rLYUvJCbb-cWOiZQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJFq7FQMj-8kE2RnRFDx3A1zItG3RwACCx5rG-rLYUuPL4scG79X7QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJJq7FQMGahwfis9WsLghByQ277KNgACDB5rG-rLYUtyDxgjwZbksAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJNq7FQMb9UeNjXRuJw2QB0O74C0NwACDR5rG-rLYUt3Af6hMKmdngEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJRq7FQMbGsvpgHiex3BUfyQzF9zzQACDh5rG-rLYUtgDvDUJCaYBwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68752
-   },
-   "68757": {
-    "id": 68757,
-    "url": "https://t.me/eurostockmoscow/68757",
-    "date": 1793872911,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 21800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDJVq7FQMJDZct4k4Xn2KlK48jIwmnwACEB5rG-rLYUtsshiLgMH8uAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJZq7FQMIV-mHQnico-0Rx11BxbdfwACER5rG-rLYUvxnDtLkbsDAwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJdq7FQM5JH-bLdwHv2GZKPGIXYfqwACEh5rG-rLYUvV7k1ytSXZmgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68757
-   },
-   "68760": {
-    "id": 68760,
-    "url": "https://t.me/eurostockmoscow/68760",
-    "date": 1793872911,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 41100₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDJhq7FQMIktEaN3aUJRRzRyiJu7QbgACFB5rG-rLYUvAZivsLUQn_gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJlq7FQMtN9nRfJMdVHhiBLShcofcAACFR5rG-rLYUuUKDHZRFAVvAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJpq7FQMAvxy216NwPIAAR2ObIn2wSoAAhYeaxvqy2FL47aDuq-HXkcBAAMCAAN5AAM9BA"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68760
-   },
-   "68763": {
-    "id": 68763,
-    "url": "https://t.me/eurostockmoscow/68763",
-    "date": 1793872961,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 78900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDJtq7FRKyB7iku0cstlBpWzsXjXDlwACGB5rG-rLYUsAAStOGAwlusABAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDJxq7FRK2kOPq5l3PXm0jWr8qdiMVgACGR5rG-rLYUv9pZfEj3YdSQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJ1q7FRKZmDYA6wQuKA1CGOxBnlFwwACGh5rG-rLYUv0GWHmjg2GeQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJ5q7FRKp5grkgYbEO4eNvPku3olcAACGx5rG-rLYUsZ12PGjG9nFQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDJ9q7FRKdHd1y5PRF9LDztiJxcAtYwACHB5rG-rLYUsn3eNUEMOlYAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKBq7FRKAAF8nFTM6Faa_oy3nd7cbXYAAh0eaxvqy2FLUhw7Ar7L7PQBAAMCAAN5AAM9BA"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68763
-   },
-   "68769": {
-    "id": 68769,
-    "url": "https://t.me/eurostockmoscow/68769",
-    "date": 1793872961,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 138900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDKFq7FRK_XAn-HvtOK_LC3xsghTdvgACHx5rG-rLYUuiOH_X9AoEoAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKJq7FRKAAEUKlzqIJYbU_WVHTEvsiUAAiAeaxvqy2FLam8D_rIkkxoBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDKNq7FRKpaq04qjwn3-vwK-oiNctNAACIR5rG-rLYUu6OvHe_P4QvwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKRq7FRKXblHLgfkDXOAtDAZeLHGnAACIh5rG-rLYUsK_VJq0Jt59wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKVq7FRKbN_MVLGXW8fL_lkOoD5DygACIx5rG-rLYUt-IVAPhBnF5AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKZq7FRKqCQN6K8yTmHR4h6xKgmsCwACJB5rG-rLYUsKNXqQIppcsgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68769
-   },
-   "68775": {
-    "id": 68775,
-    "url": "https://t.me/eurostockmoscow/68775",
-    "date": 1793872962,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 44300₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDKdq7FRKWOm7NfGwyvrhfCZNpcBUrgACJR5rG-rLYUsjfweLi3H8agEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKhq7FRKq7_Zb4SAIlpLH2qXK0K1ZgACJh5rG-rLYUtt7QcDn5wlgwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKlq7FRKFyMg2gABJO_yCC4RbgqxwEcAAiceaxvqy2FLjMKICigNNYsBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDKpq7FRK3iTT-TQPUSzF_hxYiV9fQgACKB5rG-rLYUt3wfn5-DACTwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68775
-   },
-   "68779": {
-    "id": 68779,
-    "url": "https://t.me/eurostockmoscow/68779",
-    "date": 1793872962,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 88600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDKtq7FRKLV79LwYCxoROT4i7evB-qQACKR5rG-rLYUupVfhKYjSfCAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDKxq7FRK3R0nLMR6Siah_9Nsjj3PigACKh5rG-rLYUsxNxgM_msWPAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDK1q7FRKWU7C3hnmYVDJWuWjSlRILQACKx5rG-rLYUuHbldEkzYKMAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDK5q7FRKZhGemMqKYmBeziPzQpjHaQACLB5rG-rLYUuDvrEMA1U4XQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68779
-   },
-   "68783": {
-    "id": 68783,
-    "url": "https://t.me/eurostockmoscow/68783",
-    "date": 1793872962,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 78900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDK9q7FRKmxTbzjPp3gH6hEmJJwfgqAACLR5rG-rLYUv9oF3-u40MJAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLBq7FRK835Uv65cN6AiTnan2DRwqgACLh5rG-rLYUvid9PN5ndLZAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLFq7FRKtqOp6xV0YaVm6RE9ICp0JAACLx5rG-rLYUslBH6OfOLF3QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLJq7FRK4OQVI6PBprhRd8Q2iYIEnwACMB5rG-rLYUs61NY8lLE43QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLNq7FRKdYY-EHTHNd1_08-bXL2g0wACMR5rG-rLYUu8X4War2jjxgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLRq7FRKgL5sfEf2sz5Wx6WB0ZhnrwACMh5rG-rLYUuLkK5Xl3tsPQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68783
-   },
-   "68789": {
-    "id": 68789,
-    "url": "https://t.me/eurostockmoscow/68789",
-    "date": 1793872962,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 128800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDLVq7FRK7jJp2aizmveFF06FMNfn-AACNB5rG-rLYUtjxHCqC8vgCQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLZq7FRK2uZQGhwReIj5kMj1apnr2wACNR5rG-rLYUsYJYTlM2qYCQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLdq7FRKHRIW_ykLgWOQLOzXdvm3BgACNh5rG-rLYUt7y8IKNFq_aAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLhq7FRK_bRnaynp4kk8uSTQEQZ3RQACNx5rG-rLYUsWPQkUeT5-2QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLlq7FRKS2vY_kZlpG0LlEJN6O7RfQACOB5rG-rLYUvhK3n3R324VwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68789
-   },
-   "68794": {
-    "id": 68794,
-    "url": "https://t.me/eurostockmoscow/68794",
-    "date": 1793872963,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 138600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDLpq7FRKMFxW8WFWUEpO-SocMbmNtwACOR5rG-rLYUvLruapJOWubAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLtq7FRKxbpEyVMgJLoa8oALYyZd7gACOh5rG-rLYUvCfNquQ19soAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDLxq7FRKtUXlQD7QrcEiKTJR3wIvygACOx5rG-rLYUsXO7l15_tr2gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDL1q7FRKsUl_qQAB-CQobpapJpBh-_QAAjweaxvqy2FL_wJYVwFx7-gBAAMCAAN5AAM9BA"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68794
-   },
-   "68798": {
-    "id": 68798,
-    "url": "https://t.me/eurostockmoscow/68798",
-    "date": 1793872963,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 128800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDL5q7FRKZYf_J6msUpKMGDNJopiXaQACQB5rG-rLYUul0gABszzwhoABAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDL9q7FRK0UqYeMPWwbujBCAUpLq5pAACQR5rG-rLYUsGA4-5JekW3QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMBq7FRKC8yeyFRhPTll6sbKHhqGRgACQh5rG-rLYUvpy6Wzdyj0iQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMFq7FRKXeSEr8fgRDzq31tZn5PhpQACQx5rG-rLYUsZHSCorCTkyQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68798
-   },
-   "68802": {
-    "id": 68802,
-    "url": "https://t.me/eurostockmoscow/68802",
-    "date": 1793872963,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 88600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDMJq7FRKothZUIva1eMum7gx7Erf7gACRB5rG-rLYUtWtnLmAceLgwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMNq7FRKo88L_XAbBfisEYBS8dNFoAACRR5rG-rLYUt-k4EV7dGX0QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMRq7FRKVCZOGwpfOHfKCViRr9daSwACRh5rG-rLYUunfsEeBeyAqQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMVq7FRKsExIm_U6QVZZ5S-7065CVgACRx5rG-rLYUvxrOahyIjkxgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMZq7FRKgubI21cf2Sa-ceJJD-TcKwACSB5rG-rLYUu81oEC55dN_QEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68802
-   },
-   "68807": {
-    "id": 68807,
-    "url": "https://t.me/eurostockmoscow/68807",
-    "date": 1793872964,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 112700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDMdq7FRKAvL7tBZR6QABQKdCN4UHeBYAAkoeaxvqy2FLNNh3e540j8IBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDMhq7FRKzq0_HBXfRRCBh8uZHcKUcAACSx5rG-rLYUvCkNhQVLSoBwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMlq7FRK6epCOQ_BG4ZdTVddG9zQZwACTB5rG-rLYUu3l7qB2UOpmAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMpq7FRKYgZKx9agR-Ki3E9550gWawACTR5rG-rLYUs-KcYjpg16mAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDMtq7FRKkETngrC_9s5XCFm3RZRSDQACTh5rG-rLYUswOrvfvo4YpAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68807
-   },
-   "68812": {
-    "id": 68812,
-    "url": "https://t.me/eurostockmoscow/68812",
-    "date": 1793872964,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 138600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDMxq7FRKvInrARH1I6k0K4CZpRPUygACVB5rG-rLYUsrEBjnGmNpbwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDM1q7FRKE0d7mv2bx0SdN-kxd_iqDgACVR5rG-rLYUsw3bYRl749SgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDM5q7FRKUOR8tO6aj62LiRY-FK7utgACVh5rG-rLYUvRWpNKXv9dwAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDM9q7FRKOOhXZiS3ymR2-1SsE_YtWAACVx5rG-rLYUswWlbvbdLz5AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNBq7FRKf_t7cu4RCuymIHSVfnrUmgACWB5rG-rLYUs2lvrIhC1njAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68812
-   },
-   "68817": {
-    "id": 68817,
-    "url": "https://t.me/eurostockmoscow/68817",
-    "date": 1793872964,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 76500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDNFq7FRK90s6ZTiT-BY6NTJIwMeQXwACWh5rG-rLYUsYEt2wCARvBwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNJq7FRK06flyKWl3NFtbc-XiowD2gACWx5rG-rLYUuDmlREDMl_eAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNNq7FRKD0wOlVcHc_u_hT22Tzq4WQACXB5rG-rLYUu3e3DnJY3hlAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNRq7FRKHRyhzCnT24n1D0jMIwQQ5wACXR5rG-rLYUvhuQf9SBPU1QEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68817
-   },
-   "68821": {
-    "id": 68821,
-    "url": "https://t.me/eurostockmoscow/68821",
-    "date": 1793872964,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 23900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDNVq7FRKLEWMBmO32DAaLuNq26vyGgACXx5rG-rLYUtI1URrFfJ3LgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNZq7FRKJLROc3dyqQ2eZZD4kWYq4gACYB5rG-rLYUsRyQGhDZjenAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNdq7FRKBRPjcTGRSXwr8wJqcw6UnQACYR5rG-rLYUvvJHdoQC5wwQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68821
-   },
-   "68824": {
-    "id": 68824,
-    "url": "https://t.me/eurostockmoscow/68824",
-    "date": 1793872967,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 120800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDNhq7FRKqeuU-l70JymgX5VPWAoc6QACYx5rG-rLYUsLyB60RHwvPgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNlq7FRKDDQ_ZUoTaJVvouTlbojw0wACZB5rG-rLYUtvghO8K62m_QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNpq7FRKYSr0hUUL552VcjbtN2C9jgACZR5rG-rLYUvdSVWFV-jI9gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDNtq7FRK19ndQaZQrAABRk_VDyThhM8AAmYeaxvqy2FL267jERtn2KYBAAMCAAN5AAM9BA"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68824
-   },
-   "68828": {
-    "id": 68828,
-    "url": "https://t.me/eurostockmoscow/68828",
-    "date": 1793872967,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 138600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDNxq7FRKql4wsG2-EPue5ysif93o-QACaR5rG-rLYUurzqZ7mVyzagEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDN1q7FRKzlPDmWv8G0etkNnHKQYf_wACah5rG-rLYUukiqkoZ73a4wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDN5q7FRKuVb8R5qDrVaHrUzMLjZkAANrHmsb6sthS8_cksP-igdWAQADAgADeQADPQQ",
-     "AgACAgIAAyEFAASRzT39AAEBDN9q7FRK4pKZNzVJu9PJwxEqu3Y90QACbB5rG-rLYUtIS4BkqPjKxAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOBq7FRKY5uOP3qlzyau7CMMD6W90gACbR5rG-rLYUstHMz3pbClggEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68828
-   },
-   "68833": {
-    "id": 68833,
-    "url": "https://t.me/eurostockmoscow/68833",
-    "date": 1793872968,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 177100₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDOFq7FRKfSAvBq46VoTsbjvHbrcIqwACcx5rG-rLYUt1wGlM-8iuoQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOJq7FRKthikuqToXrA4jQ6pCMmjlQACdB5rG-rLYUuU9CwJ481bJwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDONq7FRKRX1SsOJIB9yN5oKopYdKmgACdR5rG-rLYUuZDNmGTivb1QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDORq7FRKLYtCVdi6ngzxmMKTLROQNgACdh5rG-rLYUsMcU0gTlWOTAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOVq7FRKtRlEjPDNTRN-qMmeZ5_UtwACdx5rG-rLYUs28LLBd1ecxwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOZq7FRKEdNn83XgiZlmVX8sez0nFAACeB5rG-rLYUsXIgY7Ghw8JwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68833
-   },
-   "68839": {
-    "id": 68839,
-    "url": "https://t.me/eurostockmoscow/68839",
-    "date": 1793872968,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 120800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDOdq7FRKPLhm3B0FGMK08bDiWIF-aQACeR5rG-rLYUvwU9s2uuU7_wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOhq7FRKgfUuwKZo0qKHratsdhZtygACeh5rG-rLYUtidsEoJaJHrwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOlq7FRK9toi6C8yVsDmaXyNb4ZejQACex5rG-rLYUv53GY5G8gBzQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOpq7FRK4unexfxxjgEX0eNKXRp4ygACfB5rG-rLYUttn4MkhfpxzQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDOtq7FRK9yfQA3NPnaT-s1VHYeVlEwACfR5rG-rLYUsx64D4Pp2W4gEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68839
-   },
-   "68844": {
-    "id": 68844,
-    "url": "https://t.me/eurostockmoscow/68844",
-    "date": 1793872968,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 100700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDOxq7FRKKjNb6KKJ293MQDdT81yd_gACfx5rG-rLYUupEBDzXLaiRAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDO1q7FRKDorQJONPRfOq68MwL8cV7AACgB5rG-rLYUslZSquIsu6EQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDO5q7FRK_5nz3JmbbVPydzk2nG8RkQACgR5rG-rLYUvayvCAxEwNJAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDO9q7FRKCH1SMjyzXtBvUJFVDpVPhwACgh5rG-rLYUvJFOhBUFl6NQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPBq7FRKqEdmdGCygtMCKwI2ti-daQACgx5rG-rLYUsNl4L71hMlFgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPFq7FRKHAABfnZ8kGRXF9ejzHKLoeYAAoQeaxvqy2FLxNG_Yl7ZXckBAAMCAAN5AAM9BA"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68844
-   },
-   "68850": {
-    "id": 68850,
-    "url": "https://t.me/eurostockmoscow/68850",
-    "date": 1793872969,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 120800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDPJq7FRKw53U-rE8FgfaG5ASoNyBZwACiB5rG-rLYUtGwnZXWTZdjgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPNq7FRKMGfQa-4-P6098UkcIbkfSgACiR5rG-rLYUs6nLeemxc76QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPRq7FRKZmHSbZh23jOzByxK22Q4wQACih5rG-rLYUvvuVc9PqgejAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPVq7FRKtKJ8q3HO_dNA1YdfQxltUwACix5rG-rLYUs5M46CTZ2z2QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPZq7FRKuDWjpuGgzodcS7gpB6P07AACjB5rG-rLYUvYe2a2yQjilAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68850
-   },
-   "68855": {
-    "id": 68855,
-    "url": "https://t.me/eurostockmoscow/68855",
-    "date": 1793872969,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 55600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDPdq7FRKxwhmWNepxfPqhheEYbypVwACjR5rG-rLYUtddalX-fLvbQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPhq7FRKr5tfPC4Z0QeI-aIFlUb67wACjh5rG-rLYUtj-9KDlWwlpQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPlq7FRK298egOnJcp2F0KFqTmHamQACjx5rG-rLYUuoj6j5H4AicAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPpq7FRKJdmEHK4ml5djb43qCUZZFwACkR5rG-rLYUvAgtSYO0fwygEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDPtq7FRKLU2H-mtn_tMR9gABySle8FQAApIeaxvqy2FLk3Kuq9h4gCEBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDPxq7FRKRi5xhwxabg8JBEArzEja3QACkx5rG-rLYUs-SjE50vgQbQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDP1q7FRKAAFOCgPnyhMLZvbUhTymR-YAApQeaxvqy2FL7CyenPVQ1kUBAAMCAAN5AAM9BA"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68855
-   },
-   "68862": {
-    "id": 68862,
-    "url": "https://t.me/eurostockmoscow/68862",
-    "date": 1793872970,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 134800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDP5q7FRKd7jrpleR76y9juQEeY46oQACmh5rG-rLYUv6QTyb5Yqe9QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDP9q7FRKK_OKK43j-9fMFmUZ2JYyQwACmx5rG-rLYUsG5CKwJgABH6QBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDQABauxUSnlCp7RwDTRWNXBR7xprt_oAApweaxvqy2FL119jtgXZdrcBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDQFq7FRKd4_dMhuUTKP66aNXHGgDlgACnR5rG-rLYUvMkNcOQ9l32wEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68862
-   },
-   "68866": {
-    "id": 68866,
-    "url": "https://t.me/eurostockmoscow/68866",
-    "date": 1793872970,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 29500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDQJq7FRKh9FKDF6czxgsK9tm0w6EZAACnx5rG-rLYUvl809fRSl7qQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQNq7FRKqdkl6P31dWa6CT4kYsSzKwACoB5rG-rLYUtH9j5pAuXLfgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQRq7FRK17skQbxp6LacAkHx--czogACoR5rG-rLYUu2G-IhpgMzNQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68866
-   },
-   "68869": {
-    "id": 68869,
-    "url": "https://t.me/eurostockmoscow/68869",
-    "date": 1793872971,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 76500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDQVq7FRKIEcwOfPU9P1FKV86fK_FGwACox5rG-rLYUvGcYJGGHFaQwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQZq7FRKH-A3fuhgredplCFEpeYP8wACpB5rG-rLYUvbsEPd_MyeKgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQdq7FRKnIZp_-_TWWmSNjAmqn1tZgACpR5rG-rLYUslQ-Eo4WMjdQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQhq7FRKxlwWclNn9LVaA_Zg217bzQACph5rG-rLYUs7p56_PdgHUQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQlq7FRK3EW7j4aS49h-n2T5zvsrDwACpx5rG-rLYUvgIv3ArTu3vgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQpq7FRK_t5WnWbwiqDnw01W77TexwACqB5rG-rLYUuo4i4OQTswfgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68869
-   },
-   "68875": {
-    "id": 68875,
-    "url": "https://t.me/eurostockmoscow/68875",
-    "date": 1793872981,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 207900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDQtq7FRV7MpDD55fxvFiQLDSaOY7OgAClR5rG-rLYUsJ1e8evxDW-wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQxq7FRVW6snfTP51WNgpTNmtINvYQAClh5rG-rLYUufIzpvodkOswEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQ1q7FRV_lwDWOyHS9Vbv0446wKq2wAClx5rG-rLYUuZBBxfSabkogEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDQ5q7FRVHwR_NVcUxM8HvxgzCnazgQACmB5rG-rLYUs3r-YfgDsUwAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68875
-   },
-   "68879": {
-    "id": 68879,
-    "url": "https://t.me/eurostockmoscow/68879",
-    "date": 1793872981,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 76500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDQ9q7FRVmTg4H9_nxj4ts-wxQPl1tgACqR5rG-rLYUvcBJ8I11dvugEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRBq7FRVG1cg-I_EQKvi5xlZtrMraQACqh5rG-rLYUtlDzM8yxhzFAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRFq7FRVv2BswLSoiG7ym70KqZdIBwACqx5rG-rLYUuyK3AhlSY-PAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRJq7FRVQXA_rivgXhgTeP58Wy-uNgACrB5rG-rLYUsFeCDpwGU7GAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRNq7FRVUt6BNto3-WL3E940QOwVhQACrR5rG-rLYUt7AAFv8VbFg7UBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDRRq7FRVudVRgMHxYP_7vmO9H-5kdgACrh5rG-rLYUupM8Am0mmbOQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68879
-   },
-   "68885": {
-    "id": 68885,
-    "url": "https://t.me/eurostockmoscow/68885",
-    "date": 1793872982,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 39500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDRVq7FRVxo9tbc6f5clAkVICbPt9KwACsB5rG-rLYUvitdRncmEnswEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRZq7FRVVLdTzlDJzVNWyPdGG3l6GwACsR5rG-rLYUuOKFoemqbsQwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRdq7FRV3KenN11pp3RLNNcVWSqCswACsh5rG-rLYUviRhkS-rHZQgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68885
-   },
-   "68888": {
-    "id": 68888,
-    "url": "https://t.me/eurostockmoscow/68888",
-    "date": 1793872982,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 27500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDRhq7FRV6iWzsmmn9yqyzBnnbOLORQACsx5rG-rLYUtstTQXI2uh1QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRlq7FRV16kViab0h3zRMXEfbwldLwACtB5rG-rLYUs53TPGaelLYgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRpq7FRVkTjck0nrjOLV_v8dRfjmBwACtR5rG-rLYUsIXEYGmWpZEQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRtq7FRVIwQpGp6EKLcRD-ZCmr6lqQACth5rG-rLYUsrni0ip0o84AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDRxq7FRVvATRax-O4RuvYtpzn7TAOwACtx5rG-rLYUvRwh_WkBuL_wEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68888
-   },
-   "68893": {
-    "id": 68893,
-    "url": "https://t.me/eurostockmoscow/68893",
-    "date": 1793872982,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 41900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDR1q7FRV0DAMdkclzv74qjRD26ZioQACux5rG-rLYUumRtVw2lP3hgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDR5q7FRVWlFMrke_MzCda3hG8miEhgACvB5rG-rLYUvpwqlIUx6xBQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDSFq7FRVVhQK8hWXQPWyy8Aq7ptDSgACvR5rG-rLYUv22WyfuCmm_QEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68893
-   },
-   "68899": {
-    "id": 68899,
-    "url": "https://t.me/eurostockmoscow/68899",
-    "date": 1793872983,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 104700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDSNq7FRV4tTzw0S_z3bUaFZHGl_V1wACvh5rG-rLYUsCdGPrpcLjxQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDSRq7FRVkcY-tNc31ZncdwHO4gZUSAACvx5rG-rLYUvSchO-zyqIowEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDSVq7FRVFuQJh2mTjOolAAGd5N6AgiUAAsAeaxvqy2FLz3nUyVtD9nUBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDSZq7FRVz6ilAAGGy6DWWDdBS-TkFcwAAsEeaxvqy2FLTMv6KvVf3qIBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDSdq7FRVpyPZ7vkRWh9krlJH4qEOkgACwh5rG-rLYUuOs5o30wR8nwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68899
-   },
-   "68904": {
-    "id": 68904,
-    "url": "https://t.me/eurostockmoscow/68904",
-    "date": 1793872983,
-    "text": "#Gucci SPECIAL PRICE ⬇️\nв бутике Gucci -30% скидка! \n\n▪️ 23900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDShq7FRVLM_ezEcMiRi_eVs4jqe74AACxh5rG-rLYUvyO2ixpsgpBQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDSlq7FRVNsmRtPo0KE3m4EocuW_9IAACxx5rG-rLYUub1_w13TjHtgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDSpq7FRVIYiswef7l2n6QTov4WrIlwACyB5rG-rLYUv-1mcFBkhQvAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 68904
-   },
-   "68907": {
-    "id": 68907,
-    "url": "https://t.me/eurostockmoscow/68907",
-    "date": 1793873878,
-    "text": "Аутлет #Adidas\n\n▪️15500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDStq7FfWxZBN2KpNd_sF5_3ZZS54BwAC0KwAAuMIaEvASqQ74djmWT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68907
-   },
-   "68908": {
-    "id": 68908,
-    "url": "https://t.me/eurostockmoscow/68908",
-    "date": 1793873923,
-    "text": "Аутлет #Adidas\n\n▪️12600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDSxq7FgCRXl8_rMM10WnxJe5nDKJcwAC0qwAAuMIaEviwxUuXzOnLT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68908
-   },
-   "68909": {
-    "id": 68909,
-    "url": "https://t.me/eurostockmoscow/68909",
-    "date": 1793873951,
-    "text": "Аутлет #Adidas\n\n▪️кофта 5500₽\n▪️шапка 2500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDS1q7FgfBMzI3h-lUWR5FfgOJxmIwAAC06wAAuMIaEswWbUw1XM0wT0E",
-     "BAACAgIAAyEFAASRzT39AAEBDS5q7FgfAZ8sG2OBKlJ6aKKKbeLiIwAC1awAAuMIaEuGIBOaB39XrT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68909
-   },
-   "68911": {
-    "id": 68911,
-    "url": "https://t.me/eurostockmoscow/68911",
-    "date": 1793874028,
-    "text": "Аутлет #Adidas\n\n▪️20400₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDS9q7FhsufaVFJ4KjDOezuSCKKVYHgAC1qwAAuMIaEunkieGRpX8ez0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68911
-   },
-   "68912": {
-    "id": 68912,
-    "url": "https://t.me/eurostockmoscow/68912",
-    "date": 1793874076,
-    "text": "Аутлет #Adidas\n\n▪️19900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDTBq7FibTG0a0eLOip2JLk7-5Otu1wAC26wAAuMIaEtnc2vkaAQqhT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68912
-   },
-   "68913": {
-    "id": 68913,
-    "url": "https://t.me/eurostockmoscow/68913",
-    "date": 1793874117,
-    "text": "Аутлет #Adidas\n\n▪️12600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDTFq7FjEPFF_lRAO4rZ4Bz4TPgoPwAAC3qwAAuMIaEsLW0XbHz9ZDz0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68913
-   },
-   "68914": {
-    "id": 68914,
-    "url": "https://t.me/eurostockmoscow/68914",
-    "date": 1793874394,
-    "text": "Аутлет #Adidas\n\n▪️свитшот 7800₽\n▪️брюки 3500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDTJq7FnaxL3le32cUfbF6foJM2BtFQAC8qwAAuMIaEuxFxkeDVuy9z0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68914
-   },
-   "68915": {
-    "id": 68915,
-    "url": "https://t.me/eurostockmoscow/68915",
-    "date": 1793874419,
-    "text": "Аутлет #Adidas\n\n▪️брюки 8900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDTNq7Fnz7RTCx1dQWp0wf-nqgY5l5QAC9awAAuMIaEtdMqAHsRQHZj0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68915
-   },
-   "68916": {
-    "id": 68916,
-    "url": "https://t.me/eurostockmoscow/68916",
-    "date": 1793874482,
-    "text": "Аутлет #Adidas\n\n▪️1900₽ 3шт в наборе \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDTRq7FoyWXdp0JIOIKxvA0f-K5O0XAAC-qwAAuMIaEtFDxo0wpryLz0E",
-     "BAACAgIAAyEFAASRzT39AAEBDTVq7FoyPE_xamoGW1dQT5lf0Yn-3gAC_KwAAuMIaEsHVeDKDcFUkj0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68916
-   },
-   "68918": {
-    "id": 68918,
-    "url": "https://t.me/eurostockmoscow/68918",
-    "date": 1793874555,
-    "text": "Аутлет #Marcjacobs \n\n▪️16900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDTdq7Fp74RIbdUcI-vgZWm58GYfVIgACRCBrG-MIaEt5jwNQLE4FuwEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDTZq7Fp72yrs0FTM1nMSJka1eOz-OgACAa0AAuMIaEt8AAHee-rIMUE9BA",
-     "BAACAgIAAyEFAASRzT39AAEBDThq7Fp7koOHd_SEBKb6Vrhm7E0feAACAq0AAuMIaEtrBh7QJw4tCT0E",
-     "BAACAgIAAyEFAASRzT39AAEBDTlq7Fp7-5hTfCZIrAHaQFcmOME4WwACBK0AAuMIaEtE0J3VYjIQHD0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68918
-   },
-   "68922": {
-    "id": 68922,
-    "url": "https://t.me/eurostockmoscow/68922",
-    "date": 1793874605,
-    "text": "Аутлет #Marcjacobs \n\n▪️17900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDTpq7FqtZ2wIVxPeGCQX6bS0NC-IzwACRSBrG-MIaEt2YXb__BjQHgEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDThq7Fp7koOHd_SEBKb6Vrhm7E0feAACAq0AAuMIaEtrBh7QJw4tCT0E",
-     "BAACAgIAAyEFAASRzT39AAEBDTxq7Fqt6Snfyx9jGyApPg4KUH4zJgACCK0AAuMIaEvJIAbpuGN2Uz0E",
-     "BAACAgIAAyEFAASRzT39AAEBDT1q7FqtYRSI-AkhHklXFwMQ1gUTfQACC60AAuMIaEsSMqCUdm5h6T0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68922
-   },
-   "68926": {
-    "id": 68926,
-    "url": "https://t.me/eurostockmoscow/68926",
-    "date": 1793874912,
-    "text": "Аутлет #Boss\n\n▪️набор 16500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDT5q7Fvgf45uNsIurbvU2U7r8oPFgQACSSBrG-MIaEvSE-fojhxYKgEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDUJq7FvgA6fPHldL21qYPkh--7C1RQACSiBrG-MIaEtJ3M-gEpUZQwEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDUNq7FvgPZ99X57wQHeFsmUdUdr30AACSyBrG-MIaEvsjB8c24wO5QEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDT9q7Fvg0MQ42Am14cn9XEjKX3r1fgACI60AAuMIaEt92W4IX8h-jD0E",
-     "BAACAgIAAyEFAASRzT39AAEBDUBq7FvgIgaiPRB-703eoUUOLl1lDAACKK0AAuMIaEt-pt4niLRFnj0E",
-     "BAACAgIAAyEFAASRzT39AAEBDUFq7FvgVhgy7qpC6itFUB3TOtRkTwACKq0AAuMIaEtZ-tZ6xWrvhT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68926
-   },
-   "68932": {
-    "id": 68932,
-    "url": "https://t.me/eurostockmoscow/68932",
-    "date": 1793874924,
-    "text": "Аутлет #Boss Мужчины\n\n▪️14700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDUVq7FvsnWv0abVeDxspIAT9EZ4uNgACTCBrG-MIaEuumsjFFvUl6QEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDURq7FvsmYgKdxgPrui24F6rqmWptQACLa0AAuMIaEuGnlVKBAfiuj0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68932
-   },
-   "68934": {
-    "id": 68934,
-    "url": "https://t.me/eurostockmoscow/68934",
-    "date": 1793875113,
-    "text": "Аутлет #Boss Мужчины\n\n▪️16500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDUdq7FypgxcR_5RhzwNp0GtJ5RoKywACUCBrG-MIaEtpWi4Hs6SAUAEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDUZq7Fyp6I3S0DVSUX6aeErm2iCCHgACP60AAuMIaEt1zSCaGSVA9z0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68934
-   },
-   "68936": {
-    "id": 68936,
-    "url": "https://t.me/eurostockmoscow/68936",
-    "date": 1793875163,
-    "text": "Аутлет #Boss Мужчины\n\n▪️14700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDUhq7FzbNqTSQwYxWXmRYP555qrziQACUyBrG-MIaEsScdyEPeq_zQEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBDUlq7Fzbp9fzd9SoBFjnxew-TmsVGAACRa0AAuMIaEsbyUxaZTregz0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 68936
-   },
    "68938": {
     "id": 68938,
     "url": "https://t.me/eurostockmoscow/68938",
@@ -26454,72 +25472,349 @@
     ],
     "hashtagBrand": true,
     "textId": 72410
+   },
+   "72413": {
+    "id": 72413,
+    "url": "https://t.me/eurostockmoscow/72413",
+    "date": 1795081944,
+    "text": "Аутлет #Maxmara \n\n▪️50500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGt5q_sbYG00ZcDkPuHD7wTl-QvNIiwACcRprGyQqMUsmj5Qx6_U03gEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGt9q_sbYyor0rWuzhxelOe0nOWGtAgACchprGyQqMUtGQ0ZH6fAUDQEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGt1q_sbYhDG1KDy0V8izmsGhNLHsMgACoqAAAiQqMUuNwPnCEqFf3T0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72413
+   },
+   "72416": {
+    "id": 72416,
+    "url": "https://t.me/eurostockmoscow/72416",
+    "date": 1795081944,
+    "text": "Аутлет #Maxmara \n\n▪️58500₽ \n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGuFq_sbYDYSUbj5jJct_reNLIkCCWwACeBprGyQqMUsuNenn1xW49wEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBGuJq_sbY7cAgV5pCV8DdnpK6LDsNdwACeRprGyQqMUsRthq-7vKSfQEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGuBq_sbYz2OMr8tVtCp_j4ogqLYa3QACq6AAAiQqMUsmeUiu4FxcZz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72416
+   },
+   "72419": {
+    "id": 72419,
+    "url": "https://t.me/eurostockmoscow/72419",
+    "date": 1795082032,
+    "text": "Обзор #Armani 🌟\n\n▪️9500₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGuNq_scwAAHywVTEoNi3wWvAbfSj1IEAAvedAAJ_pvhLDDI2NJo6hx09BA",
+     "BAACAgIAAyEFAASRzT39AAEBGuRq_scwruahBEWFyXLMMXrIqdxmnAAC-Z0AAn-m-EsiLKfNdc7G9z0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72419
+   },
+   "72421": {
+    "id": 72421,
+    "url": "https://t.me/eurostockmoscow/72421",
+    "date": 1795082060,
+    "text": "Обзор #Armani 🌟\n\n▪️9500₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGuZq_sdM5V20UivH7VGwURiHBU94ywAC2RtrG3-m-EvesyummMU85gEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGuVq_sdMdYqEFWFMR5DzVIaIAjiDuAAC-50AAn-m-Es-blCAeavNtD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72421
+   },
+   "72423": {
+    "id": 72423,
+    "url": "https://t.me/eurostockmoscow/72423",
+    "date": 1795082093,
+    "text": "Обзор #Armani 🌟\n\n▪️6900₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGuhq_sdtjiExcBVwrZ3AnYI7RVA1sQAC2htrG3-m-EtVsGlwBVFAfwEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGudq_sdte5JDk88Ep3TIdMF_JVgbEgAC_p0AAn-m-EsXORJ9syVDbD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72423
+   },
+   "72425": {
+    "id": 72425,
+    "url": "https://t.me/eurostockmoscow/72425",
+    "date": 1795082123,
+    "text": "Обзор #Armani 🌟\n\n▪️5500₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGupq_seLZD88sX8XhkejyuLUmMsZHgAC2xtrG3-m-Ev2_Jk2BEhAZAEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGulq_seLSApbbjYnq5sqVtPtDCjgRQACAZ4AAn-m-Eu7jpluSDqlET0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72425
+   },
+   "72427": {
+    "id": 72427,
+    "url": "https://t.me/eurostockmoscow/72427",
+    "date": 1795082169,
+    "text": "Аутлет #RalphLauren\n\n▪️33600₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGutq_se5mXVJJflEc4IY7MtnJmPhEQACBZ4AAn-m-Esnjzw36F3xAT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72427
+   },
+   "72428": {
+    "id": 72428,
+    "url": "https://t.me/eurostockmoscow/72428",
+    "date": 1795082212,
+    "text": "Аутлет ##RalphLauren\n\n▪️15100₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGuxq_sfkdTILxKaoA-Ndp7sZM-CcSQACCJ4AAn-m-EtPaewBTTKgkT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72428
+   },
+   "72429": {
+    "id": 72429,
+    "url": "https://t.me/eurostockmoscow/72429",
+    "date": 1795082338,
+    "text": "Аутлет ##RalphLauren\n\n▪️19300₽\n▪️23000₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGu1q_shiocw1qsSrtCx8K8y2OB9FJQACEJ4AAn-m-EtRT6TFp-xZrD0E",
+     "BAACAgIAAyEFAASRzT39AAEBGu5q_shiFxZ2iGFvH17J0TPugyPNmgACEZ4AAn-m-Euhlwoi6wABi6Y9BA"
+    ],
+    "hashtagBrand": true,
+    "textId": 72429
+   },
+   "72431": {
+    "id": 72431,
+    "url": "https://t.me/eurostockmoscow/72431",
+    "date": 1795082359,
+    "text": "Аутлет ##RalphLauren\n\n▪️8900₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGu9q_sh2N646dlWrAAHfj4jZMOsk-YAAAhSeAAJ_pvhLVxZFhWGbpaI9BA"
+    ],
+    "hashtagBrand": true,
+    "textId": 72431
+   },
+   "72432": {
+    "id": 72432,
+    "url": "https://t.me/eurostockmoscow/72432",
+    "date": 1795082378,
+    "text": "Аутлет #RalphLauren\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGvBq_siKd0pGkcBn4kIhp3keqqPkvwACGJ4AAn-m-EuixLbmW2zYSj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72432
+   },
+   "72433": {
+    "id": 72433,
+    "url": "https://t.me/eurostockmoscow/72433",
+    "date": 1795082526,
+    "text": "Аутлет #RalphLauren\n\n▪️24000₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGvFq_skevls1xTKSgfU4nm3254o29wACJZ4AAn-m-EvpKef1M7Ibvz0E",
+     "BAACAgIAAyEFAASRzT39AAEBGvJq_skeNVCW7ohLiUD2B61VV48AAcUAAiaeAAJ_pvhLAlt6LV6Tgcg9BA"
+    ],
+    "hashtagBrand": true,
+    "textId": 72433
+   },
+   "72435": {
+    "id": 72435,
+    "url": "https://t.me/eurostockmoscow/72435",
+    "date": 1795082548,
+    "text": "Аутлет #RalphLauren\n\n▪️39300₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGvNq_skzda-_zcnweTW_3JNetJv52gACJ54AAn-m-EvboXmpVbPzWj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72435
+   },
+   "72436": {
+    "id": 72436,
+    "url": "https://t.me/eurostockmoscow/72436",
+    "date": 1795082575,
+    "text": "Аутлет #RalphLauren\n\n▪️22900₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGvRq_slOP2yE2Oswgf0DUkS_vr-lMwACK54AAn-m-EvYldNsQE8_PD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72436
+   },
+   "72437": {
+    "id": 72437,
+    "url": "https://t.me/eurostockmoscow/72437",
+    "date": 1795082617,
+    "text": "Аутлет #RalphLauren\n\n▪️15500₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGvVq_sl4ieS1jqvvlyW--kiSbuuKEgACMJ4AAn-m-Evo-IICWcPuij0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72437
+   },
+   "72438": {
+    "id": 72438,
+    "url": "https://t.me/eurostockmoscow/72438",
+    "date": 1795082863,
+    "text": "Аутлет ##RalphLauren\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGvZq_spvLdSS1J5k6tMYRw9HQO2cuwACMp4AAn-m-EsyYzOCo1_tcD0E",
+     "BAACAgIAAyEFAASRzT39AAEBGvdq_spvSOedTfk9j5yFQbXzMzOXmQACOp4AAn-m-Eti00Ca1cT7JT0E",
+     "BAACAgIAAyEFAASRzT39AAEBGvhq_spvemGp6zFT91oE4fRUgZJ6-QACPZ4AAn-m-EueSLbGW_yXcD0E",
+     "BAACAgIAAyEFAASRzT39AAEBGvlq_spvCC586yjs1VXK-5uQ6mm-aQACQJ4AAn-m-EsyeoxuLxVF_z0E",
+     "BAACAgIAAyEFAASRzT39AAEBGvpq_spvRPGlUwlsR7ZNba_an-lUVAACQp4AAn-m-EsR-FVYWARIqz0E",
+     "BAACAgIAAyEFAASRzT39AAEBGvtq_spvLQMGg2aEgzMhxE1sRbeuFQACRp4AAn-m-EuN9Cyaoh9ozT0E",
+     "BAACAgIAAyEFAASRzT39AAEBGvxq_spvnsJFQa1xcWI5dNhrxlF45wACSJ4AAn-m-Et1kV1nriJQiz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72438
+   },
+   "72445": {
+    "id": 72445,
+    "url": "https://t.me/eurostockmoscow/72445",
+    "date": 1795082886,
+    "text": "Аутлет #RalphLauren\n\n▪️20100₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGv1q_sqEe5XJfaH1TlZOnR84YwUKWQACSp4AAn-m-EvAeFFQyqLTND0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72445
+   },
+   "72446": {
+    "id": 72446,
+    "url": "https://t.me/eurostockmoscow/72446",
+    "date": 1795082927,
+    "text": "Аутлет #RalphLauren\n\n▪️свитер 19900₽\n▪️брюки 17600₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGv9q_sqvs1-wp5TFShc9kFi3LcSeeQACAhxrG3-m-EtLxa5jNJXeSgEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGv5q_sqvVol9E167h8aPOW_vrtA9BQACTZ4AAn-m-EuUGqSYJkVRbz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72446
+   },
+   "72448": {
+    "id": 72448,
+    "url": "https://t.me/eurostockmoscow/72448",
+    "date": 1795082977,
+    "text": "Аутлет #RalphLauren\n\n▪️свитер 21000₽\n▪️брюки 17600₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwABav7K4A3Aaq3DfmLZNjZVOAe2X2QAAlCeAAJ_pvhLtHZL3asGlGk9BA"
+    ],
+    "hashtagBrand": true,
+    "textId": 72448
+   },
+   "72449": {
+    "id": 72449,
+    "url": "https://t.me/eurostockmoscow/72449",
+    "date": 1795083039,
+    "text": "Аутлет #RalphLauren\n\n▪️свитер 19900₽\n▪️брюки 16500₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBGwJq_sse2zMcUDviszkmiANdN7huEAACBBxrG3-m-EuCLVCDfSnRUgEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwFq_sseldRQnC_9WP6pP9BRPfLl4QACUp4AAn-m-Eta3JQCHjXG5z0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72449
+   },
+   "72451": {
+    "id": 72451,
+    "url": "https://t.me/eurostockmoscow/72451",
+    "date": 1795083088,
+    "text": "Аутлет #RalphLauren\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwNq_stQ7KbmpaSSgQx08NkH1YzIMgACVZ4AAn-m-Ev02XDFPftGrD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72451
+   },
+   "72452": {
+    "id": 72452,
+    "url": "https://t.me/eurostockmoscow/72452",
+    "date": 1795083212,
+    "text": "Аутлет #RalphLauren носки\n\n▪️1. 4500₽\n▪️2. 2900₽\n▪️3. 5600₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwRq_svMIQ9X6d2d6bxF-WBN40933AACW54AAn-m-EueDmrHWDtC_j0E",
+     "BAACAgIAAyEFAASRzT39AAEBGwVq_svM6nExQrDsV6_9MEACqLmSdAACXZ4AAn-m-Evg37-zPgft4D0E",
+     "BAACAgIAAyEFAASRzT39AAEBGwZq_svMeBayZxK6uaZujL2uNToBHQACYZ4AAn-m-EvhcfcngAFkHD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72452
+   },
+   "72455": {
+    "id": 72455,
+    "url": "https://t.me/eurostockmoscow/72455",
+    "date": 1795083272,
+    "text": "Аутлет #RalphLauren\n\n▪️белая 22200₽\n▪️синяя 21500₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwdq_swIJsutdVeqKoFCcbCBfdjhQgACY54AAn-m-EtsLLTq_0SI7z0E",
+     "BAACAgIAAyEFAASRzT39AAEBGwhq_swIS3AdMX36mPFYsPrtuf0UFwACZJ4AAn-m-EsZFQs6CoiFaT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72455
+   },
+   "72457": {
+    "id": 72457,
+    "url": "https://t.me/eurostockmoscow/72457",
+    "date": 1795083324,
+    "text": "Аутлет #RalphLauren\n\n▪️49900₽\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwlq_sw77CdSa54vx7u2bmWpReqmjwACaJ4AAn-m-EuvCwaHNFJs9T0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72457
+   },
+   "72458": {
+    "id": 72458,
+    "url": "https://t.me/eurostockmoscow/72458",
+    "date": 1795084518,
+    "text": "Аутлет #TomFord\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwpq_tDlazuJYhq4iNpnRx9NJwHGnQACt54AAn-m-EseqLK7_Fsycz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72458
+   },
+   "72459": {
+    "id": 72459,
+    "url": "https://t.me/eurostockmoscow/72459",
+    "date": 1795084540,
+    "text": "Аутлет #JoMalone\n\nЗаказать ➡️\n@tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBGwtq_tD77298XEkOJzQ7NWM21NUxrgACup4AAn-m-EsXA17SOH6WxT0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 72459
    }
   },
   "groups": {
-   "14350982721208466": 68628,
-   "14350983029646082": 68638,
-   "14350983029646090": 68643,
-   "14350983029646098": 68646,
-   "14350983029646106": 68653,
-   "14350983029646114": 68659,
-   "14350983029646122": 68666,
-   "14350983029646130": 68674,
-   "14350983029646138": 68681,
-   "14350983029646146": 68689,
-   "14350983029646154": 68695,
-   "14350983029646162": 68699,
-   "14350983029646170": 68703,
-   "14350983266834826": 68709,
-   "14350983266834834": 68714,
-   "14350983266834842": 68719,
-   "14350983266834850": 68724,
-   "14350983266834858": 68728,
-   "14350983266834866": 68732,
-   "14350983266834874": 68739,
-   "14350983266834890": 68745,
-   "14350983266834898": 68749,
-   "14350983266834906": 68752,
-   "14350983266834914": 68757,
-   "14350983266834922": 68760,
-   "14350983690239122": 68763,
-   "14350983690239130": 68769,
-   "14350983690239138": 68775,
-   "14350983690239146": 68779,
-   "14350983690239154": 68783,
-   "14350983690239162": 68789,
-   "14350983690239170": 68794,
-   "14350983690239178": 68798,
-   "14350983690239186": 68802,
-   "14350983690239194": 68807,
-   "14350983690239202": 68812,
-   "14350983690239210": 68817,
-   "14350983690239218": 68821,
-   "14350983690239226": 68824,
-   "14350983690239234": 68828,
-   "14350983690239242": 68833,
-   "14350983690239250": 68839,
-   "14350983690239258": 68844,
-   "14350983690239266": 68850,
-   "14350983690239274": 68855,
-   "14350983764728130": 68862,
-   "14350983764728138": 68866,
-   "14350983764728146": 68869,
-   "14350983849072282": 68875,
-   "14350983849072290": 68879,
-   "14350983849072298": 68885,
-   "14350983849072306": 68888,
-   "14350983849072314": 68893,
-   "14350983849072322": 68899,
-   "14350983849072330": 68904,
-   "14350991615260642": 68909,
-   "14350995861488922": 68916,
-   "14350996443153426": 68918,
-   "14350996841841090": 68922,
-   "14350999300003778": 68926,
-   "14350999397753306": 68932,
-   "14351000905647970": 68934,
-   "14351001308854978": 68936,
    "14351004603039002": 68938,
    "14351004748721890": 68941,
    "14351014421113122": 68943,
@@ -27291,7 +26586,20 @@
    "14360652835749266": 72399,
    "14360653384498906": 72402,
    "14360653384498930": 72407,
-   "14360653384498938": 72410
+   "14360653384498938": 72410,
+   "14360655554698850": 72413,
+   "14360655554698858": 72416,
+   "14360656263381810": 72419,
+   "14360656486486714": 72421,
+   "14360656747155058": 72423,
+   "14360656988308826": 72425,
+   "14360658710354066": 72429,
+   "14360660210811954": 72433,
+   "14360662908496882": 72438,
+   "14360663419448666": 72446,
+   "14360664311834698": 72449,
+   "14360665696274722": 72452,
+   "14360666176621042": 72455
   }
  }
 }
