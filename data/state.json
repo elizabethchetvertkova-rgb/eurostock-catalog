@@ -1,5 +1,5 @@
 {
- "offset": 789490466,
+ "offset": 789490468,
  "posts": {
   "206": {
    "id": 206,
@@ -21,7 +21,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092416125,
+   "checkedAt": 1795110032825,
    "deleted": true
   },
   "221": {
@@ -46,7 +46,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092415815
+   "checkedAt": 1795110032562
   },
   "224": {
    "id": 224,
@@ -70,7 +70,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092415656
+   "checkedAt": 1795110032428
   },
   "233": {
    "id": 233,
@@ -94,7 +94,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092415496
+   "checkedAt": 1795110032291
   },
   "302": {
    "id": 302,
@@ -116,7 +116,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092415316
+   "checkedAt": 1795110032153
   },
   "324": {
    "id": 324,
@@ -138,7 +138,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092415128
+   "checkedAt": 1795110031988
   },
   "446": {
    "id": 446,
@@ -156,7 +156,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092414939
+   "checkedAt": 1795110031838
   },
   "573": {
    "id": 573,
@@ -198,7 +198,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092414771
+   "checkedAt": 1795110031689
   },
   "957": {
    "id": 957,
@@ -222,7 +222,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092414574
+   "checkedAt": 1795110031540
   },
   "1079": {
    "id": 1079,
@@ -247,7 +247,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092414367
+   "checkedAt": 1795110031368
   },
   "1193": {
    "id": 1193,
@@ -271,7 +271,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092414182
+   "checkedAt": 1795110031214
   },
   "1279": {
    "id": 1279,
@@ -295,7 +295,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092413968
+   "checkedAt": 1795110031052
   },
   "1343": {
    "id": 1343,
@@ -320,7 +320,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795092413786
+   "checkedAt": 1795110030893
   },
   "1529": {
    "id": 1529,
@@ -5687,7 +5687,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096590169,
+   "checkedAt": 1795110036096,
    "deleted": true
   },
   "8179": {
@@ -5710,7 +5710,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096589994
+   "checkedAt": 1795110036004
   },
   "8183": {
    "id": 8183,
@@ -5727,7 +5727,7 @@
    ],
    "group": "14332626508165538",
    "caption_id": 8183,
-   "checkedAt": 1795096589741,
+   "checkedAt": 1795110035852,
    "deleted": true
   },
   "8199": {
@@ -5750,7 +5750,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096589564,
+   "checkedAt": 1795110035759,
    "deleted": true
   },
   "8204": {
@@ -5769,7 +5769,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096589385
+   "checkedAt": 1795110035661
   },
   "8208": {
    "id": 8208,
@@ -5791,7 +5791,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096589131
+   "checkedAt": 1795110035515
   },
   "8212": {
    "id": 8212,
@@ -5813,7 +5813,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096588888
+   "checkedAt": 1795110035344
   },
   "8217": {
    "id": 8217,
@@ -5835,7 +5835,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096588639
+   "checkedAt": 1795110035189
   },
   "8222": {
    "id": 8222,
@@ -5853,7 +5853,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096588374
+   "checkedAt": 1795110035021
   },
   "8227": {
    "id": 8227,
@@ -5894,7 +5894,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096588104
+   "checkedAt": 1795110034831
   },
   "8241": {
    "id": 8241,
@@ -5916,7 +5916,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096587827
+   "checkedAt": 1795110034662
   },
   "8246": {
    "id": 8246,
@@ -5940,7 +5940,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096587560,
+   "checkedAt": 1795110034495,
    "deleted": true
   },
   "8251": {
@@ -5981,7 +5981,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096587384
+   "checkedAt": 1795110034401
   },
   "8258": {
    "id": 8258,
@@ -6003,7 +6003,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096587101
+   "checkedAt": 1795110034231
   },
   "8263": {
    "id": 8263,
@@ -6025,7 +6025,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096586855
+   "checkedAt": 1795110034047
   },
   "8273": {
    "id": 8273,
@@ -6069,7 +6069,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096586618,
+   "checkedAt": 1795110033889,
    "deleted": true
   },
   "8291": {
@@ -6102,7 +6102,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096586440,
+   "checkedAt": 1795110033795,
    "group": "14336001467150162",
    "caption_id": 8291
   },
@@ -6113,7 +6113,7 @@
    "struck": [],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1795096586151,
+   "checkedAt": 1795110033609,
    "deleted": true
   },
   "8308": {
@@ -6157,7 +6157,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096585974,
+   "checkedAt": 1795110033516,
    "group": "14340755013744842",
    "caption_id": 8320,
    "deleted": true
@@ -6178,7 +6178,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096585565,
+   "checkedAt": 1795110033295,
    "deleted": true
   },
   "8326": {
@@ -6203,7 +6203,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795096585387,
+   "checkedAt": 1795110033201,
    "deleted": true
   },
   "8330": {
@@ -7098,7 +7098,7 @@
    ],
    "group": "14348524872763522",
    "caption_id": 8435,
-   "checkedAt": 1795092416006
+   "checkedAt": 1795110032729
   },
   "8440": {
    "id": 8440,
@@ -8119,7 +8119,7 @@
    ],
    "group": "14356636677588330",
    "caption_id": 8560,
-   "checkedAt": 1795096585797
+   "checkedAt": 1795110033422
   },
   "8563": {
    "id": 8563,
@@ -8206,7 +8206,7 @@
    ],
    "group": "14357264465881194",
    "caption_id": 8569,
-   "checkedAt": 1795096585211
+   "checkedAt": 1795110033106
   },
   "8572": {
    "id": 8572,
@@ -8235,7 +8235,7 @@
    ],
    "group": "14357267243140738",
    "caption_id": 8572,
-   "checkedAt": 1795092416280
+   "checkedAt": 1795110032955
   },
   "8575": {
    "id": 8575,
@@ -8334,7 +8334,9 @@
    "id": 8587,
    "date": "2026-11-15",
    "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо\nРазмер: XS, S\n▪️26900₽\n\nЗаписаться на примерку - @tatianamoseuro",
-   "struck": [],
+   "struck": [
+    "S"
+   ],
    "media": [
     {
      "type": "video",
@@ -8371,7 +8373,7 @@
    ],
    "group": "14358107739276266",
    "caption_id": 8587,
-   "checkedAt": 1795096593690
+   "checkedAt": 1795110030730
   },
   "8592": {
    "id": 8592,
@@ -8657,7 +8659,7 @@
    ],
    "group": "14360302775744722",
    "caption_id": 8623,
-   "checkedAt": 1795099438595
+   "checkedAt": 1795110030591
   },
   "8626": {
    "id": 8626,
@@ -10986,7 +10988,9 @@
     8591
    ],
    "text": "Готовимся к зиме! ❄️ 🆕\nПуховик #MassimoDutti ✔️✔️✔️✔️✔️\n\nНаполнение: пух-перо\nРазмер: XS, S\n▪️26900₽\n\nЗаписаться на примерку - @tatianamoseuro",
-   "struck": [],
+   "struck": [
+    "S"
+   ],
    "media": [
     {
      "type": "video",
@@ -11354,257 +11358,9 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383318462,
+ "digestOffset": 383318464,
  "feed": {
   "items": {
-   "69077": {
-    "id": 69077,
-    "url": "https://t.me/eurostockmoscow/69077",
-    "date": 1793899997,
-    "text": "Giiirls, сегодня вышла новая коллекция с Elie Saab ✨- это просто чистый фэшн-арт! ❤️‍🔥\nИдеальные драпировки, тот самый винтажный вайб, корсетный крой и детали, от которых сносит крышу.\n\nВыглядит не просто красиво, это выглядит абсолютно нереальноо!!\nСегодня смотрим новые позиции, а следующая коллекция выйдет уже 19 ноября💌\n\nСмотреть на сайте: https://www2.hm.com/es_es/ladies/shop-by-feature/cful265c01a-a-lavish-mood.html",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDdVq7L3dsjP0fMrLqWveOgTv3ZL8UgACNCFrG-rLaUsbiZDKGyTzcAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDdZq7L3dReNQfq370D7jB-jsz9pCVAACNSFrG-rLaUuIUiohmbxsxQEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDddq7L3dU64SLGTT-ja5Byu51ARQ2wACNiFrG-rLaUuoZzHU6pp4awEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDdhq7L3dZrHlGoWKUQHMaANCV1DkzAACNyFrG-rLaUsV4pWsqKTjdAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDdlq7L3dpaT4qUvmQli6ZnZEar1IggACOiFrG-rLaUuYKDkXeth8EwEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDdpq7L3dVIHAhBuL_cnZLn3bQxzMywACOyFrG-rLaUuKtlUVe4t8vQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDdtq7L3dax19Cb_tU6vN4w2GAuWEdQACPSFrG-rLaUs9HgRt_1fJmAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDdxq7L3dw4uOBsQop38u-j0LqKO3ywACPiFrG-rLaUvVU_VkCD8stgEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDd1q7L3d2n6wV1u7c7b6i1fGrJnOlQACPyFrG-rLaUvYnTDkg_13FQEAAwIAA3cAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": false,
-    "textId": 69077
-   },
-   "69086": {
-    "id": 69086,
-    "url": "https://t.me/eurostockmoscow/69086",
-    "date": 1793900033,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️4800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDd5q7L4Bhimf8I2_TkuL7kHgpPAsJAACSyFrG-rLaUu6ILuuVFJxMwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDd9q7L4BMt8FXsVcUnEUQegqrbF7xAACTCFrG-rLaUvB28IfnSnEFAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDeBq7L4BmYdi3GP21LW0AhWUBefXrQACTSFrG-rLaUuW8QcTEiN7CgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69086
-   },
-   "69089": {
-    "id": 69089,
-    "url": "https://t.me/eurostockmoscow/69089",
-    "date": 1793900034,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️9600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDeFq7L4Bf3mov-ZmCQfC3uoNwMOUHQACWCFrG-rLaUsiJg-PvbXPQAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDeJq7L4BfEDSzs-bOvepZmJxc94itgACWSFrG-rLaUvlMg5CJ0mwiwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDeNq7L4B3uNxFAQ2po8k-O_ynLK8LAACWiFrG-rLaUtkJ4p42bfTvQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69089
-   },
-   "69092": {
-    "id": 69092,
-    "url": "https://t.me/eurostockmoscow/69092",
-    "date": 1793900034,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️11200₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDeRq7L4BbHKCbcGGcIVjyC6bMTAPTwACXyFrG-rLaUvzvYMFmjpzRAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDeVq7L4B5qFc35OJ4PKwRAtaYNvqTQACYCFrG-rLaUu8vklmJmI3swEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDeZq7L4BObKk7nUFE-ABf3GALlYH9wACYSFrG-rLaUuEFnGNLfcNSAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69092
-   },
-   "69095": {
-    "id": 69095,
-    "url": "https://t.me/eurostockmoscow/69095",
-    "date": 1793900034,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️пиджак 6400₽\n▪️юбка 4800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDedq7L4B8g8EIX6PB6YxQo5iRePm0gACZSFrG-rLaUvdvthybMyzxAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDehq7L4B26OBIKt7d2ikHUhEGmFGdgACZiFrG-rLaUs-gsFR_8ddSAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDelq7L4BLt2MknsdbqN_naCshO_jegACZyFrG-rLaUuBon5J9odiYAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDepq7L4BU_64lu3XA8DEChE9JszKEAACaCFrG-rLaUvzWNw1SlYIcgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69095
-   },
-   "69099": {
-    "id": 69099,
-    "url": "https://t.me/eurostockmoscow/69099",
-    "date": 1793900034,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️4800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDetq7L4BSsp9BdpV-5eTLcYUVcPqOwACaiFrG-rLaUvqysIDQYBeqQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDexq7L4BVAfDTZmUE2wGBMO6MVc0WAACayFrG-rLaUtypIogcx59nwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDe1q7L4BdaX9p2CZR4zy252U7dnp_gACbCFrG-rLaUunasupXcQiwwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69099
-   },
-   "69102": {
-    "id": 69102,
-    "url": "https://t.me/eurostockmoscow/69102",
-    "date": 1793900034,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️15500₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDe5q7L4BunLNDVMmoEoyb3-MrH06JAACcCFrG-rLaUtIhFKwdaXXLAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDe9q7L4BXXLGc2fypb49MJ27DBoMmAACcSFrG-rLaUtFvNGPnElfLQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfBq7L4B4yTxhDJacbvU-ru_p0ko2wACciFrG-rLaUvlWI6rFsrIJwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfFq7L4BB93Y20CwlV4dVoFTXfHdrgACcyFrG-rLaUskW1rLE-hEjQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69102
-   },
-   "69106": {
-    "id": 69106,
-    "url": "https://t.me/eurostockmoscow/69106",
-    "date": 1793900035,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️8000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDfJq7L4BeKJCFc5d5I0mLs4yASfBngACdSFrG-rLaUvIKT0i__a_qAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfNq7L4BIeep54d5NKOYrDZONB7oXQACdyFrG-rLaUuYwJeNRqDtJgEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfRq7L4BOd5l9IzDOLEQqlsLPe6b2wACeCFrG-rLaUvtJaJiTNF0fwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfVq7L4B7oFcgNa0Gd-EGchAhVJT7wACeSFrG-rLaUsXEj_bqTrj0AEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69106
-   },
-   "69110": {
-    "id": 69110,
-    "url": "https://t.me/eurostockmoscow/69110",
-    "date": 1793900035,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️11200₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDfZq7L4B2U2RDJNY8JwvDUKgyKAdAQACfCFrG-rLaUv1iuUVQEBGJgEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfdq7L4BhMMCQviCZIyDPW57HWpHhQACfSFrG-rLaUt-ENYDGnO_3gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfhq7L4BDLu5ZvvuA52ARaU22JR_uwACfiFrG-rLaUt4V6WgJ3vF1gEAAwIAA3cAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69110
-   },
-   "69113": {
-    "id": 69113,
-    "url": "https://t.me/eurostockmoscow/69113",
-    "date": 1793900035,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️1600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDflq7L4Bohwws3m-iaCTEbsnSUeZAwACgiFrG-rLaUt3KyRhzAai2wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfpq7L4BgB6555Oa9FWC8whwWsiXWwACgyFrG-rLaUtT3wOzE0A0qAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69113
-   },
-   "69115": {
-    "id": 69115,
-    "url": "https://t.me/eurostockmoscow/69115",
-    "date": 1793900035,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️9600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDftq7L4BHXM4gM4LwuTGvwSkiL5pEwAChyFrG-rLaUuUuS--Cfv2MAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDfxq7L4B0njeDR_IBV71P0DhQkgZmQACiCFrG-rLaUtlSCBXL4YfaQEAAwIAA3cAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69115
-   },
-   "69117": {
-    "id": 69117,
-    "url": "https://t.me/eurostockmoscow/69117",
-    "date": 1793900035,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️9600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDf1q7L4BM2xY3AW5n2huthKwYeOacAACkCFrG-rLaUvyAAG1Ryn6L5kBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDf5q7L4Bm9XKtxdeK6nwpuxgf0fniAACkSFrG-rLaUsI5-mfp-YUXQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69117
-   },
-   "69119": {
-    "id": 69119,
-    "url": "https://t.me/eurostockmoscow/69119",
-    "date": 1793900035,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️кофта 5600₽\n▪️брюки 9600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDf9q7L4Bg1dS_jAyqdDhHJYtSIaURgACkyFrG-rLaUujSXgD9jXGxAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDgABauy-AWr_kKp7oNNgn3zwpz-78JMAAlEhaxvqy2lLtHUIR27APoUBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDgFq7L4B3Tx8X_xj9xVU9gqxxTtYMQACUiFrG-rLaUv8GwXd6D4ZXQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDgJq7L4B5DQLy0QnICL09p_BmaZOGQACUyFrG-rLaUtJ6XC9yiMtxQEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69119
-   },
-   "69123": {
-    "id": 69123,
-    "url": "https://t.me/eurostockmoscow/69123",
-    "date": 1793900036,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️8000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDgNq7L4BYttRGxeqew7V1svzC-Xz5wAClSFrG-rLaUvkv6UrXel6yQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDgRq7L4BNtLvMeTjZx2f3QN4y38YjAACliFrG-rLaUuiWHrLw47crwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDgVq7L4BnXZliW2lfjt5s759Vc5FDgAClyFrG-rLaUsZtXGaBHkDiAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69123
-   },
-   "69126": {
-    "id": 69126,
-    "url": "https://t.me/eurostockmoscow/69126",
-    "date": 1793900036,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️4800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDgZq7L4Bi-vKWlTaVnH1EcrklSpULgACnCFrG-rLaUvSu819F2dHyQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDgdq7L4BlqxXOCq4QsBrtZ9QHCu_qgACnSFrG-rLaUsncBFyDoZs_AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDghq7L4B_MdQQMeoVoMYqqe8ylSbfAACniFrG-rLaUtf-o8krPmZSAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDglq7L4BZyEgyUyXm7PnQXRI9OhCuwACnyFrG-rLaUsg2dxxjhpWIgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69126
-   },
-   "69130": {
-    "id": 69130,
-    "url": "https://t.me/eurostockmoscow/69130",
-    "date": 1793900036,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️пиджак 14400₽\n▪️брюки 8000₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDgpq7L4B7jAYCAL4T7BfpbAMacFycgACpCFrG-rLaUv0acbABIsyVQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDgtq7L4BAAFG9_oRoyQ1olW8wWW9W7gAAqUhaxvqy2lLBLxZxih7gu0BAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBDgxq7L4BXe5SQKvpfA0ckLWBXF-qYQACpiFrG-rLaUs9wxcEyZBMiAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDg1q7L4B5f8t1hP4AkJ3_u9c5Ht0UQACqCFrG-rLaUspxKakTcOkiwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDg5q7L4BJ9wsREpscFKauXs9Xu4JXwACqSFrG-rLaUt97Dss_5W0uwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69130
-   },
-   "69135": {
-    "id": 69135,
-    "url": "https://t.me/eurostockmoscow/69135",
-    "date": 1793900036,
-    "text": "New collection #HM\nwith Elie Saab 🐚🌟\n\n▪️4800₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBDg9q7L4BKiK63zRnVqJS4y3gzvSU0wACqyFrG-rLaUvsH1r2vtCVXAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDhBq7L4B6eGLpzuYc4pi4RXzvKmVSwACrCFrG-rLaUt25lVvMIvvBQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBDhFq7L4B2MFv_syymuk4zhKOIzCUSAACrSFrG-rLaUtGsSiALXp-JgEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 69135
-   },
    "69138": {
     "id": 69138,
     "url": "https://t.me/eurostockmoscow/69138",
@@ -25566,7 +25322,7 @@
     "id": 72536,
     "url": "https://t.me/eurostockmoscow/72536",
     "date": 1795099932,
-    "text": "Подарочные наборы\n #Rhode 🎁\n\nЗаказать ➡️ @tunesheva",
+    "text": "Подарочные наборы\n #Rhode 🎁\n\nСмотреть на сайте: https://www.rhodeskin.com/en-es/collections/shop\n\nЗаказать ➡️ @tunesheva",
     "photos": [
      "AgACAgIAAyEFAASRzT39AAEBG1hq_w0by8NuqFWpvAuoqENryU5tIwACMiFrG5Sy-Et18G3IO3DG2AEAAwIAA3cAAz0E",
      "AgACAgIAAyEFAASRzT39AAEBG1lq_w0bfok2zNI1wvORoRP26Hr74QACMyFrG5Sy-EuSFaxpOJbd2AEAAwIAA3cAAz0E",
@@ -25582,7 +25338,7 @@
     "id": 72541,
     "url": "https://t.me/eurostockmoscow/72541",
     "date": 1795099933,
-    "text": "Подарочные наборы\n #Benefit 🤩\n\nЗаказать ➡️ @tunesheva",
+    "text": "Подарочные наборы\n #Benefit 🤩\n\nСмотреть на сайте: https://www.benefitcosmetics.com/en-gb?ysclid=mwnsozn9f3468520341\n\nЗаказать ➡️ @tunesheva",
     "photos": [
      "AgACAgIAAyEFAASRzT39AAEBG11q_w0b-IU0xIQkbySo0lbV3ovB_wACOCFrG5Sy-EviRf-ANEJxyAEAAwIAA3cAAz0E",
      "AgACAgIAAyEFAASRzT39AAEBG15q_w0b7KrKnz3W9tNmr98mq8HGMQACOSFrG5Sy-Et6dFYFL6LDkAEAAwIAA3cAAz0E",
@@ -25607,23 +25363,6 @@
    }
   },
   "groups": {
-   "14351199979527994": 69077,
-   "14351200267069346": 69086,
-   "14351200267069354": 69089,
-   "14351200267069362": 69092,
-   "14351200267069370": 69095,
-   "14351200267069378": 69099,
-   "14351200267069386": 69102,
-   "14351200267069394": 69106,
-   "14351200267069402": 69110,
-   "14351200267069410": 69113,
-   "14351200267069418": 69115,
-   "14351200267069426": 69117,
-   "14351200267069434": 69119,
-   "14351200267069442": 69123,
-   "14351200267069450": 69126,
-   "14351200267069458": 69130,
-   "14351200267069466": 69135,
    "14351272248800658": 69138,
    "14351689895300074": 69149,
    "14351690025623282": 69151,
