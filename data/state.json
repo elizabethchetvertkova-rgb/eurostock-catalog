@@ -1,5 +1,5 @@
 {
- "offset": 789490469,
+ "offset": 789490474,
  "posts": {
   "206": {
    "id": 206,
@@ -4117,7 +4117,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164405683
+   "checkedAt": 1795178295025
   },
   "7438": {
    "id": 7438,
@@ -4147,7 +4147,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164405479,
+   "checkedAt": 1795178294868,
    "group": "14288787618823618",
    "caption_id": 7438
   },
@@ -4173,7 +4173,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164405268,
+   "checkedAt": 1795178294705,
    "deleted": true
   },
   "7465": {
@@ -4188,7 +4188,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164404970
+   "checkedAt": 1795178294485
   },
   "7481": {
    "id": 7481,
@@ -4210,7 +4210,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164404797
+   "checkedAt": 1795178294348
   },
   "7507": {
    "id": 7507,
@@ -4232,7 +4232,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164404595
+   "checkedAt": 1795178294191
   },
   "7542": {
    "id": 7542,
@@ -4254,7 +4254,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164404408
+   "checkedAt": 1795178294029
   },
   "7545": {
    "id": 7545,
@@ -4278,7 +4278,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164404005
+   "checkedAt": 1795178293708
   },
   "7562": {
    "id": 7562,
@@ -4300,7 +4300,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164403827
+   "checkedAt": 1795178293571
   },
   "7565": {
    "id": 7565,
@@ -4325,7 +4325,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164403169,
+   "checkedAt": 1795178293225,
    "deleted": true
   },
   "7583": {
@@ -4350,7 +4350,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164403040
+   "checkedAt": 1795178293129
   },
   "7603": {
    "id": 7603,
@@ -4372,7 +4372,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795164402843
+   "checkedAt": 1795178292973
   },
   "7620": {
    "id": 7620,
@@ -4396,7 +4396,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161121216
+   "checkedAt": 1795178291158
   },
   "7624": {
    "id": 7624,
@@ -4418,7 +4418,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161121012
+   "checkedAt": 1795178291008
   },
   "7630": {
    "id": 7630,
@@ -4440,7 +4440,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161120795
+   "checkedAt": 1795178290856
   },
   "7634": {
    "id": 7634,
@@ -4458,7 +4458,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161120587
+   "checkedAt": 1795178290698
   },
   "7637": {
    "id": 7637,
@@ -4472,7 +4472,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161120389
+   "checkedAt": 1795178290548
   },
   "7640": {
    "id": 7640,
@@ -4494,7 +4494,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161120208
+   "checkedAt": 1795178290417
   },
   "7646": {
    "id": 7646,
@@ -4516,7 +4516,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161120006
+   "checkedAt": 1795178290262
   },
   "7653": {
    "id": 7653,
@@ -4538,7 +4538,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161119768,
+   "checkedAt": 1795178290086,
    "deleted": true
   },
   "7660": {
@@ -4589,7 +4589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161119618,
+   "checkedAt": 1795178289988,
    "group": "14305377278756522",
    "caption_id": 7665,
    "deleted": true
@@ -4614,7 +4614,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161119471,
+   "checkedAt": 1795178289893,
    "deleted": true
   },
   "7678": {
@@ -4637,7 +4637,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795161119324,
+   "checkedAt": 1795178289798,
    "group": "14305377964402858",
    "caption_id": 7678,
    "deleted": true
@@ -6046,7 +6046,7 @@
    ],
    "group": "14335979516635290",
    "caption_id": 8273,
-   "checkedAt": 1795164403295,
+   "checkedAt": 1795178293327,
    "deleted": true
   },
   "8281": {
@@ -6508,7 +6508,7 @@
    ],
    "group": "14345589747631490",
    "caption_id": 8365,
-   "checkedAt": 1795164402413
+   "checkedAt": 1795178292823
   },
   "8370": {
    "id": 8370,
@@ -6547,7 +6547,7 @@
    ],
    "group": "14345589910241218",
    "caption_id": 8370,
-   "checkedAt": 1795164402224,
+   "checkedAt": 1795178292664,
    "deleted": true
   },
   "8374": {
@@ -6603,7 +6603,7 @@
    ],
    "group": "14345590057282210",
    "caption_id": 8374,
-   "checkedAt": 1795164402099
+   "checkedAt": 1795178292561
   },
   "8381": {
    "id": 8381,
@@ -6658,7 +6658,7 @@
    ],
    "group": "14345590784437850",
    "caption_id": 8381,
-   "checkedAt": 1795164401712
+   "checkedAt": 1795178292242
   },
   "8388": {
    "id": 8388,
@@ -6747,7 +6747,7 @@
    ],
    "group": "14345591506152226",
    "caption_id": 8394,
-   "checkedAt": 1795164401491
+   "checkedAt": 1795178292070
   },
   "8399": {
    "id": 8399,
@@ -6790,7 +6790,7 @@
    ],
    "group": "14345591697582338",
    "caption_id": 8399,
-   "checkedAt": 1795164401303,
+   "checkedAt": 1795178291925,
    "deleted": true
   },
   "8404": {
@@ -6854,7 +6854,7 @@
    ],
    "group": "14345591849241426",
    "caption_id": 8404,
-   "checkedAt": 1795161122381
+   "checkedAt": 1795178291832
   },
   "8412": {
    "id": 8412,
@@ -6895,7 +6895,7 @@
    ],
    "group": "14345592024436954",
    "caption_id": 8412,
-   "checkedAt": 1795161122147
+   "checkedAt": 1795178291653
   },
   "8417": {
    "id": 8417,
@@ -6940,7 +6940,7 @@
    ],
    "group": "14345592193190034",
    "caption_id": 8417,
-   "checkedAt": 1795161121919,
+   "checkedAt": 1795178291500,
    "deleted": true
   },
   "8422": {
@@ -7147,7 +7147,7 @@
    ],
    "group": "14348525582577218",
    "caption_id": 8440,
-   "checkedAt": 1795164404210
+   "checkedAt": 1795178293879
   },
   "8446": {
    "id": 8446,
@@ -7704,7 +7704,7 @@
    ],
    "group": "14351264320128538",
    "caption_id": 8509,
-   "checkedAt": 1795164403422,
+   "checkedAt": 1795178293422,
    "deleted": true
   },
   "8514": {
@@ -7815,7 +7815,7 @@
    ],
    "group": "14354719371258666",
    "caption_id": 8524,
-   "checkedAt": 1795164401892
+   "checkedAt": 1795178292380
   },
   "8529": {
    "id": 8529,
@@ -8584,7 +8584,7 @@
    ],
    "group": "14359411040283034",
    "caption_id": 8612,
-   "checkedAt": 1795164405142
+   "checkedAt": 1795178294612
   },
   "8616": {
    "id": 8616,
@@ -8696,7 +8696,7 @@
    ],
    "group": "14360668279891018",
    "caption_id": 8626,
-   "checkedAt": 1795161121774
+   "checkedAt": 1795178291407
   },
   "8630": {
    "id": 8630,
@@ -8719,7 +8719,48 @@
    ],
    "group": "14360670562052226",
    "caption_id": 8630,
-   "checkedAt": 1795161121392
+   "checkedAt": 1795178291286
+  },
+  "8632": {
+   "id": 8632,
+   "date": "2026-11-20",
+   "text": "Набор шапка и шарф #RalphLauren ✔️✔️✔️✔️✔️\n\nНабор УНИСЕКС🌟\nСостав: 100% шерсть \n▪️14500₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhuGsAATPwkaqZmoqSrMTEMKe-ORAvDwAC8B9rGz83CUiDTh73w8_8-AEAAwIAA3kAAz0E",
+     "msg_id": 8632,
+     "key": "8632_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhuWsAATPw6ulqHmSHzhHIESUQadRO-AAC8R9rGz83CUhli2cbZ9F-QQEAAwIAA3kAAz0E",
+     "msg_id": 8633,
+     "key": "8632_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhumsAATPwdFw8vhd-9e3Oq2h-UIeUsAAC8h9rGz83CUiS_1OedRsjtQEAAwIAA3kAAz0E",
+     "msg_id": 8634,
+     "key": "8632_2"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhu2sAATPwKfoQsgp6L_mWwcv44RiS_wAC8x9rGz83CUgFG3uP0bA2PAEAAwIAA3kAAz0E",
+     "msg_id": 8635,
+     "key": "8632_3"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhvGsAATPwaoGtuLpQfAABM7Wuys29EbgAAvQfaxs_NwlI8pGD9j2mUCsBAAMCAAN5AAM9BA",
+     "msg_id": 8636,
+     "key": "8632_4"
+    }
+   ],
+   "group": "14361403268377538",
+   "caption_id": 8632,
+   "checkedAt": 1795178289702
   }
  },
  "groups": {
@@ -11354,6 +11395,46 @@
    ],
    "date": "2026-11-19",
    "caption_id": 8630
+  },
+  "14361403268377538": {
+   "ids": [
+    8632,
+    8633,
+    8634,
+    8635,
+    8636
+   ],
+   "text": "Набор шапка и шарф #RalphLauren ✔️✔️✔️✔️✔️\n\nНабор УНИСЕКС🌟\nСостав: 100% шерсть \n▪️14500₽\n\nКупить - @tatianamoseuro",
+   "struck": [],
+   "media": [
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhuGsAATPwkaqZmoqSrMTEMKe-ORAvDwAC8B9rGz83CUiDTh73w8_8-AEAAwIAA3kAAz0E",
+     "msg_id": 8632
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhuWsAATPw6ulqHmSHzhHIESUQadRO-AAC8R9rGz83CUhli2cbZ9F-QQEAAwIAA3kAAz0E",
+     "msg_id": 8633
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhumsAATPwdFw8vhd-9e3Oq2h-UIeUsAAC8h9rGz83CUiS_1OedRsjtQEAAwIAA3kAAz0E",
+     "msg_id": 8634
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhu2sAATPwKfoQsgp6L_mWwcv44RiS_wAC8x9rGz83CUgFG3uP0bA2PAEAAwIAA3kAAz0E",
+     "msg_id": 8635
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIhvGsAATPwaoGtuLpQfAABM7Wuys29EbgAAvQfaxs_NwlI8pGD9j2mUCsBAAMCAAN5AAM9BA",
+     "msg_id": 8636
+    }
+   ],
+   "date": "2026-11-20",
+   "caption_id": 8632
   }
  },
  "drafts": {},
