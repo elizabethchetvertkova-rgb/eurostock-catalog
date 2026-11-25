@@ -160,13 +160,13 @@ async function checkDeleted() {
   const channelName = CHANNEL.replace('@', '');
   if (!/^[a-z0-9_]+$/i.test(channelName)) return; // канал задан числовым id — публичной страницы нет
   const hidden = new Set((cur.hidden || []).map(Number));
-  const candidates = Object.values(state.posts).filter(p => /₽/.test(p.text || '')).sort((a, b) => ((a.checkedAt || 0) - (b.checkedAt || 0)) || (b.id - a.id)).slice(0, 40);
+  const candidates = Object.values(state.posts).filter(p => /₽/.test(p.text || '')).sort((a, b) => ((a.checkedAt || 0) - (b.checkedAt || 0)) || (b.id - a.id)).slice(0, 60); // 60 за запуск → полный круг по ~300 постам за 5 запусков
   for (const p of candidates) {
     try {
       const r = await fetch(`https://t.me/${channelName}/${p.id}?embed=1&mode=tme`, { headers: { 'user-agent': 'Mozilla/5.0 (catalog-sync)' } });
       const html = await r.text();
-      if (!r.ok || !/tgme_widget_message/.test(html)) continue; // страница не отдана — не делаем выводов
-      const gone = /tgme_widget_message_error/.test(html) && /Post not found/i.test(html);
+      const gone = /Post not found/i.test(html);
+      if (!r.ok || (!gone && !/tgme_widget_message/.test(html))) continue; // страница не отдана — не делаем выводов
       p.checkedAt = Date.now();
       if (gone && !p.deleted) { p.deleted = true; hidden.add(p.id); log.push(`пост #${p.id} удалён из канала — снят с витрины`); changed = true; }
       if (!gone && p.deleted) { p.deleted = false; hidden.delete(p.id); log.push(`пост #${p.id} снова в канале — возвращён`); changed = true; }
