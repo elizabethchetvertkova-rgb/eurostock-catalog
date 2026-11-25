@@ -641,9 +641,12 @@ async function pollDigestBot() {
   }
 
   if (!BUILD_ONLY) {
-    await fetchMedia(); await checkDeleted();
-    await pollDigestBot();
-    await maybePostDigest();
+    // Каждый шаг независим: сбой одного (сеть, Telegram) не должен срывать остальные — особенно дайджест по расписанию
+    const step = async (name, fn) => { try { await fn(); } catch (e) { log.push(`${name}: ${e.message}`); console.error(`${name}: ${e.message}`); } };
+    await step('бот дайджеста', pollDigestBot);
+    await step('дайджест', maybePostDigest);
+    await step('медиа', fetchMedia);
+    await step('удалённые посты', checkDeleted);
     if (state.commandsSet !== 6) { try { await api('setMyCommands', { commands: [
       { command: 'post', description: 'Пост в канал с кнопкой «Открыть каталог» (с предпросмотром)' },
       { command: 'sold', description: 'Продано: /sold 8326 или /sold 8326 M' },
