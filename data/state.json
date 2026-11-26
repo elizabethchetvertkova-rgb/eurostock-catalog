@@ -138,7 +138,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682727165
+   "checkedAt": 1795685734850
   },
   "446": {
    "id": 446,
@@ -156,7 +156,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682726981
+   "checkedAt": 1795685734693
   },
   "573": {
    "id": 573,
@@ -198,7 +198,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682726797
+   "checkedAt": 1795685734541
   },
   "957": {
    "id": 957,
@@ -222,7 +222,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682726611
+   "checkedAt": 1795685734391
   },
   "1079": {
    "id": 1079,
@@ -247,7 +247,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682726389
+   "checkedAt": 1795685734211
   },
   "1193": {
    "id": 1193,
@@ -271,7 +271,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682726199
+   "checkedAt": 1795685734058
   },
   "1279": {
    "id": 1279,
@@ -295,7 +295,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682725971
+   "checkedAt": 1795685733880
   },
   "1343": {
    "id": 1343,
@@ -320,7 +320,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682725785
+   "checkedAt": 1795685733725
   },
   "1529": {
    "id": 1529,
@@ -345,7 +345,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682725396
+   "checkedAt": 1795685733403
   },
   "1805": {
    "id": 1805,
@@ -367,7 +367,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682725199
+   "checkedAt": 1795685733238
   },
   "1827": {
    "id": 1827,
@@ -389,7 +389,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682725005
+   "checkedAt": 1795685733080
   },
   "1831": {
    "id": 1831,
@@ -411,7 +411,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682724822
+   "checkedAt": 1795685732922
   },
   "2583": {
    "id": 2583,
@@ -435,7 +435,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682724633
+   "checkedAt": 1795685732763
   },
   "2590": {
    "id": 2590,
@@ -457,7 +457,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682724413,
+   "checkedAt": 1795685732583,
    "deleted": true
   },
   "2684": {
@@ -480,7 +480,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682724269
+   "checkedAt": 1795685732472
   },
   "2687": {
    "id": 2687,
@@ -502,7 +502,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682724080
+   "checkedAt": 1795685732327
   },
   "2694": {
    "id": 2694,
@@ -524,7 +524,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682723889
+   "checkedAt": 1795685732176
   },
   "2923": {
    "id": 2923,
@@ -546,7 +546,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682723701,
+   "checkedAt": 1795685732016,
    "deleted": true
   },
   "2950": {
@@ -567,7 +567,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682723563
+   "checkedAt": 1795685731905
   },
   "2976": {
    "id": 2976,
@@ -589,7 +589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682723374,
+   "checkedAt": 1795685731742,
    "deleted": true
   },
   "3195": {
@@ -608,7 +608,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682723227
+   "checkedAt": 1795685731632
   },
   "3215": {
    "id": 3215,
@@ -632,7 +632,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682141151
+   "checkedAt": 1795685731466
   },
   "3362": {
    "id": 3362,
@@ -654,7 +654,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682140941,
+   "checkedAt": 1795685731291,
    "group": "14146575934181546",
    "caption_id": 3362
   },
@@ -680,7 +680,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682140719,
+   "checkedAt": 1795685731085,
    "deleted": true
   },
   "3569": {
@@ -719,7 +719,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682140558
+   "checkedAt": 1795685730974
   },
   "3620": {
    "id": 3620,
@@ -749,7 +749,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682140356,
+   "checkedAt": 1795685730803,
    "group": "14163229968878458",
    "caption_id": 3620
   },
@@ -773,7 +773,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682140144
+   "checkedAt": 1795685730621
   },
   "3775": {
    "id": 3775,
@@ -795,7 +795,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682139909
+   "checkedAt": 1795685730425
   },
   "3785": {
    "id": 3785,
@@ -820,7 +820,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682139696,
+   "checkedAt": 1795685730238,
    "deleted": true
   },
   "3797": {
@@ -843,7 +843,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682139092
+   "checkedAt": 1795685729801
   },
   "3819": {
    "id": 3819,
@@ -867,7 +867,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682138862,
+   "checkedAt": 1795685729598,
    "deleted": true
   },
   "4063": {
@@ -900,7 +900,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682138702,
+   "checkedAt": 1795685729487,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -933,7 +933,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682138336,
+   "checkedAt": 1795685729197,
    "group": "14184540779096258",
    "caption_id": 4067,
    "deleted": true
@@ -960,7 +960,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682138173
+   "checkedAt": 1795685729085
   },
   "4080": {
    "id": 4080,
@@ -982,7 +982,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682137951,
+   "checkedAt": 1795685728865,
    "deleted": true
   },
   "4245": {
@@ -1007,7 +1007,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682137791
+   "checkedAt": 1795685728755
   },
   "4471": {
    "id": 4471,
@@ -1031,7 +1031,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682137581
+   "checkedAt": 1795685728574
   },
   "4506": {
    "id": 4506,
@@ -1053,7 +1053,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682137371
+   "checkedAt": 1795685728384
   },
   "4529": {
    "id": 4529,
@@ -1075,7 +1075,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682137170
+   "checkedAt": 1795685728213
   },
   "4541": {
    "id": 4541,
@@ -1097,7 +1097,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682136967
+   "checkedAt": 1795685728040
   },
   "4945": {
    "id": 4945,
@@ -1121,7 +1121,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682136761
+   "checkedAt": 1795685727847
   },
   "4962": {
    "id": 4962,
@@ -1143,7 +1143,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682136519
+   "checkedAt": 1795685727664
   },
   "4967": {
    "id": 4967,
@@ -1165,7 +1165,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682136128
+   "checkedAt": 1795685727355
   },
   "4985": {
    "id": 4985,
@@ -1186,7 +1186,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682135645,
+   "checkedAt": 1795685726987,
    "deleted": true
   },
   "4987": {
@@ -1211,7 +1211,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682135482
+   "checkedAt": 1795685726877
   },
   "5037": {
    "id": 5037,
@@ -1233,7 +1233,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682135215
+   "checkedAt": 1795685726676
   },
   "5061": {
    "id": 5061,
@@ -1255,7 +1255,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682134963
+   "checkedAt": 1795685726458
   },
   "5107": {
    "id": 5107,
@@ -1269,7 +1269,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682134705
+   "checkedAt": 1795685726261
   },
   "5127": {
    "id": 5127,
@@ -1291,7 +1291,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682134490
+   "checkedAt": 1795685726091
   },
   "5166": {
    "id": 5166,
@@ -1315,7 +1315,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682134025
+   "checkedAt": 1795685725742
   },
   "5257": {
    "id": 5257,
@@ -1333,7 +1333,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682133780
+   "checkedAt": 1795685725555
   },
   "5286": {
    "id": 5286,
@@ -1355,7 +1355,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682133554
+   "checkedAt": 1795685725395
   },
   "5292": {
    "id": 5292,
@@ -1377,7 +1377,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795682133332
+   "checkedAt": 1795685725226
   },
   "5311": {
    "id": 5311,
@@ -7571,7 +7571,7 @@
    ],
    "group": "14349730564501954",
    "caption_id": 8491,
-   "checkedAt": 1795682136290,
+   "checkedAt": 1795685727467,
    "deleted": true
   },
   "8496": {
@@ -8034,7 +8034,7 @@
    ],
    "group": "14356038458285378",
    "caption_id": 8547,
-   "checkedAt": 1795682134245
+   "checkedAt": 1795685725918
   },
   "8552": {
    "id": 8552,
@@ -8077,7 +8077,7 @@
    ],
    "group": "14356633996034658",
    "caption_id": 8552,
-   "checkedAt": 1795682138538
+   "checkedAt": 1795685729371
   },
   "8557": {
    "id": 8557,
@@ -8106,7 +8106,7 @@
    ],
    "group": "14356635422445642",
    "caption_id": 8557,
-   "checkedAt": 1795682139528
+   "checkedAt": 1795685730125
   },
   "8560": {
    "id": 8560,
@@ -8470,7 +8470,7 @@
    ],
    "group": "14358568728823802",
    "caption_id": 8597,
-   "checkedAt": 1795682139311
+   "checkedAt": 1795685729963
   },
   "8601": {
    "id": 8601,
@@ -8507,7 +8507,7 @@
    ],
    "group": "14358739121011154",
    "caption_id": 8601,
-   "checkedAt": 1795682135868
+   "checkedAt": 1795685727166
   },
   "8605": {
    "id": 8605,
@@ -8676,7 +8676,7 @@
    ],
    "group": "14360302775744722",
    "caption_id": 8623,
-   "checkedAt": 1795682725578
+   "checkedAt": 1795685733557
   },
   "8626": {
    "id": 8626,
@@ -11751,7 +11751,7 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383319737,
+ "digestOffset": 383319751,
  "feed": {
   "items": {
    "70634": {
@@ -24931,6 +24931,103 @@
     ],
     "hashtagBrand": true,
     "textId": 73803
+   },
+   "73805": {
+    "id": 73805,
+    "url": "https://t.me/eurostockmoscow/73805",
+    "date": 1795685126,
+    "text": "Black Friday #MassimoDutti 🤍\n\n▪️8700₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIE5rB_sGmbnhgqURMDxJMbCV3--y7wACUChrG-PjQUiqy9Tj8YR1oAEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBIE1rB_sGBNlGOs2jFgt4HTiNM6af1AACSqwAAuPjQUhlAm9wrtnXuz0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 73805
+   },
+   "73807": {
+    "id": 73807,
+    "url": "https://t.me/eurostockmoscow/73807",
+    "date": 1795685614,
+    "text": "Black Friday #MassimoDutti 🤍\n\n▪️3100₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIFBrB_zuIJuQ0BFrexXXdnfCvi5Z_wACYChrG-PjQUi01cHRpdCIzgEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBIE9rB_zuMzH6kmlUybYbPAHxn_vUVgACZqwAAuPjQUjixTZrHQO8_z0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 73807
+   },
+   "73809": {
+    "id": 73809,
+    "url": "https://t.me/eurostockmoscow/73809",
+    "date": 1795685642,
+    "text": "Black Friday #MassimoDutti 🤍\n\n▪️16300₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIFJrB_0K4COrdEsKb3gAATkC8mWTSJ0AAmEoaxvj40FI_MSb2xQuIqcBAAMCAAN5AAM9BA"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBIFFrB_0K6qm4OsOR57meMh5wDCPrjgACZ6wAAuPjQUg4GnExIsUHvj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 73809
+   },
+   "73811": {
+    "id": 73811,
+    "url": "https://t.me/eurostockmoscow/73811",
+    "date": 1795685672,
+    "text": "Black Friday #MassimoDutti 🤍\n\n▪️5100₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIFRrB_0oOdcCA_AGi30LOTK_aS842wACYihrG-PjQUhb9EWVL_uzgwEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIFVrB_0o7RgTnyhDNYZMPIKtEW2nsAACYyhrG-PjQUjoFNWQyQVQ-gEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBIFNrB_0okcXP5_4jyh18v4XitQABSTkAAmmsAALj40FIJNre0OlkQ-U9BA"
+    ],
+    "hashtagBrand": true,
+    "textId": 73811
+   },
+   "73814": {
+    "id": 73814,
+    "url": "https://t.me/eurostockmoscow/73814",
+    "date": 1795685684,
+    "text": "Black Friday #MassimoDutti 🤍\n\n▪️7900₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIFdrB_00erapxodQ4ufaQgQFbCZY7QACZChrG-PjQUjDbQWSIUlA9gEAAwIAA3kAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBIFZrB_005q0MenxE-_q0PR4bJIrPwAACaqwAAuPjQUgHkppiGKYFhD0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 73814
+   },
+   "73816": {
+    "id": 73816,
+    "url": "https://t.me/eurostockmoscow/73816",
+    "date": 1795685700,
+    "text": "Black Friday #MassimoDutti 🤍\n\n▪️17800₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBIFhrB_1D7Aq7qzGG3K9MJmbGoUhidwACa6wAAuPjQUjtoLWf1j3EWj0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 73816
+   },
+   "73817": {
+    "id": 73817,
+    "url": "https://t.me/eurostockmoscow/73817",
+    "date": 1795685720,
+    "text": "Black Friday #MassimoDutti 🤍\n\n▪️7900₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIFprB_1YyhkNclBFLrmpJRph6lS_XAACZShrG-PjQUhC2Ai3dQUtTAEAAwIAA3cAAz0E"
+    ],
+    "videos": [
+     "BAACAgIAAyEFAASRzT39AAEBIFlrB_1YUy8mIIcoFaQ8JzqOrRCUgQACbKwAAuPjQUjh2YaJXvv7-T0E"
+    ],
+    "hashtagBrand": true,
+    "textId": 73817
    }
   },
   "groups": {
@@ -25645,7 +25742,13 @@
    "14365479814095346": 73794,
    "14365480263471922": 73797,
    "14365480400414682": 73801,
-   "14365480506726114": 73803
+   "14365480506726114": 73803,
+   "14365481010928786": 73805,
+   "14365484918681442": 73807,
+   "14365485137603330": 73809,
+   "14365485378080450": 73811,
+   "14365485473482626": 73814,
+   "14365485762967154": 73817
   }
  }
 }
