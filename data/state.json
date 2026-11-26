@@ -502,7 +502,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689336419
+   "checkedAt": 1795692349375
   },
   "2694": {
    "id": 2694,
@@ -524,7 +524,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689336186
+   "checkedAt": 1795692349141
   },
   "2923": {
    "id": 2923,
@@ -546,7 +546,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689335948,
+   "checkedAt": 1795692348897,
    "deleted": true
   },
   "2950": {
@@ -567,7 +567,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689335771
+   "checkedAt": 1795692348714
   },
   "2976": {
    "id": 2976,
@@ -589,7 +589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689335539,
+   "checkedAt": 1795692348478,
    "deleted": true
   },
   "3195": {
@@ -608,7 +608,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689335360
+   "checkedAt": 1795692348278
   },
   "3215": {
    "id": 3215,
@@ -632,7 +632,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689335134
+   "checkedAt": 1795692348036
   },
   "3362": {
    "id": 3362,
@@ -654,7 +654,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689334891,
+   "checkedAt": 1795692347810,
    "group": "14146575934181546",
    "caption_id": 3362
   },
@@ -680,7 +680,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689334638,
+   "checkedAt": 1795692347576,
    "deleted": true
   },
   "3569": {
@@ -719,7 +719,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689334460
+   "checkedAt": 1795692347389
   },
   "3620": {
    "id": 3620,
@@ -749,7 +749,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689334221,
+   "checkedAt": 1795692347157,
    "group": "14163229968878458",
    "caption_id": 3620
   },
@@ -773,7 +773,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689333977
+   "checkedAt": 1795692346880
   },
   "3775": {
    "id": 3775,
@@ -795,7 +795,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689333715
+   "checkedAt": 1795692346635
   },
   "3785": {
    "id": 3785,
@@ -820,7 +820,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689333469,
+   "checkedAt": 1795692346407,
    "deleted": true
   },
   "3797": {
@@ -843,7 +843,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689332804
+   "checkedAt": 1795692345744
   },
   "3819": {
    "id": 3819,
@@ -867,7 +867,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689332537,
+   "checkedAt": 1795692345494,
    "deleted": true
   },
   "4063": {
@@ -900,7 +900,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689332359,
+   "checkedAt": 1795692345311,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -933,7 +933,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689331927,
+   "checkedAt": 1795692344891,
    "group": "14184540779096258",
    "caption_id": 4067,
    "deleted": true
@@ -960,7 +960,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795689331750
+   "checkedAt": 1795692344706
   },
   "4080": {
    "id": 4080,
@@ -982,7 +982,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688745345,
+   "checkedAt": 1795692344425,
    "deleted": true
   },
   "4245": {
@@ -1007,7 +1007,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688745165
+   "checkedAt": 1795692344243
   },
   "4471": {
    "id": 4471,
@@ -1031,7 +1031,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688744938
+   "checkedAt": 1795692343989
   },
   "4506": {
    "id": 4506,
@@ -1053,7 +1053,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688744702
+   "checkedAt": 1795692343716
   },
   "4529": {
    "id": 4529,
@@ -1075,7 +1075,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688744471
+   "checkedAt": 1795692343469
   },
   "4541": {
    "id": 4541,
@@ -1097,7 +1097,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688744245
+   "checkedAt": 1795692343221
   },
   "4945": {
    "id": 4945,
@@ -1121,7 +1121,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688744020
+   "checkedAt": 1795692342972
   },
   "4962": {
    "id": 4962,
@@ -1143,7 +1143,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688743764
+   "checkedAt": 1795692342699
   },
   "4967": {
    "id": 4967,
@@ -1165,7 +1165,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688743344
+   "checkedAt": 1795692342276
   },
   "4985": {
    "id": 4985,
@@ -1186,7 +1186,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688742835,
+   "checkedAt": 1795692341762,
    "deleted": true
   },
   "4987": {
@@ -1211,7 +1211,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688742654
+   "checkedAt": 1795692341579
   },
   "5037": {
    "id": 5037,
@@ -1233,7 +1233,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688742399
+   "checkedAt": 1795692341293
   },
   "5061": {
    "id": 5061,
@@ -1255,7 +1255,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688742164
+   "checkedAt": 1795692341031
   },
   "5107": {
    "id": 5107,
@@ -1269,7 +1269,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688741922
+   "checkedAt": 1795692340747
   },
   "5127": {
    "id": 5127,
@@ -1291,7 +1291,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688741699
+   "checkedAt": 1795692340508
   },
   "5166": {
    "id": 5166,
@@ -1315,7 +1315,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688741235
+   "checkedAt": 1795692340010
   },
   "5257": {
    "id": 5257,
@@ -1333,7 +1333,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688740987
+   "checkedAt": 1795692339736
   },
   "5286": {
    "id": 5286,
@@ -1355,7 +1355,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688740749
+   "checkedAt": 1795692339472
   },
   "5292": {
    "id": 5292,
@@ -1377,7 +1377,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688740524
+   "checkedAt": 1795692339225
   },
   "5311": {
    "id": 5311,
@@ -1399,7 +1399,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688740017
+   "checkedAt": 1795692338698
   },
   "5326": {
    "id": 5326,
@@ -1421,7 +1421,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688739774
+   "checkedAt": 1795692338449
   },
   "5334": {
    "id": 5334,
@@ -1443,7 +1443,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688739506
+   "checkedAt": 1795692338178
   },
   "5386": {
    "id": 5386,
@@ -1467,7 +1467,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688739241
+   "checkedAt": 1795692337941
   },
   "5394": {
    "id": 5394,
@@ -1489,7 +1489,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688738969
+   "checkedAt": 1795692337660
   },
   "5403": {
    "id": 5403,
@@ -1513,7 +1513,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688738724
+   "checkedAt": 1795692337416
   },
   "5415": {
    "id": 5415,
@@ -1535,7 +1535,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688738461
+   "checkedAt": 1795692337151
   },
   "5440": {
    "id": 5440,
@@ -1557,7 +1557,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688738217
+   "checkedAt": 1795692336886
   },
   "5445": {
    "id": 5445,
@@ -1579,7 +1579,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688737956
+   "checkedAt": 1795692336608
   },
   "5453": {
    "id": 5453,
@@ -1601,7 +1601,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688737687
+   "checkedAt": 1795692336327
   },
   "5458": {
    "id": 5458,
@@ -1623,7 +1623,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688737430
+   "checkedAt": 1795692336064
   },
   "5463": {
    "id": 5463,
@@ -1645,7 +1645,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688737169
+   "checkedAt": 1795692335791
   },
   "5480": {
    "id": 5480,
@@ -1667,7 +1667,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688736904
+   "checkedAt": 1795692335537
   },
   "5486": {
    "id": 5486,
@@ -1689,7 +1689,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688736643
+   "checkedAt": 1795692335273
   },
   "5493": {
    "id": 5493,
@@ -1711,7 +1711,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795688736371
+   "checkedAt": 1795692334996
   },
   "5498": {
    "id": 5498,
@@ -7571,7 +7571,7 @@
    ],
    "group": "14349730564501954",
    "caption_id": 8491,
-   "checkedAt": 1795688743525,
+   "checkedAt": 1795692342457,
    "deleted": true
   },
   "8496": {
@@ -7674,7 +7674,7 @@
    ],
    "group": "14350206899939554",
    "caption_id": 8504,
-   "checkedAt": 1795688740266
+   "checkedAt": 1795692338964
   },
   "8509": {
    "id": 8509,
@@ -8034,7 +8034,7 @@
    ],
    "group": "14356038458285378",
    "caption_id": 8547,
-   "checkedAt": 1795688741457
+   "checkedAt": 1795692340256
   },
   "8552": {
    "id": 8552,
@@ -8077,7 +8077,7 @@
    ],
    "group": "14356633996034658",
    "caption_id": 8552,
-   "checkedAt": 1795689332183
+   "checkedAt": 1795692345128
   },
   "8557": {
    "id": 8557,
@@ -8106,7 +8106,7 @@
    ],
    "group": "14356635422445642",
    "caption_id": 8557,
-   "checkedAt": 1795689333280
+   "checkedAt": 1795692346222
   },
   "8560": {
    "id": 8560,
@@ -8470,7 +8470,7 @@
    ],
    "group": "14358568728823802",
    "caption_id": 8597,
-   "checkedAt": 1795689333048
+   "checkedAt": 1795692345987
   },
   "8601": {
    "id": 8601,
@@ -8507,7 +8507,7 @@
    ],
    "group": "14358739121011154",
    "caption_id": 8601,
-   "checkedAt": 1795688743084
+   "checkedAt": 1795692342009
   },
   "8605": {
    "id": 8605,
@@ -11751,320 +11751,9 @@
   "3195": "skip"
  },
  "digestCommandsSet": true,
- "digestOffset": 383319817,
+ "digestOffset": 383319882,
  "feed": {
   "items": {
-   "70789": {
-    "id": 70789,
-    "url": "https://t.me/eurostockmoscow/70789",
-    "date": 1794482045,
-    "text": "👜 #JWPEI — до −45%! 👜\n \nЭто же наш самый любимый бренд сумочек, и сейчас скидки просто вау 😍\nНе успели мы ещё собрать подборки, как в личку уже посыпались запросы на выкуп — вы ждали этого, мы знаем! \n💌 Поэтому специально для вас делаем подборку с ценами на самые популярные модели ✨\n Смотреть на сайте: \nhttps://www.jwpei.es",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFIVq9Z99YVmiaV5kWPvcSxY8Nb1QxwACNiJrG2UxsUvYKD9tV6F8BgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIZq9Z99TXsO7HypbOYN_Va-ahztpgACNyJrG2UxsUtdEMAFPyFoTwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIdq9Z99WFRh_Fqre2q6EKHchTLlHwACICJrG2UxsUvo7EHuQKt9ywEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIhq9Z99xU50Vul0lXgTdAmSLqeNCgACISJrG2UxsUui4QhtExGaOQEAAwIAA3gAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIpq9Z99LR1-Cpda7_bGQ6ytuG4GvgACByJrG2UxsUtQxorv8yFVIAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFItq9Z99LRbPtwLg4G3YOu1zbUva1gAC7CFrG2UxsUui_fUoMiey6QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIxq9Z99O739EIQHQ6PMW7N7_-334AAC6CFrG2UxsUv6RmCNsHSbWAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 70789
-   },
-   "70797": {
-    "id": 70797,
-    "url": "https://t.me/eurostockmoscow/70797",
-    "date": 1794482098,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Rowan 23300₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFI1q9Z-6KDYDiGn_7AH59KVAfYkizQACMbIAAmUxsUumFNNLXSu9cj0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70797
-   },
-   "70798": {
-    "id": 70798,
-    "url": "https://t.me/eurostockmoscow/70798",
-    "date": 1794482098,
-    "text": "Доступные расцветки 😍",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFI5q9Z-6UgTI20j2ZMCRqpeuA_Td5gACjCFrG2UxsUvd4RPMwnzpYgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFI9q9Z-6tOUUzjOgaHUAAcVluptHsP4AAo0haxtlMbFL1z8-cr0pSTMBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFJBq9Z-6T8lkQzZYK9jYHX54XTiJjAACjiFrG2UxsUsWVnU5T1D-VgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJFq9Z-6RZKoNB3OH228co63vcc0nwACjyFrG2UxsUsVHDcWV6wTtgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJJq9Z-6Gtnxc1ZBl9BzvvmRRGIaTAACkCFrG2UxsUvsK0LmZF7TqgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJNq9Z-6EmDKfSd_Qyql4ktnKbcDHgACkSFrG2UxsUvH01G9w3byVgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJRq9Z-6QLJaW143-2G6PSGtpL8DHwACkiFrG2UxsUsOsCifPGBZUgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJVq9Z-6UIRLnF3MdTGUyQI3dB8KkwACkyFrG2UxsUtmy8g7qHgAAf4BAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFJZq9Z-63AVczP3wjXGAhWHaUstE8gAClCFrG2UxsUvD8lsZ1z6XzwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": false,
-    "textId": 70798
-   },
-   "70807": {
-    "id": 70807,
-    "url": "https://t.me/eurostockmoscow/70807",
-    "date": 1794482098,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Rowan 19900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFJdq9Z-6UkUfvC9QWNPT1R_2tuIkKAACNbIAAmUxsUvf6UP794l-kT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70807
-   },
-   "70808": {
-    "id": 70808,
-    "url": "https://t.me/eurostockmoscow/70808",
-    "date": 1794482098,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Hanna 33100₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFJhq9Z-64GRWmLfVBbYmpnfxgrYNNgACsyFrG2UxsUu0MWRxdW2shAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJlq9Z-6eaLWhOmMZdq_SXhfTJv3lwACtCFrG2UxsUueVxxil8aeaAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJtq9Z-62y7w-bARodAispTMFjCKNgACtSFrG2UxsUteb8p5FZnClAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJxq9Z-6yhfawhFCVGCpJvrf0dkdqAACtiFrG2UxsUsmdrKiptffeAEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJ1q9Z-60SGlo5sr7IZE8qkxFlvG9QACtyFrG2UxsUvmqNSsEj-ikwEAAwIAA3cAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFJ5q9Z-6QSG0EG7x9fvLg87ls4rQ4wACuCFrG2UxsUsH-X-2tNyW4gEAAwIAA3cAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFJpq9Z-6pjosZfqbRRAZqslWKQfAeQACPLIAAmUxsUsOAjlgBeEZCj0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70808
-   },
-   "70815": {
-    "id": 70815,
-    "url": "https://t.me/eurostockmoscow/70815",
-    "date": 1794482099,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Hanna размер mini 15700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFKBq9Z-6IaxYaU1Rv5del7aIpp6EJAACuSFrG2UxsUsqrKZAUnaQuAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKFq9Z-6bvSGAoNcOOgb1zvVIs5a4wACuiFrG2UxsUswpaL8xfFSPQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKJq9Z-6y1hCqBIlTn2DMiz6PUHiKwACuyFrG2UxsUsXCiWLDKKiMgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKNq9Z-6zWllmlbsRZvfZPF9HxXJ3QACvCFrG2UxsUtL_NRqrkNWPAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKRq9Z-6RYOJKmCZYcvxYBE7E8n3CQACvSFrG2UxsUveHhAZfLniMAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKVq9Z-6YuxSOm1x9HU3H9vEGZEKMQACviFrG2UxsUux15TS37EHIQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKZq9Z-6W7hMFiZUneDd5LyMnxupVAACvyFrG2UxsUvdtIhH_180VQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKdq9Z-696CuoQd-owLx88OjHLATqAACwCFrG2UxsUs8_1xBTAciugEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKhq9Z-66XHgfKolCYzPVzihEtmkfwACwSFrG2UxsUs_nDw81DOb0AEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFJ9q9Z-6T7Z5zvuEtdLwnYW4e-floQACQ7IAAmUxsUsKJRGFXCIg7j0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70815
-   },
-   "70825": {
-    "id": 70825,
-    "url": "https://t.me/eurostockmoscow/70825",
-    "date": 1794482099,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Lucia 18600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFKpq9Z-6vzmVuhOzscrEQ3qslZMlyQACxCFrG2UxsUt-ybQyE21xcAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKtq9Z-6X4lID4aRvSl7VVtEIY68QwACxSFrG2UxsUu6IGgHY_5gFQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFKxq9Z-6HkC0B_Y-JXd4ApUR8QTIBQACxiFrG2UxsUsFDe57edrukAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFK1q9Z-6EH6rIr6vbxBfAAHlRi5X0Q0AAschaxtlMbFLGvvSg_Awv1UBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFK5q9Z-6hTiRs4_SrnSm1gwI6rFFSQACyCFrG2UxsUu8KVIcPviPgQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFK9q9Z-6KnHX-mNnvjevyJ2yoS_gHgACySFrG2UxsUvIP1k0dMOoeQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLBq9Z-6BR31VEMuu0V_Mht4CsomxQACyiFrG2UxsUvCRM4EKX-8NAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLFq9Z-6LCqQb3McNgku0n_Mp1BbtQACyyFrG2UxsUuVx1VNJZjTZQEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFKlq9Z-6cRplRj0HdUdLiJ8_RtJ2AgACYLIAAmUxsUv3oN13yPP9LT0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70825
-   },
-   "70834": {
-    "id": 70834,
-    "url": "https://t.me/eurostockmoscow/70834",
-    "date": 1794482100,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Lucia 19900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFLJq9Z-69_p-s4oSwmTS-tvTbMGAMAACzCFrG2UxsUsswjrQ_iZuGQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLNq9Z-6t0PYCZj9I8ukL6Hlqq7ZfAACzSFrG2UxsUuCvuyOxW4pYgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLRq9Z-6eBYejyhG-ZMTfAYJ9qH1mgACziFrG2UxsUtLsBBu8peFLAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLVq9Z-6nVd3yyt9TBwXUN6IgjrA1wACzyFrG2UxsUtBbC_2w3NNDgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLZq9Z-6LlP3BhhgrdaRAxDI63IVXQAC0CFrG2UxsUvQv06yJ9dlAwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLdq9Z-6Q5IJYECUKOpe4GxDkFqyCgAC0SFrG2UxsUsOD1i0LYwb9QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLhq9Z-63FBudNt5ILPY1kOU2kmFuAAC0iFrG2UxsUujKAKfm_CSsgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLlq9Z-6Nw4S0m7Io2JI_pet9Ee1XAAC0yFrG2UxsUs5eWOgAvqBnAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLpq9Z-6Cw9p6grfdVuM5G2VO5u_LgAC1CFrG2UxsUu9Cv2NCRcqYAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 70834
-   },
-   "70843": {
-    "id": 70843,
-    "url": "https://t.me/eurostockmoscow/70843",
-    "date": 1794482100,
-    "text": "у модели Lucia очень-очень много расцветок и фактур 😍",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFLtq9Z-6xwJwwcsiJWk0VPSu8KlgowAC1SFrG2UxsUvSzfAkKAJk7AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFLxq9Z-65U5ejlYAAYlqy6owh9JVQDgAAtYhaxtlMbFL0u8CTTLYOFgBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFL1q9Z-6xwoKdKEgLxaQtJ9rKXpuOwAC1yFrG2UxsUutI_aioN0WewEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFL5q9Z-6HbK0DgZn5qr-6g3Hx4cVywAC2CFrG2UxsUtjUaKIclcnsQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFL9q9Z-6KECE1vgRrW3qy8vBQQABCOoAAtkhaxtlMbFLvtIx1qSwGKwBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFMBq9Z-6vczlIlz4U1lVOCU9LuiH_wAC2iFrG2UxsUvJ2qo3dq9OKgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMFq9Z-6zN-xigTFb2pxSb01Z9qZVgAC2yFrG2UxsUtBWsZbg5B5dgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMJq9Z-6Lm1uvvk85kkxbaop3jO6_gAC3CFrG2UxsUuWww1yheq6kQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMNq9Z-6qieO-IPfFunM3D6BnfLiogAC3SFrG2UxsUvVS8DrODsPzwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": false,
-    "textId": 70843
-   },
-   "70852": {
-    "id": 70852,
-    "url": "https://t.me/eurostockmoscow/70852",
-    "date": 1794482101,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Cleo 16700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFMVq9Z-6uygChpZqTpX8at5UJkDp8QAC4yFrG2UxsUvfECSJFPl8uQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMZq9Z-6iTqXO-bnBzoEd84mgEfSkgAC5CFrG2UxsUtq0k3sLAshNAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMdq9Z-6XNZJXDltglIfHx6Cs0hfHgAC5SFrG2UxsUvVg7WifiqC8wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMhq9Z-6frcy8dwuA11s1wFBLcaNAgAC5iFrG2UxsUv4QI5JLCE65wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMlq9Z-6pFNNHDaYD9ASbGVA463BDAAC5yFrG2UxsUuyHV7-dGj_KAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIxq9Z99O739EIQHQ6PMW7N7_-334AAC6CFrG2UxsUv6RmCNsHSbWAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFMtq9Z-6KOHV7hZO5BfGBnZvZDdO1AAC6SFrG2UxsUvuJVG6uJ1vmQEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFMRq9Z-6uHpvyfPvryVFYlXFFwzo9wACarIAAmUxsUv000p17YIiyD0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70852
-   },
-   "70860": {
-    "id": 70860,
-    "url": "https://t.me/eurostockmoscow/70860",
-    "date": 1794482101,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Carmen 17700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFItq9Z99LRbPtwLg4G3YOu1zbUva1gAC7CFrG2UxsUui_fUoMiey6QEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFM9q9Z-6X4Yhc4fGBZDQ7CX0PjfB6QAC7SFrG2UxsUvSyem584fESAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFNBq9Z-6AAHvEc8p0lxArzAr9MWnHIgAAu4haxtlMbFLZnJXypKuDXEBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFNFq9Z-649CcdmUXR6Clh0Kp1lnPwwAC7yFrG2UxsUvoPjCAk4TfRwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFNJq9Z-6XQRfVlOOt5YiT1mtfaZ0ngAC8SFrG2UxsUtxWI4AAVWkxmUBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFNNq9Z-62y2QCi5ItMJOBQPgISJKkwAC8iFrG2UxsUsjzxnVwEJBSgEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFMxq9Z-6bNngFjXRH2KxpPlmyH5cuwACbbIAAmUxsUvB93vL5JeHAAE9BA",
-     "BAACAgIAAyEFAASRzT39AAEBFM1q9Z-67tpXc7QBtQY7Weq2NDbVKAACbrIAAmUxsUuQqWzPkddtrj0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70860
-   },
-   "70868": {
-    "id": 70868,
-    "url": "https://t.me/eurostockmoscow/70868",
-    "date": 1794482104,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Thea 14900₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFNVq9Z-6FgnD4j7ltgABVTT0C4OgG6QAAgIiaxtlMbFL2CDXnr4GKe8BAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFNZq9Z-6PVBPC6jGu0zTLnmVv9HeFwACAyJrG2UxsUuW8Y91Dey2eQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFNdq9Z-6rCxPNq6x-cNt05l24WQ3lQACBCJrG2UxsUsTSqHzJUc5_gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFNhq9Z-6M-p1IKRAXRdVHkBATidI3gACBSJrG2UxsUstz78nuquXgQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFNlq9Z-6n-GuISSZm9rzkYPcQpPNOQACBiJrG2UxsUv_Ixkb0tsp8wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIpq9Z99LR1-Cpda7_bGQ6ytuG4GvgACByJrG2UxsUtQxorv8yFVIAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFNtq9Z-6R3ZTjOKvWiESy-xZ3OLoqAACCCJrG2UxsUtZrgjXMJ7N2gEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFNxq9Z-6OVG0ogx6mbsFUWdpdVehTgACCSJrG2UxsUst65Znic3E4wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFN1q9Z-6XSubOGYIOtbOvtf0LvINbgACCiJrG2UxsUtozGLAevnAswEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFNRq9Z-6xd-SpWfpgnQL1Up4e1kJmAACfrIAAmUxsUvNxhj3roZoAAE9BA"
-    ],
-    "hashtagBrand": true,
-    "textId": 70868
-   },
-   "70878": {
-    "id": 70878,
-    "url": "https://t.me/eurostockmoscow/70878",
-    "date": 1794482105,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Lorena 22300₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFN5q9Z-67mIWJO0OV5d1yBI9dNSImgACCyJrG2UxsUsoT4IlDYO_igEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFN9q9Z-6x-3C-J0DhLxk2E_zI8nxUQACDCJrG2UxsUtGzt9OvOA20AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFOBq9Z-60oDRX8AeBe8e6PKGg4l1aAACDSJrG2UxsUvqUxxC7HLFqQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFOFq9Z-6BZlXTuqTUXjFAiQUptbTgQACDiJrG2UxsUtiH1-UFPCAuAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFOJq9Z-6TFIi7M80-Cdgg3lI_1zlqgACDyJrG2UxsUt0_ZDJpy91MAEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 70878
-   },
-   "70883": {
-    "id": 70883,
-    "url": "https://t.me/eurostockmoscow/70883",
-    "date": 1794482105,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Noor 15700₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFONq9Z-6wCa23QgrNobJgA1sB_ex0AACHiJrG2UxsUu3Cp-hKsfq_AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFORq9Z-6m09JqJzU8DJKf-wUpxndbAACHyJrG2UxsUt82-xaQv0ZKQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIdq9Z99WFRh_Fqre2q6EKHchTLlHwACICJrG2UxsUvo7EHuQKt9ywEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIhq9Z99xU50Vul0lXgTdAmSLqeNCgACISJrG2UxsUui4QhtExGaOQEAAwIAA3gAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFOdq9Z-6mwrXb38hT6Sq8W99KU1eaQACIiJrG2UxsUurqlzUS1CbwwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFOhq9Z-6OOcipDC12_JgLJKcvjxzfAACIyJrG2UxsUvl8Mxy04yhbgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFOlq9Z-6Vnj1x0up-hgNjdi50RRpcgACJCJrG2UxsUtBAmV8SEGhAAEBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFOpq9Z-6OeLgBJmfY_TSPY2qJ8kntQACJSJrG2UxsUsBOOA1TUdefAEAAwIAA3gAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFOtq9Z-6Mo5kEOTXmuFfBX-08nWZVQACJiJrG2UxsUugW4qYdPBtugEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 70883
-   },
-   "70893": {
-    "id": 70893,
-    "url": "https://t.me/eurostockmoscow/70893",
-    "date": 1794482107,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Bria 13600₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFO1q9Z-7SGzTNATdSB9wVvxQkFjKigACNSJrG2UxsUvMVJ68ngABSNoBAAMCAAN5AAM9BA",
-     "AgACAgIAAyEFAASRzT39AAEBFIVq9Z99YVmiaV5kWPvcSxY8Nb1QxwACNiJrG2UxsUvYKD9tV6F8BgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFIZq9Z99TXsO7HypbOYN_Va-ahztpgACNyJrG2UxsUtdEMAFPyFoTwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPFq9Z-7sNlYMNv3I8N0CJkrtcH4PQACOiJrG2UxsUuNM8UyYBVXXwEAAwIAA3kAAz0E"
-    ],
-    "videos": [
-     "BAACAgIAAyEFAASRzT39AAEBFPBq9Z-7mUaQ2bLPU_DFXLzx-5WP-gACirIAAmUxsUtljbc5WGiMxD0E"
-    ],
-    "hashtagBrand": true,
-    "textId": 70893
-   },
-   "70898": {
-    "id": 70898,
-    "url": "https://t.me/eurostockmoscow/70898",
-    "date": 1794482107,
-    "text": "ещё расцветки 😍",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFPJq9Z-7DPfq0FAbjPe9q9_JEIymFQACOyJrG2UxsUsfv3xkImcBnAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPNq9Z-7KgoXtmjbHvzGbml4QyQUkQACPCJrG2UxsUsmn1Zdxi9OuAEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPRq9Z-7CQ3CgR9nduep8zP5fLpewQACPSJrG2UxsUv6l-Q2sufa0AEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPVq9Z-79Pzdmp5cjH0xSJFhqQU98QACPiJrG2UxsUugB0Ek_LdHsgEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPZq9Z-7g0s7Fz7iFogzuYdTbshQlQACPyJrG2UxsUvH93_b7DC0cwEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": false,
-    "textId": 70898
-   },
-   "70903": {
-    "id": 70903,
-    "url": "https://t.me/eurostockmoscow/70903",
-    "date": 1794482652,
-    "text": "#JWPEI ДО -45% 🌟\n \n▪️Модель Elise 16100₽\n\nЗаказать: \n🔔 @tatianamoseuro и @tunesheva",
-    "photos": [
-     "AgACAgIAAyEFAASRzT39AAEBFPdq9aHcxHOrLNF-uMc_FQVhanE1CwACLyJrG2UxsUsUTVIjnZFkxwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPhq9aHcwvpr8Igs_6DFncdEQf4ViAACMCJrG2UxsUu0GWtZwPP9gwEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPlq9aHc_HbYeDMUYVU1bCplG_5jeAACMSJrG2UxsUucSYe7Nllt4wEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPpq9aHcyEgzb7yApkLiIzJMXFhGeQACMiJrG2UxsUsybOb7GR1mqQEAAwIAA3kAAz0E",
-     "AgACAgIAAyEFAASRzT39AAEBFPtq9aHcnIpogcRByB3nlUjKWVdVSAACMyJrG2UxsUvHiWtriWV71gEAAwIAA3kAAz0E"
-    ],
-    "videos": [],
-    "hashtagBrand": true,
-    "textId": 70903
-   },
    "70908": {
     "id": 70908,
     "url": "https://t.me/eurostockmoscow/70908",
@@ -24941,24 +24630,217 @@
     ],
     "hashtagBrand": true,
     "textId": 73881
+   },
+   "73885": {
+    "id": 73885,
+    "url": "https://t.me/eurostockmoscow/73885",
+    "date": 1795692319,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️5800₽ вместо 9600₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIJ1rCBcfDidLtqwl1U1oex7nWSdC7gAC2xtrG_iZQUiEDcCB2EUoDAEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIJ5rCBcfQWRyecKyHVYNaITmS7XpDAAC3BtrG_iZQUgJGBuYpvXzLAEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIJ9rCBcfvjGDFfWbb4gJqmpTLa0wxwAC3RtrG_iZQUhFRnkNZpYgMwEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKBrCBcfwtlmYxpwNzGegcGDDtgczQAC3htrG_iZQUhwIs2yjvsh3wEAAwIAA3cAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73885
+   },
+   "73889": {
+    "id": 73889,
+    "url": "https://t.me/eurostockmoscow/73889",
+    "date": 1795692319,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️6800₽ вместо 11200₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIKFrCBcf7mABi-JyjgblaRjE77OFvQAC3xtrG_iZQUgey_kL9HB5RAEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKJrCBcfnkU-9Oe3HfFm-u5R80Z3PwAC4BtrG_iZQUhZ5YG7Wujc8gEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKNrCBcf0sxPr13YZSiVEQJe3N0qqQAC4RtrG_iZQUgXGPk_o_TWGgEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKRrCBcf-5b8QHwatKdJDsd8OoRq-gAC4htrG_iZQUgfX81ZyJDSqwEAAwIAA3cAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73889
+   },
+   "73893": {
+    "id": 73893,
+    "url": "https://t.me/eurostockmoscow/73893",
+    "date": 1795692319,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️11600₽ вместо 14400₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIKVrCBcf33RE_6hQNLL0U--3i0OayQAC_BtrG_iZQUhqgYdDawABhTUBAAMCAAN3AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBIKZrCBcfVMpqM6h4waq4dqTNmQ7UuAAC_RtrG_iZQUjQ6P6cX9H69QEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKdrCBcfpX81S-lzgwsIW81tpyLKngAC_htrG_iZQUj-KV6zrKT5iQEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKhrCBcfaz9010KLmD9q4fP7kFJPxAAC_xtrG_iZQUiTHvZd9PLBaQEAAwIAA3cAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73893
+   },
+   "73897": {
+    "id": 73897,
+    "url": "https://t.me/eurostockmoscow/73897",
+    "date": 1795692320,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️22150₽ вместо 26000₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIKlrCBcfaXx-LnhXch6ZWnFjWyHBwwADHGsb-JlBSFyj9LAzpSobAQADAgADdwADPQQ",
+     "AgACAgIAAyEFAASRzT39AAEBIKprCBcf5oHARvyHFWImFyHKDC1XMAACARxrG_iZQUgp7uwLgl9f6gEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKtrCBcfdt5jD8jm3D-9OThCH20_EQACAhxrG_iZQUizj_ejOsJ4EQEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIKxrCBcflxgnTzsCc0-HPS6WUqJYmwACAxxrG_iZQUgMugPJzSA7IwEAAwIAA3cAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73897
+   },
+   "73901": {
+    "id": 73901,
+    "url": "https://t.me/eurostockmoscow/73901",
+    "date": 1795692320,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️17500₽ вместо 28500₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIK1rCBcfRVW79jsMKe38ZYrl4Wm5ZwACBBxrG_iZQUgsQNfBtNLBFAEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIK5rCBcfeXbGq6qnaptOfKoFcQZ7iwACBRxrG_iZQUgUZBcFDRikXgEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIK9rCBcfvdzPy3-rA1bMeJuEeWhdmwACBhxrG_iZQUh3SRri5jMO8wEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILBrCBcfnAQBG-VxvQ8q5_xNg8eCEQACBxxrG_iZQUguDE4xGeY4iQEAAwIAA3cAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73901
+   },
+   "73905": {
+    "id": 73905,
+    "url": "https://t.me/eurostockmoscow/73905",
+    "date": 1795692320,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️16300₽ вместо 25000₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBILFrCBcfi7Ee7dXL4tdT0yMBKsHjdgACCRxrG_iZQUi5bx_5p4c6XAEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILJrCBcf8gnYi5QKaAoUUHL2Z1njxgACChxrG_iZQUgNnMN02oCdXwEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILNrCBcfbhs41o4a2ErgkpvjBb2TGAACCxxrG_iZQUhfD6JcU6cPcgEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILRrCBcfL9-_zjgHAz-f335wKYx6ggACDBxrG_iZQUjiAAFSXKHIz5gBAAMCAAN3AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73905
+   },
+   "73909": {
+    "id": 73909,
+    "url": "https://t.me/eurostockmoscow/73909",
+    "date": 1795692320,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️16700₽ вместо 19500₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBILVrCBcfwNiJ9qaK6buvU97BsUZTYwACDRxrG_iZQUhZBX3t6bQK2wEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILZrCBcfbBolT9nj0yDhAAE-ep_uvywAAg4caxv4mUFITxo3LdYBUcEBAAMCAAN3AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBILdrCBcfytM8FRH6935AfqTsFTW-9gACDxxrG_iZQUgqMTy6fsKargEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILhrCBcf9MZfCHcMLrtKG2Ujgpl6fQACEBxrG_iZQUjfovalXW2D4wEAAwIAA3cAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73909
+   },
+   "73913": {
+    "id": 73913,
+    "url": "https://t.me/eurostockmoscow/73913",
+    "date": 1795692321,
+    "text": "SALE #MassimoDutti 🤍🌟\n\n▪️7700₽ вместо 12800₽\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBILlrCBcf4umN3WsSrkh5N7gDCulGewACERxrG_iZQUg6gMz5o5WPdQEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILprCBcfdGublNiE3QahI9V73SNoAAMSHGsb-JlBSD-gWznSItkmAQADAgADdwADPQQ",
+     "AgACAgIAAyEFAASRzT39AAEBILtrCBcfw9iWt_ofGwY7p5uUcPnD4AACExxrG_iZQUhrd9IapuoTvAEAAwIAA3cAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBILxrCBcfoV_vfyxPFjhovwxoM6nqpwACFBxrG_iZQUjQ7aV9916qAQEAAwIAA3cAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73913
+   },
+   "73917": {
+    "id": 73917,
+    "url": "https://t.me/eurostockmoscow/73917",
+    "date": 1795692321,
+    "text": "-20% -40% в #MassimoDutti 😍\nджинсы,брюки\nСмотреть на сайте:\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIL1rCBcf8ZZMrCvJ4al_nvuuYvPcJgACFRxrG_iZQUjGhlO8a4aLIQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIL5rCBcfDQhqIy7AtSnJfqtJmbv6lgACFhxrG_iZQUhLWCbVVBChHgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIL9rCBcfrtl_lQ2ADk5lWDJqtXvxXQACFxxrG_iZQUgzpEZOmFYUjwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMBrCBcf5OWboAjVd6XRfuF1JrxkmAACGBxrG_iZQUjwRwppxRF4VQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMFrCBcfhmQ563id9Wqpb12fBNm-3wACGRxrG_iZQUifjBT45H0uOAEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMJrCBcfD-KyHJsrCd9mUgiAcChHkgACGhxrG_iZQUgFZ6Az0dDXsgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMNrCBcfm1vlpPwgfqDlGiJRztMbewACGxxrG_iZQUiK3YmTZ2qj_gEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMRrCBcfS1uTx6kWZTo44dQOW41tfwACHBxrG_iZQUgwbZHrbzHe1QEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMVrCBcfkT9cSCRgdJkYTsUuOnp2kAACHRxrG_iZQUjmTpOcC6SR_AEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMZrCBcfBSs1lTpW-xrBbpktYwLtLwACHhxrG_iZQUiCWGyNy_wAAU8BAAMCAAN5AAM9BA"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73917
+   },
+   "73927": {
+    "id": 73927,
+    "url": "https://t.me/eurostockmoscow/73927",
+    "date": 1795692322,
+    "text": "-20% -40% в #MassimoDutti 😍\nрубашки\nСмотреть на сайте\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIMdrCBcf8UEFNLh_YeXyurL6SuDg4gACHxxrG_iZQUgmca6Te2GtnQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMhrCBcfHzCO9gYmSYAtIscctwJESwACIBxrG_iZQUi0f7lBttNrWAEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMlrCBcfFFnBMUFsTihkUbaZshx9_gACIRxrG_iZQUgGzGRAcZhqqwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMprCBcf1-7wX0TJ6pt6uLqqeAABRoUAAiIcaxv4mUFImAc0pfrL9fsBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBIMtrCBcf55I5xTRFuZ4jdCYnx60W8AACIxxrG_iZQUh5-8NmR8NnTgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIMxrCBcfcNtNpmBlB87f0VdDcPuvvAACJBxrG_iZQUgx5bEtwVsbpgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73927
+   },
+   "73933": {
+    "id": 73933,
+    "url": "https://t.me/eurostockmoscow/73933",
+    "date": 1795692322,
+    "text": "-20% -40% в #MassimoDutti 😍\nжакеты \nСмотреть на сайте\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBIM1rCBcfBLGuy1Jtsb3huvDcN_YKqAACJxxrG_iZQUgvhCJldC7lmQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIM5rCBcfelfVX-99_VRDHVsyNXpTIwACKBxrG_iZQUjgwVqKKPy4eAEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIM9rCBcfZwABHBhdMo_FlHvF1iyeN9cAAikcaxv4mUFIPunGY2AHehoBAAMCAAN5AAM9BA",
+     "AgACAgIAAyEFAASRzT39AAEBINBrCBcfZuZcc0QkrxLDjOwR58WjnQACKhxrG_iZQUhENhf-veC1agEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINFrCBcfF4QL1sm2RIQKPu2io6EUhAACKxxrG_iZQUgEbhnf78xQLgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINJrCBcfhIGDUu0GMrsZCXXFq8bQYQACLBxrG_iZQUiD3dS18-gWGgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73933
+   },
+   "73939": {
+    "id": 73939,
+    "url": "https://t.me/eurostockmoscow/73939",
+    "date": 1795692322,
+    "text": "-20% -40% в #MassimoDutti 😍\nсвитера \nСмотреть на сайте\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBINNrCBcfXB4BpsAmJxvaVksP2D-YHwACLRxrG_iZQUi6r-tcx3iN0wEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINRrCBcf4o6wZBSyMn2kYF5XH4rTsAACLhxrG_iZQUj19SVJQAE7YQEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINVrCBcfTvVDecHdlVtsco05W3CkwwACLxxrG_iZQUj44xfh3j6LYwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINZrCBcfSQul5HlRdsl9hxUnmksGSAACMBxrG_iZQUjYUZTx9go5bwEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINdrCBcfQhDDaVEOS3lG6yQQ1_pfiQACMRxrG_iZQUiDKAw63CVc_QEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINhrCBcfQtVRxFfqnaywrEKBGFaTgwACMhxrG_iZQUgkrtVOOIHUQgEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73939
+   },
+   "73945": {
+    "id": 73945,
+    "url": "https://t.me/eurostockmoscow/73945",
+    "date": 1795692323,
+    "text": "-20% -40% в #MassimoDutti 😍\nкуртки/пальто\nСмотреть на сайте\n\nЗаказать ➡️ @tunesheva",
+    "photos": [
+     "AgACAgIAAyEFAASRzT39AAEBINlrCBcfW12GDc2BIdLyAgnhvmsSbgACMxxrG_iZQUjt_DIR2ff15wEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINprCBcfEhCIdHSnWkzwy5hefmg4pAACNBxrG_iZQUh6bZpSvgwB1AEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINtrCBcfsoMuxjOJHsF7uIyFjUcodgACNRxrG_iZQUheZ_2M4kQTwAEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBINxrCBcfLhigbnUug2lApeOJFd8SlAACNhxrG_iZQUierqDyepDaBgEAAwIAA3kAAz0E",
+     "AgACAgIAAyEFAASRzT39AAEBIN1rCBcf03NszUyoLeLYiiRE1BwjQgACNxxrG_iZQUioxVOPBCxoiQEAAwIAA3kAAz0E"
+    ],
+    "videos": [],
+    "hashtagBrand": true,
+    "textId": 73945
    }
   },
   "groups": {
-   "14355856361354218": 70789,
-   "14355856786274858": 70798,
-   "14355856786274874": 70808,
-   "14355856786274882": 70815,
-   "14355856786274890": 70825,
-   "14355856786274898": 70834,
-   "14355856786274906": 70843,
-   "14355856786274914": 70852,
-   "14355856786274922": 70860,
-   "14355856786274930": 70868,
-   "14355856786274938": 70878,
-   "14355856786274946": 70883,
-   "14355856856501042": 70893,
-   "14355856856501050": 70898,
-   "14355861218788114": 70903,
    "14356050677550650": 70908,
    "14356050999895346": 70916,
    "14356050999895354": 70920,
@@ -25659,7 +25541,20 @@
    "14365507392921874": 73875,
    "14365507465816730": 73877,
    "14365507728186722": 73879,
-   "14365508286140210": 73881
+   "14365508286140210": 73881,
+   "14365538555657258": 73885,
+   "14365538555657266": 73889,
+   "14365538555657274": 73893,
+   "14365538555657282": 73897,
+   "14365538555657290": 73901,
+   "14365538555657298": 73905,
+   "14365538555657306": 73909,
+   "14365538555657314": 73913,
+   "14365538555657322": 73917,
+   "14365538555657330": 73927,
+   "14365538555657338": 73933,
+   "14365538555657346": 73939,
+   "14365538555657354": 73945
   }
  }
 }
