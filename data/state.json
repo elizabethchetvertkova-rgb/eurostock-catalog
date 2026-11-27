@@ -1,5 +1,5 @@
 {
- "offset": 789490516,
+ "offset": 789490521,
  "posts": {
   "206": {
    "id": 206,
@@ -546,7 +546,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799118853,
+   "checkedAt": 1795802135423,
    "deleted": true
   },
   "2950": {
@@ -567,7 +567,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799118746
+   "checkedAt": 1795802135330
   },
   "2976": {
    "id": 2976,
@@ -589,7 +589,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799118595,
+   "checkedAt": 1795802135171,
    "deleted": true
   },
   "3195": {
@@ -608,7 +608,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799118491
+   "checkedAt": 1795802135073
   },
   "3215": {
    "id": 3215,
@@ -632,7 +632,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799118341
+   "checkedAt": 1795802134925
   },
   "3362": {
    "id": 3362,
@@ -654,7 +654,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799118170,
+   "checkedAt": 1795802134792,
    "group": "14146575934181546",
    "caption_id": 3362
   },
@@ -680,7 +680,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799118001,
+   "checkedAt": 1795802134647,
    "deleted": true
   },
   "3569": {
@@ -719,7 +719,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799117902
+   "checkedAt": 1795802134555
   },
   "3620": {
    "id": 3620,
@@ -749,7 +749,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799117736,
+   "checkedAt": 1795802134415,
    "group": "14163229968878458",
    "caption_id": 3620
   },
@@ -773,7 +773,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799117561
+   "checkedAt": 1795802134265
   },
   "3775": {
    "id": 3775,
@@ -795,7 +795,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799117401
+   "checkedAt": 1795802134105
   },
   "3785": {
    "id": 3785,
@@ -820,7 +820,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799117227,
+   "checkedAt": 1795802133953,
    "deleted": true
   },
   "3797": {
@@ -843,7 +843,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799116813
+   "checkedAt": 1795802133583
   },
   "3819": {
    "id": 3819,
@@ -867,7 +867,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799116631,
+   "checkedAt": 1795802133439,
    "deleted": true
   },
   "4063": {
@@ -900,7 +900,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795799116531,
+   "checkedAt": 1795802133343,
    "group": "14184536292568618",
    "caption_id": 4063,
    "deleted": true
@@ -933,7 +933,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798530895,
+   "checkedAt": 1795802133118,
    "group": "14184540779096258",
    "caption_id": 4067,
    "deleted": true
@@ -960,7 +960,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798530763
+   "checkedAt": 1795802133023
   },
   "4080": {
    "id": 4080,
@@ -982,7 +982,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798530433,
+   "checkedAt": 1795802132852,
    "deleted": true
   },
   "4245": {
@@ -1007,7 +1007,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798530300
+   "checkedAt": 1795802132757
   },
   "4471": {
    "id": 4471,
@@ -1031,7 +1031,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798530117
+   "checkedAt": 1795802132602
   },
   "4506": {
    "id": 4506,
@@ -1053,7 +1053,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798529925
+   "checkedAt": 1795802132439
   },
   "4529": {
    "id": 4529,
@@ -1075,7 +1075,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798529744
+   "checkedAt": 1795802132275
   },
   "4541": {
    "id": 4541,
@@ -1097,7 +1097,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798529573
+   "checkedAt": 1795802132125
   },
   "4945": {
    "id": 4945,
@@ -1121,7 +1121,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798529398
+   "checkedAt": 1795802131981
   },
   "4962": {
    "id": 4962,
@@ -1143,7 +1143,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798529178
+   "checkedAt": 1795802131813
   },
   "4967": {
    "id": 4967,
@@ -1165,7 +1165,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798528856
+   "checkedAt": 1795802131561
   },
   "4985": {
    "id": 4985,
@@ -1186,7 +1186,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798528479,
+   "checkedAt": 1795802131228,
    "deleted": true
   },
   "4987": {
@@ -1211,7 +1211,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798528330
+   "checkedAt": 1795802131132
   },
   "5037": {
    "id": 5037,
@@ -1233,7 +1233,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798528136
+   "checkedAt": 1795802130951
   },
   "5061": {
    "id": 5061,
@@ -1255,7 +1255,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798527941
+   "checkedAt": 1795802130776
   },
   "5107": {
    "id": 5107,
@@ -1269,7 +1269,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798527736
+   "checkedAt": 1795802130614
   },
   "5127": {
    "id": 5127,
@@ -1291,7 +1291,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798527550
+   "checkedAt": 1795802130467
   },
   "5166": {
    "id": 5166,
@@ -1315,7 +1315,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798527185
+   "checkedAt": 1795802130136
   },
   "5257": {
    "id": 5257,
@@ -1333,7 +1333,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798526993
+   "checkedAt": 1795802129948
   },
   "5286": {
    "id": 5286,
@@ -1355,7 +1355,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798526803
+   "checkedAt": 1795802129797
   },
   "5292": {
    "id": 5292,
@@ -1377,7 +1377,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798526598
+   "checkedAt": 1795802129642
   },
   "5311": {
    "id": 5311,
@@ -1399,7 +1399,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798526186
+   "checkedAt": 1795802129290
   },
   "5326": {
    "id": 5326,
@@ -1421,7 +1421,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798525992
+   "checkedAt": 1795802129131
   },
   "5334": {
    "id": 5334,
@@ -1443,7 +1443,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798525784
+   "checkedAt": 1795802128939
   },
   "5386": {
    "id": 5386,
@@ -1467,7 +1467,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798525592
+   "checkedAt": 1795802128791
   },
   "5394": {
    "id": 5394,
@@ -1489,7 +1489,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798525372
+   "checkedAt": 1795802128609
   },
   "5403": {
    "id": 5403,
@@ -1513,7 +1513,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798525188
+   "checkedAt": 1795802128463
   },
   "5415": {
    "id": 5415,
@@ -1535,7 +1535,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798524983
+   "checkedAt": 1795802128299
   },
   "5440": {
    "id": 5440,
@@ -1557,7 +1557,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798524791
+   "checkedAt": 1795802128139
   },
   "5445": {
    "id": 5445,
@@ -1579,7 +1579,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798524581
+   "checkedAt": 1795802127962
   },
   "5453": {
    "id": 5453,
@@ -1601,7 +1601,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798524364
+   "checkedAt": 1795802127794
   },
   "5458": {
    "id": 5458,
@@ -1623,7 +1623,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798524162
+   "checkedAt": 1795802127633
   },
   "5463": {
    "id": 5463,
@@ -1645,7 +1645,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798523954
+   "checkedAt": 1795802127475
   },
   "5480": {
    "id": 5480,
@@ -1667,7 +1667,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798523765
+   "checkedAt": 1795802127318
   },
   "5486": {
    "id": 5486,
@@ -1689,7 +1689,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798523563
+   "checkedAt": 1795802127161
   },
   "5493": {
    "id": 5493,
@@ -1711,7 +1711,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798523348
+   "checkedAt": 1795802126989
   },
   "5498": {
    "id": 5498,
@@ -1725,7 +1725,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798523153
+   "checkedAt": 1795802126830
   },
   "5508": {
    "id": 5508,
@@ -7588,7 +7588,7 @@
    ],
    "group": "14349730564501954",
    "caption_id": 8491,
-   "checkedAt": 1795798528988,
+   "checkedAt": 1795802131654,
    "deleted": true
   },
   "8496": {
@@ -7691,7 +7691,7 @@
    ],
    "group": "14350206899939554",
    "caption_id": 8504,
-   "checkedAt": 1795798526374
+   "checkedAt": 1795802129455
   },
   "8509": {
    "id": 8509,
@@ -8051,7 +8051,7 @@
    ],
    "group": "14356038458285378",
    "caption_id": 8547,
-   "checkedAt": 1795798527358
+   "checkedAt": 1795802130298
   },
   "8552": {
    "id": 8552,
@@ -8094,7 +8094,7 @@
    ],
    "group": "14356633996034658",
    "caption_id": 8552,
-   "checkedAt": 1795799116431
+   "checkedAt": 1795802133249
   },
   "8557": {
    "id": 8557,
@@ -8123,7 +8123,7 @@
    ],
    "group": "14356635422445642",
    "caption_id": 8557,
-   "checkedAt": 1795799117128
+   "checkedAt": 1795802133855
   },
   "8560": {
    "id": 8560,
@@ -8487,7 +8487,7 @@
    ],
    "group": "14358568728823802",
    "caption_id": 8597,
-   "checkedAt": 1795799116973
+   "checkedAt": 1795802133720
   },
   "8601": {
    "id": 8601,
@@ -8524,7 +8524,7 @@
    ],
    "group": "14358739121011154",
    "caption_id": 8601,
-   "checkedAt": 1795798528664
+   "checkedAt": 1795802131380
   },
   "8605": {
    "id": 8605,
@@ -9040,6 +9040,37 @@
    "group": "14366411587248506",
    "caption_id": 8663,
    "checkedAt": 1795801526427
+  },
+  "8665": {
+   "id": 8665,
+   "date": "2026-11-27",
+   "text": "Подарочный набор #Rituals ✔️✔️✔️✔️✔️\n\nНабор: скраб, пенка для душа, крем для тела, свеча\n▪️9500₽\n\nКупить в ТГ - @tatianamoseuro\nКупить в MAX - +7 963 994 7535",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIh2WsJwegpy2GVZ1PiDhPcWXBHkMsLAAKp0QACkZRRSLlFn3HDi7Y4PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiHZawnB6CnLYZVnU-IOE9xZcEeQywsAAqnRAAKRlFFIuUWfccOLtjgBAAdtAAM9BA",
+     "size": 8423977,
+     "msg_id": 8665,
+     "key": "8665_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh2msJweh0iYseheXp7xHls7fS1cl2AAK8I2sbkZRRSCeTR8b_tvYzAQADAgADeQADPQQ",
+     "msg_id": 8666,
+     "key": "8665_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh22sJwejtAAFR05jrQmPuobbpg9gvCAACvSNrG5GUUUjr7bnzuPzLWAEAAwIAA3kAAz0E",
+     "msg_id": 8667,
+     "key": "8665_2"
+    }
+   ],
+   "group": "14366412607433882",
+   "caption_id": 8665,
+   "checkedAt": 1795802126701
   }
  },
  "groups": {
@@ -11955,9 +11986,45 @@
    ],
    "date": "2026-11-27",
    "caption_id": 8663
+  },
+  "14366412607433882": {
+   "ids": [
+    8665,
+    8666,
+    8667
+   ],
+   "text": "Подарочный набор #Rituals ✔️✔️✔️✔️✔️\n\nНабор: скраб, пенка для душа, крем для тела, свеча\n▪️9500₽\n\nКупить в ТГ - @tatianamoseuro\nКупить в MAX - +7 963 994 7535",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIh2WsJwegpy2GVZ1PiDhPcWXBHkMsLAAKp0QACkZRRSLlFn3HDi7Y4PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiHZawnB6CnLYZVnU-IOE9xZcEeQywsAAqnRAAKRlFFIuUWfccOLtjgBAAdtAAM9BA",
+     "size": 8423977,
+     "msg_id": 8665
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh2msJweh0iYseheXp7xHls7fS1cl2AAK8I2sbkZRRSCeTR8b_tvYzAQADAgADeQADPQQ",
+     "msg_id": 8666
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh22sJwejtAAFR05jrQmPuobbpg9gvCAACvSNrG5GUUUjr7bnzuPzLWAEAAwIAA3kAAz0E",
+     "msg_id": 8667
+    }
+   ],
+   "date": "2026-11-27",
+   "caption_id": 8665
   }
  },
- "drafts": {},
+ "drafts": {
+  "02123148": {
+   "text": "Все товары в наличии — в каталоге",
+   "photo": null,
+   "url": "https://t.me/eurostockshop_bot?startapp"
+  }
+ },
  "commandsSet": 6,
  "soldHandled": {
   "3195": "skip"
