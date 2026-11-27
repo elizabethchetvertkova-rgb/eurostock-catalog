@@ -1,5 +1,5 @@
 {
- "offset": 789490511,
+ "offset": 789490516,
  "posts": {
   "206": {
    "id": 206,
@@ -1749,7 +1749,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798522983
+   "checkedAt": 1795801539351
   },
   "5514": {
    "id": 5514,
@@ -1771,7 +1771,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798522652
+   "checkedAt": 1795801538992
   },
   "5526": {
    "id": 5526,
@@ -1793,7 +1793,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798522431
+   "checkedAt": 1795801538787
   },
   "5566": {
    "id": 5566,
@@ -1815,7 +1815,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798522241
+   "checkedAt": 1795801538577
   },
   "5572": {
    "id": 5572,
@@ -1829,7 +1829,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798521652
+   "checkedAt": 1795801537941
   },
   "5585": {
    "id": 5585,
@@ -1851,7 +1851,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798521478
+   "checkedAt": 1795801537758
   },
   "5590": {
    "id": 5590,
@@ -1865,7 +1865,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798521281
+   "checkedAt": 1795801537561
   },
   "5639": {
    "id": 5639,
@@ -1887,7 +1887,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798521107
+   "checkedAt": 1795801537392
   },
   "5649": {
    "id": 5649,
@@ -1909,7 +1909,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798520897
+   "checkedAt": 1795801537194
   },
   "5677": {
    "id": 5677,
@@ -1927,7 +1927,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798520700
+   "checkedAt": 1795801536990
   },
   "5721": {
    "id": 5721,
@@ -1949,7 +1949,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798520501,
+   "checkedAt": 1795801536790,
    "deleted": true
   },
   "5743": {
@@ -1972,7 +1972,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798520368
+   "checkedAt": 1795801536643
   },
   "5757": {
    "id": 5757,
@@ -1994,7 +1994,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798520147
+   "checkedAt": 1795801536423
   },
   "5810": {
    "id": 5810,
@@ -2016,7 +2016,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798519928
+   "checkedAt": 1795801536211
   },
   "5814": {
    "id": 5814,
@@ -2038,7 +2038,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798519744
+   "checkedAt": 1795801536025
   },
   "5822": {
    "id": 5822,
@@ -2060,7 +2060,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795798519546
+   "checkedAt": 1795801535824
   },
   "5840": {
    "id": 5840,
@@ -2082,7 +2082,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797935178
+   "checkedAt": 1795801535633
   },
   "5868": {
    "id": 5868,
@@ -2106,7 +2106,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797934968
+   "checkedAt": 1795801535411
   },
   "5873": {
    "id": 5873,
@@ -2124,7 +2124,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797934546
+   "checkedAt": 1795801534969
   },
   "5883": {
    "id": 5883,
@@ -2146,7 +2146,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797934348
+   "checkedAt": 1795801534772
   },
   "5897": {
    "id": 5897,
@@ -2168,7 +2168,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797934149
+   "checkedAt": 1795801534551
   },
   "5926": {
    "id": 5926,
@@ -2190,7 +2190,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797933952
+   "checkedAt": 1795801534339
   },
   "6069": {
    "id": 6069,
@@ -2212,7 +2212,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797933746,
+   "checkedAt": 1795801534122,
    "deleted": true
   },
   "6090": {
@@ -2235,7 +2235,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797933599
+   "checkedAt": 1795801533974
   },
   "6097": {
    "id": 6097,
@@ -2257,7 +2257,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797933382
+   "checkedAt": 1795801533741
   },
   "6115": {
    "id": 6115,
@@ -2277,7 +2277,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797933166
+   "checkedAt": 1795801533498
   },
   "6129": {
    "id": 6129,
@@ -2301,7 +2301,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797932975
+   "checkedAt": 1795801533022
   },
   "6133": {
    "id": 6133,
@@ -2325,7 +2325,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797932782
+   "checkedAt": 1795801532805
   },
   "6137": {
    "id": 6137,
@@ -2349,7 +2349,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797932361
+   "checkedAt": 1795801532369
   },
   "6189": {
    "id": 6189,
@@ -2373,7 +2373,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797932169
+   "checkedAt": 1795801531896
   },
   "6205": {
    "id": 6205,
@@ -2395,7 +2395,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797931964
+   "checkedAt": 1795801531686
   },
   "6231": {
    "id": 6231,
@@ -2417,7 +2417,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797931772
+   "checkedAt": 1795801531457
   },
   "6239": {
    "id": 6239,
@@ -2439,7 +2439,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797931563
+   "checkedAt": 1795801531229
   },
   "6249": {
    "id": 6249,
@@ -2453,7 +2453,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797931326
+   "checkedAt": 1795801530991
   },
   "6278": {
    "id": 6278,
@@ -2475,7 +2475,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797931146
+   "checkedAt": 1795801530811
   },
   "6292": {
    "id": 6292,
@@ -2489,7 +2489,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797930912
+   "checkedAt": 1795801530572
   },
   "6295": {
    "id": 6295,
@@ -2503,7 +2503,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797930705
+   "checkedAt": 1795801530370
   },
   "6296": {
    "id": 6296,
@@ -2525,7 +2525,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797930343
+   "checkedAt": 1795801530005
   },
   "6323": {
    "id": 6323,
@@ -2547,7 +2547,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797930138
+   "checkedAt": 1795801529803
   },
   "6347": {
    "id": 6347,
@@ -2569,7 +2569,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797929892
+   "checkedAt": 1795801529584
   },
   "6365": {
    "id": 6365,
@@ -2580,7 +2580,7 @@
    ],
    "media": [],
    "source": "web-import",
-   "checkedAt": 1795797929649
+   "checkedAt": 1795801529328
   },
   "6411": {
    "id": 6411,
@@ -2594,7 +2594,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797929477
+   "checkedAt": 1795801529151
   },
   "6490": {
    "id": 6490,
@@ -2616,7 +2616,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797929305
+   "checkedAt": 1795801528980
   },
   "6498": {
    "id": 6498,
@@ -2638,7 +2638,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797929103
+   "checkedAt": 1795801528503
   },
   "6577": {
    "id": 6577,
@@ -2660,7 +2660,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797928879
+   "checkedAt": 1795801528285
   },
   "6594": {
    "id": 6594,
@@ -2682,7 +2682,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797928664
+   "checkedAt": 1795801528078
   },
   "6607": {
    "id": 6607,
@@ -2704,7 +2704,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797928429
+   "checkedAt": 1795801527844
   },
   "6612": {
    "id": 6612,
@@ -2726,7 +2726,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797928217
+   "checkedAt": 1795801527633
   },
   "6623": {
    "id": 6623,
@@ -2748,7 +2748,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797927993
+   "checkedAt": 1795801527406
   },
   "6638": {
    "id": 6638,
@@ -2770,7 +2770,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797927781,
+   "checkedAt": 1795801527194,
    "deleted": true
   },
   "6670": {
@@ -2793,7 +2793,7 @@
     }
    ],
    "source": "web-import",
-   "checkedAt": 1795797927632
+   "checkedAt": 1795801527047
   },
   "6679": {
    "id": 6679,
@@ -6284,7 +6284,7 @@
    ],
    "group": "14343338987733618",
    "caption_id": 8330,
-   "checkedAt": 1795797932580
+   "checkedAt": 1795801532591
   },
   "8336": {
    "id": 8336,
@@ -6341,7 +6341,7 @@
    ],
    "group": "14343340458161058",
    "caption_id": 8336,
-   "checkedAt": 1795797934763
+   "checkedAt": 1795801535191
   },
   "8343": {
    "id": 8343,
@@ -7048,7 +7048,7 @@
    ],
    "group": "14345592461679610",
    "caption_id": 8427,
-   "checkedAt": 1795798522785,
+   "checkedAt": 1795801539148,
    "deleted": true
   },
   "8431": {
@@ -7545,7 +7545,7 @@
    ],
    "group": "14349666748941314",
    "caption_id": 8489,
-   "checkedAt": 1795797927421
+   "checkedAt": 1795801526821
   },
   "8491": {
    "id": 8491,
@@ -7772,7 +7772,7 @@
    ],
    "group": "14351266348587418",
    "caption_id": 8514,
-   "checkedAt": 1795798522044
+   "checkedAt": 1795801538361
   },
   "8521": {
    "id": 8521,
@@ -8452,7 +8452,7 @@
    ],
    "group": "14358109759617858",
    "caption_id": 8592,
-   "checkedAt": 1795798521858
+   "checkedAt": 1795801538170
   },
   "8597": {
    "id": 8597,
@@ -8948,7 +8948,7 @@
    ],
    "group": "14365479293445178",
    "caption_id": 8652,
-   "checkedAt": 1795797930527
+   "checkedAt": 1795801530192
   },
   "8656": {
    "id": 8656,
@@ -8984,6 +8984,62 @@
    "group": "14366306124790706",
    "caption_id": 8656,
    "checkedAt": 1795800924746
+  },
+  "8660": {
+   "id": 8660,
+   "date": "2026-11-27",
+   "text": "Подарочный набор #Rituals ✔️✔️✔️✔️✔️\n\nНабор: 10 миниатюр пенок для душа, подсвечник\n▪️15000₽\n\nКупить в ТГ - @tatianamoseuro\nКупить в MAX - +7 963 994 7535",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIh1GsJwNNiroe9ffBsCWBjeu_RF1uvAAKf0QACkZRRSOptNy0cujd9PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiHUawnA02Kuh7198GwJYGN679EXW68AAp_RAAKRlFFI6m03LRy6N30BAAdtAAM9BA",
+     "size": 11609751,
+     "msg_id": 8660,
+     "key": "8660_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh1WsJwNPzbNdrz4cFr1VVaTxUeZzzAAK1I2sbkZRRSD6IAAEbwmKQRAEAAwIAA3kAAz0E",
+     "msg_id": 8661,
+     "key": "8660_1"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh1msJwNM8sc6sAAEnb1a2AbAEDyXFyQACtiNrG5GUUUhs35KJ909CpAEAAwIAA3kAAz0E",
+     "msg_id": 8662,
+     "key": "8660_2"
+    }
+   ],
+   "group": "14366410396968362",
+   "caption_id": 8660,
+   "checkedAt": 1795801526622
+  },
+  "8663": {
+   "id": 8663,
+   "date": "2026-11-27",
+   "text": "Подарочный набор #Rituals ✔️✔️✔️✔️✔️\n\nНабор: пенка для душа, крем для тела, диффузор, свеча\n▪️10000₽\n\nКупить в ТГ - @tatianamoseuro\nКупить в MAX - +7 963 994 7535",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIh12sJwWjC_WOsmvojfmWXA7p2pO0cAAKk0QACkZRRSFUYmJ3w-8w_PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiHXawnBaML9Y6ya-iN-ZZcDunak7RwAAqTRAAKRlFFIVRiYnfD7zD8BAAdtAAM9BA",
+     "size": 12440883,
+     "msg_id": 8663,
+     "key": "8663_0"
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh2GsJwWhN5DPihrOskK-uUSeiXAU_AAK6I2sbkZRRSP3DvcsDpmakAQADAgADeQADPQQ",
+     "msg_id": 8664,
+     "key": "8663_1"
+    }
+   ],
+   "group": "14366411587248506",
+   "caption_id": 8663,
+   "checkedAt": 1795801526427
   }
  },
  "groups": {
@@ -11845,6 +11901,60 @@
    ],
    "date": "2026-11-27",
    "caption_id": 8656
+  },
+  "14366410396968362": {
+   "ids": [
+    8660,
+    8661,
+    8662
+   ],
+   "text": "Подарочный набор #Rituals ✔️✔️✔️✔️✔️\n\nНабор: 10 миниатюр пенок для душа, подсвечник\n▪️15000₽\n\nКупить в ТГ - @tatianamoseuro\nКупить в MAX - +7 963 994 7535",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIh1GsJwNNiroe9ffBsCWBjeu_RF1uvAAKf0QACkZRRSOptNy0cujd9PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiHUawnA02Kuh7198GwJYGN679EXW68AAp_RAAKRlFFI6m03LRy6N30BAAdtAAM9BA",
+     "size": 11609751,
+     "msg_id": 8660
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh1WsJwNPzbNdrz4cFr1VVaTxUeZzzAAK1I2sbkZRRSD6IAAEbwmKQRAEAAwIAA3kAAz0E",
+     "msg_id": 8661
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh1msJwNM8sc6sAAEnb1a2AbAEDyXFyQACtiNrG5GUUUhs35KJ909CpAEAAwIAA3kAAz0E",
+     "msg_id": 8662
+    }
+   ],
+   "date": "2026-11-27",
+   "caption_id": 8660
+  },
+  "14366411587248506": {
+   "ids": [
+    8663,
+    8664
+   ],
+   "text": "Подарочный набор #Rituals ✔️✔️✔️✔️✔️\n\nНабор: пенка для душа, крем для тела, диффузор, свеча\n▪️10000₽\n\nКупить в ТГ - @tatianamoseuro\nКупить в MAX - +7 963 994 7535",
+   "struck": [],
+   "media": [
+    {
+     "type": "video",
+     "file_id": "BAACAgIAAyEFAASMTn9iAAIh12sJwWjC_WOsmvojfmWXA7p2pO0cAAKk0QACkZRRSFUYmJ3w-8w_PQQ",
+     "thumb": "AAMCAgADIQUABIxOf2IAAiHXawnBaML9Y6ya-iN-ZZcDunak7RwAAqTRAAKRlFFIVRiYnfD7zD8BAAdtAAM9BA",
+     "size": 12440883,
+     "msg_id": 8663
+    },
+    {
+     "type": "photo",
+     "file_id": "AgACAgIAAyEFAASMTn9iAAIh2GsJwWhN5DPihrOskK-uUSeiXAU_AAK6I2sbkZRRSP3DvcsDpmakAQADAgADeQADPQQ",
+     "msg_id": 8664
+    }
+   ],
+   "date": "2026-11-27",
+   "caption_id": 8663
   }
  },
  "drafts": {},
